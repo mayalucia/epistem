@@ -1,0 +1,12 @@
+# Sūtra relay (local clone)
+.sutra/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editors
+.idea/
+*.swp
+*~
