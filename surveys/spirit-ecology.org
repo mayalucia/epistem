@@ -1,6 +1,6 @@
 #+title: Spirit Ecology of the Transborder Himalaya
 #+subtitle: A Cartographer's Survey for Stories, Agent Ontology, and Digital Twin
-#+author: mu2tau + vadda-opus (epistem-guardian)
+#+author: mu2tau + mayadev (epistem-guardian)
 #+date: 2026-03-02
 #+property: status unverified
 #+startup: overview
