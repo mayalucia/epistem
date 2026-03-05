@@ -1,0 +1,66 @@
+genus: jhakri
+region: nepal
+tradition: hindu-buddhist-shamanistic
+altitude_zone: [valley-floor, alpine]
+landscape: [village, forest, shrine]
+
+nature: >
+  Central shamanic practitioner of Nepal. The jhākri enters trance
+  through drumming (dhyangro, a flat drum), diagnoses illness by
+  identifying the responsible spirit, and negotiates with spirits on
+  behalf of the patient. Sessions can last hours, often at night.
+
+  Nepal's shamanic landscape is characterised by terminological and
+  functional pluralism: dhami (western, possessed medium), jhankri
+  (eastern, direct-power healer), bombo (Tamang shaman), mata (female
+  healer), lama (Buddhist tantric specialist), jyotishi (astrologer-
+  healer). The dhami serves as vehicle of the god; the jhankri
+  operates more autonomously using own powers.
+
+  Peters (1981) documented Tamang shamanic initiation in four stages,
+  each representing higher achievement. The calling begins when the
+  initiate is overwhelmed by anxiety and begins to shake — "crazy
+  possession." Maskarinec (1995) showed that shaman oral texts
+  (mantras, chants, magical formulas) carry distinct semantic messages
+  constituting a coherent cosmological system.
+
+vocabulary:
+  spirit_type: jhākri / dhami / bombo
+  drum: dhyangro
+  trance: possession / direct power
+  western_medium: dhami
+  eastern_healer: jhankri
+  tamang_shaman: bombo
+
+species:
+  - name: dhami
+    gloss: western Nepal medium, possessed by deity
+    landscape: [village, shrine]
+  - name: bombo
+    gloss: Tamang shaman using flat drum
+    landscape: [village]
+  - name: mata
+    gloss: female healer, spirit-granted power
+    landscape: [village]
+
+notable_instances: []
+
+aburaya_analogue: medium
+aburaya_notes: >
+  The jhākri is the Nepali medium — structurally parallel to gur and
+  lha-pa. The dhami/jhankri distinction adds nuance: the dhami is a
+  pure vessel (like the gur), while the jhankri uses own powers
+  directly (a more autonomous agent). The Aburaya medium could learn
+  from this spectrum.
+
+diagnostic: >
+  Illness attribution and healing. The jhākri identifies which spirit
+  causes illness, negotiates or drives it out. Also community guidance,
+  agricultural timing, and social mediation. The diagnostic function
+  is primary.
+
+sources:
+  - "Peters, Ecstasy and Healing in Nepal, 1981"
+  - "Maskarinec, The Rulings of the Night, 1995"
+  - "Holmberg, Order in Paradox, 1989"
+  - "Cultural Survival: Among Spirits and Deities"

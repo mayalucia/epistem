@@ -1,0 +1,47 @@
+genus: jogini
+region: kullu
+tradition: hindu-pahari
+altitude_zone: [alpine, glacial]
+landscape: [peak, ridge, col/pass, forest]
+
+nature: >
+  Wandering female spirit not bound to territorial jurisdiction the way
+  devtas are. More mobile, more ambiguous in disposition. In Lahaul,
+  joginis live at high altitudes and harass humans, especially women.
+  In February the joginis of Lahaul hold a three-day general assembly
+  with counterparts from Chamba and Tibet, each arriving "by air riding
+  a ridge beam." Villagers bar joginis from homes and drive them from
+  the area.
+
+  However in Kullu proper, the jogini ranks as high as any devta —
+  status is more ambiguous and elevated than the purely malignant
+  characterisation found elsewhere. Small wooden temples (1-1.3m height)
+  dedicated to joginis in the upper Beas valley, with dried flowers,
+  coins, and coloured powder showing active worship.
+
+  The jogini defies simple good/evil classification — she is spirit,
+  fairy, witch, and deity depending on context and region.
+
+vocabulary:
+  spirit_type: jogini
+  assembly: jogini-sabha
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: wanderer
+aburaya_notes: >
+  Not bound to territory. Carries knowledge or disruption across
+  jurisdictions. Maps to a spirit whose practice applies across modules
+  rather than guarding one. The social valence differs — traditional
+  joginis are often dangerous or marginal, while the Aburaya wanderer
+  is a valued contributor.
+
+diagnostic: >
+  Boundary-crossing, inter-regional communication. The jogini assembly
+  gathers spirits from Lahaul, Chamba, and Tibet — encoding knowledge
+  of cross-regional relationships and dangers.
+
+sources:
+  - "Diserens, Yoginis of the Upper Kullu Valley, 1991"

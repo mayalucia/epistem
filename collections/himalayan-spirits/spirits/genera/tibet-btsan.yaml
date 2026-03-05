@@ -1,0 +1,50 @@
+genus: btsan
+region: tibet
+tradition: tibetan-buddhist-bon
+altitude_zone: [alpine, glacial]
+landscape: [cliff, gorge, cave, scree]
+
+nature: >
+  Warrior spirits — red, fierce, mounted on red horses. Associated
+  with red rock, cliffs, and violent death. The btsan are aggressive
+  spirits that attack travellers and communities. They require strong
+  ritual containment. Some were "tamed" by Padmasambhava and converted
+  into dharma protectors.
+
+  The btsan occupy the middle tier of the three-tier Tibetan cosmology
+  (earth surface, between sky-lha and underground-klu). The colour red
+  is diagnostic — red rock formations signal btsan territory.
+
+  Types of spirits that become protector deities include indigenous
+  gods: rgyal-po, btsan, and dmu — strictly Tibetan categories without
+  Indian equivalents.
+
+vocabulary:
+  spirit_type: btsan
+  colour: red
+  mount: red horse
+  containment: ritual binding
+
+species:
+  - name: rgyal-po
+    gloss: king-spirit, a powerful btsan-class entity
+    landscape: [cliff, monastery]
+
+notable_instances: []
+
+aburaya_analogue: wanderer
+aburaya_notes: >
+  The btsan is mobile, aggressive, path-following. Not a guardian of
+  one place but a force that moves through the landscape. In Ladakh,
+  btsan have documented "ghost roads." The wanderer mapping is moderate
+  — btsan are more dangerous than the Aburaya wanderer archetype.
+
+diagnostic: >
+  Geological hazard encoded in colour. Red rock = btsan territory =
+  unstable cliff. The btsan tradition warns against lingering near
+  cliff faces and sites of previous catastrophe.
+
+sources:
+  - "Nebesky-Wojkowitz, Oracles and Demons of Tibet, 1956"
+  - "Rigpa Wiki: Eight classes of gods and demons"
+  - "A Perfumed Skull: Demon Directories, 2016"

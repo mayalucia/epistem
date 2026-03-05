@@ -1,0 +1,46 @@
+genus: klu
+region: ladakh-zanskar
+tradition: tibetan-buddhist
+altitude_zone: [valley-floor, alpine]
+landscape: [spring, lake, river, stream]
+
+nature: >
+  Water spirits cognate with Sanskrit nāga. Inhabit springs, lakes,
+  and underground water. Temperamental shape-shifting beings who
+  control water and wreck misfortune when perturbed. Klu displeasure
+  causes skin disease (leprosy, boils), drought, and infertility.
+
+  Every village spring has its klu. High-altitude lakes (Pangong Tso,
+  Tso Moriri) carry strong klu associations. In Ladakh's desert
+  landscape, klu traditions protect the scarce water sources with
+  existential urgency.
+
+vocabulary:
+  spirit_type: lu / klu
+  lake: tso
+  prohibition: do not pollute springs or dig near water
+
+species: []
+
+notable_instances:
+  - name: klu of Pangong Tso
+    place: Pangong Tso
+    notes: Enormous high-altitude lake on India-China border. [likely]
+  - name: klu of Tso Moriri
+    place: Tso Moriri
+    notes: Remote, high, deeply sacred. [likely]
+
+aburaya_analogue: flow
+aburaya_notes: >
+  Water-system spirit. Controls flow, guards resources, punishes
+  disturbance. Maps to the flow archetype — tracking a system
+  rather than a place.
+
+diagnostic: >
+  Water source protection in a desert landscape. Spring health,
+  hydrological balance. Illness attributed to klu displeasure often
+  correlates with upstream contamination or water-source disturbance.
+
+sources:
+  - "Harvard Water Stories: Water Spirits in a Desert"
+  - "Crook & Osmaston, Himalayan Buddhist Villages, 1994"

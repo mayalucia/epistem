@@ -1,0 +1,47 @@
+genus: klu
+region: spiti-lahaul
+tradition: tibetan-buddhist
+altitude_zone: [alpine, glacial]
+landscape: [river, spring, lake, glacier]
+
+nature: >
+  Water spirits critically important in Spiti's arid high-desert
+  landscape (3,800-4,500m). The klu control water — springs, snowmelt,
+  the Spiti River itself. Offending klu causes drought, spring failure,
+  or flooding. Propitiation involves offerings at water sources and
+  strict prohibition against polluting springs.
+
+  Cognate with Sanskrit nāga. In an arid landscape at 4,000m, water
+  is the limiting resource. The klu traditions encode water management
+  knowledge with existential urgency — more elaborate and urgent than
+  in wetter regions.
+
+vocabulary:
+  spirit_type: klu / lu
+  water_body: tso (lake), chu (river/water)
+  prohibition: do not pollute springs
+
+species: []
+
+notable_instances:
+  - name: klu of Chandratal
+    place: Chandratal (Moon Lake, 4,300m)
+    notes: High-altitude glacial lake, sacred, likely klu association. [inferred]
+  - name: klu of Suraj Tal
+    place: Suraj Tal (Sun Lake, near Baralacha La)
+    notes: Source of the Chandra river. [likely]
+
+aburaya_analogue: flow
+aburaya_notes: >
+  The klu follows water — from glacier to spring to river. Tracks a
+  system, not a place. Maps to a spirit that follows a data flow or
+  pipeline. In Spiti's aridity, the urgency is existential.
+
+diagnostic: >
+  Water source protection in an arid landscape. Spring health,
+  snowmelt timing, hydrological balance. The klu tradition is
+  functionally a water management system.
+
+sources:
+  - "Standard across Tibetan cultural zone"
+  - "Francke, Antiquities of Indian Tibet, 1914-1926"

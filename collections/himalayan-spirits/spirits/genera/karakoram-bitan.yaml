@@ -1,0 +1,52 @@
+genus: bitan
+region: karakoram
+tradition: pre-islamic shamanic (burushaski)
+altitude_zone: [valley-floor, alpine]
+landscape: [village, shrine, alpine-meadow]
+
+nature: >
+  Pre-Islamic shamanic practitioner of Hunza. The bitan inhales smoke
+  from burning juniper branches, dances to special music, drinks blood
+  from a freshly severed goat's head, enters ecstatic trance, and
+  converses with supernatural beings (pari/peri). Bitans served as
+  healers and soothsayers in the traditional ritual and politico-
+  ideological apparatus of the former Hunza state.
+
+  A related practitioner, the dayal, enters trance through music,
+  meeting with pari in ecstatic states. A dayal may experience
+  unconsciousness or illness for days or weeks. Resistance to the
+  calling can be fatal — a bitan may die if they resist becoming one.
+
+  The practice predates Islam and has been variously suppressed and
+  accommodated. It persists in the interface between Ismaili Islam
+  and older Central Asian shamanic traditions.
+
+vocabulary:
+  spirit_type: bitan (Burushaski)
+  related_practitioner: dayal
+  trance_fuel: juniper smoke, music, blood
+  spirits_contacted: pari
+
+species:
+  - name: dayal
+    gloss: related trance practitioner meeting pari through music
+    landscape: [village]
+
+notable_instances: []
+
+aburaya_analogue: medium
+aburaya_notes: >
+  The bitan is the Karakoram equivalent of the gur and the lha-pa —
+  a human vessel through which spirits communicate. The juniper smoke
+  and music are the induction protocol; the pari are the entities
+  contacted. Maps directly to medium/harness.
+
+diagnostic: >
+  Healing, soothsaying, community guidance. The bitan's trance
+  provides diagnosis and prescription in the same manner as the
+  Kullu gur's aavesh. The political function (apparatus of the
+  former Hunza state) parallels the devta's juridical role.
+
+sources:
+  - "Sidky, Shamans and Mountain Spirits in Hunza, Asian Ethnology"
+  - "Sidky, Flying with the Vanishing Fairies (ResearchGate)"

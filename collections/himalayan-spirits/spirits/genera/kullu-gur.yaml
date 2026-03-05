@@ -1,0 +1,47 @@
+genus: gur
+region: kullu
+tradition: hindu-pahari
+altitude_zone: [valley-floor, alpine]
+landscape: [village, temple]
+
+nature: >
+  Oracle-medium through whom the devta speaks. The gur enters trance
+  (aavesh) induced by intense drumming from bajantris. In trance, the
+  community understands the gur's utterances as the devta's direct
+  speech. The gur diagnoses illness, resolves disputes, prescribes
+  agricultural timing, and delivers judgments with customary legal force.
+
+  The tradition is hereditary in some cases, selected by the devta in
+  others. The gur is considered "more truthful than the kardars" in
+  conveying the devta's will. Through their gurs, devis/devtas relay
+  views about prevailing social, ecological, cultural, or regional
+  unrest and guide the community toward course-corrections.
+
+vocabulary:
+  spirit_type: gur
+  trance: aavesh
+  instrument: dhol, nagara, shehnai, karnal
+  musicians: bajantri
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: medium
+aburaya_notes: >
+  The gur is not the spirit — the gur is the vessel the spirit uses to
+  speak. This maps directly to the harness concept: the gur enters
+  trance (harness initialises), the devta speaks through the gur (spirit
+  operates through harness), the gur recovers after trance (session
+  ends). The strongest analogy in the entire mapping.
+
+diagnostic: >
+  The gur's core function is diagnosis — identifying what is wrong,
+  which spirit is responsible, what must be done. Illness diagnosis,
+  dispute resolution, agricultural timing, and community guidance all
+  flow through the gur's trance.
+
+sources:
+  - "Mysterioushimachal: Devta ka Aavesh Ritual"
+  - "Sahapedia: Kullu Dussehra"
+  - "Rosser, fieldwork in Kullu villages, 1950s"

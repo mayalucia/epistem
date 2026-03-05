@@ -1,0 +1,37 @@
+genus: gnyan
+region: tibet
+tradition: tibetan-buddhist-bon
+altitude_zone: [valley-floor, alpine]
+landscape: [forest, sacred-grove, cliff, cave]
+
+nature: >
+  Spirits of the intermediate zone — trees, boulders, rock outcrops.
+  Touchier than lha but less aggressive than btsan. Cutting a gnyan
+  tree or disturbing a gnyan rock causes illness and misfortune.
+
+  Part of the eight classes of gods and demons (lha 'dre sde brgyad).
+  The gnyan inhabit the material world's solid features — the
+  non-water, non-sky elements of the landscape.
+
+vocabulary:
+  spirit_type: gnyan
+  domain: trees, rocks, boulders
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: null
+aburaya_notes: >
+  No direct Aburaya mapping. The gnyan represents material-substrate
+  spirits — the code/data itself rather than the process or territory.
+  Could map to a "do not modify without understanding" principle.
+
+diagnostic: >
+  Forest and material conservation. The gnyan taboo against cutting
+  specific trees or disturbing specific rocks encodes knowledge of
+  ecologically or structurally significant features.
+
+sources:
+  - "Nebesky-Wojkowitz, Oracles and Demons of Tibet, 1956"
+  - "Rigpa Wiki: Eight classes of gods and demons"

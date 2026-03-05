@@ -1,0 +1,60 @@
+genus: devta
+region: kinnaur
+tradition: syncretic (hindu-buddhist-animist)
+altitude_zone: [valley-floor, alpine]
+landscape: [village, temple, forest, river]
+
+nature: >
+  The devta system in Kinnaur resembles Kullu's but sits at the
+  convergence of Hindu, Buddhist, and indigenous animistic traditions.
+  Lower Kinnaur is Hindu-dominant; upper Kinnaur (toward the Tibet
+  border) increasingly Buddhist. The transition is layered, not abrupt.
+
+  Deities such as Badrinath, Maheshwar, and Devi Chandika hold the
+  highest hierarchical positions, overseeing agricultural practices,
+  judicial decisions, and community governance. The Great Himalayan
+  Region features Maheshwara-Chandika cult and Nages-Narenas (naga)
+  cult. The Trans-Himalayan Region has Yulsha and Dabla cults (yulsha
+  likely cognate with Tibetan yul lha).
+
+  Some Kinnaur deities migrate seasonally, moving to summer or winter
+  residences based on climate.
+
+vocabulary:
+  spirit_type: devta / devi
+  medium: gur / grokch / malis
+  cult_himalayan: maheshwara-chandika, nages-narenas
+  cult_trans_himalayan: yulsha, dabla
+
+species:
+  - name: nāg / nages
+    gloss: serpent deity of water sources
+    landscape: [spring, lake, river]
+    notes: Nages-Narenas cult pervasive in Great Himalayan Region
+  - name: yulsha
+    gloss: territory god (cognate with Tibetan yul lha)
+    landscape: [peak, village]
+    notes: Trans-Himalayan Region of Kinnaur
+
+notable_instances:
+  - name: Kamru Devta
+    place: Kamru Fort, Sangla (Baspa Valley)
+    notes: Castle-temple complex in mixed Hindu-Buddhist zone
+
+aburaya_analogue: guardian
+aburaya_notes: >
+  The Kinnaur devta mediates the Hindu-Buddhist boundary, providing
+  shared vocabulary (nāg/klu) that transcends the sectarian divide.
+  Maps to guardian with border-mediation function.
+
+diagnostic: >
+  Border mediation between Hindu and Buddhist traditions. Trade route
+  knowledge for the (now defunct) Tibet trade via Shipki La. Altitude
+  adaptation — the shift from devta to lha with increasing altitude
+  tracks the ecological transition.
+
+sources:
+  - "District Kinnaur, HP Government: Culture & Heritage"
+  - "Kurdish Studies Journal: Evolution of Devi and Devta Institution in HP"
+  - "Harcourt, The Himalayan Districts of Kooloo, Lahoul, and Spiti, 1871"
+  - "A Guide to Himachal: Living Deities of HP"

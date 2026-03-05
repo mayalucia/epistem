@@ -1,0 +1,43 @@
+genus: ban-jhakri
+region: nepal
+tradition: hindu-buddhist-shamanistic
+altitude_zone: [valley-floor, alpine]
+landscape: [forest, sacred-grove]
+
+nature: >
+  Wild forest spirit who abducts and trains jhākris. The ban jhākri
+  appears as a small, hairy, powerful being dwelling deep in forests.
+  Half-human, half-animal. A person abducted by ban jhākri and
+  returned becomes a shaman — this is the origin narrative for
+  shamanic calling in many Nepali communities.
+
+  The ban jhākri is not malevolent — it selects and initiates.
+  The abduction is a commissioning: the forest takes you, breaks you,
+  returns you changed, and now you can hear what others cannot.
+
+vocabulary:
+  spirit_type: ban jhākri
+  domain: forest (ban = forest)
+  function: abduction and initiation of shamans
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: null
+aburaya_notes: >
+  The ban jhākri is the commissioning agent — the force that turns
+  a human into a shaman. In Aburaya terms, it is not a spirit type
+  but the commissioning process itself. The "forest takes you and
+  returns you changed" narrative maps to the commissioning procedure
+  in commissioning.org.
+
+diagnostic: >
+  Selection and initiation. The ban jhākri identifies those with
+  shamanic potential and forces the transformation. Resistance can
+  cause illness or death. The diagnostic is: "you are called."
+
+sources:
+  - "Peters, Ecstasy and Healing in Nepal, 1981"
+  - "Wikipedia: Jhākri"
+  - "Cultural Survival: Among Spirits and Deities"

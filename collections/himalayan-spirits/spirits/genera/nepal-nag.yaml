@@ -1,0 +1,43 @@
+genus: nag
+region: nepal
+tradition: hindu-buddhist
+altitude_zone: [valley-floor, alpine]
+landscape: [spring, lake, river, waterfall]
+
+nature: >
+  Serpent spirits of water, as throughout the Hindu-Buddhist world.
+  In Nepal, nāg worship is connected to rainfall, springs, and
+  fertility. All historical ponds in the Kathmandu valley feature a
+  wooden pillar topped with a gilded snake head.
+
+  The Swayambhu Purana begins Kathmandu's history as a lake populated
+  by nagas — the naga-as-primordial-water-owner is a founding myth.
+  The Kali Gandaki gorge (deepest on Earth) yields ammonite fossils
+  (shaligrams) revered as sacred objects with nāg associations.
+
+vocabulary:
+  spirit_type: nāg / nāga
+  sacred_fossil: shaligram
+  water_body: pokhari (pond), kund
+
+species: []
+
+notable_instances:
+  - name: nagas of Gosainkund
+    place: Gosainkund Lakes (4,380m, Langtang)
+    notes: Sacred pilgrimage lakes with Shiva and nāg associations.
+
+aburaya_analogue: flow
+aburaya_notes: >
+  Pan-Himalayan water spirit. The Nepali nāg continues the same
+  complex documented in Kullu, Ladakh, Tibet — flow control, source
+  protection, punishment for disturbance.
+
+diagnostic: >
+  Water management, rainfall, fertility. The nāg tradition protects
+  water sources through taboo and propitiation. The shaligram
+  tradition connects geological deep time to living spirit ecology.
+
+sources:
+  - "Inside Himalayas: Origins and Legends of the Naga Serpents"
+  - "Wikipedia: Nāga"

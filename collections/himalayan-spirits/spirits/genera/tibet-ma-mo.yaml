@@ -1,0 +1,40 @@
+genus: ma-mo
+region: tibet
+tradition: tibetan-buddhist-bon
+altitude_zone: [alpine, glacial]
+landscape: [peak, ridge, alpine-meadow]
+
+nature: >
+  Wrathful female spirits associated with weather — hailstorms,
+  epidemics, and collective disaster. Ma-mo attacks are understood as
+  punishment for communal moral failings. Particularly feared in
+  agricultural regions where hail destroys crops.
+
+  Part of the eight classes of gods and demons. Ma-mo come in two
+  classes: karmic (worldly) and wisdom (transcendent/enlightened).
+  The worldly ma-mo bring storms and plague; the wisdom ma-mo serve
+  as dharma protectors.
+
+vocabulary:
+  spirit_type: ma-mo
+  weather: hailstorm, epidemic
+  trigger: communal moral failing
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: null
+aburaya_notes: >
+  No direct Aburaya mapping. The ma-mo represents systemic
+  consequences of collective failure — a cascade failure triggered by
+  accumulated neglect rather than a single violation.
+
+diagnostic: >
+  Weather prediction and moral accountability. Ma-mo traditions encode
+  storm patterns and the social understanding that collective neglect
+  has collective consequences.
+
+sources:
+  - "Nebesky-Wojkowitz, Oracles and Demons of Tibet, 1956"
+  - "Rigpa Wiki: Eight classes of gods and demons"

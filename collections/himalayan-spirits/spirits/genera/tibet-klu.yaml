@@ -1,0 +1,54 @@
+genus: klu
+region: tibet
+tradition: tibetan-buddhist-bon
+altitude_zone: [valley-floor, alpine, glacial]
+landscape: [lake, river, spring, glacier]
+
+nature: >
+  Water spirits cognate with Sanskrit nāga. Control all water —
+  springs, lakes, rivers, rain, underground water. The klu realm is
+  the underworld/underwater world, sometimes depicted as a wealthy
+  kingdom. Klu displeasure causes skin disease and drought.
+
+  The klu occupy the lower tier of the three-tier Tibetan cosmology:
+  upper (lha in sky), middle (btsan on earth surface), lower (klu in
+  water and underground).
+
+  Tibet's three great sacred lakes — Namtso, Manasarovar, Yamdrok
+  Tso — all carry strong klu associations. Both the Nilamata Purana
+  of Kashmir and the Swayambhu Purana of Kathmandu begin their
+  regional histories as a lake populated by nagas.
+
+vocabulary:
+  spirit_type: klu
+  lake: mtsho / tso
+  prohibition: do not pollute water sources
+  underworld: klu realm
+
+species: []
+
+notable_instances:
+  - name: klu of Namtso
+    place: Namtso (central Tibet)
+    notes: One of Tibet's three great sacred lakes.
+  - name: klu of Manasarovar
+    place: Lake Manasarovar (near Mt Kailash)
+    notes: Hindu-Buddhist-Bön nexus. Cosmic significance.
+  - name: klu of Yamdrok Tso
+    place: Yamdrok Tso (central Tibet)
+    notes: Turquoise lake; said to hold the life-force of Tibet.
+
+aburaya_analogue: flow
+aburaya_notes: >
+  Cosmic-scale water spirit. The klu controls all water at the most
+  fundamental level. Maps to the flow archetype at system scale.
+
+diagnostic: >
+  Water management at all scales — from village spring to sacred lake.
+  Rain, flood, drought. The klu tradition is the deepest expression
+  of the pan-Himalayan water-spirit complex.
+
+sources:
+  - "Nebesky-Wojkowitz, Oracles and Demons of Tibet, 1956"
+  - "A Perfumed Skull: Demon Directories, 2016"
+  - "Wikipedia: Nāga (naga-as-primordial-water-owner)"

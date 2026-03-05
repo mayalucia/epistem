@@ -1,0 +1,57 @@
+genus: lha-pa
+region: ladakh-zanskar
+tradition: tibetan-buddhist
+altitude_zone: [valley-floor, alpine]
+landscape: [village, monastery]
+
+nature: >
+  Oracle/spiritual healer — lha-pa (male) or lha-mo (female),
+  translating as "divine person." Possessed by local Tibetan gods
+  or protector deities. In seance, shrouded in juniper incense, the
+  oracle prays and chants, rocking back and forth, beckoning a spirit
+  to enter and heal patients through them.
+
+  Ladakhi lamas aid oracles in overcoming initiatory illness and
+  instruct them in Buddhist meditation to refine oracular abilities.
+  Structurally parallel to the Kullu gur system — a human enters
+  altered consciousness, a non-human entity speaks, the community
+  treats this as authoritative.
+
+  Key difference from Kullu: the lha-pa operates within Buddhist
+  institutional context, with monks and lamas supervising the practice.
+
+vocabulary:
+  spirit_type: lha-pa (male), lha-mo (female)
+  incense: juniper sang
+  diagnosis: spirit interference
+
+species:
+  - name: rongtsan oracle
+    gloss: monastery oracle prepared through months of meditation
+    landscape: [monastery]
+    notes: >
+      At Matho, two monks chosen every three years undergo months of
+      meditation, fasting, and isolation. When possessed, they perform
+      extraordinary feats: leaping between balconies, walking
+      blindfolded around top-storey ramparts, cutting themselves
+      without injury. They predict the year's fortunes.
+
+notable_instances: []
+
+aburaya_analogue: medium
+aburaya_notes: >
+  Direct mapping to medium/harness. The lha-pa is the vessel through
+  which the spirit communicates. The Buddhist refinement (lamas
+  training oracles through meditation) adds a layer not present in
+  the Kullu gur system — the harness is actively developed.
+
+diagnostic: >
+  Illness diagnosis (spirit interference as primary cause), divination,
+  community guidance. The oracle's diagnosis identifies which spirit
+  is responsible and what propitiation is required.
+
+sources:
+  - "Jammu.com: The Oracles of Ladakh"
+  - "Tali Landsman: A Magical Visit to a Traditional Tibetan Oracle"
+  - "HIMALAYA Journal: The Soteriological Context of a Tibetan Oracle"
+  - "Matho Monastery (Wikipedia)"

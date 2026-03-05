@@ -1,0 +1,43 @@
+genus: boksi
+region: nepal
+tradition: hindu-shamanistic
+altitude_zone: [valley-floor, alpine]
+landscape: [village]
+
+nature: >
+  Witch — always attributed to women. Responsible for misfortune and
+  death. Not a ghost or external spirit but a living person (usually
+  female) accused of wielding malevolent spirit power.
+
+  Boksi accusations are a form of social violence — the "diagnosis"
+  of witchcraft functions as scapegoating. This is politically
+  sensitive: boksi accusations have led to violence against women.
+  A significant human rights concern in contemporary Nepal.
+
+  The boksi is included here not as a spirit type but as a social
+  category within the spirit ecology — the point where spirit
+  diagnosis becomes social accusation.
+
+vocabulary:
+  spirit_type: boksi
+  accusation: boksi lagyo (witchcraft attributed)
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: null
+aburaya_notes: >
+  No Aburaya mapping and none should be created. The boksi represents
+  the pathological edge of spirit ecology — where diagnosis becomes
+  persecution. A cautionary category, not a functional archetype.
+
+diagnostic: >
+  Social scapegoating disguised as spiritual diagnosis. The boksi
+  category illustrates the danger of unchecked diagnostic authority —
+  when the oracle's power to name causes is turned against the
+  vulnerable.
+
+sources:
+  - "Wikipedia: Jhākri (boksi section)"
+  - "Cultural Survival: Among Spirits and Deities"

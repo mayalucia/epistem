@@ -1,0 +1,49 @@
+genus: peri
+region: karakoram
+tradition: persian-islamic (pre-islamic substrate)
+altitude_zone: [alpine, glacial]
+landscape: [alpine-meadow, glacier, peak, lake]
+
+nature: >
+  The dominant spirit category in the Karakoram. Drawn from Persian
+  mythology, peris are beautiful, powerful, capricious beings who
+  inhabit high pastures, glaciers, and remote valleys. Not the
+  diminutive fairies of European tradition but formidable spirits.
+
+  Can help or harm humans depending on whether they are pleased.
+  Associated with altitude sickness, disorientation, and madness
+  at high altitude. "Fairy Meadows" (Jūt) at the base of Nanga
+  Parbat is literally named for this tradition.
+
+  The peri tradition coexists with Islamic jinn categories. In Ismaili
+  communities of Hunza and upper Gilgit, pre-Islamic practices have
+  survived more robustly than in Sunni areas.
+
+vocabulary:
+  spirit_type: peri
+  meadow: jūt (fairy meadow)
+  mountain_abode: diamer (abode of spirits)
+
+species:
+  - name: pari (Burushaski form)
+    gloss: fairy spirit encountered by bitan shamans in ecstatic trance
+    landscape: [alpine-meadow, glacier]
+
+notable_instances: []
+
+aburaya_analogue: wanderer
+aburaya_notes: >
+  The peri inhabits high, remote, liminal spaces — not bound to
+  human settlement but to the wild landscape above it. Maps to the
+  wanderer archetype with an emphasis on altitude and liminality.
+
+diagnostic: >
+  Altitude awareness. The peri tradition encodes knowledge of
+  altitude sickness, disorientation, and the dangers of high
+  pastures and glaciers. Glacier behaviour (surges, retreats)
+  attributed to spirit agency.
+
+sources:
+  - "Sidky, Shamans and Mountain Spirits in Hunza"
+  - "Sidky, Flying with the Vanishing Fairies (ResearchGate)"
+  - "Lorimer, The Burushaski Language, 1935-38"

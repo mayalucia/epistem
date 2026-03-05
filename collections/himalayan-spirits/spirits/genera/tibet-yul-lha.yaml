@@ -1,0 +1,56 @@
+genus: yul-lha
+region: tibet
+tradition: tibetan-buddhist-bon
+altitude_zone: [valley-floor, alpine, glacial]
+landscape: [peak, ridge, village, lake]
+
+nature: >
+  Country gods — territorial spirits of landscape features. Mountains,
+  valleys, entire regions. The yul-lha is the genius loci, the spirit
+  of the place itself. Both Tonpa Shenrab (Bön) and Guru Rinpoche
+  mythically "subdued" these gods to gain legitimacy, suggesting
+  yul-lha predate both organised religions.
+
+  Major mountains have named yul-lha: Nyenchen Tanglha (central Tibet,
+  controlling weather), Amnye Machen (Golok region). Every village has
+  its local yul-lha, typically the most prominent nearby mountain.
+
+  Closely related: gzhi-bdag (basis lords / place gods) who preside
+  over numinous "spiritscapes" that have been a defining feature of
+  Tibetan lay society and exemplars of explicit nature conservation
+  for hundreds of years.
+
+vocabulary:
+  spirit_type: yul-lha
+  place_lord: gzhi-bdag
+  smoke_offering: bsang
+  cairn: la-btsas
+
+species:
+  - name: gzhi-bdag
+    gloss: place god presiding over specific numinous landscape
+    landscape: [peak, lake, cave, sacred-grove]
+
+notable_instances:
+  - name: Nyenchen Tanglha
+    place: central Tibet
+    notes: Great mountain god controlling weather and regional wellbeing.
+  - name: Amnye Machen
+    place: Golok region (Amdo)
+    notes: Mountain god of the Golok Tibetan region.
+
+aburaya_analogue: guardian
+aburaya_notes: >
+  The most fundamental territorial spirit in the Tibetan system.
+  Mountain gods personify place — landscape, weather, and resources.
+  Direct mapping to guardian at the highest scale.
+
+diagnostic: >
+  Weather, herds, community wellbeing. Invoked for good weather,
+  safe pastures, and social cohesion. Nature conservation through
+  spiritscape protection.
+
+sources:
+  - "Brill's Encyclopedia of Buddhism, Vol. 2, 2019 (via academia.edu)"
+  - "American Alpine Club: The Sacred Himalaya"
+  - "Nebesky-Wojkowitz, Oracles and Demons of Tibet, 1956"

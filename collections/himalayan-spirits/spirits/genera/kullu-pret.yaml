@@ -1,0 +1,35 @@
+genus: pret
+region: kullu
+tradition: hindu-pahari
+altitude_zone: [valley-floor, alpine]
+landscape: [village, gorge, cliff, cave]
+
+nature: >
+  Spirit of a person who died violently, untimely, or without proper
+  funerary rites. Prets are dangerous — they cause illness, madness,
+  and misfortune. Exorcism requires the devta's intervention through
+  the gur. A pan-South-Asian category (cognate with Nepal bhut/pret,
+  Sanskrit preta).
+
+vocabulary:
+  spirit_type: pret
+  exorcism: devta intervention via gur
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: null
+aburaya_notes: >
+  No direct Aburaya mapping. The pret represents unresolved state —
+  a process that terminated abnormally and whose effects persist. If
+  mapped at all, it would be the "unclean shutdown" archetype.
+
+diagnostic: >
+  Illness and madness attributed to pret attack often correlate with
+  social disruption — violent death, family conflict, unresolved grief.
+  The diagnostic process (via gur) names the problem publicly.
+
+sources:
+  - "Pan-South-Asian category, widely documented"
+  - "Chetwode, Kulu: The End of the Habitable World, 1972"

@@ -1,0 +1,69 @@
+genus: lha
+region: spiti-lahaul
+tradition: tibetan-buddhist (with bon substrate)
+altitude_zone: [alpine, glacial]
+landscape: [peak, ridge, monastery, village]
+
+nature: >
+  Mountain/territorial deities guarding valleys and communities. Each
+  major peak has a lha. Propitiated with smoke offerings (sang) at
+  cairns (la-btsas) on high ground. The lha system in Spiti follows
+  the Tibetan standard, locally inflected.
+
+  Before adapting to Tibetan Buddhism, the people of Spiti followed a
+  religion called Lung Pe Chhoi, derived from the Bön religion of
+  Tibet. Remnants survive in folk practice alongside Buddhist observance.
+
+  In Lahaul, the transition zone between Hindu Kullu and Buddhist
+  Spiti, both Hindu devta traditions and Tibetan lha coexist. Raja
+  Ghepan is one of the major deities of Lahaul, widely worshipped
+  across the region.
+
+vocabulary:
+  spirit_type: lha
+  smoke_offering: sang
+  cairn: la-btsas
+  pass_cry: ki ki so so lha gyalo
+  pre_buddhist: lung pe chhoi
+
+species:
+  - name: chos-skyong (dharma protector)
+    gloss: local spirit tamed by Buddhist master, bound as protector
+    landscape: [monastery, cliff]
+    notes: >
+      Originally local spirits "tamed" by Padmasambhava and Rinchen
+      Zangpo, bound as protectors of the dharma. Prominent in murals
+      at Tabo and Ki monasteries.
+
+notable_instances:
+  - name: Lhalung Devta
+    place: Lhalung village
+    notes: >
+      Head of all devtas of the valley. Emerges from Tangmar mountain,
+      which changes colour depending on the deity's moods — red for
+      anger, yellow for happiness. Pre-Buddhist substrate extending
+      into nominally Buddhist Spiti.
+  - name: Raja Ghepan
+    place: Lahaul (region-wide)
+    notes: Major deity of Lahaul, widely worshipped across the region.
+  - name: Markula Devi
+    place: Udaipur, Lahaul
+    notes: >
+      Major goddess temple suggesting a goddess-centred tradition
+      predating both Hindu and Buddhist frameworks.
+
+aburaya_analogue: guardian
+aburaya_notes: >
+  Territorial protector at the mountain scale. The lha guards
+  the community from above — a higher-altitude analogue of the devta.
+
+diagnostic: >
+  Seasonal timing in a valley with ~100 frost-free days. Trade route
+  safety over Kunzum Pass and other high crossings. Weather and
+  avalanche awareness.
+
+sources:
+  - "Francke, Antiquities of Indian Tibet, 1914-1926"
+  - "Harcourt, The Himalayan Districts of Kooloo, Lahoul, and Spiti, 1871"
+  - "Klimburg-Salter, Tabo: A Lamp for the Kingdom, 1997"
+  - "Wanderon: Kungri Monastery (Spiti pre-Buddhist religion)"

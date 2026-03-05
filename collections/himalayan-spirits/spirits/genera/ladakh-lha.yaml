@@ -1,0 +1,44 @@
+genus: lha
+region: ladakh-zanskar
+tradition: tibetan-buddhist
+altitude_zone: [valley-floor, alpine, glacial]
+landscape: [peak, ridge, village, monastery]
+
+nature: >
+  Mountain god and territorial deity. Every village and every
+  significant mountain has a lha — the lord of the territory, a
+  protective spirit whose domain maps to geographical features.
+  Propitiated with smoke offerings (sang) and prayer flags (lung-ta).
+
+  The lha is structurally parallel to the Kullu devta: territorial,
+  protective, governing community welfare. The key difference is
+  institutional context — Ladakhi lha operate within a Buddhist
+  framework, supervised by monasteries and lamas.
+
+vocabulary:
+  spirit_type: lha
+  smoke_offering: sang
+  prayer_flags: lung-ta
+  cairn: la-btsas
+  pass_cry: ki ki so so lha gyalo
+
+species:
+  - name: yul-lha
+    gloss: country/territory god of a valley or region
+    landscape: [peak, village]
+
+notable_instances: []
+
+aburaya_analogue: guardian
+aburaya_notes: >
+  Direct mapping to guardian. Territorial protector bound to a specific
+  mountain or valley, governing community welfare from above.
+
+diagnostic: >
+  Community welfare, seasonal calendar, agricultural and pastoral
+  timing. The lha's protection extends to weather, herds, and
+  social cohesion.
+
+sources:
+  - "Crook & Osmaston, Himalayan Buddhist Villages, 1994"
+  - "IIAS: Ghost Roads in Ladakh"

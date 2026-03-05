@@ -1,0 +1,90 @@
+genus: devta
+region: kullu
+tradition: hindu-pahari
+altitude_zone: [valley-floor, alpine]
+landscape: [village, temple, forest, river, peak]
+
+nature: >
+  Territorial village god with juridical standing. Each devta governs a
+  jurisdiction roughly matching a watershed or administrative unit. Owns
+  land recorded in revenue records, maintains a temple estate, employs
+  ritual specialists. Speaks through a gur (oracle-medium) during trance
+  possession. Travels in a rath (chariot) during festivals. Makes
+  decisions about community affairs — disputes, agricultural timing,
+  illness attribution.
+
+  The Kullu district administration documents 534 devtas. Many are
+  pre-Vedic local deities incorporated into a Hindu framework, retaining
+  non-Sanskritic elements: animal sacrifice (now contested), oracular
+  possession, and procession customs with no Vedic parallel.
+
+vocabulary:
+  spirit_type: devta
+  medium: gur
+  possession: aavesh
+  shrine: than
+  festival: jatra
+  chariot: rath
+  jurisdiction: ilaaqa
+  steward: kardar
+  musicians: bajantri
+
+species:
+  - name: nāg devta
+    gloss: serpent-god of water bodies
+    landscape: [spring, lake, hot-spring, river, gorge, waterfall]
+    vocabulary:
+      water_body: kund
+      prohibition: do not pollute or divert
+  - name: ban devta
+    gloss: forest deity of sacred groves
+    landscape: [forest, sacred-grove, ridge]
+  - name: rath devta
+    gloss: chariot-travelling village god
+    landscape: [village, temple, field/terrace, trade-route]
+
+notable_instances:
+  - name: Raghunath Ji
+    species: rath devta
+    place: Kullu town
+    notes: >
+      Paramount devta of the valley. Idol brought from Ayodhya c. 1651 CE
+      by Raja Jagat Singh. All other devtas nominally subordinate. Centre
+      of the Dussehra rath festival.
+  - name: Hadimba Devi
+    species: ban devta
+    place: Manali (Dhungri temple)
+    notes: Rakshasi-turned-goddess, consort of Bhima. Extraordinary wooden temple in deodar grove.
+  - name: Jamlu Devta
+    species: rath devta
+    place: Malana
+    notes: >
+      Deity of Malana village, which claims democratic self-governance under
+      Jamlu's authority. Village legal system operates through Jamlu's oracle.
+  - name: Shringa Rishi
+    species: rath devta
+    place: Banjar (Tirthan/Banjar valleys)
+  - name: Buddhi Nagin
+    species: nāg devta
+    place: Serolsar Lake (above Jalori Pass)
+    notes: The Old Serpent Mother. Key figure in the project's stories.
+
+aburaya_analogue: guardian
+aburaya_notes: >
+  Territorial, bound to a place. The devta does not wander. The closest
+  system concept is the guardian spirit (bound to a module/domain).
+  The devta's institutional apparatus (kardar, gur, bajantri) maps to
+  the module's infrastructure (tools, mediums, orchestration).
+
+diagnostic: >
+  Community disputes, agricultural timing, illness attribution, resource
+  allocation, water management (via nāg sub-type), forest conservation
+  (via sacred groves). The devta's pronouncements through the gur encode
+  collective judgment about matters too complex for individual decision.
+
+sources:
+  - "Chetwode, Kulu: The End of the Habitable World, 1972"
+  - "Rosser, fieldwork in Kullu villages, 1950s"
+  - "Sahapedia: Kullu Dussehra of Himachal Pradesh"
+  - "IGNCA: Valley of Gods (PDF)"
+  - "Kullu District Administration reference book (534 devtas)"

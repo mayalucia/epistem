@@ -1,0 +1,57 @@
+genus: btsan
+region: ladakh-zanskar
+tradition: tibetan-buddhist
+altitude_zone: [valley-floor, alpine]
+landscape: [cliff, gorge, cave, village]
+
+nature: >
+  Fierce non-human spirits who travel along invisible roads — tsanlam
+  (btsan lam) — causing illness by their presence. These ghost roads
+  correspond to routes used by humans: passing through villages, by
+  houses, connecting settlements.
+
+  Protective markers are placed along these routes: tsando (btsan rdo,
+  red-painted stones), tsankhang (btsan khang, small shrine
+  structures), and tsak markings (red triangles on house corners,
+  lines of dots around buildings, sometimes swastikas and faces).
+
+  Two of the best-known oracular deities of the region are identified
+  as tsan: the red and white Rongtsan of Matho Monastery, who annually
+  possess monks and deliver prophecies.
+
+  Associated with red rock, cliffs, and sites of violent death.
+  Ladakh's red-brown rock formations are diagnostic btsan landscape.
+
+vocabulary:
+  spirit_type: btsan / tsan
+  ghost_road: tsanlam
+  marker_stone: tsando
+  marker_shrine: tsankhang
+  colour: red
+
+species: []
+
+notable_instances:
+  - name: Red Rongtsan
+    place: Matho Monastery
+    notes: Oracular btsan deity; possesses monk during Matho Nagrang festival.
+  - name: White Rongtsan
+    place: Matho Monastery
+    notes: Paired with Red Rongtsan; both deliver prophecies for the coming year.
+
+aburaya_analogue: wanderer
+aburaya_notes: >
+  The btsan travels invisible roads between settlements — mobile,
+  territorial in a linear (path) rather than areal (zone) sense.
+  Maps to the wanderer archetype but with a more dangerous valence
+  than the jogini.
+
+diagnostic: >
+  Path-based territorial awareness. The ghost road system encodes
+  knowledge of routes, connections between settlements, and dangers
+  along them. The red-stone marking system is a spatial protocol.
+
+sources:
+  - "IIAS: Ghost Roads in Ladakh"
+  - "Nebesky-Wojkowitz, Oracles and Demons of Tibet, 1956"
+  - "Matho Monastery (Wikipedia)"

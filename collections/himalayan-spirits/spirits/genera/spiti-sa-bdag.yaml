@@ -1,0 +1,39 @@
+genus: sa-bdag
+region: spiti-lahaul
+tradition: tibetan-buddhist
+altitude_zone: [alpine, glacial]
+landscape: [village, scree, moraine, cliff]
+
+nature: >
+  Earth lords, disturbed by digging, construction, ploughing. Before
+  any earthwork, sa-bdag must be propitiated. In Spiti's fragile
+  mountain terrain, where a wrong cut can trigger landslides, the
+  sa-bdag tradition encodes geological caution.
+
+  The lama-astrologer determines which sa-bdag are active on which
+  days, directing when and where digging is safe. This calendar-based
+  system functions as a scheduling protocol for earthwork.
+
+vocabulary:
+  spirit_type: sa-bdag
+  earth: sa
+  lord: bdag
+
+species: []
+
+notable_instances: []
+
+aburaya_analogue: null
+aburaya_notes: >
+  No direct Aburaya mapping. The sa-bdag represents constraint on
+  modification — the ground that must not be disturbed without
+  consultation. Could map to a "do not modify without review" protocol.
+
+diagnostic: >
+  Geological hazard awareness. Prevents excavation in landslide-prone
+  terrain. Functions as a construction safety system encoded in
+  spiritual calendar.
+
+sources:
+  - "Standard Tibetan category; Nebesky-Wojkowitz 1956"
+  - "Harcourt, The Himalayan Districts of Kooloo, Lahoul, and Spiti, 1871"

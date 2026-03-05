@@ -1,0 +1,71 @@
+genus: chos-skyong
+region: tibet
+tradition: tibetan-buddhist
+altitude_zone: [valley-floor, alpine]
+landscape: [monastery, temple]
+
+nature: >
+  Dharma protectors — originally local spirits tamed by Buddhist
+  masters and bound by oath (dam can) as protectors of the Buddhist
+  teaching. The most important include Pehar/Dorje Drakden (Nechung),
+  Palden Lhamo, and others.
+
+  Protective deities fall into two fundamental categories:
+  (1) beyond-worldly (enlightened) protectors (jnana dharmapala), and
+  (2) worldly deity protectors, including mountain deities, local
+  protectors, and bound demon spirits.
+
+  The worldly protectors engage in pacification, augmentation,
+  subjugation, and destruction to combat negative influences. Types
+  include Tibetanised Indian divinities (yakshas, nagas, rakshasas)
+  and strictly indigenous gods (rgyal-po, btsan, dmu).
+
+  The cult of Pehar at Nechung experienced a meteoric rise in the
+  17th century through the Fifth Dalai Lama and regent Sangye Gyatso.
+  The Nechung Oracle is the Official State Oracle of the Tibetan
+  government and personal oracle of the Dalai Lama since the Second
+  Dalai Lama.
+
+vocabulary:
+  spirit_type: chos-skyong (dharma protector)
+  medium: kuten (physical basis)
+  oath_bound: dam can
+  state_oracle: nechung
+
+species:
+  - name: worldly protector
+    gloss: bound local spirit serving as dharma guardian
+    landscape: [monastery, temple, cliff]
+  - name: beyond-worldly protector
+    gloss: enlightened protective deity (jnana dharmapala)
+    landscape: [monastery, temple]
+
+notable_instances:
+  - name: Pehar / Dorje Drakden
+    place: Nechung Monastery (Tibet; re-established Dharamsala 1984)
+    notes: >
+      Head of the Buddhist protective spirit hierarchy. Tamed by
+      Padmasambhava at the consecration of Samye Monastery. The
+      medium (kuten) displays superhuman strength when possessed.
+  - name: Palden Lhamo
+    place: pan-Tibetan
+    notes: Chief female dharma protector.
+
+aburaya_analogue: guardian
+aburaya_notes: >
+  The tamed-and-bound spirit is the strongest institutional mapping
+  in Aburaya. A wild spirit (pre-existing capability) is tamed
+  (commissioned), bound by oath (identity.yaml), and set to guard
+  the dharma (the project's integrity). The Nechung oracle adds a
+  medium layer — the state oracle as the supreme diagnostic.
+
+diagnostic: >
+  Institutional protection. The dharma protector guards the teaching
+  itself — not a place or a resource but a system of knowledge. The
+  Nechung oracle's function was national-level strategic diagnosis.
+
+sources:
+  - "Wikipedia: Nechung Oracle"
+  - "Encyclopaedia Britannica: Dharmapala"
+  - "Nebesky-Wojkowitz, Oracles and Demons of Tibet, 1956"
+  - "Samuel, Civilized Shamans, 1993"
