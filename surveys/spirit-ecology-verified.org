@@ -1,0 +1,788 @@
+#+title: Spirit Ecology of the Transborder Himalaya --- Verified Resurvey
+#+subtitle: WP-0006: Independent Derivation from Web-Accessible Sources
+#+author: mu2tau + claude-opus-4.6 (epistem-guardian)
+#+date: 2026-03-05
+#+property: status verified-draft
+#+startup: overview
+#+options: toc:3 num:t
+
+#+begin_quote
+*Epistemic notice*: Every substantive claim in this document was
+independently researched via web search on 2026-03-05. URLs are cited
+inline and collected in Part 5 (Bibliography). Claims that could not
+be verified are marked [unverifiable via web]. This survey is
+intentionally sparser than WP-0003 --- verified knowledge is smaller
+than asserted knowledge.
+
+*Method*: WebSearch queries targeting scholarly sources, government
+records, and substantive cultural documentation. No reliance on
+training knowledge alone. Own regional structure, independent of
+WP-0003's outline.
+#+end_quote
+
+* Part 1: Regional Spirit Taxonomies (Verified)
+
+** 1.1 Kullu Valley --- The Living Devta System
+
+*** The Devta Institution
+
+Kullu is called the "Valley of Gods" (Dev Bhumi). A reference book
+compiled by the Kullu district administration documents *534* deities
+("live" gods and goddesses) in the valley.[fn:kullu534] Earlier
+estimates place the count at over 250 participating in the Dussehra
+festival,[fn:sahapedia] suggesting the 534 figure includes minor and
+inactive devtas.
+
+Every village and hamlet has its own deity --- a devi or devta. Each
+devta is a juridical entity: it owns land, maintains a temple estate,
+and governs community affairs through an institutional apparatus.
+[fn:kulludussehra]
+
+The devta committee (dev samiti) comprises:[fn:kullu534]
+- *Kardar* --- manager of the temple and its estates
+- *Gur* --- the oracle/medium through whom the devta speaks
+- *Pujari* --- the priest who conducts formal worship
+- *Bajantri* --- musicians who accompany the devta's processions
+
+*** Hierarchy and Paramount Devta
+
+At the apex stands *Raghunath Ji* (Lord Rama). His idol was brought
+from Ayodhya circa 1651 CE during the reign of Raja Jagat Singh.
+[fn:sahapedia] All other devtas are nominally subordinate to
+Raghunath Ji. This hierarchy is enacted annually at the Kullu Dussehra
+festival, when over 250--300 deities arrive in palanquins to pay
+obeisance.[fn:instahimachal]
+
+*** The Gur: Oracle and Medium
+
+The gur (also spelled goor) is the central shamanic institution of the
+Kullu system. Gods and goddesses communicate with the populace via an
+oracle system of shamanic nature: the devic spirit invokes/possesses
+the gur, who then converses with subjects to resolve grievances or
+bestow blessings.[fn:mysterioushimachal_gur]
+
+The process involves intense drumming, chanting, and invocation. Once
+in trance, the devta speaks through the gur to diagnose afflictions,
+prescribe remedies, and deliver judgments on community disputes.
+Through their gurs, devis/devtas relay views about prevailing social,
+ecological, cultural, or regional unrest and guide the community
+toward course-corrections.[fn:mysterioushimachal_gur]
+
+The gur is considered "more truthful than the kardars" in conveying
+the devta's will.[fn:sahapedia]
+
+*** Nag Devta: Serpent Deities and Water Spirits
+
+The nagas are aboriginal snake gods believed to be the spirits of
+springs and rivers. They are among the most numerous deity class in
+Kullu, believed to have descended from Basu Nag (Vasuki), the father
+of all nagas, whose temple is at Kamarhati in Kothi Naggar.[fn:ignca]
+
+Nagas regulate water --- they bring rain and control floods. Their
+worship reflects the belief that these demigods rule over the land as
+owners and take care of the people and their possessions. The total
+number of nagas worshipped in Kullu is considerably greater than
+eighteen (the canonical count).[fn:ignca]
+
+Ghunda Naag Devta exemplifies the type: represented in serpent form,
+worshipped as a guardian and benefactor, embodying the forces of
+nature.[fn:historified]
+
+*** Jogini: Ambiguous Female Spirits
+
+In Lahaul, demons called jogini live at high altitudes and harass
+humans, especially women. In February the joginis of Lahaul hold their
+general assembly for three days with counterparts from Chamba and
+Tibet, each arriving "by air riding a ridge beam."[fn:diserens]
+
+Villagers take precautions to bar joginis from homes and drive them
+from the area. However, in Kullu proper the jogini seemingly ranks as
+high as any deota (deity) --- their status is more ambiguous and
+elevated than the purely malignant characterisation found
+elsewhere.[fn:diserens]
+
+Diserens (1991) documented small wooden temples (1--1.3 m height)
+dedicated to jognis in the upper Beas valley, with dried flowers,
+coins, and coloured powder showing active worship.[fn:diserens]
+
+The jogini represents a category that defies simple good/evil
+classification --- she is spirit, fairy, witch, and deity depending on
+context and region.
+
+*** Kullu Dussehra: The Annual Convocation
+
+Kullu Dussehra begins on Vijaya Dashami --- the day festivities end
+elsewhere in India. It is a seven-day event. Devis and devtas from
+across the valley arrive before Raghunath Ji's rath yatra (chariot
+journey). On the first day, each deity goes to meet Raghunath Ji in
+his temple, accompanied by drums, trumpets, and devotees.[fn:sahapedia]
+
+This is not merely a festival but a political institution: the
+gathering enacts the feudal-divine hierarchy, with devtas arriving
+from their territories to affirm subordination to the paramount
+deity.[fn:instahimachal]
+
+** 1.2 Tibet and Bon --- The Eight Classes and Landscape Spirits
+
+*** The Eight Classes of Gods and Demons
+
+Tibetan spirit taxonomy centres on the *lha 'dre sde brgyad* (eight
+classes of gods and demons). The classification dates to the Yarlung
+period (c. 7th--9th century), though the specific list has varied over
+centuries.[fn:perfumedskull]
+
+The principal eight classes are:[fn:rigpawiki][fn:tbe_eight]
+
+| Tibetan        | Transliteration | Domain                            |
+|----------------+-----------------+-----------------------------------|
+| ལྷ              | lha             | Gods of the upper sky/atmosphere  |
+| བཙན             | btsan           | Fierce spirits of the earth       |
+| བདུད            | bdud            | Demons that obstruct virtue        |
+| གཉན            | gnyan           | Spirits of rocks and trees        |
+| སྲིན་པོ          | srin po         | Rakshasa / flesh-eating demons    |
+| ཀླུ              | klu             | Nagas / water-serpent spirits     |
+| ཐེའུ་རང         | the'u rang      | Sky-moving spirits                |
+| མ་མོ            | ma mo           | Female wrathful spirits (karmic and wisdom classes) |
+
+The three-tier cosmological structure underlying this taxonomy:
+[fn:perfumedskull]
+- *Upper* (steng): lha dwell in atmosphere and sky
+- *Middle* (bar): btsan inhabit the earth's surface
+- *Lower* (g.yog): klu dwell in lakes, rivers, and underground
+
+*** Protector Deities: Worldly and Transcendent
+
+Nebesky-Wojkowitz (1956) classified Tibetan protective deities into
+two fundamental categories:[fn:nebesky_amazon]
+
+1. *'Jig rten las 'das pa'i srung ma* --- Beyond-Worldly (Enlightened)
+   Protectors, also called Jnana Dharmapala
+2. *'Jig rten pa'i srung ma* --- Worldly Deity Protectors, including
+   mountain deities, local protectors, and bound demon spirits
+
+The worldly protectors engage in pacification, augmentation,
+subjugation, and destruction to combat negative influences.[fn:tbe_protectors]
+
+The types of spirits that become protector deities include Tibetanised
+Indian divinities --- yakshas (gnod sbyin), nagas (klu), rakshasas
+(srin po) --- as well as strictly indigenous gods: rgyal po, btsan,
+and dmu.[fn:tucci_ref]
+
+*** Landscape Spirits: Yul Lha, Gzhi Bdag, Sa Bdag
+
+A defining feature of Tibetan spirit ecology is the binding of spirits
+to landscape:
+
+- *Yul lha* (country/territory gods) --- protect a valley, village, or
+  peak. Both Tonpa Shenrab (Bon) and Guru Rinpoche mythically "subdued"
+  these gods to gain legitimacy, suggesting yul lha pre-date both
+  organised religions.[fn:academia_yullha]
+- *Gzhi bdag* (basis lords / place gods) --- preside over numinous
+  "spiritscapes" that have been a defining feature of Tibetan lay
+  society and exemplars of explicit nature conservation for hundreds of
+  years.[fn:academia_yullha]
+- *Sa bdag* (earth lords) --- ground-owner demons living underground.
+  Building houses or other structures requires propitiation of sa bdag.
+  [fn:perfumedskull]
+
+Mountain gods personify place --- landscape, weather patterns, and the
+resources people depend on. Their protective role is practical:
+invoked for good weather, safe herds, and community
+well-being.[fn:aac_sacred]
+
+*** Bon Religion: The Pre-Buddhist Substrate
+
+Bon is the indigenous Tibetan religion rooted in shamanic practices,
+animism, and ritual performances. It served as the cultural and
+spiritual foundation of Tibet before being reshaped by Buddhism in the
+7th--8th centuries CE.[fn:arunachal_bon]
+
+Bon deities include supernatural powers of mountains, rivers, lakes,
+seas, sun, moon, stars, wind, rain, thunder, lightning, birds, and
+beasts.[fn:factsanddetails_bon] A belief system based on veneration of
+ancestors and appeasement of spirits was central to pre-Buddhist Bon
+society.[fn:factsanddetails_bon]
+
+*** Padmasambhava's Taming Narrative
+
+When Padmasambhava consecrated Samye Monastery, he tamed the local
+spirit protector Pehar Gyalpo and bound him by oath to become the head
+of the Buddhist protective spirit hierarchy.[fn:nechung_wiki] This
+"taming" narrative is the canonical Buddhist account of how indigenous
+spirits were incorporated into the dharma as oath-bound protectors
+(dam can).[fn:britannica_dharmapala]
+
+*** The Nechung Oracle: State-Level Spirit Mediumship
+
+The Nechung Oracle is the Official State Oracle of the Tibetan
+government and personal oracle of the Dalai Lama since the Second
+Dalai Lama.[fn:nechung_wiki] The medium (kuten, literally "physical
+basis") is possessed by Pehar/Dorje Drakden.
+
+When possessed, the kuten becomes agitated --- tongue lolling,
+bloodshot eyes, displaying superhuman strength (lifting heavy weights,
+twisting swords).[fn:nechung_wiki]
+
+The cult of Pehar at Nechung experienced a meteoric rise in the 17th
+century through deliberate efforts of the Fifth Dalai Lama and his
+regent Sangye Gyatso.[fn:nechung_wiki] After the 1959 exodus, the
+Nechung Monastery was re-established in 1984 in Dharamsala.
+[fn:nechung_wiki]
+
+*** Samuel's "Civilized Shamans" Thesis
+
+Geoffrey Samuel (1993) argues that religion in Tibetan societies
+developed as a dynamic amalgam of Indian Buddhism and indigenous
+spirit-cults. In Tibet, clerical state-sponsored Buddhism has
+coexisted with, and in many ways been subordinate to, shamanic
+practices such as spirit mediumship, contact with local deities,
+possession, and soul-flight.[fn:samuel]
+
+Shamanic traditions of achieving altered states were incorporated into
+Tantric Buddhism, which aims to communicate with deities through yoga.
+This incorporation forms the basis for much of the Tibetan lamas' role
+in society.[fn:samuel]
+
+** 1.3 Ladakh --- Buddhism, Oracles, and Ghost Roads
+
+*** Oracle Tradition: Lha-pa and Lha-mo
+
+Ladakh's most distinctive spiritual institution is the oracle ---
+*lha-pa* (male) or *lha-mo* (female), translating as "divine male/
+female person." These are spiritual healers and diviners who have
+themselves passed through an initiatory possession.[fn:jammu_oracles]
+
+The lha-pa/lha-mo is possessed by local Tibetan gods. Interference
+from malicious spirits is a prominent cause of disease in their
+diagnoses. In seance, shrouded in juniper incense, the oracle prays
+and chants, rocking back and forth, beckoning a spirit to enter and
+heal patients through them.[fn:tali_oracle]
+
+Ladakhi lamas aid oracles in overcoming initiatory illness and
+instruct them in Buddhist meditation to refine oracular
+abilities.[fn:himalaya_journal_oracle]
+
+*** The Matho Nagrang: Monastery Oracle Festival
+
+Matho Monastery (Sakyapa sect, 26 km southeast of Leh) hosts an
+annual oracle festival on the 14th--15th days of the first month of
+the Tibetan calendar.[fn:matho_wiki]
+
+Two oracles known as *Rongtsan* inhabit the bodies of two monks for a
+few hours. These monks are chosen every three years; in the first year
+they meditate for nine months before the festival, in subsequent years
+for two months.[fn:matho_wiki]
+
+When possessed, the Rongtsan oracles perform astounding feats: cutting
+themselves with knives without injury and walking blindfolded around
+the ramparts of the top storey with no fear of falling.[fn:matho_wiki]
+
+Their purpose is to predict the fortunes of local village communities
+for the coming year.[fn:matho_wiki]
+
+*** Btsan and Ghost Roads
+
+Btsan (tsan) are fierce non-human spirits who travel along invisible
+roads --- *tsanlam* (btsan lam) --- causing illness by their presence.
+These roads correspond to routes used by humans: passing through
+villages, by houses, connecting settlements.[fn:iias_ghostroads]
+
+Protective markers are placed along these routes:[fn:iias_ghostroads]
+- *Tsando* (btsan rdo) --- "tsan stones," red-painted stones
+- *Tsankhang* (btsan khang) --- "tsan houses," small shrine structures
+- *Tsak markings* --- red triangles painted on house corners, lines of
+  dots leading around buildings, sometimes swastikas and faces
+
+Two of the best-known oracular deities of the region are identified as
+tsan: the red and white Rongtsan of Matho Monastery, who annually
+possess monks and deliver prophecies.[fn:iias_ghostroads]
+
+*** Klu (Nagas): Water Spirits of Ladakh
+
+In Ladakh, nagas are known as *lu* (klu) --- temperamental
+shape-shifting water spirits inhabiting streams, soil, trees, and
+stones. Lu control water and can wreck misfortune when perturbed.
+[fn:harvard_water]
+
+From a Harvard "Water Stories" project: lu are well-known for their
+abilities to both control water and wreck misfortune when
+perturbed.[fn:harvard_water] This mirrors the Kullu nag devta's dual
+nature as water-bringer and flood-controller.
+
+** 1.4 Nepal --- Shamanic Pluralism
+
+*** Terminology: Dhami, Jhankri, and the Practitioner Spectrum
+
+Nepal's shamanic landscape is characterised by terminological and
+functional pluralism. Key practitioner types documented in ethnographic
+literature:[fn:culturalsurvival][fn:jhankri_wiki]
+
+| Term         | Region    | Function                                         |
+|--------------+-----------+--------------------------------------------------|
+| Dhami        | Western   | Medium; possessed by deity; serves as vehicle    |
+| Jhankri      | Eastern   | Non-medium healer; uses own powers directly      |
+| Dhami-jhankri| Both      | Common amalgam of both roles                     |
+| Lama         | Buddhist  | Monk-healer; tantric ritual specialist           |
+| Mata         | Various   | Female healer; possessed by spirit granting power|
+| Ban jhankri  | Forest    | Jungle/forest shaman (half-human, half-animal)   |
+| Jyotishi     | Various   | Astrologer-healer                                |
+| Boksi        | Various   | Witch (always female); responsible for misfortune|
+
+The dhami of Western Nepal and the oracles in Kumaon serve as vehicles
+of the god, whereas shamans in the Tibetan Buddhist context are
+masters of the spirits --- a fundamental structural
+difference.[fn:himalaya_journal_oracle]
+
+*** Shamanism as Hindu-Buddhist-Shamanistic Complex
+
+General categories such as "shamanism," "spirit possession," and
+"spirit mediumship" fail to reflect the full variety of Nepali ritual
+practice. It is more useful to think of these as part of a larger
+Hindu-Buddhist-shamanistic ritual system prevalent among hill
+communities, reflecting Nepal's complex geographical, linguistic, and
+cultural diversity.[fn:culturalsurvival]
+
+*** Peters on Tamang Shamanism
+
+Larry Peters conducted ethnopsychiatric fieldwork in the Tamang
+village of Tin Chuli (outskirts of Kathmandu), apprenticing himself to
+a Tamang shaman named Bhirendra.[fn:peters]
+
+Tamang shamanic initiation involves four stages, each representing
+higher achievement. The calling begins when the initiate is
+overwhelmed by anxiety and begins to shake --- behaviour the Tamang
+interpret as "crazy possession."[fn:peters]
+
+Peters' work, published as /Ecstasy and Healing in Nepal/ (Undena
+Publications, 1981), remains a foundational ethnopsychiatric study of
+Himalayan shamanism.[fn:peters]
+
+*** Maskarinec on Shaman Oral Texts
+
+Gregory Maskarinec's /The Rulings of the Night/ (University of
+Wisconsin Press, 1995) presents an ethnographic analysis of oral texts
+recited by Nepalese shamans. Through years of fieldwork in a
+blacksmith community of western Nepal, Maskarinec learned that both
+long public chants and whispered incantations are meticulously
+memorised oral texts.[fn:maskarinec]
+
+His key finding: not only are shamans' mythical chants imbued with
+meaning constituting a coherent cosmological system, but their most
+haphazard utterances --- magical formulas and mantras often considered
+meaningless --- also carry distinct semantic messages.[fn:maskarinec]
+
+*** Nepali Spirit Types
+
+Documented spirit categories in Nepal:[fn:jhankri_wiki][fn:nepal_folklore]
+- *Bhut/Pret* --- ghosts of the dead, especially those who died
+  violently or without proper rites
+- *Boksi* --- witchcraft; always attributed to women; responsible for
+  misfortune and death
+- *Ban jhankri* --- "shaman of the forest," half-human half-animal
+  forest spirit
+- *Masaan* --- cremation-ground spirits
+
+** 1.5 Kinnaur --- Syncretic Border Zone
+
+Kinnaur District lies at the convergence of Hindu, Buddhist, and
+indigenous animistic traditions. Its spirit ecology reflects this
+triple layering.[fn:kinnaur_govt]
+
+*** Deity Hierarchy and Cults
+
+The Kinnaur religious landscape includes:[fn:kinnaur_govt]
+- *Great Himalayan Region*: Maheshwara-Chandika cult and Nages-Narenas
+  (naga) cult dominate
+- *Trans-Himalayan Region*: Yulsha and Dabla cults prevail (note:
+  "yulsha" likely cognate with Tibetan yul lha)
+
+Deities such as Badrinath, Maheshwar, and Devi Chandika hold the
+highest hierarchical positions, overseeing agricultural practices,
+judicial decisions, and community governance.[fn:kinnaur_govt]
+
+*** Oracle System
+
+As in Kullu, oracles called gur enter trance-like states and deliver
+messages from deities. The system extends across Shimla, Kullu, Mandi,
+Kinnaur, and Sirmaur districts.[fn:kurdish_studies]
+
+The devi/devta institution in Kinnaur reflects the syncretic nature of
+religious beliefs, incorporating elements of Hinduism, Buddhism, and
+indigenous animistic traditions.[fn:kurdish_studies]
+
+*** Seasonal Migration of Deities
+
+Some Kinnaur deities migrate seasonally, moving to summer or winter
+residences based on climate --- a pattern also documented in Kullu.
+[fn:aguidetohimachal]
+
+* Part 2: Cross-Regional Patterns (Verified)
+
+** 2.1 The Naga/Klu Continuum: Water Spirits Across the Himalaya
+
+The serpent-water-spirit complex spans the entire transborder Himalaya
+under different names but with consistent core features:
+
+| Region      | Name      | Domain                | Key Feature                |
+|-------------+-----------+-----------------------+----------------------------|
+| Kullu       | Nag Devta | Springs, rivers       | Rain-bringers, flood-rulers|
+| Kinnaur     | Nag/Nages | Water sources          | Nages-Narenas cult         |
+| Tibet       | Klu (lu)  | Lakes, underground    | Guard treasure, cause illness if angered |
+| Ladakh      | Lu (klu)  | Streams, soil, stones | Shape-shifting, control water |
+| Nepal       | Naga      | Ponds, rivers, wells  | All historical ponds feature naga pillars |
+
+*Verification*:
+- Kullu nags: descended from Basu Nag, worship at Kamarhati
+  [fn:ignca]
+- Ladakh lu: "temperamental shape-shifting water spirits"
+  [fn:harvard_water]
+- Tibet klu: "spirits that dwell in lakes or underground streams and
+  guard treasure" [fn:naga_wiki]
+- Nepal: "all historical ponds in the valley feature a wooden pillar
+  topped with a gilded snake head" [fn:insidehimalayas]
+
+Both the Nilamata Purana of Kashmir and the Swayambhu Purana of
+Kathmandu begin their regional histories as a lake populated by
+nagas --- the naga-as-primordial-water-owner is a founding myth across
+the Himalaya.[fn:naga_wiki]
+
+*Functional consistency*: In every region, water spirits must be
+propitiated before disturbing their domain (building, digging,
+diverting streams). Angering them causes illness, drought, or flood.
+
+** 2.2 The Oracle-Medium Institution: Spirit Possession as Governance
+
+Every documented Himalayan region maintains an institution where a
+human medium is possessed by a deity to deliver diagnoses, prophecies,
+or judgments:
+
+| Region   | Medium Term | Deity Term | Context           |
+|----------+-------------+------------+-------------------|
+| Kullu    | Gur         | Devta      | Village temple    |
+| Kinnaur  | Gur         | Devta/Devi | Village temple    |
+| Ladakh   | Lha-pa/mo   | Lha        | Village, monastery|
+| Tibet    | Kuten       | Various    | State, monastery  |
+| Nepal    | Dhami       | Various    | Village           |
+
+*Verification*:
+- Kullu gur: "Gods and Goddesses communicate with the regional
+  populace via an oracle system of shamanic nature" [fn:mysterioushimachal_gur]
+- Ladakh lha-pa: "a type of spiritual healer; the oracles also divine
+  one's future" [fn:jammu_oracles]
+- Tibet kuten: "the word oracle refers to the spirit that temporarily
+  possesses media known as kuten (the physical basis)"
+  [fn:nechung_wiki]
+- Nepal dhami: "ritual practitioners believed to possess the ability to
+  embody local deities or spirits" [fn:culturalsurvival]
+- Matho Rongtsan: monks selected and prepared through months of
+  meditation [fn:matho_wiki]
+
+*Structural variation*: In Hindu-dominant regions (Kullu, Kinnaur),
+the medium is a dedicated specialist (gur) serving a specific devta.
+In Buddhist-dominant regions (Ladakh, Tibet), lamas often supervise and
+refine the oracle's practice through Buddhist meditation.[fn:himalaya_journal_oracle]
+In Nepal, the dhami of the west serves as vehicle while the jhankri of
+the east operates more autonomously.
+
+** 2.3 Territorial Binding: Spirits as Landscape Governors
+
+Across the Himalaya, spirits are bound to specific territories and
+function as landscape governors:
+
+- *Tibet*: yul lha (territory gods) and gzhi bdag (place gods) have
+  been "a defining cultural feature of Tibetan lay society as well as
+  exemplars of explicit nature conservation" [fn:academia_yullha]
+- *Kullu*: each devta's jurisdiction maps to a territorial unit,
+  typically a village or cluster of hamlets. The devta owns land in
+  revenue records. [fn:kulludussehra]
+- *Ladakh*: btsan travel along invisible territorial roads (tsanlam),
+  their paths marked by red stones [fn:iias_ghostroads]
+- *Kinnaur*: deities oversee "agricultural practices, judicial
+  decisions, and community governance" within defined territories
+  [fn:kinnaur_govt]
+- *Nepal*: "country gods" (yul lha cognates) oversee the welfare of
+  communities and may become offended by violations of social norms
+  and environmental destruction [fn:aac_sacred]
+
+*Functional consistency*: Spirits enforce territorial norms. Violation
+of boundaries --- environmental destruction, social transgression,
+ritual neglect --- triggers spiritual retribution (illness, natural
+disaster, crop failure). The spirit is both protector and enforcer.
+
+** 2.4 The Taming Narrative: Incorporation of Indigenous Spirits
+
+A recurring pattern across Buddhism's Himalayan frontier is the
+"taming" (subduing) of local spirits by Buddhist masters:
+
+- Padmasambhava tamed Pehar Gyalpo and bound him as head of the
+  Buddhist protective hierarchy [fn:nechung_wiki]
+- Both Tonpa Shenrab (Bon) and Guru Rinpoche mythically "subdued"
+  local yul lha and gzhi bdag to gain legitimacy [fn:academia_yullha]
+- In Spiti, Padmasambhava "began the synthesis of Mahayana practices,
+  yogic tantricism, and the native Bon religion --- retaining a large
+  measure of its nature worship and demonolatry" [fn:spiti_monastery]
+- Worship of dharmapala was initiated in the 8th century by
+  Padmasambhava, who conquered malevolent deities and forced them to
+  take an oath promising to protect Buddhists [fn:britannica_dharmapala]
+
+This pattern reveals that the pre-Buddhist spirit ecology was not
+replaced but *incorporated* --- spirits became oath-bound protectors
+(dam can) while retaining their territorial functions.
+
+* Part 3: Functional Mapping for Aburaya (Verified)
+
+** Mapping Methodology
+
+Each Aburaya archetype is grounded in verified ethnographic
+observations from at least two Himalayan regions. Confidence is
+assessed per mapping.
+
+** 3.1 Guardian (Territorial Protector)
+
+| Himalayan Source | Agent Type   | Evidence                                          |
+|------------------+--------------+---------------------------------------------------|
+| Kullu devta      | Village deity| Owns land, adjudicates disputes [fn:kulludussehra]|
+| Tibetan yul lha  | Territory god| Protects valley, enforces norms [fn:academia_yullha]|
+| Kinnaur devta    | Regional lord| Oversees agriculture, justice [fn:kinnaur_govt]   |
+| Ladakh btsan     | Path guardian| Controls territorial roads [fn:iias_ghostroads]   |
+
+*Mapping confidence*: STRONG. The guardian archetype maps directly to
+the most universal Himalayan spirit type --- the territorial protector
+bound to a specific place. This is the best-attested mapping.
+
+** 3.2 Wanderer (Boundary-Crossing, Ambiguous Spirit)
+
+| Himalayan Source | Agent Type   | Evidence                                         |
+|------------------+--------------+--------------------------------------------------|
+| Lahaul jogini    | Flying spirit| Travels between regions, holds assemblies [fn:diserens]|
+| Tibet the'u rang | Sky spirit   | Moves through air [fn:rigpawiki]                 |
+| Nepal ban jhankri| Forest spirit| Half-human, half-animal; forest-dwelling [fn:jhankri_wiki]|
+| Tibet btsan      | Road spirit  | Travels invisible roads between settlements [fn:iias_ghostroads]|
+
+*Mapping confidence*: MODERATE. The wanderer maps to spirits that
+cross territorial boundaries --- jogini assembling from Lahaul, Chamba,
+and Tibet; btsan travelling roads between villages; ban jhankri
+roaming forests. Unlike the guardian, these spirits are mobile and
+often dangerous.
+
+** 3.3 Flow Spirit (Water/Element Controller)
+
+| Himalayan Source | Agent Type    | Evidence                                        |
+|------------------+---------------+-------------------------------------------------|
+| Kullu nag devta  | Water deity   | Rules springs/rivers, brings rain [fn:ignca]    |
+| Ladakh lu (klu)  | Water spirit  | Controls water, shape-shifts [fn:harvard_water] |
+| Tibet klu        | Underground   | Guards treasure in lakes [fn:naga_wiki]         |
+| Nepal naga       | Pond guardian | Gilded snake pillars at all ponds [fn:insidehimalayas]|
+
+*Mapping confidence*: STRONG. The naga/klu complex is pan-Himalayan
+with verified instances in every surveyed region. Water spirits control
+flow, guard resources, and punish disturbance.
+
+** 3.4 Specialist (Domain Expert / Craft Spirit)
+
+No directly equivalent Himalayan spirit type maps cleanly to the
+specialist archetype. Possible indirect mappings:
+
+- *Maskarinec's shaman oral texts*: mantras and formulas constitute a
+  specialised knowledge system, but the knowledge-holder is human, not
+  a spirit [fn:maskarinec]
+- *Tibet gnyan*: spirits of specific material domains (rock, tree,
+  water) could map to domain specialists, but they are more
+  territorial than knowledge-bearing [fn:perfumedskull]
+- *Nepal jyotishi*: astrologer-healers hold specialised knowledge, but
+  again these are human practitioners [fn:culturalsurvival]
+
+*Mapping confidence*: WEAK. This appears to be a genuine gap --- the
+Himalayan spirit ecology organises around territory and element rather
+than specialised knowledge domains. If the specialist archetype is
+retained, it may need to draw from the *human* specialist traditions
+(gur, jhankri, lama) rather than spirit types.
+
+** 3.5 Medium (Bridge Between Worlds)
+
+| Himalayan Source | Agent Type  | Evidence                                          |
+|------------------+-------------+---------------------------------------------------|
+| Kullu gur        | Oracle      | Possessed by devta, delivers judgments [fn:mysterioushimachal_gur]|
+| Ladakh lha-pa/mo | Oracle      | Heals through possession [fn:jammu_oracles]       |
+| Tibet kuten      | State oracle| Possessed by Pehar [fn:nechung_wiki]              |
+| Nepal dhami      | Medium      | Vehicle for deity [fn:culturalsurvival]            |
+| Matho Rongtsan   | Monk oracle | Monks prepared by meditation [fn:matho_wiki]      |
+
+*Mapping confidence*: STRONG. The medium archetype maps to the most
+distinctive Himalayan institution --- the human oracle who serves as
+bridge between spirit and community. This is verified across all five
+surveyed regions.
+
+** 3.6 Diagnostic (Identifying Causes of Affliction)
+
+| Himalayan Source | Agent Type    | Evidence                                        |
+|------------------+---------------+-------------------------------------------------|
+| Kullu gur        | Devta-oracle  | Diagnoses through trance [fn:mysterioushimachal_gur]|
+| Ladakh lha-pa    | Healer-oracle | Illness caused by malicious spirits [fn:jammu_oracles]|
+| Nepal jhankri    | Direct healer | Uses own powers to diagnose [fn:culturalsurvival]|
+| Nepal dhami      | Medium-healer | Traces illness to spiritual disturbance [fn:nepal_healing]|
+
+*Mapping confidence*: MODERATE. Diagnostic function exists across
+regions but is typically *combined with* the medium role rather than
+being a separate entity. The gur diagnoses *because* the devta speaks
+through them. The jhankri is a partial exception --- diagnosing through
+own powers rather than possession.
+
+** Summary Mapping Table
+
+| Aburaya Role | Primary Himalayan Source      | Confidence |
+|--------------+------------------------------+------------|
+| Guardian     | Devta, yul lha, btsan         | STRONG     |
+| Wanderer     | Jogini, the'u rang, ban jhankri| MODERATE  |
+| Flow Spirit  | Nag devta, klu, naga          | STRONG     |
+| Specialist   | (no direct spirit equivalent) | WEAK       |
+| Medium       | Gur, lha-pa, kuten, dhami    | STRONG     |
+| Diagnostic   | (subfunction of medium)       | MODERATE   |
+
+* Part 4: Comparison with WP-0003
+
+** 4.1 Agreements
+
+| WP-0003 Claim                                  | Verified? | Notes                                   |
+|-------------------------------------------------+-----------+-----------------------------------------|
+| 534 devtas in Kullu                             | YES       | District admin reference book [fn:kullu534]|
+| Raghunath Ji as paramount devta                 | YES       | Installed c. 1651 CE [fn:sahapedia]     |
+| Gur as oracle/medium                            | YES       | Documented across Kullu/Kinnaur [fn:mysterioushimachal_gur]|
+| Nag devta as water spirits                      | YES       | Descended from Basu Nag [fn:ignca]      |
+| Matho Nagrang oracles                           | YES       | Rongtsan possess monks [fn:matho_wiki]  |
+| Eight classes of spirits in Tibet               | YES       | lha 'dre sde brgyad [fn:rigpawiki]     |
+| Nechung as state oracle                         | YES       | Pehar/Dorje Drakden [fn:nechung_wiki]   |
+| Devta -> guardian mapping (strong)              | AGREE     | Best-attested mapping                   |
+| Jogini -> wanderer mapping (moderate)           | AGREE     | Confirmed ambiguous/mobile status       |
+| Nag devta -> flow spirit (moderate)             | UPGRADE   | Should be STRONG, pan-Himalayan         |
+| Gur -> medium mapping (strong)                  | AGREE     | Verified across 5 regions               |
+
+** 4.2 Disagreements and Corrections
+
+| WP-0003 Claim                               | Issue                                        |
+|----------------------------------------------+----------------------------------------------|
+| Chetwode (1972) as primary Kullu source      | Chetwode is a *travel writer*, not an ethnographer. Her book covers temple architecture and personal observations, not systematic spirit taxonomy. Should be cited as travel literature, not ethnographic authority. |
+| Jogini as purely malevolent                  | In Kullu, jogini "ranks as high as any deota" [fn:diserens]. Status is ambiguous, not purely negative. |
+| Specialist mapping as "weak/no equivalent"   | AGREE this is weak, but WP-0003 does not explore *why*. The reason: Himalayan spirits organise by territory and element, not by knowledge domain. |
+| Oracle -> diagnostic as separate category    | Diagnostic is typically a *subfunction* of the medium, not a separate role. The gur diagnoses because the devta possesses them. |
+
+** 4.3 Gaps in WP-0003
+
+| Gap                                          | What this survey adds                        |
+|----------------------------------------------+----------------------------------------------|
+| Btsan/ghost roads in Ladakh                  | Detailed account of tsanlam, red stones, territorial marking [fn:iias_ghostroads] |
+| Taming narrative as cross-regional pattern   | Padmasambhava's incorporation of pre-Buddhist spirits is a structural pattern, not just Tibetan history |
+| Naga continuum across all regions            | Verified same complex under different names in 5 regions |
+| Peters' Tamang shamanism                     | Four-stage initiation, "crazy possession" calling [fn:peters] |
+| Maskarinec's shaman oral texts               | Mantras carry semantic meaning; coherent cosmological system [fn:maskarinec] |
+| Samuel's "civilised shamans" thesis          | Shamanic and clerical Buddhism as dynamic amalgam [fn:samuel] |
+| Kinnaur Yulsha/Dabla cults                   | Trans-Himalayan cults with Tibetan cognates [fn:kinnaur_govt] |
+| Seasonal migration of deities                | Documented in Kinnaur [fn:aguidetohimachal]  |
+
+** 4.4 WP-0003 Source Verification
+
+| Source Named in WP-0003           | Verified as Real? | Notes                                    |
+|-----------------------------------+-------------------+------------------------------------------|
+| Chetwode, /Kulu/ (1972)          | YES               | Published by John Murray; on archive.org [fn:chetwode_goodreads] |
+| Nebesky-Wojkowitz (1956)         | YES               | /Oracles and Demons of Tibet/; on archive.org [fn:nebesky_amazon] |
+| Crook & Osmaston (1994)          | YES               | /Himalayan Buddhist Villages/; U. Bristol, 866pp [fn:crook] |
+| Samuel (1993)                    | YES               | /Civilized Shamans/; Smithsonian [fn:samuel] |
+| Maskarinec (1995)                | YES               | /Rulings of the Night/; U. Wisconsin Press [fn:maskarinec] |
+| Peters (1981/1982)               | YES               | /Ecstasy and Healing in Nepal/; Undena Publications [fn:peters] |
+
+All six named sources in WP-0003 are confirmed as real published works
+with verifiable bibliographic details.
+
+* Part 5: Source Bibliography
+
+All sources accessed 2026-03-05 unless otherwise noted.
+
+** Primary Scholarly Works (verified as real, not read in full)
+
+[fn:nebesky_amazon] Nebesky-Wojkowitz, Rene de. /Oracles and Demons of Tibet: The Cult and Iconography of the Tibetan Protective Deities/. 1956. Reprint: Book Faith India, 1996. https://www.amazon.com/Oracles-Demons-Tibet-Iconography-Protective/dp/8173030391 ; also https://archive.org/details/oraclesdemonsoft0000rene
+
+[fn:samuel] Samuel, Geoffrey. /Civilized Shamans: Buddhism in Tibetan Societies/. Smithsonian Institution Press, 1993. https://www.amazon.com/Civilized-Shamans-Buddhism-Tibetan-Societies/dp/1560982314
+
+[fn:maskarinec] Maskarinec, Gregory G. /The Rulings of the Night: An Ethnography of Nepalese Shaman Oral Texts/. University of Wisconsin Press, 1995. https://www.amazon.com/Rulings-Night-Ethnography-Nepalese-Shaman/dp/0299144941
+
+[fn:peters] Peters, Larry G. /Ecstasy and Healing in Nepal: An Ethnopsychiatric Study of Tamang Shamanism/. Undena Publications, 1981. Also: "An Experiential Study of Nepalese Shamanism," /Journal of Transpersonal Psychology/ 13(1), 1981. https://www.atpweb.org/jtparchive/trps-13-81-01-001.pdf
+
+[fn:crook] Crook, John H. and Henry Osmaston, eds. /Himalayan Buddhist Villages: Environment, Resources, Society and Religious Life in Zangskar, Ladakh/. University of Bristol, 1994. 866pp. https://www.amazon.com/Himalayan-Buddhist-Villages-Environment-Resources/dp/8120812018
+
+[fn:chetwode_goodreads] Chetwode, Penelope. /Kulu: The End of the Habitable World/. John Murray, 1972. https://www.goodreads.com/book/show/8777661-kulu ; full text: https://archive.org/stream/KuluEndOfTheHabitableWorld/
+
+[fn:tucci_ref] Tucci, Giuseppe. /The Religions of Tibet/. University of California Press, 1980. Referenced via: "Spirits of the Soil, Land and Locality in Tibet," Brill's Encyclopedia of Buddhism, Vol. 2, 2019. https://www.academia.edu/85134196/
+
+** Online Scholarly and Institutional Sources
+
+[fn:sahapedia] "Kullu Dussehra of Himachal Pradesh." Sahapedia. https://www.sahapedia.org/kullu-dussehra-of-himachal-pradesh-0
+
+[fn:ignca] "Valley of Gods." Indira Gandhi National Centre for the Arts (IGNCA). https://ignca.gov.in/PDF_data/Valley_of_Gods.pdf
+
+[fn:perfumedskull] "Demon Directories: On Listing and Living with Tibetan Worldly Spirits." A Perfumed Skull, 2016. https://perfumedskull.com/2016/06/05/demon-directories-on-listing-and-living-with-tibetan-worldly-spirits/
+
+[fn:rigpawiki] "Eight classes of gods and demons." Rigpa Wiki. https://www.rigpawiki.org/index.php?title=Eight_classes_of_gods_and_demons
+
+[fn:tbe_eight] "Eight classes of gods and demons." Tibetan Buddhist Encyclopedia. https://tibetanbuddhistencyclopedia.com/en/index.php/Eight_classes_of_gods_and_demons
+
+[fn:tbe_protectors] "The Protective Deities: Their Classification, Appearance and Attributes." Tibetan Buddhist Encyclopedia. https://tibetanbuddhistencyclopedia.com/en/index.php?title=THE_PROTECTIVE_DEITIES_THEIR_CLASSIFICATION,_APPEARANCE_AND_ATTRIBUTES
+
+[fn:academia_yullha] "Spirits of the Soil, Land and Locality in Tibet (sa bdag, gzhi bdag, yul lha)." Brill's Encyclopedia of Buddhism, Vol. 2, 2019. https://www.academia.edu/85134196/
+
+[fn:iias_ghostroads] "Ghost Roads in Ladakh." International Institute for Asian Studies (IIAS), The Newsletter. https://www.iias.asia/the-newsletter/article/ghost-roads-ladakh
+
+[fn:harvard_water] "Water Spirits in a Desert: Serpentine Imagery and Ritual in Ladakh." Water Stories, Harvard University. https://waterstories.fas.harvard.edu/essays/water-spirits-in-a-desertbrserpentine-imagery-and-ritual-in-ladakh/
+
+[fn:culturalsurvival] "Among Spirits and Deities: Diverse Shamanisms in the Nepal Himalayas." Cultural Survival Quarterly. https://www.culturalsurvival.org/publications/cultural-survival-quarterly/among-spirits-and-dietiesdiverse-shamanisms-nepal
+
+[fn:himalaya_journal_oracle] "The Soteriological Context of a Tibetan Oracle." HIMALAYA Journal. https://digitalcommons.macalester.edu/cgi/viewcontent.cgi?article=2477&context=himalaya
+
+[fn:diserens] Diserens, Helene. "Yoginis of the Upper Kullu Valley." /Bulletin d'Etudes Indiennes/, 1991. Referenced via: https://tharahkardu.in/jogni-diserens-1991/
+
+[fn:aac_sacred] "The Sacred Himalaya." American Alpine Club Publications. https://publications.americanalpineclub.org/articles/12198712300/The-Sacred-Himalaya
+
+[fn:britannica_dharmapala] "Dharmapala." Encyclopaedia Britannica. https://www.britannica.com/topic/dharmapala-Tibetan-Buddhist-deity
+
+** Government and Institutional Sources
+
+[fn:kullu534] "In Kullu Valley, 534 gods 'live' with people, says book." India TV News. https://www.indiatvnews.com/news/india/in-kullu-valley-534-gods-live-with-people-says-book-43335.html
+
+[fn:kulludussehra] "Kullu --- The Land of Devtas." Official website, Kullu Dussehra, HP Government. http://kulludussehra.hp.gov.in/kullu-the-land-of-devtas/
+
+[fn:instahimachal] "Congregation of Deities: All You Need to Know About Kullu Dussehra." InstaHimachal. https://instahimachal.com/blog/kullu-dussehra/
+
+[fn:kinnaur_govt] "Culture & Heritage." District Kinnaur, Government of Himachal Pradesh. https://hpkinnaur.nic.in/culture-heritage/
+
+[fn:matho_wiki] "Matho Monastery." Wikipedia. https://en.wikipedia.org/wiki/Matho_Monastery
+
+[fn:nechung_wiki] "Nechung Oracle." Wikipedia. https://en.wikipedia.org/wiki/Nechung_Oracle
+
+[fn:naga_wiki] "Naga." Wikipedia. https://en.wikipedia.org/wiki/N%C4%81ga
+
+[fn:jhankri_wiki] "Jhakri." Wikipedia. https://en.wikipedia.org/wiki/Jh%C4%81kri
+
+** Additional Online Sources
+
+[fn:mysterioushimachal_gur] "Devta ka Aavesh Ritual Himachal | Divine Possession Explained." Mysterious Himachal. https://mysterioushimachal.wordpress.com/2025/06/27/devta-ka-aavesh-ritual-himachal-divine-possession-explained/ ; also "Healing Through Faith." https://mysterioushimachal.wordpress.com/2025/06/12/healing-through-faith-how-himachali-devi-devtas-remove-evil-spirits/
+
+[fn:historified] "Ghunda Naag Devta: The Serpent Deity of Himachal Pradesh." Historified. https://historified.in/2025/01/25/ghunda-naag-devta-the-serpent-deity-of-himachal-pradeshs-spiritual-landscape/
+
+[fn:jammu_oracles] "The Oracles of Ladakh." Jammu.com. http://www.jammu.com/ladakh/article-oracles-of-ladakh.php
+
+[fn:tali_oracle] "A Magical Visit To A Traditional Tibetan Oracle For Faith Healing in Ladakh." Tali Landsman. https://talilandsmanart.com/2016/09/23/a-magical-visit-to-a-traditional-tibetan-oracle-for-faith-healing-in-ladakh/
+
+[fn:factsanddetails_bon] "Bon Religion." Facts and Details. https://factsanddetails.com/china/cat6/sub34/item216.html
+
+[fn:arunachal_bon] "Ancient Bon: The pre-Buddhist religion of the Trans-Himalayan region." The Arunachal Times. https://arunachaltimes.in/index.php/2025/10/05/ancient-bon-the-pre-buddhist-religion-of-the-trans-himalayan-region/
+
+[fn:insidehimalayas] "The Origins and Legends of the Naga Serpents and Nag Panchami." Inside Himalayas. https://www.insidehimalayas.com/the-origins-and-legends-of-the-naga-serpents-and-nag-panchami/
+
+[fn:kurdish_studies] "Evolution and Role of the Devi and Devta Institution in Himachal Pradesh." Kurdish Studies Journal (downloaded PDF). https://kurdishstudies.net/menu-script/index.php/KS/article/download/3327/2256/6261
+
+[fn:nepal_healing] "Traditional Healers and Mental Health in Nepal: A Scoping Review." PMC/NIH. https://pmc.ncbi.nlm.nih.gov/articles/PMC7680349/
+
+[fn:nepal_folklore] "Nepalese Folklore." Wikipedia. https://en.wikipedia.org/wiki/Nepalese_folklore
+
+[fn:spiti_monastery] "Kungri Monastery." Wanderon. https://wanderon.in/blogs/kungri-monastery-in-spiti
+
+[fn:aguidetohimachal] "Living Deities of Himachal Pradesh." A Guide to Himachal. https://aguidetohimachal.com/living-deities-of-himachal-pradesh-divine-traditions-that-walk-among-us/
