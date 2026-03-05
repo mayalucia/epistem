@@ -1,0 +1,1618 @@
+#+title: Spirit Ecology of the Transborder Himalaya
+#+subtitle: A Cartographer's Survey for Stories, Agent Ontology, and Digital Twin
+#+author: mu2tau + vadda-opus (epistem-guardian)
+#+date: 2026-03-02
+#+property: status unverified
+#+startup: overview
+#+options: toc:3 num:t
+
+#+begin_quote
+Epistemic notice: This document was initially composed from training
+knowledge (cutoff May 2025). A partial web verification pass was
+performed, confirming key claims (534 Kullu devtas, Kinnaur gur/grokch
+system, Hunza bitan/dayal terminology, Matho Nagrang oracles, Spiti
+Lhalung devta, Malana Jamlu governance). Many claims still require
+verification against cited sources — particularly page numbers, editions,
+and the less-documented regions (upper Kinnaur, Pin Valley, Pamirs).
+
+Confidence levels are marked throughout: *established* (well-attested
+in multiple sources or verified via web), *likely* (consistent with
+known sources), *inferred* (extrapolated from related material), *gap*
+(insufficient knowledge, fieldwork needed).
+
+This is a working cartographer's sketch — sufficient depth for story
+composition and agent naming, not for ethnographic publication.
+#+end_quote
+
+* Purpose
+
+This survey maps the spirit ecology of the Western Himalaya — from the
+Pamirs through Karakoram, Ladakh, Zanskar, Spiti, Kinnaur, Kullu, and
+into the Nepal Himalaya. It serves three concrete purposes:
+
+1. *Story composition*: vocabulary, geography, and customs for stories
+   set across the transborder Himalaya
+2. *Agent ontology*: grounded functional mapping from Himalayan spirit
+   types to Aburaya archetypes
+3. *Digital twin*: a spirit-ecology data layer encoding human-landscape
+   interaction at depth no geophysical sensor reaches
+
+The survey follows WP-0003. Its output feeds WP-0004 (gazetteer schema)
+and enriches the story-compose power (=aburaya/powers/story-compose.md=).
+
+* Part 1: Regional Spirit Taxonomies
+
+** 1.1 Kullu Valley (Himachal Pradesh)
+
+The Kullu valley sustains one of the densest living devta systems in
+the Himalaya. The district administration recognises approximately 534
+devtas — village deities with juridical standing, temple estates, and
+ritual calendars. [confidence: *established*]
+
+*** Spirit Types
+
+**** Devta (देवता) — Village Deities
+
+The devta is not an abstraction but a juridical person. Each devta
+owns land (recorded in revenue records), maintains a temple estate,
+employs ritual specialists, and adjudicates community disputes through
+oracular trance. The devta's jurisdiction maps to a territorial unit
+— typically a village or cluster of hamlets. [*established*; Chetwode
+1972, Rosser 1955 fieldwork]
+
+Key devtas include:
+- *Raghunath ji* — the paramount devta of Kullu, installed by Raja
+  Jagat Singh in the 17th century. All other devtas are nominally
+  subordinate. His temple in Kullu town is the centre of the Dussehra
+  rath festival. [*established*]
+- *Hadimba Devi* (Dhungri temple, Manali) — the rakshasi-turned-goddess,
+  consort of Bhima. A temple of extraordinary wooden architecture in a
+  deodar grove. [*established*]
+- *Jamlu Devta* (Malana) — the deity of Malana village, which claims
+  democratic self-governance under Jamlu's authority. Malana's legal
+  system operates through Jamlu's oracle. Outsiders historically
+  forbidden to touch village structures. [*established*]
+- *Shringa Rishi* (Banjar) — associated with the sage Shringa, whose
+  jurisdiction extends over a large area of the Tirthan/Banjar valleys.
+  [*likely*]
+
+The devta system is not purely Hindu. Many devtas are pre-Vedic local
+deities who were incorporated into a Hindu framework. Their rituals
+retain non-Sanskritic elements: animal sacrifice (now contested),
+oracular possession, and procession customs that have no Vedic
+parallel. [*established*; this is the scholarly consensus]
+
+**** Nāg Devta (नाग देवता) — Serpent Spirits
+
+Water spirits associated with springs, streams, lakes, and underground
+water sources. In Kullu, nāg worship is ubiquitous — nearly every
+significant water source has a nāg association. [*established*]
+
+- Associated with fertility, rainfall, and the health of water sources
+- Propitiated before digging, well-sinking, or construction near water
+- Offending a nāg (polluting a spring, cutting a tree near a spring)
+  causes skin disease, crop failure, or drought [*likely*]
+- Buddhi Nagin (the Old Serpent Goddess) resides at Serolsar Lake
+  above Jalori Pass — a key figure in the project's stories [*established*]
+
+**** Gur (गूर) — Oracle/Medium
+
+The gur is the devta's voice — a human who enters trance and speaks
+as the devta. This is not metaphorical: the community understands the
+gur's utterances in trance as the devta's direct speech. [*established*]
+
+The gur tradition is hereditary in some cases, selected by the devta
+in others. During festivals and crises, the gur enters trance
+(typically accompanied by drumming), shakes violently, and delivers
+pronouncements on community matters: disputes, agricultural decisions,
+illness diagnosis, auspicious timing. [*established*]
+
+**** Jogini (जोगिनी) — Wandering Female Spirits
+
+Female spirits associated with specific places but not bound to
+territorial jurisdiction the way devtas are. More mobile, more
+ambiguous in disposition. In some traditions, joginis are the spirits
+of women who died without proper rites, or ascetics who achieved a
+particular spiritual state. [*likely*; thinner source material]
+
+In the Aburaya context, the jogini maps to the wandering-practice
+archetype — a spirit that carries a skill across territories rather
+than guarding one place. [project interpretation]
+
+**** Bajantri (बजन्त्री) — Ritual Musicians
+
+Not spirits themselves but the human specialists who enable spirit
+contact. Bajantris play specific instruments (dhol, nagara, shehnai,
+karnal) whose rhythmic patterns are understood to invoke and sustain
+the devta's presence in the gur. Without bajantris, the gur cannot
+enter trance. [*established*]
+
+**** Kardar (करदार) — Temple Steward
+
+The administrative manager of a devta's estate — handles finances,
+organises festivals, maintains the temple. A civic role with spiritual
+authority. [*established*]
+
+**** Pret (प्रेत) — Restless Dead
+
+Spirits of those who died violently, untimely, or without proper
+funerary rites. Prets are dangerous — they cause illness, madness,
+and misfortune. Exorcism requires the devta's intervention through the
+gur. [*established*; pan-South-Asian category]
+
+*** Landscape Associations
+
+| Landscape feature | Spirit association | Notes |
+|-------------------+--------------------+-------|
+| Village territory | Devta jurisdiction | One devta per territorial unit |
+| Spring / water source | Nāg devta | Nearly universal in Kullu |
+| Hot spring (kund) | Liminal space, nāg | Manikaran: where the earth leaks heat |
+| Deodar grove | Temple site, sacred grove | Hadimba's grove at Dhungri |
+| Mountain pass | Transition between jurisdictions | Jalori Pass: Buddhi Nagin above |
+| River gorge | Powerful, dangerous | Parvati gorge: geothermal, nāg territory |
+| Glacier head | Source-spirits | Pin Parvati: where water begins |
+
+*** Human Interfaces
+
+- *Rath festival*: Chariot processions where devtas "visit" each other.
+  The Kullu Dussehra is the largest: Raghunath ji receives tributary
+  devtas from across the valley, carried on palanquins (raths). This
+  is simultaneously a religious festival, a political assembly, and
+  an agricultural calendar marker. [*established*; major tourist event,
+  well-documented]
+- *Gur trance protocol*: Drumming by bajantris → gur trembles → full
+  trance → devta speaks → community questions → pronouncement →
+  recovery. The trance is publicly witnessed. [*established*]
+- *Dispute resolution*: Community disputes (land, water, marriage) are
+  brought before the devta via the gur. The devta's pronouncement has
+  customary legal force. [*established*; documented conflict with state
+  legal system]
+
+*** Diagnostic Functions
+
+The devta system encodes:
+- *Water management*: nāg worship protects springs and water sources
+  from pollution and overexploitation. Taboos against contamination
+  are enforced by fear of nāg displeasure. [*established*]
+- *Forest conservation*: sacred groves (devta forests) are protected
+  from logging. These are often old-growth deodar forests. [*established*]
+- *Social cohesion*: the rath festival system creates inter-village
+  alliances through ritual exchange. Devta "friendships" and "enmities"
+  encode historical relationships between communities. [*likely*]
+- *Psychological diagnosis*: illness attributed to pret or devta
+  displeasure is diagnosed through the gur. While the ontology is
+  spiritual, the diagnostic process functions as community-level
+  psychological assessment — the gur names the problem publicly.
+  [*inferred*; standard interpretation in medical anthropology]
+
+*** Key Sources (to verify)
+
+- Chetwode, Penelope. /Kulu: The End of the Habitable World/. London:
+  John Murray, 1972.
+- Rosser, Colin. Ethnographic fieldwork in Kullu villages, 1950s.
+  [*need specific publication details*]
+- Postel, M., A. Neven & K. Mankodi. /Antiquities of Himachal/. Mumbai:
+  Marg Publications, 1985.
+- Ramnath, Madhu. /Woodsmoke and Leaf Cups/. HarperCollins India.
+  [*primarily Baiga, but relevant to sacred grove conservation*]
+- Singh, K.S. (ed.). /People of India: Himachal Pradesh/. Anthropological
+  Survey of India. [*likely contains systematic devta data*]
+
+*** Gaps
+
+- Exact number of registered devtas (534 is widely cited but I cannot
+  verify the source of this census)
+- Detailed gur protocols: variations between valleys, between devtas
+- The economics of the devta estate system: how temple lands are managed
+- Post-independence changes: state encroachment on devta jurisdiction
+- The specific devtas of the Parvati valley (important for Parbati
+  digital twin) — names, jurisdictions, relationships
+
+
+** 1.2 Kinnaur (Himachal Pradesh)
+
+Kinnaur sits between Hindu Kullu and Buddhist Spiti — a border region
+where both systems interpenetrate. The lower Kinnaur valleys are Hindu-
+dominant; upper Kinnaur (approaching the Tibet border) is increasingly
+Buddhist. The transition is not abrupt but layered. [*established*]
+
+*** Spirit Types
+
+**** Devta System (lower Kinnaur)
+
+The devta system resembles Kullu's but with distinctive features:
+- Local deities with temple estates and oracular traditions
+- More visible Buddhist influence even in "Hindu" villages — Buddhist
+  prayer flags alongside Hindu temples [*likely*]
+- Kinnauri deities include local forms of Durga, Shiva, and Vishnu,
+  but also pre-Hindu spirits of uncertain classification [*likely*]
+
+**** Buddhist Spirit Categories (upper Kinnaur)
+
+As one moves toward the Tibet border, the spirit taxonomy shifts
+toward Tibetan categories:
+- *Lha* (ལྷ) — territorial deities, mountain gods
+- *Klu/Lu* (ཀླུ) — water spirits (cognate with nāga)
+- *Gnyan* (གཉན) — spirits of rocks and trees
+
+These coexist with Hindu categories without clear boundary. A village
+may propitiate both a devta and a klu at different seasonal moments.
+[*inferred*; based on similar dynamics documented in Ladakh and Lahaul]
+
+**** Nāg Worship
+
+Nāg worship is pervasive throughout Kinnaur, bridging the Hindu-
+Buddhist divide. Serpent spirits of high-altitude lakes are recognised
+by both traditions. The nāg/klu equivalence makes this one of the
+easiest spirit categories to trace across the cultural boundary.
+[*likely*]
+
+*** Landscape Associations
+
+| Feature | Spirit association | Notes |
+|---------+--------------------+-------|
+| Kinnaur Kailash (6,500m) | Shiva's winter residence | Parikrama (circumambulation) pilgrimage route [*established*] |
+| Nako Lake | Buddhist sacred, likely klu association | Near Nako village, upper Kinnaur [*inferred*] |
+| Sutlej gorge | Dangerous passage, spirit territory | The gorge marks a geological and cultural boundary |
+| Sacred deodar groves | Devta forests | Similar to Kullu; conservation function |
+| Baspa Valley (Sangla) | Mixed Hindu-Buddhist | Kamru fort: the castle-temple complex |
+| Shipki La (trade route) | Pass spirits, border guardians | Trade route to Tibet, now restricted |
+
+*** Human Interfaces
+
+- *Oracle/medium tradition (gur/grokch)*: Kinnaur has a living oracle
+  tradition continuous with Kullu's gur system. Oracles are known
+  locally as *malis*, *gur*, or *grokch*. During specific rituals, the
+  oracle enters trance and is possessed by the village deity, delivering
+  pronouncements understood as the deity's direct will. Every village of
+  Kinnaur has its own local deity governing daily life through this
+  oracle system. [*established*; verified via web research, Kinnaur
+  tourism documentation]
+- *Mask dances*: Kinnauri Buddhist festivals include mask dances (cham)
+  where wrathful deities and spirits are enacted. These are shared with
+  Spiti and Ladakh. [*established*]
+- *Dual priesthood*: in transitional villages, both Hindu pujaris and
+  Buddhist lamas serve — sometimes within the same festival calendar.
+  [*likely*; documented in Lahaul, probably applies here too]
+- *Flaich/Fulaich Ukhayang festival*: A festival of flowers celebrated
+  in September. The village deity is carried in procession with a band.
+  A he-goat is sacrificed. A highlight is when the priest utters an
+  incantation causing the grokch/gur to be possessed by the divine
+  spirit, uttering the commands of the deity while temple musicians
+  play. [*established*; verified via web research]
+- *Kinnauri polyandry*: the fraternal polyandry practiced in parts of
+  Kinnaur has been linked by some scholars to resource management in
+  harsh mountain environments. Whether the spirit system encodes or
+  legitimates this social arrangement requires fieldwork. [*gap*]
+
+*** Diagnostic Functions
+
+- *Border mediation*: the spirit system mediates the Hindu-Buddhist
+  boundary, providing a shared vocabulary (nāg/klu) that transcends
+  the sectarian divide. [*inferred*]
+- *Trade route knowledge*: spirits of the passes encode dangers and
+  protocols for the Tibet trade route — now largely defunct since the
+  1962 border closure. [*inferred*]
+- *Altitude adaptation*: the shift from devta to lha with increasing
+  altitude tracks the ecological transition from temperate to trans-
+  Himalayan landscape. The spirit taxonomy is an altitude map. [*inferred*]
+
+*** Key Sources (to verify)
+
+- Harcourt, A.F.P. /The Himalayan Districts of Kooloo, Lahoul, and
+  Spiti/. 1871 (colonial-era ethnography). [*established source*]
+- Gergan, S.S. — Kinnauri scholar who documented local traditions.
+  [*need specific publications*]
+- Survey of India / Anthropological Survey volumes on Kinnaur. [*need
+  specific volumes*]
+
+*** Gaps
+
+- Oracle/medium practice in Kinnaur: is there a gur equivalent?
+- Specific devtas of the Baspa valley (for the Instrument Maker story)
+- The effect of the 1962 border closure on spirit traditions
+- Buddhist-Bön substrate in upper Kinnaur — how deep does it go?
+- Kinnaur Kailash parikrama: what spirits are encountered along the way?
+
+
+** 1.3 Spiti and Lahaul (Himachal Pradesh)
+
+Spiti is a high desert valley (3,800-4,500m) on the Tibetan side of
+the main Himalayan range — geographically, climatically, and culturally
+closer to Tibet than to the Indian plains. Lahaul sits between Spiti
+and Kullu, spanning the cultural transition. [*established*]
+
+*** Spirit Types
+
+Spiti uses the Tibetan spirit taxonomy, locally inflected:
+
+**** Lha (ལྷ) — Mountain/Territorial Deities
+
+Mountain gods who guard valleys and communities. Each major peak has
+a lha. The lha is propitiated with smoke offerings (sang) at cairns
+(la-btsas) and on high ground. [*established*; standard across
+Tibetan cultural zone]
+
+**** Klu/Lu (ཀླུ) — Water Spirits
+
+Critically important in Spiti's arid landscape. The klu control water —
+springs, snowmelt, the Spiti River itself. Offending klu causes drought,
+spring failure, or flooding. Propitiation involves offerings at water
+sources and avoiding pollution of springs. [*established*]
+
+In an arid landscape at 4,000m, water is the limiting resource. The
+klu traditions encode water management knowledge with existential
+urgency. [*inferred*]
+
+**** Sa-bdag (ས་བདག) — Earth Lords
+
+Spirits of the ground, disturbed by digging, construction, ploughing.
+Before any earthwork, sa-bdag must be propitiated. In Spiti's fragile
+mountain terrain, where a wrong cut can trigger landslides, the sa-bdag
+tradition encodes geological caution. [*established*; standard Tibetan]
+
+**** Btsan (བཙན) — Warrior/Cliff Spirits
+
+Aggressive spirits associated with red rocks, cliffs, and sites of
+violent death. Btsan are dangerous and require strong ritual to manage.
+In Spiti's dramatic cliff landscapes (Dhankar, Ki), btsan associations
+would be natural. [*likely*; specific Spiti btsan sites need fieldwork]
+
+**** Dharma Protectors (chos-skyong)
+
+Fierce deities incorporated into Buddhist practice — originally local
+spirits "tamed" by Buddhist masters (especially Padmasambhava and
+Rinchen Zangpo in this region) and bound as protectors of the dharma.
+The monastery murals at Tabo and Ki depict these figures prominently.
+[*established*]
+
+*** Lahaul: The Transition Zone
+
+Lahaul (Chandra-Bhaga valley) is the bridge between Hindu Kullu and
+Buddhist Spiti. The spirit ecology reflects this:
+
+- *Lower Lahaul* (Pattan valley): Hindu devta traditions, similar to Kullu
+- *Upper Lahaul* (near Keylong): Buddhist monasteries, Tibetan spirit categories
+- *Mixed villages*: both Hindu and Buddhist shrines, dual ritual calendars
+- *Markula Devi* (Udaipur): a major goddess temple in Lahaul, suggesting
+  a goddess-centred tradition predating both Hindu and Buddhist frameworks.
+  [*likely*]
+- *Raja Ghepan*: one of the major deities of Lahaul, widely worshipped
+  across the region. [*established*; verified via web research]
+
+**** Pre-Buddhist Religion: Lung Pe Chhoi
+
+Before adapting to Tibetan Buddhism and Hinduism, the people of Spiti
+followed a religion called *Lung Pe Chhoi*, derived from the Bön
+religion of Tibet. This was associated with shamanic rituals of medicine
+men (amchis). Remnants survive in folk practice alongside Buddhist
+observance. [*established*; verified via web research]
+
+**** Lhalung Devta
+
+In Lhalung village, the Lhalung Devta is said to be the head of all
+the devtas of the valley. The devta emerges from the Tangmar mountain,
+which changes colour depending on the deity's moods — red showing anger,
+yellow showing happiness. This is a striking example of the devta system
+extending into nominally Buddhist Spiti, suggesting a pre-Buddhist
+substrate. [*established*; verified via web research]
+
+The Lahaul transition is geographically abrupt — the Rohtang Pass
+(3,978m) separates the lush Kullu valley from the stark Chandra valley.
+Spirit ecologies on either side of the pass differ sharply.
+[*established*: the ecological transition is documented; the spirit
+ecology transition is *inferred*]
+
+*** Landscape Associations
+
+| Feature | Spirit association | Notes |
+|---------+--------------------+-------|
+| Ki (Kye) Monastery | Dharma protectors; tamed local spirits | Dramatic cliff-top location [*established*] |
+| Tabo Monastery | The "Ajanta of the Himalayas" — 1000-year-old murals of spirits and protectors | Founded by Rinchen Zangpo, 996 CE [*established*] |
+| Dhankar Monastery | Cliff fortress; btsan territory | Precarious sandstone perch above confluence [*likely*] |
+| Chandratal (Moon Lake, 4,300m) | Sacred, likely klu/nāg | High-altitude glacial lake [*inferred*] |
+| Suraj Tal (Sun Lake) | Sacred, near Baralacha La | Source of the Chandra river [*likely*] |
+| Kunzum Pass (4,590m) | Passage spirits; la-btsas cairns | Gateway between Lahaul and Spiti [*established*] |
+| Pin Valley | Isolated tributary; Pin Valley National Park | Snow leopard country; spirit traditions [*gap*] |
+| Spiti River gorge | Klu territory | The lifeline of the valley |
+
+*** Human Interfaces
+
+- *Monastic ritualists*: in Spiti, the Buddhist monasteries are the
+  primary interface with spirits. Monks perform propitiation, exorcism,
+  and seasonal rituals. The monastery is not just a religious centre but
+  a spirit-management institution. [*established*]
+- *Cham dances*: masked ritual dances at Ki, Tabo, and other monasteries.
+  Specific masks represent dharma protectors, wrathful deities, and
+  local spirits tamed by Buddhist masters. The dances are performed at
+  Losar (New Year) and specific calendar dates. [*established*]
+- *Losar celebrations*: Spiti follows the Tibetan calendar. Losar
+  involves elaborate spirit propitiation — driving out negative
+  energies, inviting beneficial spirits for the new year. [*established*]
+- *Lama Astrologer*: lamas serve as astrologers, determining auspicious
+  dates for planting, construction, and travel based partly on spirit
+  considerations (which sa-bdag are disturbed when, etc.). [*likely*]
+
+*** Diagnostic Functions
+
+- *Water management*: klu traditions in an arid landscape encode
+  critical water-source protection knowledge [*inferred*]
+- *Geological hazard*: sa-bdag traditions warn against digging in
+  unstable terrain — functionally sound in Spiti's landslide-prone
+  geography [*inferred*]
+- *Seasonal timing*: spirit calendars align with the agricultural cycle
+  in a valley with only ~100 frost-free days [*likely*]
+- *Trade route safety*: pass spirits encode knowledge of dangerous
+  crossings, weather patterns, avalanche risk [*inferred*]
+
+*** Key Sources (to verify)
+
+- Francke, A.H. /Antiquities of Indian Tibet/. 2 vols. Calcutta, 1914-1926.
+  [*established source* — covers Spiti and western Tibet]
+- Harcourt, A.F.P. /The Himalayan Districts of Kooloo, Lahoul, and Spiti/.
+  1871. [*established*]
+- Tucci, Giuseppe. Various works on western Himalayan Buddhist art and
+  monasteries. [*established scholar; need specific Spiti references*]
+- Klimburg-Salter, Deborah. /Tabo: A Lamp for the Kingdom/. 1997.
+  [*likely exists — major study of Tabo murals*]
+
+*** Gaps
+
+- Specific lha of Spiti peaks (which mountain has which spirit?)
+- Pin Valley spirit traditions — this isolated valley may preserve
+  older patterns
+- The relationship between monastery and village-level spirit practice
+  — how much does monastic Buddhism control vs. absorb folk traditions?
+- Lahaul's mixed traditions in detail: which villages are dual, how
+  do they manage the interface?
+
+
+** 1.4 Ladakh and Zanskar
+
+Ladakh (the "land of mountain passes") is culturally Tibetan — Buddhist
+monasteries, Tibetan spirit categories, and oracle traditions. Zanskar,
+its isolated sub-valley, preserves some of the most conservative forms.
+[*established*]
+
+*** Spirit Types
+
+The Ladakhi spirit taxonomy closely follows the Tibetan standard, with
+local inflections:
+
+**** Lha (ལྷ) — Mountain Gods/Territorial Deities
+
+Every village and every significant mountain has a lha. The lha is
+the lord of the territory — a protective spirit whose domain maps to
+geographical features. The lha is propitiated with smoke offerings
+(sang) and prayer flags. [*established*; Crook & Osmaston 1994]
+
+**** Klu/Lu (ཀླུ) — Water Spirits
+
+Cognate with Sanskrit nāga. Inhabit springs, lakes, and underground
+water. Klu are easily offended by water pollution, digging near
+springs, and disturbance of wet ground. Klu displeasure causes skin
+disease (leprosy, boils), drought, and infertility. [*established*;
+standard across Tibetan cultural zone]
+
+Specific associations:
+- Pangong Tso and Tso Moriri: high-altitude lakes with strong klu
+  associations [*likely*]
+- Every village spring has its klu [*established*]
+
+**** Btsan (བཙན) — Warrior Spirits of Red Rock
+
+Aggressive spirits of cliff faces, red rock, and sites of violent
+death. Btsan are among the most dangerous spirits — warlike,
+unpredictable, requiring strong ritual to contain. They are
+associated with the characteristic red-brown rock formations of
+Ladakh's geology. [*established*; Nebesky-Wojkowitz 1956]
+
+**** Sa-bdag (ས་བདག) — Earth Lords
+
+Lords of the ground. Must be consulted before any construction,
+ploughing, or earthwork. The lama-astrologer determines which sa-bdag
+are "awake" on which days, directing when and where digging is safe.
+In Ladakh's seismically active terrain, this encodes real geological
+caution. [*established*]
+
+**** 'Dre (འདྲེ) — Demons/Malevolent Spirits
+
+A broad category of harmful spirits causing illness, madness, and
+misfortune. 'Dre attack is diagnosed by the oracle or lama and treated
+through ritual exorcism. [*established*]
+
+**** Zhidak (གཞི་བདག) — Place Owners/Masters
+
+Spirits that "own" a specific place — not the territorial lha (who
+protects) but a more local presence that must be acknowledged. Every
+unusual geological formation, ancient tree, or uncanny spot has a
+zhidak. [*likely*; documented in Tibetan ethnography]
+
+**** Tsen (བཙན) — Cliff Spirits
+
+Sometimes conflated with btsan; in some traditions a separate category
+of crag-dwelling spirits. [*need clarification*: the btsan/tsen
+distinction may be dialectal rather than taxonomic]
+
+*** Landscape Associations
+
+| Feature | Spirit association | Notes |
+|---------+--------------------+-------|
+| Mountain passes (la) | Guardian spirits; la-btsas cairns | Every pass has a cairn; travellers add stones, hang flags |
+| Pangong Tso | Klu, sacred lake | Enormous high-altitude lake on India-China border |
+| Tso Moriri | Klu, sacred | Remote, high, deeply sacred |
+| Indus River | Major klu territory | The great river of Ladakh |
+| Zanskar River | Klu; the Chadar (frozen winter route) | In winter, the frozen river is the only route into Zanskar |
+| Hemis Monastery | Dharma protectors | Largest, wealthiest monastery in Ladakh |
+| Lamayuru | Ancient Bön site, "moonscape" | Bön associations predate Buddhist monastery [*likely*] |
+| Alchi | Ancient murals, tamed spirits | 11th-century murals depict spirit encounters |
+| Red cliffs throughout | Btsan territory | Ladakh's geology = btsan landscape |
+
+*** Human Interfaces
+
+**** Lha-mo and Lha-pa — Oracles
+
+Ladakh has a living oracle tradition. The lha-mo (female oracle) and
+lha-pa (male oracle) enter trance and are possessed by specific
+spirits — sometimes the village lha, sometimes a dharma protector.
+[*established*; Crook & Osmaston 1994]
+
+The oracle tradition in Ladakh is structurally parallel to the Kullu
+gur system: a human medium enters trance, a spirit speaks, the community
+consults. The key differences:
+- Ladakhi oracles operate within Buddhist institutional context
+- The possessing spirits include dharma protectors (Buddhist overlay)
+- Monks and lamas sanction and sometimes supervise the oracle [*likely*]
+- The oracle's role includes medical diagnosis, conflict resolution,
+  and agricultural advice — identical functions to the Kullu gur
+  [*established*]
+
+**** Monastic Ritual
+
+Monks perform regular spirit-management rituals:
+- *Sang* (smoke offerings): juniper and incense burned on high ground
+  to please lha and purify the atmosphere [*established*]
+- *Gtor-ma* offerings: sculpted torma offered to specific spirits
+  [*established*]
+- *Exorcism*: monks perform elaborate rituals to drive out 'dre and
+  negative influences [*established*]
+
+**** Festivals
+
+- *Losar* (New Year): major spirit-clearing and renewal festival
+- *Hemis Tse-Chu*: masked dances at Hemis monastery, depicting
+  Padmasambhava's taming of spirits [*established*; major tourist event]
+- *Matho Nagrang*: at the only Sakyapa sect monastery in Ladakh, two
+  monks (rongtsan) are chosen by lottery and undergo two months of
+  meditation, fasting, and isolation. During the festival, they enter
+  deep trance, believed possessed by deities, and perform extraordinary
+  feats: leaping between balconies, marching blindfolded around top-
+  story ramparts, making knife incisions on themselves. They predict
+  the future for individuals and the community. [*established*; verified
+  via web research — Matho Nagrang is well-documented]
+
+**** Amchi — Traditional Medicine
+
+Amchi (traditional Tibetan-derived medicine) diagnoses some illnesses as
+spirit-caused ('dre attack, klu displeasure). The amchi may refer such
+cases to the oracle or lama for ritual treatment. [*likely*]
+
+*** Diagnostic Functions
+
+- *Water source protection*: klu traditions protect the scarce water
+  sources in Ladakh's desert landscape [*established*]
+- *Construction safety*: sa-bdag consultation prevents earthwork in
+  unstable terrain [*inferred*; same logic as Spiti]
+- *Psychological health*: oracle consultation provides community-
+  sanctioned space for expressing and processing distress [*inferred*]
+- *Seasonal calendar*: spirit-based timing encodes agricultural and
+  pastoral knowledge [*likely*]
+
+*** Key Sources (to verify)
+
+- Crook, John & Henry Osmaston. /Himalayan Buddhist Villages/.
+  University of Bristol Press, 1994. [*established*; the standard
+  reference for Ladakhi village life]
+- Gutschow, Kim. /Being a Buddhist Nun: The Struggle for
+  Enlightenment in the Himalayas/. Harvard UP, 2004. [*established*;
+  covers Zangskar women's religious life]
+- Kaplanian, Patrick. Works on Ladakhi religion and society.
+  [*need specific titles*]
+- Day, Sophie. /Embodying Spirits/ or similar — fieldwork on Ladakhi
+  oracles. [*uncertain*; need to verify]
+
+*** Gaps
+
+- Specific lha of specific mountains (which mountain, which spirit,
+  what character?)
+- Zanskar-specific traditions (is Zanskar just "conservative Ladakh"
+  or are there unique features?)
+- The Chadar route spirits — what do travellers propitiate on the
+  frozen river?
+- Lamayuru's Bön substrate — what survives beneath the Buddhist layer?
+- How the oracle tradition is changing with modernisation and tourism
+
+
+** 1.5 Tibet and Bön
+
+The Tibetan spirit taxonomy is the most elaborated in the Himalayan
+world — a vast, systematic classification that was partially codified
+by Bön practitioners and partially absorbed into Buddhist ritual.
+Nebesky-Wojkowitz (1956) remains the standard Western reference.
+[*established*]
+
+*** Spirit Types
+
+**** Yul-lha (ཡུལ་ལྷ) — Country Gods
+
+Territorial spirits of landscape features — mountains, valleys, entire
+regions. The yul-lha is the genius loci, the spirit of the place
+itself. Major mountains have named yul-lha:
+- *Nyenchen Tanglha* — the great mountain god of central Tibet,
+  controlling weather and the wellbeing of the surrounding region
+  [*established*]
+- *Amnye Machen* — the mountain god of the Golok Tibetan region
+  [*established*]
+- Every village has its local yul-lha, typically the most prominent
+  nearby mountain [*established*]
+
+**** Sa-bdag (ས་བདག) — Earth Lords
+
+The lords of the soil. A complex system of earth spirits who "rule"
+different patches of ground on rotating schedules. Tibetan almanacs
+specify which sa-bdag is active where on each day, making them a
+calendar-based navigational system for earthwork. [*established*]
+
+**** Klu (ཀླུ) — Water Spirits
+
+Cognate with Sanskrit nāga. Control all water — springs, lakes, rivers,
+rain, underground water. The klu realm is the underworld/underwater
+world, sometimes depicted as a wealthy kingdom. Klu displeasure causes
+skin disease and drought. Klu worship involves offerings at water
+sources and strict prohibitions against pollution. [*established*]
+
+**** Btsan (བཙན) — Warrior Spirits
+
+Red, fierce, mounted on red horses. Associated with red rock, cliffs,
+and violent death. The btsan are aggressive spirits that attack
+travellers and communities. They require strong ritual containment.
+Some were "tamed" by Padmasambhava and converted into dharma
+protectors. [*established*; Nebesky-Wojkowitz 1956]
+
+**** Gnyan (གཉན) — Spirits of Trees and Rocks
+
+The gnyan inhabit the intermediate zone — trees, boulders, rock
+outcrops. They are "touchier" than lha but less aggressive than btsan.
+Cutting a gnyan tree or disturbing a gnyan rock causes illness and
+misfortune. [*established*; Nebesky-Wojkowitz 1956]
+
+**** Dmu — Sky Spirits (Bön)
+
+In Bön cosmology, the dmu are sky spirits — associated with the upper
+realm. A dmu rope (dmu-thag) connects heaven and earth. This is a
+specifically Bön category, less prominent in Buddhist contexts.
+[*established*; Karmay on Bön]
+
+**** Ma-mo (མ་མོ) — Wrathful Female Spirits
+
+Associated with weather — hailstorms, epidemics, and collective
+disaster. Ma-mo attacks are understood as punishment for communal moral
+failings. They are particularly feared in agricultural regions where
+hail destroys crops. [*established*; Nebesky-Wojkowitz 1956]
+
+**** Srin-po (སྲིན་པོ) — Ogres/Rakshasas
+
+Powerful, dangerous beings of the wilderness — cannibalistic ogres
+inhabiting remote mountain areas. The Buddhist narrative of Tibet
+itself is a taming of srin-po: the land was wild and demon-infested
+before Buddhist civilisation. [*established*; foundational Tibetan
+Buddhist narrative]
+
+**** The-rang (ཐེའུ་རང) — Mischievous Spirits
+
+Minor spirits causing small-scale trouble — things going missing,
+minor illness, domestic annoyance. Less dangerous than btsan or 'dre
+but persistent. [*likely*]
+
+**** Chos-skyong (ཆོས་སྐྱོང) — Dharma Protectors
+
+Originally local spirits tamed by Buddhist masters and bound as
+protectors of the Buddhist teaching. The most important dharma
+protectors (Nechung, Palden Lhamo, Dorje Shugden) are major figures
+in Tibetan Buddhism with their own oracles and cults. [*established*]
+
+*** Bön Traditions Specifically
+
+Bön predates Buddhism in Tibet and classifies spirits differently:
+- The Bön cosmos has three realms: sky (lha), middle (gnyan/btsan),
+  and underworld (klu) — a vertical axis mapping to altitude
+  [*established*; Karmay]
+- Bön ritual specialists (gshen/shen) interact with spirits through
+  animal sacrifice, smoke offerings, and divination [*established*]
+- The Bön mountain cult: mountains as axis mundi, with the mountain
+  god as the primary territorial spirit [*established*]
+- Buddhism absorbed much of Bön's spirit taxonomy while claiming to
+  have "tamed" the spirits — what was absorbed, what was suppressed,
+  and what survived as folk practice is a major scholarly question
+  [*established debate*]
+
+*** Landscape Associations
+
+| Feature | Spirit association | Notes |
+|---------+--------------------+-------|
+| Sacred mountains | Yul-lha, mountain gods | Every major peak has a named spirit |
+| Namtso (lake) | Klu, sacred lake | One of Tibet's three great sacred lakes |
+| Manasarovar | Klu, cosmic significance | Near Mt Kailash; Hindu-Buddhist-Bön nexus |
+| Yamdrok Tso | Klu, turquoise lake | Central Tibet; life-force of Tibet |
+| Mountain passes | La-btsas cairns, passage spirits | Flags and stones mark every pass |
+| Red cliffs | Btsan territory | The colour is diagnostic |
+| Sacred sites (gnas) | Multiple spirit categories | Né sites are power places |
+| Burial grounds | 'Dre, pret-equivalents | Sky burial sites are spiritually charged |
+
+*** Human Interfaces
+
+**** State Oracles
+
+Tibet had the most institutionalised oracle tradition in the world:
+- *Nechung Oracle*: the state oracle of Tibet, consulted by the
+  Dalai Lama on matters of national importance. A monk at Nechung
+  monastery serves as medium for the protector deity Dorje Drakden.
+  [*established*; well-documented, continues in exile]
+- *Gadong Oracle*: another state-level oracle [*established*]
+- These represent the maximum institutionalisation of spirit-medium
+  practice — from village gur to state functionary [*inferred*]
+
+**** Smoke Offerings (sang/bsang)
+
+Juniper burnt on high ground, sending fragrant smoke to please the
+lha. A daily practice in many communities. [*established*]
+
+**** Prayer Flags (lung-ta)
+
+Flags inscribed with prayers and offerings to the wind. Functionally,
+they communicate with lha and disperse beneficial energy across the
+landscape. Placed at passes, on rooftops, at sacred sites. [*established*]
+
+**** Spirit-Taming Narratives
+
+The foundational narrative of Tibetan Buddhism: Padmasambhava (8th
+century) travelled through Tibet taming local spirits and binding them
+as dharma protectors. Every monastery has a "taming story" — the local
+spirits that Padmasambhava (or another master) subdued. These narratives
+map Buddhist authority onto pre-existing spirit geography. [*established*]
+
+*** Diagnostic Functions
+
+- *Weather prediction*: ma-mo traditions encode storm patterns
+- *Geological hazard*: sa-bdag and gnyan encode terrain knowledge
+- *Water management*: klu traditions protect water sources
+- *Political legitimacy*: state oracles provided divine sanction for
+  governance decisions
+- *Cosmological mapping*: the three-realm structure (sky/middle/under)
+  maps directly to altitude zones
+
+*** Key Sources (to verify)
+
+- Nebesky-Wojkowitz, René de. /Oracles and Demons of Tibet: The Cult
+  and Iconography of the Tibetan Protective Deities/. The Hague:
+  Mouton, 1956. Reprint: Kathmandu: Tiwari's Pilgrims Book House.
+  [*established*; the standard reference]
+- Karmay, Samten. /The Arrow and the Spindle: Studies in History,
+  Myths, Rituals and Beliefs in Tibet/. Kathmandu: Mandala Book Point,
+  1998. [*established*]
+- Tucci, Giuseppe. /The Religions of Tibet/. Allied Publishers, 1970.
+  [*established*]
+- Samuel, Geoffrey. /Civilized Shamans: Buddhism in Tibetan
+  Societies/. Smithsonian Institution Press, 1993. [*established*;
+  key theoretical work on shamanism and Buddhism in Tibet]
+
+*** Gaps
+
+- Regional variation within Tibet: how does the spirit ecology differ
+  between U-Tsang (central), Kham (east), and Amdo (northeast)?
+- Living Bön practice today: what survives in Bön monasteries vs.
+  in folk practice?
+- Specific mountain god characters: what is Nyenchen Tanglha's
+  personality, as distinct from Amnye Machen's?
+- The politics of spirit taxonomy under Chinese rule: suppression,
+  survival, transformation
+
+
+** 1.6 Karakoram and Pamirs
+
+The Karakoram and Pamir regions — Hunza, Gilgit, Baltistan (Pakistan),
+Chitral, and the Wakhan Corridor (Afghanistan/Tajikistan) — represent
+a different spirit tradition: Persian/Islamic overlay on older Central
+Asian shamanic practices. [*established*]
+
+*** Spirit Types
+
+**** Peri (پری) — Fairy Spirits
+
+The peri is the dominant spirit category in the Karakoram. Drawn from
+Persian mythology, peris are beautiful, powerful, capricious beings
+who inhabit high pastures, glaciers, and remote valleys. They are not
+the diminutive fairies of European tradition but formidable spirits.
+[*established*; the Persian peri tradition is well-documented, its
+Karakoram manifestation less so]
+
+Characteristics:
+- Inhabit high-altitude meadows and glacial areas
+- Beautiful, often female (but male peris exist)
+- Can help or harm humans, depending on whether they are pleased
+- Associated with altitude sickness, disorientation, and madness
+  at high altitude
+- "Fairy Meadows" (Jūt) at the base of Nanga Parbat literally named
+  for this tradition [*established*]
+
+**** Jinn (جن) — Islamic Spirit Category
+
+As Muslim communities, the Karakoram peoples also recognise the Islamic
+jinn taxonomy. Jinn and peri coexist, sometimes blurring:
+- Jinn: created from smokeless fire, can be good or evil
+- The Islamic framework provides a theological structure within which
+  older peri traditions are accommodated [*established*]
+
+**** Mountain Spirits
+
+Specific peaks have spirit reputations:
+- *Nanga Parbat* ("Naked Mountain" or "Killer Mountain"): one of the
+  most dangerous mountains in the world. Local traditions attribute the
+  mountain's hostility to malevolent spirits. The name Diamer (from
+  deo-mir = "abode of spirits/fairies") reflects this. [*likely*]
+- *Rakaposhi*: the "Mother of Mist" — visible from the Karakoram
+  Highway, with local spirit associations [*gap*: need specific
+  traditions]
+- *K2*: primarily known by Balti name Chogori. Local traditions
+  [*gap*: very thin on K2 spirit associations]
+
+**** Glacier and Avalanche Spirits
+
+In the Karakoram's glacier-dominated landscape, glacier behaviour is
+attributed to spirit agency:
+- Glacier surges (sudden advances) understood as spirit displeasure
+- Avalanche risk associated with disturbing mountain spirits
+- Altitude sickness attributed to peri or jinn contact
+[*inferred*; the pattern is consistent but I lack specific citations]
+
+*** Shamanic Traditions
+
+**** Bitan and Dayal (بِتان / دایال)
+
+Pre-Islamic shamanic practitioners survive in Hunza, Gilgit, and
+surrounding regions. The terminology is now confirmed through the work
+of H. Sidky ("Shamans and Mountain Spirits in Hunza"):
+
+- *Bitan*: the shaman in Burushaski (the Hunza language). The bitan
+  inhales smoke from burning juniper branches, dances to special music,
+  drinks blood from a freshly severed goat's head, enters ecstatic
+  trance, and converses with supernatural beings (pari). Bitans served
+  as healers and soothsayers in the traditional ritual and politico-
+  ideological apparatus of the former Hunza state. [*established*;
+  Sidky, "Shamans and Mountain Spirits in Hunza"]
+- *Dayal*: a related practitioner who enters trance through music,
+  meeting with pari in ecstatic states. A dayal may experience
+  unconsciousness or illness for days or weeks. Resistance to the
+  calling can be fatal — a bitan may die if they resist becoming one.
+  [*established*; same source]
+- The practice predates Islam and has been variously suppressed and
+  accommodated. [*established*]
+
+**** Ismaili Accommodation
+
+The Ismaili Muslim communities of Hunza and upper Gilgit have
+historically been more tolerant of pre-Islamic practices than Sunni
+communities. The peri tradition may have survived more robustly in
+Ismaili areas. [*inferred*]
+
+*** Landscape Associations
+
+| Feature | Spirit association | Notes |
+|---------+--------------------+-------|
+| Fairy Meadows (Jūt) | Peri territory | Base of Nanga Parbat; the name says it |
+| Nanga Parbat/Diamer | Malevolent mountain spirits | "Killer Mountain" reputation |
+| High pastures (summer) | Peri domain | Herders encounter peris in high pastures |
+| Glaciers | Glacier spirits | Surges, retreats attributed to spirit agency |
+| Attabad Lake | Recent (2010) landslide lake | Too recent for traditional spirit association? [*gap*] |
+| Karakoram Highway | Modern | Disrupted traditional routes and spirit geography |
+| Khunjerab Pass | Border pass spirits | Pakistan-China border |
+
+*** Pamir Corridor (Stretch Goal)
+
+The Wakhan Corridor and Pamir plateau represent a convergence zone:
+- *Wakhi traditions*: Persian-influenced, similar to Hunza peri tradition
+- *Kyrgyz traditions*: Turkic shamanic elements at the eastern Pamir
+- *The "Roof of the World"*: at 4,000-5,000m, the Pamir steppe has
+  spirits of extreme altitude — wind spirits, spirits of the vast
+  horizontal spaces (contrasting with the vertical spirit taxonomy
+  of the mountain valleys)
+[*inferred*; very thin evidence base. This section needs significant
+research.]
+
+*** Key Sources (to verify)
+
+- Sidky, H. "Shamans and Mountain Spirits in Hunza." /Asian
+  Ethnology/ (formerly /Asian Folklore Studies/). [*established*;
+  confirmed via web research — the key source on bitan/dayal practice]
+- Sidky, H. "Flying with the Vanishing Fairies: Typology of the
+  Shamanistic Traditions of the Hunza." [*established*; ResearchGate]
+- Lorimer, D.L.R. /The Burushaski Language/. Oslo, 1935-38.
+  [*established source*; the linguistic work includes folklore]
+- Jettmar, Karl. Works on Karakoram religions and rock art.
+  [*established scholar*; need specific titles]
+- Dani, Ahmad Hasan. Works on northern Pakistan history and culture.
+  [*established scholar*]
+- Parkes, Peter. Works on Kalasha and Chitral traditions.
+  [*established scholar*; primarily Kalasha but relevant]
+
+*** Gaps
+
+- Specific peri traditions of Hunza: what are the named peris? What
+  are their characters?
+- Bitani/shamanic practice: is it still alive? How does it interact
+  with Islam?
+- Balti spirit traditions: Baltistan is culturally Tibetan/Muslim —
+  how does the Tibetan spirit taxonomy interact with Islamic categories?
+- The Wakhan Corridor: almost entirely unstudied for our purposes
+- K2 and other peak spirits: what do Balti communities say about their
+  mountains?
+
+
+** 1.7 Nepal Himalaya (Stretch Goal)
+
+Nepal sustains the richest shamanic tradition in the Himalaya — the
+jhākri (shaman) system that spans ethnic groups and ecological zones.
+[*established*; significant anthropological literature]
+
+*** Spirit Types
+
+**** Jhākri (झाँक्री) — The Shaman
+
+The jhākri is not a spirit but the central human actor in Nepal's
+spirit ecology — equivalent in function to the Kullu gur, the Ladakhi
+lha-pa, and the Karakoram bitani. The jhākri enters trance through
+drumming, diagnoses illness by identifying the responsible spirit,
+and negotiates with spirits on behalf of the patient. [*established*;
+Peters, Maskarinec, Holmberg all document this]
+
+**** Ban Jhākri (बन झाँक्री) — Forest Shaman Spirit
+
+A wild forest spirit who abducts and trains jhākris. The ban jhākri
+appears as a small, hairy, powerful being dwelling deep in forests. A
+person abducted by ban jhākri and returned becomes a shaman. This is
+the origin narrative for shamanic calling in many Nepali communities.
+[*established*; widely documented]
+
+**** Bombo — Tamang Shaman
+
+The Tamang term for the shamanic practitioner. The bombo uses a
+flat drum (dhyangro) and enters trance to communicate with spirits.
+Tamang shamanism is particularly well-documented. [*established*;
+Holmberg 1989]
+
+**** Bhut/Pret (भूत/प्रेत) — Ghosts
+
+Spirits of the dead, especially those who died violently or without
+proper rites. Pan-South-Asian category, equivalent to Kullu's pret.
+[*established*]
+
+**** Masān (मसान) — Cremation Ground Spirits
+
+Spirits associated with cremation grounds and death. Particularly
+powerful and dangerous. [*established*; pan-South-Asian]
+
+**** Bokshi/Boksi (बोक्सी) — Witch Spirits
+
+Not ghosts but living people (usually women) accused of being
+possessed by or wielding malevolent spirit power. Boksi accusations
+are a form of social violence — the "diagnosis" of witchcraft
+functions as scapegoating. This is politically sensitive: boksi
+accusations have led to violence against women. [*established*;
+significant human rights concern]
+
+**** Nāg (नाग) — Serpent Spirits
+
+Water spirits, as throughout the Hindu world. In Nepal, nāg worship
+is connected to rainfall, springs, and fertility. [*established*]
+
+**** Kirāt Traditions
+
+The Rai and Limbu peoples of eastern Nepal have their own spirit
+taxonomies based on the Mundhum (oral tradition):
+- Complex origin narratives with named spirits
+- Ancestral spirits playing active roles
+- Distinctions that don't map neatly to Hindu categories
+[*likely*; I know these exist but lack specific detail]
+
+**** Sherpa Traditions
+
+Sherpas, culturally Tibetan, use the Tibetan spirit taxonomy (lha,
+klu, btsan, etc.) adapted to the Solu-Khumbu landscape. The Sherpa
+tradition includes:
+- Mountain deities of specific peaks
+- The deity of Sagarmatha/Everest itself
+- Tengboche Monastery as a spirit-management institution
+[*likely*; some is documented in mountaineering literature]
+
+*** Landscape Associations
+
+| Feature | Spirit association | Notes |
+|---------+--------------------+-------|
+| Machapuchare | Forbidden mountain; the "Fish-Tail" | Never been summited; considered sacred [*established*] |
+| Kanchenjunga | Mountain god, fierce | Third highest peak, sacred to Sikkimese and Nepali [*established*] |
+| Sagarmatha/Everest | Mountain deity | Sherpas propitiate before climbing [*established*] |
+| Gosainkund (lakes, 4,380m) | Shiva/nāg; pilgrimage | Sacred lakes in Langtang area [*established*] |
+| Kali Gandaki gorge | Powerful river spirit | Deepest gorge on Earth; ammonite fossils (shaligrams) as sacred objects [*established*] |
+| Forests | Ban jhākri domain | Dense forests = spirit territory [*established*] |
+| Pashupatinath | Lord of Animals (Shiva) | Major temple; cremation ghats = masān territory [*established*] |
+| Muktinath | "Place of Liberation" | Sacred to both Hindu and Buddhist; fire-from-water (natural gas) [*established*] |
+
+*** Human Interfaces
+
+- *Jhākri healing*: the jhākri drums, enters trance, identifies the
+  spirit causing illness, negotiates or drives it out. The drum
+  (dhyangro) is the primary instrument. Sessions can last hours,
+  often at night. [*established*; Peters 1981, Maskarinec 1995]
+- *Dashain* (Dussehra equivalent): the major Nepali festival, with
+  significant spirit content — animal sacrifice, propitiation of
+  Durga, renewal of social bonds. [*established*]
+- *Indra Jatra*: festival in Kathmandu involving masked dances, the
+  Kumari (living goddess), and processions. [*established*]
+
+*** Diagnostic Functions
+
+- *Illness attribution*: the jhākri's primary diagnostic function.
+  Illness is attributed to specific spirits; the diagnosis identifies
+  the social or environmental cause through spirit language.
+  [*established*; standard medical-anthropological interpretation]
+- *Forest conservation*: ban jhākri traditions maintain fear/respect
+  for deep forest, discouraging over-exploitation [*inferred*]
+- *Mountain safety*: propitiation before climbing/crossing encodes
+  weather awareness, route knowledge [*inferred*]
+
+*** Key Sources (to verify)
+
+- Peters, Larry. "Ecstasy and Healing in Nepal." /American
+  Ethnologist/ 9(1), 1982. And other works on Nepali shamanism.
+  [*established*]
+- Maskarinec, Gregory. /The Rulings of the Night: An Ethnography
+  of Nepalese Shaman Oral Texts/. University of Wisconsin Press, 1995.
+  [*established*]
+- Holmberg, David. /Order in Paradox: Myth, Ritual, and Exchange
+  among Nepal's Tamang/. Cornell UP, 1989. [*established*]
+- Oppitz, Michael. "Shamans of the Blind Country" (film, 1981) and
+  related publications on Magar shamanism. [*established*]
+- Höfer, Andras. /Tamang Ritual Texts/. Franz Steiner, 1981.
+  [*likely*]
+
+*** Gaps
+
+- Kirāt spirit taxonomies (Rai, Limbu): these are distinct from
+  Hindu/Buddhist systems and poorly represented in my knowledge
+- Gurung traditions: the Gurung of central Nepal have their own
+  complex spirit system, less documented than Tamang
+- Sherpa mountain deities: specific spirits of specific peaks
+- The boksi phenomenon: anthropological literature must exist but
+  I cannot cite it reliably
+- How jhākri practice is changing: urbanisation, Christianity, modernity
+
+
+* Part 2: Cross-Regional Patterns
+
+** 2.1 Altitude Zonation
+
+The spirit ecology shifts predictably with altitude:
+
+| Zone | Approximate altitude | Hindu-dominant | Buddhist/Tibetan-dominant |
+|------+----------------------+----------------+--------------------------|
+| Valley floor / agricultural | 1,500-2,500m | Devta (village deity) | Lha (territorial deity) |
+| Forest belt | 2,500-3,500m | Nāg, sacred groves | Gnyan (tree/rock spirits) |
+| Alpine / pasture | 3,500-4,500m | Jogini, pass spirits | Btsan, sa-bdag |
+| Glacial / summit | >4,500m | Mountain gods (vague) | Yul-lha (mountain gods) |
+| Trans-Himalayan desert | 3,500-5,000m (rain shadow) | — | Lha, klu (water critical) |
+
+The pattern: valley-floor spirits are *civic* (managing communities);
+mid-altitude spirits are *ecological* (managing forests and water);
+high-altitude spirits are *elemental* (managing weather, glaciers, passes).
+[*inferred* but consistent across all regions surveyed]
+
+** 2.2 Water Spirits Across Traditions
+
+The nāg/klu/peri-of-water equivalence is the clearest cross-regional
+pattern:
+
+| Region | Term | Associated with | Key function |
+|--------+------+-----------------+--------------|
+| Kullu | Nāg devta | Springs, rivers, hot springs | Water source protection |
+| Kinnaur | Nāg / klu (upper) | Lakes, springs, altitude water | Bridge across Hindu-Buddhist divide |
+| Spiti | Klu/lu | Springs, river, snowmelt | Existential: water = survival |
+| Ladakh | Klu/lu | Springs, lakes, underground water | Skin disease if offended |
+| Tibet | Klu | All water; klu realm = underworld | Cosmic scale water management |
+| Karakoram | Peri (at water) / jinn | Glacier-fed rivers, lakes | Less specifically water-focused |
+| Nepal | Nāg | Springs, rainfall, fertility | Pan-South-Asian category |
+
+The underlying landscape logic: *wherever water is scarce or critical,
+the spirit system places its strongest protections around water sources*.
+The harsher the water situation, the more elaborate the klu/nāg
+traditions. Spiti and Ladakh — arid landscapes — have the most urgent
+klu traditions. [*inferred* but structurally sound]
+
+** 2.3 Possession/Oracle Traditions
+
+The oracle tradition recurs across every region, with structural
+parallels:
+
+| Region | Practitioner | Possessing entity | Induction method | Function |
+|--------+--------------+-------------------+------------------+----------|
+| Kullu | Gur | Devta | Drumming (bajantri) | Dispute resolution, diagnosis, timing |
+| Kinnaur | Gur/Grokch/Malis | Village devta | Incantation + music | Deity commands, community guidance |
+| Spiti | Monastic medium | Dharma protector | Monastic ritual | Community advice |
+| Ladakh | Lha-pa/lha-mo | Lha, protector | Drumming, monastic context | Medical diagnosis, community decisions |
+| Tibet | State oracle (Nechung) | Protector deity | Elaborate ritual | National-level decisions |
+| Karakoram | Bitan/Dayal | Pari (fairies) | Juniper smoke + music + blood | Healing, soothsaying |
+| Nepal | Jhākri/bombo | Various spirits | Drum (dhyangro) | Illness diagnosis, exorcism |
+
+The structural invariant: *a human enters altered consciousness, a
+non-human entity speaks through them, the community treats this as
+authoritative information*. The theological framing varies (Hindu devta,
+Buddhist protector, Islamic jinn) but the diagnostic mechanism is the
+same. [*established*; this is a standard observation in comparative
+religion]
+
+** 2.4 Sacred Geography as Conservation
+
+Spirit jurisdictions protect environmental resources across all
+traditions:
+
+| Resource | Protection mechanism | Region(s) | Effectiveness |
+|----------+----------------------+-----------+---------------|
+| Springs | Nāg/klu taboo against pollution | All | High — water sources often cleaner near shrines |
+| Old-growth forest | Sacred groves (devta forests) | Kullu, Kinnaur | Documented conservation function |
+| Pastures | Lha/yul-lha territorial rules | Ladakh, Tibet, Spiti | Prevents overgrazing in controlled areas |
+| Fragile terrain | Sa-bdag taboo against digging | Ladakh, Spiti, Tibet | Prevents excavation in landslide zones |
+| Mountain peaks | Summit taboos | Nepal (Machapuchare), Tibet | Effective where enforced |
+
+This is not a post-hoc interpretation: the conservation function is
+recognised by the communities themselves, even where the theological
+reasoning differs from the ecological reasoning. [*established*;
+Ramnath's work on sacred groves, multiple other sources]
+
+** 2.5 Trade Route Spirits — The Liminal Zone
+
+Spirits that guard passes and the spaces between territories constitute
+a distinct category across the range:
+
+- *La-btsas* (Tibetan/Ladakhi): stone cairns at passes, draped with
+  prayer flags. Travellers add stones, recite prayers, shout "ki ki
+  so so lha gyalo!" (victory to the gods). The cairn is the spirit's
+  dwelling. [*established*]
+- *Pass spirits in Kullu*: Jalori Pass, Rohtang Pass, Pin Parvati
+  — all have traditions about dangers and propitiation [*likely*]
+- *Karakoram pass spirits*: the Khunjerab and older trade routes have
+  guardian spirits who must be acknowledged [*inferred*]
+
+The pass spirit is structurally interesting: it guards the boundary
+between jurisdictions — the place where one devta's/lha's authority
+ends and another's begins. These are liminal spirits, spirits of
+transition. [*inferred*; strong structural argument]
+
+
+* Part 3: Functional Mapping for Aburaya
+
+This section maps the surveyed spirit ecology to Aburaya's functional
+needs. The goal is grounded vocabulary, not forced analogy. Where the
+mapping is strong, we note it. Where it breaks, we note that too.
+
+** 3.1 Guardian of a Place (module/domain)
+
+*Source tradition*: Devta (Kullu), Lha/Yul-lha (Tibetan), Zhidak
+
+The guardian spirit is the most direct mapping. The devta guards a
+territory; the lha protects a mountain; the zhidak owns a place.
+In Aburaya, the guardian spirit protects a module or domain.
+
+*Vocabulary*: "devta" is the richest source for the Hindu-inflected
+stories; "lha" for Buddhist-inflected contexts. The project already
+uses both.
+
+*Where the analogy is strong*:
+- Territorial jurisdiction ↔ module scope
+- The devta has a personality, history, relationships with other devtas
+  ↔ spirit disposition, guild relationships
+- The devta owns an estate and employs specialists ↔ the module
+  contains code, data, and tools
+
+*Where it breaks*:
+- Devtas are not chosen — they are ancient. Spirits in Aburaya are
+  commissioned by humans. The analogy works for established projects
+  but not for the act of creation itself.
+
+** 3.2 Wanderer Carrying a Practice
+
+*Source tradition*: Jogini (Kullu), wandering ascetic, the Thread
+Walker (project fiction)
+
+The jogini is not bound to a territory. She moves across jurisdictions,
+carrying knowledge or disruption. In Aburaya, this maps to a spirit
+whose practice (e.g., review writing, story composition) applies across
+modules rather than guarding one.
+
+*Vocabulary*: "jogini" fits — it is already in the project vocabulary
+from story-compose.md.
+
+*Where the analogy is strong*:
+- Not bound to territory ↔ cross-module practice
+- Associated with specific skills/knowledge ↔ exported powers
+- Ambiguous in disposition ↔ the practice itself has no loyalty
+
+*Where it breaks*:
+- Traditional joginis are often dangerous or marginal figures. The
+  Aburaya "wanderer" is a valued contributor. The social valence
+  differs.
+
+** 3.3 Flow Spirit Following a System
+
+*Source tradition*: Nāg devta / Klu — the water spirits
+
+The nāg follows water — from glacier to spring to river to sea. It
+tracks a system, not a place. In Aburaya, this maps to a spirit that
+follows a data flow, a pipeline, or a process.
+
+*Vocabulary*: "nāg devta" or "klu." The project already uses "nāg
+devta" in the Miyazaki key (Haku = nāg devta).
+
+*Where the analogy is strong*:
+- Water flows through the landscape ↔ data flows through pipelines
+- Nāg displeasure disrupts the flow ↔ pipeline failures
+- Nāg protects the source ↔ data integrity at the origin
+
+*Where it breaks*:
+- Nāgs are territorial about their water source — they don't
+  conceptually "follow" the water downstream. The flow metaphor is
+  more human interpretation than traditional nāg theology.
+
+** 3.4 Specialist Performing a Craft
+
+*Source tradition*: Bajantri (ritual musician), Amchi (traditional
+doctor), Kardar (temple steward)
+
+These are human specialists, not spirits. But they represent
+functionally distinct roles within the spirit system. In Aburaya,
+the specialist spirit provides a service (schema validation, query
+execution) to any caller.
+
+*Vocabulary*: "bajantri" is available but feels too specific (music
+only). "Amchi" could work for diagnostic spirits. Consider:
+- The generic term might be "shilpi" (शिल्पी, craftsperson) or
+  "kārīgar" (कारीगर, artisan) — but these are not spirit categories,
+  they are human vocations.
+
+*Where the mapping breaks*:
+- There is no clean "specialist spirit" category in Himalayan
+  traditions. The specialist is always human, serving the spirits.
+  This is a gap in the analogy — Aburaya's specialist spirit (e.g.,
+  aikosh-guardian as toolsmith) has no clean traditional equivalent.
+
+** 3.5 Medium Through Whom a Spirit Speaks
+
+*Source tradition*: Gur (Kullu), Lha-pa/Lha-mo (Ladakh), Jhākri
+(Nepal), Bitani (Karakoram)
+
+The medium is the harness — the physical body through which the
+spirit acts. In Aburaya, the harness (Claude Code session, gptel
+buffer) is the "body" a spirit inhabits.
+
+*Vocabulary*: "gur" maps beautifully to the harness concept. The gur
+is not the devta — the gur is the vessel the devta uses to speak.
+This is the strongest analogy in the entire mapping.
+
+*Where the analogy is strong*:
+- Gur enters trance ↔ harness initialises
+- Devta speaks through gur ↔ spirit operates through harness
+- Gur recovers after trance ↔ session ends, harness state persists
+- Different gurs serve different devtas ↔ different harnesses serve
+  different spirits
+
+** 3.6 Diagnostic Spirit (Evaluation, Review, Critique)
+
+*Source tradition*: the oracle function across all traditions
+
+The oracle's core function is *diagnosis* — identifying what is wrong,
+what spirit is responsible, what must be done. In Aburaya, the review/
+evaluation spirit (the one WP-0002 sought to commission) performs
+exactly this function: surveying a landscape, identifying gaps,
+prescribing action.
+
+*Vocabulary*: not a single spirit type but a function shared across
+types. The review spirit's disposition might borrow from the oracle
+tradition: "read-the-signs" or "trace-the-watershed" (already
+proposed in WP-0002).
+
+** 3.7 Proposed Vocabulary Summary
+
+| Aburaya function | Himalayan source | Term | Confidence |
+|------------------+------------------+------+------------|
+| Guardian | Devta, Lha | devta (Hindu), lha (Buddhist) | Strong |
+| Wanderer | Jogini | jogini | Moderate |
+| Flow spirit | Nāg devta, Klu | nāg devta | Moderate |
+| Specialist | — (no clean equivalent) | [open] | Weak |
+| Medium/harness | Gur, Lha-pa | gur | Strong |
+| Diagnostic | Oracle function | — (function, not type) | Moderate |
+
+
+* Part 4: Story-Compose Extension
+
+** 4.1 Extended Translation Table
+
+The existing Miyazaki → Himalaya key (in =story-compose.md=) maps:
+
+| Spirited Away | Current Himalaya equivalent |
+|--------------+----------------------------|
+| Kami | Devta |
+| Onsen | Kund |
+| Kamikakushi | Devta ka aavesh (gur trance) |
+| Yubaba | Kardar |
+| Zeniba | Buddhi Nagin |
+| No-Face | Pret |
+| Haku | Nāg devta |
+| Soot sprites | Bajantris |
+| Aburaya | The Kund |
+
+Additions from this survey:
+
+| System concept | New story equivalents | Source region |
+|----------------+-----------------------+---------------|
+| Earth-bound constraint | Sa-bdag displeasure (the ground resists) | Tibet/Ladakh |
+| Weather disruption | Ma-mo rage (the storm-mothers) | Tibet |
+| Territorial boundary | La-btsas cairn (where one authority ends) | All |
+| Taming/binding | Padmasambhava's rope (the master binds the wild spirit) | Tibet/Ladakh |
+| Altitude sickness | Peri contact (the meadow-spirits touch you) | Karakoram |
+| Frozen passage | Chadar spirits (the ice road) | Zanskar |
+| Deep forest spirit | Ban jhākri's abduction (the forest takes you, returns you changed) | Nepal |
+| Diagnostic trance | The jhākri's drum finds the name | Nepal |
+| Sacred lake | Klu domain (what lives beneath still water) | Tibet/Ladakh |
+| Mountain prohibition | Machapuchare's refusal (the peak that will not be climbed) | Nepal |
+
+** 4.2 New Story-Available Vocabulary by Region
+
+*** Ladakh stories can now use:
+- lha (mountain gods), klu (water spirits), btsan (red-rock warriors)
+- la-btsas (pass cairns), sang (smoke offerings), lung-ta (prayer flags)
+- lha-pa / lha-mo (oracles in trance)
+- "ki ki so so lha gyalo!" (the cry at the pass)
+
+*** Karakoram stories can now use:
+- peri (fairy spirits of the high meadows)
+- Diamer (abode of spirits — Nanga Parbat's local name)
+- glacier spirits, altitude madness as spirit contact
+- bitani (the shaman who bridges worlds)
+
+*** Nepal stories can now use:
+- jhākri, bombo (shamans), dhyangro (the flat drum)
+- ban jhākri (the wild forest spirit who makes shamans)
+- boksi (the accused witch — social horror)
+- masān (cremation ground spirits)
+- shaligram (the ammonite fossils as sacred objects, Kali Gandaki)
+
+*** Spiti stories can now use:
+- the high desert vocabulary: dust, ice, absence
+- Ki monastery on its cliff: dharma protectors painted on crumbling walls
+- Tabo's thousand-year murals: spirits frozen in pigment
+- the Kunzum Pass goddess-shrine: the gateway guardian
+
+** 4.3 New Story Settings Enabled
+
+1. *A Ladakhi oracle story*: set in Hemis or Matho. The lha-mo enters
+   trance during Matho Nagrang; what she sees. The Thread Walker's
+   instruments register something during the trance.
+
+2. *A Karakoram glacier story*: set at Fairy Meadows or a high Hunza
+   pasture. A surveyor encounters peris — or what the instruments
+   register as peris. Altitude, disorientation, the beauty that damages.
+
+3. *A Nepal jhākri story*: the ban jhākri abduction as a commissioning
+   narrative. Someone is taken into the forest, returned changed, and
+   can now hear what others cannot. (Obvious parallels to spirit
+   commissioning in Aburaya.)
+
+4. *A Spiti high-desert story*: the Tabo murals as a standing card —
+   instructions painted a thousand years ago by Rinchen Zangpo, still
+   governing how the spirits behave. The cartographer reads the murals
+   and finds they describe a system she recognises.
+
+5. *A Zanskar winter story*: the Chadar — walking the frozen river,
+   the only way in or out. What lives beneath the ice. What the ice
+   remembers. The klu of the frozen Zanskar.
+
+
+* Part 5: Digital Twin Data Layer
+
+** 5.1 Data Model
+
+The spirit ecology integrates into the Parbati digital twin as a
+geospatial data layer with the following structure:
+
+*** Spatial Primitives
+
+| Primitive | Spirit concept | Example |
+|-----------+----------------+---------|
+| Point | Shrine, spring, oracle seat, cairn | Hadimba temple, Serolsar Lake, la-btsas at Jalori Pass |
+| Line | Trade route, river (klu path), procession route | Parvati River (nāg territory), rath procession route |
+| Polygon | Spirit jurisdiction, sacred grove | Jamlu's territory (Malana), devta forest boundaries |
+
+*** Attributes per Feature
+
+#+begin_src yaml
+# Example: point feature (shrine/sacred site)
+id: serolsar-lake
+type: point
+coordinates: [31.535, 77.365]  # approximate
+name:
+  local: Serolsar Lake
+  sanskrit: —
+spirit_association:
+  type: nāg
+  name: Buddhi Nagin
+  tradition: Hindu (Kullu)
+landscape_feature: glacial lake
+altitude_m: 3100
+accessibility: seasonal (Jalori Pass closes in winter)
+human_interface:
+  - temple on shore
+  - annual pilgrimage
+conservation_function: lake and surrounding forest protected
+sources:
+  - "Chetwode 1972"
+  - "Local tradition"
+confidence: established
+#+end_src
+
+*** Proposed GeoJSON Extension
+
+Each feature in the GIS layer carries a =spirit_ecology= property
+object:
+
+#+begin_src json
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [77.365, 31.535] },
+  "properties": {
+    "name": "Serolsar Lake",
+    "spirit_ecology": {
+      "spirit_type": "nāg",
+      "spirit_name": "Buddhi Nagin",
+      "tradition": "Hindu-Kullu",
+      "diagnostic_function": "lake and forest protection",
+      "human_interface": ["temple", "annual_pilgrimage"],
+      "confidence": "established"
+    }
+  }
+}
+#+end_src
+
+** 5.2 Correlations with Existing GIS Layers
+
+| Spirit layer | Correlating GIS layer | Expected correlation |
+|--------------+-----------------------+----------------------|
+| Nāg/klu points | Spring/water source locations | Near 1:1 in Kullu |
+| Spirit jurisdictions (polygons) | Watershed boundaries | High: devta territories follow drainage basins |
+| La-btsas / pass cairns (points) | Pass/saddle locations (from DEM) | 1:1 at significant passes |
+| Sacred groves (polygons) | Forest cover / old-growth maps | Conservation signal: sacred groves = denser canopy |
+| Btsan zones | Red rock / cliff geology map | Btsan track geological formations |
+| Klu urgency | Aridity index / water scarcity | More elaborate klu traditions where water is scarce |
+
+** 5.3 Minimal Prototype
+
+*Scope*: Parvati Valley only (aligns with Parbati domain).
+
+*Data*:
+- 10-20 point features: temples, sacred springs, kunds, pass cairns
+- 3-5 line features: river segments with nāg associations, rath routes
+- 3-5 polygon features: devta jurisdictions, sacred groves
+
+*Format*: GeoJSON file + YAML metadata per feature (following aikosh
+schema conventions)
+
+*Visualisation*: overlay on DEM (digital elevation model) of the
+Parvati valley, if/when MāyāPortal supports GIS layers.
+
+*What this proves*: that spirit ecology data can be structured,
+geospatially referenced, and integrated into the digital twin
+infrastructure. The prototype validates the data model before scaling
+to the full transborder Himalaya.
+
+
+* Sources (Master Bibliography)
+
+Sources listed below are cited from training knowledge. Each needs
+verification — page numbers, editions, and URLs are not confirmed.
+
+** Primary Ethnographic References
+
+- Chetwode, Penelope. /Kulu: The End of the Habitable World/. London:
+  John Murray, 1972. [Kullu devta system, temple architecture, raths]
+- Crook, John & Henry Osmaston (eds). /Himalayan Buddhist Villages:
+  Environment, Resources, Society and Religious Life in Zangskar,
+  Ladakh/. University of Bristol Press, 1994. [Ladakh/Zanskar village
+  life, religion, oracles]
+- Gutschow, Kim. /Being a Buddhist Nun: The Struggle for Enlightenment
+  in the Himalayas/. Harvard University Press, 2004. [Zangskar women's
+  religious practice]
+- Nebesky-Wojkowitz, René de. /Oracles and Demons of Tibet: The Cult
+  and Iconography of the Tibetan Protective Deities/. The Hague:
+  Mouton, 1956. [THE standard reference for Tibetan spirit taxonomy]
+
+** Tibetan Religion and Bön
+
+- Karmay, Samten G. /The Arrow and the Spindle: Studies in History,
+  Myths, Rituals and Beliefs in Tibet/. Kathmandu: Mandala Book Point,
+  1998. [Bön traditions, spirit classification]
+- Samuel, Geoffrey. /Civilized Shamans: Buddhism in Tibetan Societies/.
+  Washington: Smithsonian Institution Press, 1993. [Shamanism and
+  Buddhism interface]
+- Tucci, Giuseppe. /The Religions of Tibet/. Allied Publishers, 1970.
+  [Overview, pre-Buddhist and Buddhist]
+
+** Nepal Shamanism
+
+- Peters, Larry G. "Ecstasy and Healing in Nepal: An Ethnopsychiatric
+  Study of Tamang Shamanism." /American Ethnologist/ 9(1), 1982.
+  [Tamang shamanism, jhākri practice]
+- Maskarinec, Gregory G. /The Rulings of the Night: An Ethnography of
+  Nepalese Shaman Oral Texts/. Madison: University of Wisconsin Press,
+  1995. [Far western Nepal jhākri texts]
+- Holmberg, David H. /Order in Paradox: Myth, Ritual, and Exchange
+  among Nepal's Tamang/. Ithaca: Cornell University Press, 1989.
+  [Tamang cosmology and ritual]
+- Oppitz, Michael. "Shamans of the Blind Country" (film). 1981.
+  [Magar shamanism, visual ethnography]
+
+** Karakoram and Northern Areas
+
+- Lorimer, D.L.R. /The Burushaski Language/. Oslo: Instituttet for
+  Sammenlignende Kulturforskning, 1935-38. [Includes folklore]
+- Jettmar, Karl. Works on Karakoram religions and rock art. [Need
+  specific titles]
+- Dani, Ahmad Hasan. Works on northern Pakistan history. [Need
+  specific titles]
+
+** Western Himalaya
+
+- Harcourt, A.F.P. /The Himalayan Districts of Kooloo, Lahoul, and
+  Spiti/. 1871. [Colonial-era ethnography, still useful]
+- Postel, M., A. Neven & K. Mankodi. /Antiquities of Himachal/.
+  Mumbai: Marg Publications, 1985. [Temple architecture, iconography]
+- Klimburg-Salter, Deborah. /Tabo: A Lamp for the Kingdom/. 1997.
+  [Tabo monastery murals and cultural context]
+- Francke, A.H. /Antiquities of Indian Tibet/. 2 vols. Calcutta:
+  Superintendent of Government Printing, 1914-1926. [Western Tibet
+  and Spiti]
+
+** Theoretical / Comparative
+
+- Ramnath, Madhu. /Woodsmoke and Leaf Cups/. HarperCollins India.
+  [Sacred groves, forest ecology, conservation through spirit belief]
+
+
+* Acceptance Criteria Checklist
+
+- [X] Covers at minimum: Kullu, Kinnaur, Spiti, Ladakh, Tibet/Bön,
+  Karakoram (6 regions). Nepal included as stretch goal.
+- [X] Each region has at least 3 spirit types documented with landscape
+  associations (Kullu: 6, Kinnaur: 3+, Spiti: 5, Ladakh: 6+, Tibet: 10+,
+  Karakoram: 4, Nepal: 8+)
+- [X] Cross-regional patterns section identifies at least 4 recurring
+  patterns (altitude zonation, water spirits, oracle traditions, sacred
+  geography as conservation, trade route spirits = 5)
+- [X] Aburaya mapping proposes vocabulary for at least: guardian,
+  wanderer, flow spirit, specialist, medium (all covered; specialist
+  noted as weak mapping)
+- [X] Story-compose extension adds at least 5 new entries to the
+  translation table (10 new entries added)
+- [X] Digital twin section proposes a concrete data model (GeoJSON
+  with spirit_ecology properties; spatial primitives; prototype scope)
+- [/] All claims sourced — sources are named but not verified (URLs,
+  page numbers unconfirmed). Status: *unverified*
+- [X] Gaps explicitly marked where web research is insufficient
+  (marked throughout with [*gap*] notation)
+- [X] Written in Org-mode, readable in Emacs
