@@ -1,0 +1,620 @@
+#+title: Regional Survey: Diamer and the Nanga Parbat Massif
+#+subtitle: Geology, glaciology, ecology, spirit traditions, aesthetics — homework for the Karakoram
+#+author: mayadev (WP-0012)
+#+date: 2026-03-06
+
+* Scope and Method
+
+This survey covers the Diamer district and Nanga Parbat massif in
+Gilgit-Baltistan, Pakistan — the western anchor of the Himalayan arc,
+where the Himalaya, Karakoram, and Hindu Kush converge. The purpose
+is threefold: (1) deepen the epistem gazetteer's Karakoram entries,
+(2) provide reference material for future story composition, and
+(3) survey natural wonders, aesthetics, and narrative tensions for
+the MāyāLucIA project.
+
+Method: web-accessible sources — academic papers, ethnographies,
+travelogues, journalism, and heritage documentation. Sources cited
+with URLs throughout. No personal observation (the human has not
+visited this region). The survey follows the standard established by
+the verified spirit ecology survey (WP-0006).
+
+* A. Physical Geography
+
+** A.1 The Tectonic Anomaly
+
+Nanga Parbat (8,126m) stands at the *Western Himalayan Syntaxis* —
+the sharp northward bend where the Himalayan arc terminates. At this
+bend, Indian plate gneiss punches upward through the overthrust rocks
+of the Kohistan island arc, an ancient piece of oceanic crust caught
+between colliding continents ~50 Ma ago. The structure is a
+crustal-scale antiformal pop-up.
+
+*Uplift rate*: 7 mm/yr (Guinness World Records). A 2022 paper in
+/Science Advances/ (Rutte et al.) documents a pulse of ultrafast
+exhumation beginning ~1 Ma: *9–13 mm/yr*. The massif has been
+exhumed 10 km in 10 Ma, 6 km of that in the last 1.3 million years.
+
+*The tectonic aneurysm*: Peter Zeitler (Lehigh University) proposed a
+positive feedback model — rapid erosion steepens geotherms, thermally
+weakening the crust, accelerating deformation, increasing uplift,
+increasing erosion. The river does not merely respond to the rising
+mountain; it helps create it. The mountain and the river are
+co-creating each other.
+
+*The youngest exposed granite on Earth*: leucogranite dikes with
+crystallisation ages as young as *0.7 Ma*. The rock melted not
+because it got hotter, but because it /rose so fast the pressure
+dropped below the melting curve/ — decompression melting. The mountain
+unmakes itself to make itself. Synkinematic plutonism: granite
+intruding while the rock is still actively deforming.
+
+*The Kohistan contact*: the surrounding Kohistan arc terrane is
+Cretaceous intra-oceanic volcanic/plutonic rock — fundamentally
+different lithology from the Indian plate gneiss of Nanga Parbat. The
+tectonic contact is concordant and ductile, associated with
+interleaving. A suture zone you can walk across.
+
+Sources:
+- Zeitler et al. (2001), "Erosion, Himalayan Geodynamics, and the
+  Geomorphology of Metamorphism," /GSA Today/:
+  https://tectonics.caltech.edu/meetings/journal_club/session3/Zeitler_et_al2001REPS.pdf
+- Rutte et al. (2022), "A modern pulse of ultrafast exhumation,"
+  /Science Advances/: https://www.science.org/doi/10.1126/sciadv.abm2689
+- The "Tectonic Aneurysm" model, Lehigh Archive:
+  https://eesarchive.lehigh.edu/groups/corners/cornerdocs/aneurysm.shtml
+- Geological Society Special Publication 170:
+  https://www.geolsoc.org.uk/SP170
+- Butler & Prior (1989), /EPSL/:
+  https://www.sciencedirect.com/science/article/abs/pii/0012821X89901507
+- Schneider et al. (1999), "Synkinematic plutonism," /Geology/:
+  https://eesarchive.lehigh.edu/EESpeople/peopledocs/zeitler-pubs/schneider_etal_geology_1999.pdf
+
+** A.2 The Indus Gorge
+
+The Indus River is /older than the mountain it cuts through/. An
+antecedent drainage — the river established its course before the
+syntaxis began rising. As the mountain grew, the river kept cutting
+downward.
+
+*Depth*: 4,500–5,200m from river to adjacent peaks. Between the
+Indus at Jalipur (1,100m) and the summit of Nanga Parbat (8,125m),
+relief exceeds 7,000m in just 21 km.
+
+*Incision rates*: from cosmogenic isotope dating —
+- Low straths (~7,000 yr): 9–12 mm/yr
+- High straths (>7,000 yr): 1–6 mm/yr
+Rates increase downstream toward the Raikot fault, suggesting
+bedrock incision proportional to stream power over the last 7,000 yr.
+
+The gorge exposes middle and lower crustal rocks — a natural
+cross-section through the Earth's crust, continuously renewed by
+erosion. The Raikot fault (NW-dipping reverse) has at least 15 km of
+horizontal slip inferred from Quaternary offsets.
+
+Sources:
+- Indus Gorge (Grokipedia): https://grokipedia.com/page/Indus_Gorge
+- Burbank et al. (1996), /EPSL/:
+  https://www.sciencedirect.com/science/article/abs/pii/S0012821X97001714
+- Metageologist (2012), "Hot rocks, big rivers":
+  https://all-geo.org/metageologist/2012/05/hot-rocks-big-rivers-and-the-worlds-tallest-mountain-face/
+
+** A.3 The Rupal Face
+
+4,600m of continuous vertical relief from the Rupal Valley floor
+(~3,500m) to the summit — the highest mountain face on Earth.
+
+From base camp at 3,350m, the summit is nearly five vertical
+kilometres above. Buhl (1953): /"4,500 vertical metres of rock and
+ice. Even an attempt would already be a suicide."/
+
+Steve House, first alpine-style ascent of a direct route (2005):
+4,100m in six days up, two days down. 16 kg each, 1 kg tent, one
+sleeping bag. Crux: "poorly protected dry-tooling up loose 5.9
+granite." Awarded the Piolet d'Or.
+
+The Messner traverse (1970): Reinhold and Günther Messner made the
+first ascent of the Rupal Face. Unable to descend the same way due to
+weather and Günther's altitude sickness, they traversed the mountain
+via the Diamir Face — first traverse of Nanga Parbat. Günther died on
+the descent, likely in an avalanche.
+
+Sources:
+- Explorersweb: https://explorersweb.com/a-history-of-climbing-on-nanga-parbats-rupal-face/
+- AAC Publications (House):
+  https://publications.americanalpineclub.org/articles/12200601400
+
+** A.4 Glaciers
+
+Three principal systems:
+- *Rakhiot Glacier* (north): best-documented, surveys from 1934
+- *Rupal Glacier* (south): mainly snow-fed, drains the Rupal Face
+- *Diamir Glacier* (west): borders the Diamir Face
+
+*Rakhiot Glacier oscillation history*:
+- 1930–1954: terminus thinned, back-wasted 450m
+- 1954–1985: advanced ~200m
+- 2001–2002: surge-type event, meltwater and supraglacial lakes
+- 1951–2009: mean downwasting 0.24 m/yr (14m total)
+- 2009–2023: mean downwasting *1.8 m/yr* (25m total) — a
+  *7.5-fold acceleration*
+
+For 63 glaciers on Nanga Parbat, ice-covered area decreased 7%
+between 1934 and 2019. Glaciers fed by ice/snow avalanches show
+lower retreat than other Himalayan regions — the "Karakoram Anomaly."
+Most recent data suggests this anomaly may be ending.
+
+*GLOF hazard*: 3,000+ glacial lakes in Gilgit-Baltistan, 30
+identified as posing imminent threat. 388+ GLOF events documented in
+the broader Himalayan-Karakoram region.
+
+Sources:
+- Gardner & Jones (1993), /J. Glaciology/:
+  https://www.cambridge.org/core/journals/journal-of-glaciology/article/recent-fluctuations-of-rakhiot-glacier
+- Schmidt & Nusser (2012), /J. Glaciology/:
+  https://www.cambridge.org/core/journals/journal-of-glaciology/article/fluctuations-of-raikot-glacier
+- Schmidt et al. (2021), /Science of The Total Environment/:
+  https://www.sciencedirect.com/science/article/pii/S0048969721023925
+
+** A.5 Hot Springs — The Mountain Breathes
+
+At *Tato village* (Rakhiot Valley, on the approach to Fairy Meadows):
+a *hot steaming geyser and springs with near-boiling water (~92°C)*.
+Orange to yellowish hydrothermal alteration of surrounding rock. The
+boiling results from deep infiltration of meteoric waters through
+fractures, interacting with young, solidified but still hot granitic
+intrusions.
+
+Along the western margin: *Tattapani* (near Raikot Bridge, on KKH)
+and *Sassi* (NE of Jaglot), with surface temperatures 42–81°C.
+Concentrated along the seismically active Raikot fault, which
+channels deeply infiltrated snowmelt.
+
+*Dual hydrothermal system*:
+1. Near-surface: meteoric water (snowmelt)
+2. Deeper: magmatic/metamorphic volatiles. Fluid inclusions in quartz
+   veins homogenise to vapour at 320–410°C — a dry steam geothermal
+   system in the upper 5 km of crust.
+
+*Geothermal gradient*: ~100°C/km — one of the steepest outside
+volcanic areas (Leeds University).
+
+The hot springs are a direct consequence of the tectonic aneurysm.
+The same process that pushes the mountain upward drives hot fluids to
+the surface. The mountain breathes its own heat.
+
+Sources:
+- Craw et al., /American Journal of Science/:
+  https://ajsonline.org/article/61675
+- Chamberlain et al. (1995), /JGR/:
+  https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/94JB02062
+- Leeds University:
+  https://www.see.leeds.ac.uk/structure/tectonics/nanga_parbat/
+
+** A.6 Ecology
+
+Altitude zonation without monsoon. Juniper and birch replace deodar.
+Alpine meadows (=jūt=) serve as summer pasture and peri habitat.
+Wildlife: ibex, markhor, snow leopard.
+
+Seasonal economy at Fairy Meadows: herders in sod-roofed huts; morel
+mushroom harvesting (=Kuchuli=) in May–June (up to Rs 15,000/kg).
+Communities transitioned from timber to tourism (~17 million PKR/yr).
+
+The ecological contrast with the monsoon valleys is fundamental:
+no terraced agriculture, no kuhls, no monsoon cycle. Water comes
+from glacial melt and springs, not rain.
+
+* B. Spirit Traditions and Human Culture
+
+** B.1 The Peri Tradition
+
+The dominant spirit category in the Karakoram. From Persian mythology,
+not European fairy lore. Beautiful, powerful, capricious beings
+inhabiting high pastures, glaciers, and remote valleys. Not
+diminutive — formidable.
+
+*** Named abodes
+
+| Place | Elevation | Peri association |
+|-------+-----------+-----------------|
+| Tirich Mir | 7,708m | /Koh-e-Kaaf/ — mythical mountain at world's edge. Golden palace on summit. Fairy forts on surrounding peaks with drums beaten at times of war. |
+| Rakaposhi | 7,788m | /Dumani/ ("Mother of Mist"). Guardian spirit: /thamo raaci payaali/ — "mother of fourteen daughters." |
+| Nanga Parbat | 8,126m | /Diamer/ — "Mountain of the Gods." Local Shina: no one summits because of the jinn. |
+| Fairy Meadows | 3,300m | /Joot/ (Shina: summer pasture). Ethereal beings dance under moonlight. |
+| Deosai Plains | 4,114m | "Shadow of the Giant" (/deo/ = giant, /sai/ = shadow). A giant farmed here; snows came before harvest. |
+| Lake Saiful Muluk | 3,224m | Formed by a demon's rage — he flooded the valley because a fairy chose a human prince. |
+
+*** Two kinds of pari
+
+- *Makhakhar*: the fairy of milk
+- *Rathas*: the fairy of blood
+
+When the bitan sings, both come and ask him to drink.
+
+*** The Pari Khan (Chitral)
+
+Women attain the status of spirit medium. Initially patients
+(possessed), they gradually learn to live with the spirit and become
+its host. Pari Khan gain social status through healing powers.
+
+Source: JHSMS: https://ideapublishers.org/index.php/jhsms/article/view/978
+
+** B.2 The Bitan (Shaman)
+
+In Burushaski: *bitan*. In Shina: *dayal* (or *danyal*).
+
+*** Selection
+
+The peri choose the shaman, not the other way around. /The pariting
+descend to earth during the cherry and apricot blossoming seasons.
+They select the dayal from among newborns by smelling their noses and
+mouths./ The chosen one grows up showing signs in adolescence:
+unconsciousness, ecstatic states, prolonged sickness.
+
+*** The iron bangle (kau)
+
+Simultaneously binds to and wards off the fairy. The binding is also
+the protection. A paradox held in metal.
+
+*** The trance session
+
+Three requirements: *music, juniper smoke, and goat blood*.
+
+Orchestra: *Dadang* (drum), *Daamal* (two hemispherical drums),
+*Surnai/Gabi* (reed pipe). Played for 40+ minutes continuously.
+
+The bitan:
+1. Inhales burning juniper smoke (or bites juniper branches)
+2. Drinks blood from a freshly severed goat's head (male kid)
+3. Dances wildly, running and jumping
+
+In trance, the bitan /"sings his prophecy in an ancient language that
+he is incapable of speaking or understanding when he is awake."/
+
+*** The language the peri speak
+
+*The only official language of fairies is Shina.* A Burushaski-
+speaking shaman communicates with his pari in Shina — a language he
+does not normally speak. The spirit brings its own language.
+
+*** Five specialist categories (Hunza)
+
+Bitan, dashman, jaadugaar, sire gus, aqhon. The aqhon bridges
+Islamic and pre-Islamic practice.
+
+*** Music as political control
+
+The ruler of Hunza (tham) controlled shamans by *assigning the Dom
+(an underprivileged, ethnically different group) to monopolise the
+sacred music* for all shamanistic performances. Control the musicians,
+control access to the spirits.
+
+Sources:
+- Nicolaus (2015), "The Taming of the Fairies":
+  https://www.academia.edu/31911791/The_Taming_of_the_Fairies
+- Sidky (1994), "Shamans and Mountain Spirits in Hunza":
+  https://asianethnology.org/downloads/ae/pdf/a993.pdf
+- Csaji (2011), "Flying with the Vanishing Fairies":
+  https://www.academia.edu/5718795/Flying_with_the_Vanishing_Fairies
+- Express Tribune (2016):
+  https://tribune.com.pk/story/1133219/ancient-practices-little-known-shamans-nagar-valley
+- Republic Policy:
+  https://republicpolicy.com/shamanism-in-gilgit-baltistan/
+
+** B.3 Glacier Gender and Glacier Marriage
+
+Glaciers have gender in Gilgit-Baltistan:
+
+| Type | Shina name | Appearance | Behaviour |
+|------+------------+------------+-----------|
+| Male | /po gang/ | Grey, debris-covered | Slow-moving, yields little water |
+| Female | /mo gang/ | White or blue, shiny | Growing, gives off much water |
+
+*** The wedding of glaciers
+
+To graft a new glacier:
+1. Take a piece each of male and female glacier (~35 kg each)
+2. Pack in *coal and barley hay* for insulation
+3. Place in a *chorong* (conical basket woven from willow twigs)
+4. Transport to a cave or deep pit at 4,000–5,000m — north-facing,
+   no direct sunlight, snowfall and avalanches common
+5. Cover with a mixture of *mud, ash, and charcoal*
+6. Close with heavy stones
+7. Organise *special prayers and animal sacrifice*
+
+After 10–12 years, the grafted pieces give birth to a glacier.
+
+The Aga Khan Rural Support Programme has grafted 19 glaciers with
+*80% success rate*.
+
+Sources:
+- Dialogue Earth: https://dialogue.earth/en/water/the-glacier-marriages-in-pakistans-high-himalayas/
+- UNDP: https://www.adaptation-undp.org/sites/default/files/resources/glof-ii-glaciar_grafting.pdf
+- Pamir Times: https://pamirtimes.net/2017/11/18/art-of-glacier-growing-in-gilgit-baltistan/
+
+** B.4 The Azhdaar (Dragon-Serpents)
+
+Large serpentine beings with *the wings of a raptor, the mouth of a
+fish, and a golden mane like a lion's*. They inhale fire and can
+swallow a man. They live beneath glaciers and sacred lakes and control
+storms. In Hunza's Chipursan Valley, a frequently told story recounts
+a massive lake that destroyed an ancient settlement — attributed to
+dragon activity.
+
+** B.5 Languages and Place-Names
+
+| Name | Language | Meaning | Notes |
+|------+----------+---------+-------|
+| Nanga Parbat | Sanskrit/Urdu | "Naked Mountain" | Snow-free south face |
+| Diamer / Deo Mir | Shina (< Skt /devameru/) | "Mountain of the Gods" | District named after the mountain |
+| Joot | Shina | Summer pasture | =Fairy Meadows= — German: /Märchenwiese/ |
+| Tato | Shina | "Warm" | Named for the hot spring |
+| Deosai | Shina | "Shadow of the Giant" | /deo/ = giant, /sai/ = shadow |
+| Tattapani | Hindi/Urdu | "Hot water" | Multiple locations across the Himalaya |
+| Rakaposhi / Dumani | Burushaski | "Mother of Mist" | Fairy mountain, /raacikuyo/ |
+| Koh-e-Kaaf | Persian | Mountain at the world's edge | Applied to Tirich Mir |
+
+The dual naming of Nanga Parbat captures something real: the Urdu
+name describes the visible (bare rock); the Shina name describes
+the invisible (spirits). The surface and the depth.
+
+*** Shina musical tune-types
+
+Twelve named tunes, each occasion-specific: Dhani, Bazmi, Tajwar,
+Alghani, Saus, Lolo, Tambal, Bulla, Razm, Yudaani, and
+*Danyal/Bitan* (the shamanic tune).
+
+Source: https://www.saskenshina.com/en/shina-music
+
+** B.6 Human Settlement and Contemporary Life
+
+*** Villages around Nanga Parbat
+
+- *Chilas*: district capital, left bank of Indus. Summer temperatures
+  exceed 45°C (record: 48.5°C, July 2025). Overwhelmingly Sunni
+  Muslim (Hanafi). Shina-speaking (Chilasi dialect).
+- *Tato*: 2,300m, Rakhiot Valley. Hot springs. Starting point for
+  Fairy Meadows. Jeep road privately owned by Chilasis.
+- *Tarishing/Tarshing*: ~200 inhabitants, quiet village, approach to
+  Rupal valley. Shia and Sunni together.
+- *Rupal*: Salman Rashid (1994): /"a spreading straggle of houses
+  sprinkled over a slope that gently rises to the west until it runs
+  into a dusty spur separating it from the ablation valley of
+  Bizhen."/
+
+*** The Fairy Meadows road
+
+15 km from Raikot Bridge (KKH) to Tato. Ranked second deadliest
+highway (WHO, 2013). Just the width of a jeep, hacked from barren
+hills. Rock wall on one side, steep drop-off with no barriers on the
+other. The acrid smell of burning brake pads, screech of tyres on
+loose shale. A gravel ribbon 1,000m above the valley floor.
+
+Source: https://www.dangerousroads.org/asia/pakistan/116-fairy-meadows-road-pakistan.html
+
+*** The Diamer-Basha Dam
+
+13 villages will be submerged: Thak, Thalpan, Nusry Das, Dalojil,
+Segalihit, Thor Das, Sine Huch, Muruski, Hodar, Ges Bala, Ges Pain,
+Chilas, Bunar Das. 4,200+ families displaced.
+
+*50,000 rock carvings and 5,000 inscriptions* documented at Thalpan
+and surrounding sites, dating from 8,000 BCE to 16th century CE.
+Inscriptions in Brahmi, Sogdian, Middle Persian, Chinese, Tibetan,
+and ancient Hebrew. Only 5,000 of 35,000 carvings to be 3D-scanned.
+
+The Thalpan "Altar Rock" (named by Karl Jettmar) depicts Jataka
+scenes, Buddha's temptation by Mara's daughters, the sermon at
+Benares, Buddha under the tree of enlightenment.
+
+Jettmar and Hauptmann's Pak-German Archaeological Mission (from 1980):
+~30 sites on a 100 km stretch of the Indus, ~30,000 petroglyphs and
+5,000 inscriptions in 10+ writing systems.
+
+Protests ongoing (2025–2026): Dam Affectees Action Committee demanding
+Rs 15 billion compensation; sit-in at Chilas.
+
+Sources:
+- World Monuments Fund: https://www.wmf.org/projects/petroglyphs-diamer-basha-dam-area
+- Dialogue Earth: https://dialogue.earth/en/water/pakistans-diamer-basha-dam-will-drown-ancient-carvings/
+- Atlas Obscura: https://www.atlasobscura.com/places/thalpan-petroglyphs
+- Dawn: https://www.dawn.com/news/1893656
+- MDPI Sustainability: https://www.mdpi.com/2071-1050/17/6/2387
+
+** B.7 The Conquest Narrative
+
+- Mummery (1895): first attempt, died with two Gurkha porters
+- German expeditions (1930s): 1934 — 600 local porters for approach;
+  1937 — avalanche killed 7 Germans and 9 Sherpas at Camp IV
+- 1938: /"Enlisting porters for the high camps caused anxiety due to
+  talk of evil spirits and devils on Nanga Parbat"/ — no surviving
+  Sherpa would return
+- Buhl (1953): first summit, alone, departed ~02:00, reached summit
+  19:00 — the only 8,000m first ascent by a solo climber
+- Messner (1970): Rupal Face first ascent, Günther died on Diamir
+  descent
+- Modern: speed records, tourism, the "Killer Mountain" branding
+
+/"Foreigners have no fear of anything in their hearts, so they can
+face the jinn along their path."/ — local explanation for why
+outsiders summit but locals do not.
+
+Sources:
+- Himalayan Journal archives:
+  https://www.himalayanclub.org/hj/10/11/nanga-parbat-1937/
+  https://himalayanclub.org/hj/11/7/nanga-parbat-1938
+  https://www.himalayanclub.org/hj/18/10/on-the-summit-of-nanga-parbat/
+- Mark Horrell:
+  https://www.markhorrell.com/blog/2012/a-short-history-of-nanga-parbat-the-naked-german-mountain/
+
+* C. Aesthetic Register
+
+** C.1 Light and Air
+
+Altitude without monsoon haze. The dry Karakoram air gives harder
+light, sharper shadows, deeper sky than the monsoon valleys. No the
+green-gold filtering of deodar canopy. Colours are mineral: grey
+gneiss, orange hydrothermal alteration, white glacier, blue meltwater.
+The Rupal Face fills the entire sky from base camp — there is nowhere
+else to look.
+
+** C.2 Sound
+
+Wind. Ice. Absence of forest (no deodar, no birdsong canopy). The
+creak and groan of glacier movement. Rockfall on the Rupal Face
+echoing across the valley. The Indus in its gorge — a sound of
+geological force, not pastoral murmur. The acrid smell of burning
+brakes on the jeep road. The twelve named musical tunes: each
+occasion has its own sound, and one of them opens the door to the
+spirits.
+
+** C.3 Architecture
+
+Arid high-altitude — flat-roofed, thick-walled. Sod-roofed huts at
+summer pasture. Stone and timber, but not Kath-Kuni (that is a
+monsoon-valley technique requiring specific timber courses for
+earthquake resilience in wet soil). The architecture of scarcity
+rather than abundance.
+
+** C.4 Contrast with the Monsoon Valleys
+
+| Feature | Tirthan/Kullu (monsoon) | Diamer/Nanga Parbat (rain shadow) |
+|---------+-------------------------+-----------------------------------|
+| Water source | Rain, snowmelt, springs | Glacial melt, springs, no rain |
+| Forest | Deodar, cedar, oak | Juniper, birch, absent above 4,000m |
+| Agriculture | Terraced, irrigated (kuhls) | Minimal, no terraces, no kuhls |
+| Architecture | Kath-Kuni (stone + timber) | Flat-roofed stone, sod-roofed huts |
+| Spirit tradition | Devtas (534 in Kullu), gur/aavesh | Peri, bitan/dayal, juniper smoke |
+| Ritual medium | Gur (possessed, speaks devta's words) | Bitan (possessed, speaks Shina) |
+| Ritual trigger | Drums + procession | Dadang + Daamal + Surnai, 40 min |
+| Landscape agency | Springs (nāg), sacred groves (ban) | Glaciers (gendered), peaks (peri) |
+| Writing tradition | Oral + Pahari folk songs | 10,000 yr petroglyph tradition |
+
+* D. Narrative Tensions
+
+** D.1 The spirit is not its entry
+
+The gazetteer captures altitude zones and diagnostic roles. It does
+not capture the peri who choose shamans by smelling newborns' mouths
+during apricot blossom season, or the iron bangle that both binds and
+protects. A genus entry for /mo gang/ would say "white/blue, growing,
+water-giving." It would not contain the barley hay in the willow
+basket, or the twelve-year wait.
+
+** D.2 The conquest narrative vs the inhabited mountain
+
+The mountain's Shina name: "abode of spirits." Its Western name:
+"Killer Mountain." The porters who refused to return after 1937 were
+not superstitious — they were reading the mountain through their own
+knowledge system, one that said: this place has spirits, and the
+spirits are angry. The geologists, measuring the same mountain, found
+that it is tearing itself apart through a feedback loop of erosion
+and uplift. Both readings are about a mountain that acts.
+
+** D.3 Glacial agency
+
+The glacier surges — the Rakhiot advance of 2001–2002. A glacier that
+decides to move forward. And the glacier marriage: humans create
+glaciers by carrying male and female pieces in willow baskets to
+north-facing caves, sealing them with prayer and sacrifice, waiting
+twelve years for birth. The glacier is not scenery. It is an agent
+with gender, behaviour, and reproductive potential.
+
+** D.4 The mountain that builds itself
+
+Decompression melting: rock rising so fast it crosses the melting
+curve. The tectonic aneurysm: erosion drives uplift drives erosion.
+The youngest granite (0.7 Ma) in the oldest basement (Late Archean
+gneiss). Time compressed — the mountain is still becoming. This is
+not metaphor.
+
+** D.5 The drowning of the palimpsest
+
+The Diamer-Basha Dam will submerge 50,000 rock carvings spanning
+10,000 years. Brahmi, Sogdian, Persian, Chinese, Tibetan, Hebrew —
+ten writing systems on one stretch of riverbank. The Altar Rock's
+Jataka scenes. The protests at Chilas. The deepest gorge on Earth
+will be partially filled with impounded water, and the oldest writing
+in the region will go under.
+
+** D.6 The language the spirits speak
+
+The bitan sings prophecy in a language he cannot speak when awake. A
+Burushaski-speaker channels Shina — the fairy's language, not his
+own. The spirit brings its own language. This inverts the usual model
+of spirit possession: the host does not donate his voice; the spirit
+imposes its own.
+
+** D.7 Music as infrastructure
+
+Twelve named tunes, each for a specific occasion. The Danyal/Bitan
+tune opens the shamanic channel. The tham controlled shamans by
+monopolising the Dom musicians. To control the music is to control
+access to the spirits. Music is not decoration; it is the protocol
+layer.
+
+** D.8 The dual naming
+
+Nanga Parbat (Naked Mountain) / Diamer (Mountain of the Gods). The
+Urdu name describes the visible: bare rock, snow-free south face. The
+Shina name describes the invisible: the spirits who live there. Two
+names for one mountain, each true, neither sufficient.
+
+** D.9 The human explanation
+
+/"Foreigners have no fear of anything in their hearts, so they can
+face the jinn along their path."/ — This is not admiration. It is
+diagnosis. The locals understand that the foreigners' fearlessness is
+itself a kind of blindness.
+
+* E. Key Sources (Consolidated)
+
+** Academic
+
+- Jettmar, /Religions of the Hindukush/ (1975/2023):
+  https://hasp.ub.uni-heidelberg.de/journals/iqas/article/view/9347
+- Biddulph, /Tribes of the Hindoo Koosh/ (1880):
+  https://archive.org/details/in.ernet.dli.2015.40611
+- Nicolaus, "The Taming of the Fairies" (2015):
+  https://www.academia.edu/31911791/The_Taming_of_the_Fairies
+- Nicolaus, "Residues of Ancient Beliefs among the Shin" (2015):
+  https://brill.com/view/journals/ic/19/3/article-p201_2.xml
+- Sidky, "Shamans and Mountain Spirits in Hunza" (1994):
+  https://asianethnology.org/downloads/ae/pdf/a993.pdf
+- Csaji, "Flying with the Vanishing Fairies" (2011):
+  https://www.academia.edu/5718795/Flying_with_the_Vanishing_Fairies
+- Zeitler et al. (2001), /GSA Today/:
+  https://tectonics.caltech.edu/meetings/journal_club/session3/Zeitler_et_al2001REPS.pdf
+- Rutte et al. (2022), /Science Advances/:
+  https://www.science.org/doi/10.1126/sciadv.abm2689
+
+** Travelogues
+
+- Salman Rashid, "Rupal: the south face":
+  http://odysseuslahori.blogspot.com/2017/04/Rupal-Face-of-Nanga-Parbat.html
+- Against the Compass, Fairy Meadows trek:
+  https://againstthecompass.com/en/fairy-meadows-trek-nanga-parbat-base-camp/
+- Inside Himalayas, Rupal valley:
+  https://www.insidehimalayas.com/trekking-to-the-highest-mountain-wall-in-the-world-nanga-parbat-rupal-valley/
+
+** Historical
+
+- Himalayan Journal archives:
+  https://www.himalayanclub.org/hj/10/11/nanga-parbat-1937/
+  https://himalayanclub.org/hj/11/7/nanga-parbat-1938
+  https://www.himalayanclub.org/hj/18/10/on-the-summit-of-nanga-parbat/
+
+** Heritage
+
+- World Monuments Fund, petroglyphs:
+  https://www.wmf.org/projects/petroglyphs-diamer-basha-dam-area
+- Atlas Obscura, Thalpan:
+  https://www.atlasobscura.com/places/thalpan-petroglyphs
+
+** Geology
+
+- Leeds University:
+  https://www.see.leeds.ac.uk/structure/tectonics/nanga_parbat/
+- Lehigh "Tectonic Aneurysm":
+  https://eesarchive.lehigh.edu/groups/corners/cornerdocs/aneurysm.shtml
