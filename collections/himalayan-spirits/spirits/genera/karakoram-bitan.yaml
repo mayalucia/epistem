@@ -21,11 +21,85 @@ nature: >
   accommodated. It persists in the interface between Ismaili Islam
   and older Central Asian shamanic traditions.
 
+selection:
+  method: >
+    The peri choose the shaman, not the other way around. The
+    pariting descend to earth during the cherry and apricot
+    blossoming seasons. They select the dayal from among newborns
+    by smelling their noses and mouths. The chosen one grows up
+    showing signs in adolescence: unconsciousness, ecstatic states,
+    prolonged sickness.
+  implication: >
+    Selection is involuntary and pre-natal in its determination.
+    The spirit chooses at birth; the human discovers the choice
+    only in adolescence. Resistance can be fatal.
+
+iron_bangle:
+  name: kau
+  paradox: >
+    The iron bangle simultaneously binds the bitan to the fairy
+    and wards off the fairy. The binding is also the protection.
+    A paradox held in metal — the same object that chains the
+    shaman to his calling also shields him from being consumed
+    by it.
+
+trance_requirements:
+  music:
+    instruments:
+      - name: Dadang
+        type: drum
+      - name: Daamal
+        type: two hemispherical drums
+      - name: Surnai (Gabi)
+        type: reed pipe
+    duration: 40+ minutes continuous
+    tune: Danyal/Bitan (one of the twelve named Shina tunes)
+  smoke: juniper (inhaled or bitten from branches)
+  blood: freshly severed male goat kid head
+
+trance_sequence:
+  - Inhales burning juniper smoke (or bites juniper branches)
+  - Drinks blood from a freshly severed goat's head (male kid)
+  - Dances wildly, running and jumping
+  - In trance, sings prophecy in an ancient language that he is
+    incapable of speaking or understanding when awake
+
+five_specialist_categories:
+  region: Hunza
+  categories:
+    - name: bitan
+      role: primary shamanic practitioner, spirit medium
+    - name: dashman
+      role: diviner
+    - name: jaadugaar
+      role: sorcerer/magician
+    - name: sire gus
+      role: practitioner (specific role unclear)
+    - name: aqhon
+      role: >
+        Bridges Islamic and pre-Islamic practice. The aqhon
+        accommodates shamanic function within an Islamic frame.
+
+music_as_political_control:
+  description: >
+    The ruler of Hunza (tham) controlled shamans by assigning the
+    Dom (an underprivileged, ethnically different group) to
+    monopolise the sacred music for all shamanistic performances.
+    Control the musicians, control access to the spirits. Without
+    the Dom musicians, no trance session could proceed. The tham
+    held the key to the spirit world not through religious authority
+    but through labour allocation.
+  implication: >
+    Music is not decoration; it is the protocol layer. The tham's
+    power over shamanism was infrastructural, not theological.
+
 vocabulary:
   spirit_type: bitan (Burushaski)
-  related_practitioner: dayal
+  related_practitioner: dayal (Shina)
   trance_fuel: juniper smoke, music, blood
   spirits_contacted: pari
+  iron_bangle: kau
+  shamanic_tune: Danyal/Bitan
 
 species:
   - name: dayal
@@ -45,8 +119,14 @@ diagnostic: >
   Healing, soothsaying, community guidance. The bitan's trance
   provides diagnosis and prescription in the same manner as the
   Kullu gur's aavesh. The political function (apparatus of the
-  former Hunza state) parallels the devta's juridical role.
+  former Hunza state) parallels the devta's juridical role. The
+  five specialist categories (bitan, dashman, jaadugaar, sire gus,
+  aqhon) show institutional differentiation comparable to medical
+  specialisation.
 
 sources:
-  - "Sidky, Shamans and Mountain Spirits in Hunza, Asian Ethnology"
-  - "Sidky, Flying with the Vanishing Fairies (ResearchGate)"
+  - "Nicolaus (2015), The Taming of the Fairies: https://www.academia.edu/31911791/The_Taming_of_the_Fairies"
+  - "Sidky (1994), Shamans and Mountain Spirits in Hunza: https://asianethnology.org/downloads/ae/pdf/a993.pdf"
+  - "Csaji (2011), Flying with the Vanishing Fairies: https://www.academia.edu/5718795/Flying_with_the_Vanishing_Fairies"
+  - "Express Tribune (2016): https://tribune.com.pk/story/1133219/ancient-practices-little-known-shamans-nagar-valley"
+  - "Republic Policy: https://republicpolicy.com/shamanism-in-gilgit-baltistan/"

@@ -19,10 +19,79 @@ nature: >
   communities of Hunza and upper Gilgit, pre-Islamic practices have
   survived more robustly than in Sunni areas.
 
+two_kinds:
+  makhakhar:
+    gloss: the fairy of milk
+    nature: >
+      When the bitan sings, the makhakhar comes and asks him to drink.
+      Associated with nourishment and benevolence.
+  rathas:
+    gloss: the fairy of blood
+    nature: >
+      When the bitan sings, the rathas comes and asks him to drink.
+      Associated with danger and the sacrificial offering.
+
+named_abodes:
+  - place: Tirich Mir
+    elevation: 7708m
+    association: >
+      Koh-e-Kaaf — mythical mountain at world's edge. Golden palace
+      on summit. Fairy forts on surrounding peaks with drums beaten
+      at times of war.
+  - place: Rakaposhi
+    elevation: 7788m
+    association: >
+      Dumani ("Mother of Mist"). Guardian spirit: thamo raaci
+      payaali — "mother of fourteen daughters."
+  - place: Nanga Parbat
+    elevation: 8126m
+    association: >
+      Diamer — "Mountain of the Gods." Local Shina: no one summits
+      because of the jinn.
+  - place: Fairy Meadows
+    elevation: 3300m
+    association: >
+      Joot (Shina: summer pasture). Ethereal beings dance under
+      moonlight. The peri descend during cherry and apricot blossom
+      season.
+  - place: Deosai Plains
+    elevation: 4114m
+    association: >
+      "Shadow of the Giant" (deo = giant, sai = shadow). A giant
+      farmed here; snows came before harvest.
+  - place: Lake Saiful Muluk
+    elevation: 3224m
+    association: >
+      Formed by a demon's rage — he flooded the valley because a
+      fairy chose a human prince.
+
+pari_khan:
+  region: Chitral
+  nature: >
+    Women who attain the status of spirit medium. Initially patients
+    (possessed), they gradually learn to live with the spirit and
+    become its host. Pari Khan gain social status through healing
+    powers. The trajectory is patient → host → healer.
+  source: "JHSMS: https://ideapublishers.org/index.php/jhsms/article/view/978"
+
+the_language_question:
+  claim: >
+    The only official language of fairies is Shina. A Burushaski-
+    speaking shaman communicates with his pari in Shina — a language
+    he does not normally speak. The spirit brings its own language.
+  implication: >
+    This inverts the usual model of spirit possession: the host does
+    not donate his voice; the spirit imposes its own. The fairy
+    language is not a private spirit-tongue but a real human language
+    — just not the shaman's own.
+  source: "Nicolaus (2015), The Taming of the Fairies"
+
 vocabulary:
   spirit_type: peri
   meadow: jūt (fairy meadow)
   mountain_abode: diamer (abode of spirits)
+  milk_fairy: makhakhar
+  blood_fairy: rathas
 
 species:
   - name: pari (Burushaski form)
@@ -41,9 +110,13 @@ diagnostic: >
   Altitude awareness. The peri tradition encodes knowledge of
   altitude sickness, disorientation, and the dangers of high
   pastures and glaciers. Glacier behaviour (surges, retreats)
-  attributed to spirit agency.
+  attributed to spirit agency. The two kinds (makhakhar/rathas)
+  encode the dual nature of the mountain environment: nourishing
+  and deadly.
 
 sources:
-  - "Sidky, Shamans and Mountain Spirits in Hunza"
-  - "Sidky, Flying with the Vanishing Fairies (ResearchGate)"
-  - "Lorimer, The Burushaski Language, 1935-38"
+  - "Sidky (1994), Shamans and Mountain Spirits in Hunza: https://asianethnology.org/downloads/ae/pdf/a993.pdf"
+  - "Csaji (2011), Flying with the Vanishing Fairies: https://www.academia.edu/5718795/Flying_with_the_Vanishing_Fairies"
+  - "Nicolaus (2015), The Taming of the Fairies: https://www.academia.edu/31911791/The_Taming_of_the_Fairies"
+  - "Lorimer (1935), The Burushaski Language"
+  - "JHSMS, Pari Khan in Chitral: https://ideapublishers.org/index.php/jhsms/article/view/978"

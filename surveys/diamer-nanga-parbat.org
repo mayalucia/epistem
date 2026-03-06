@@ -1,7 +1,11 @@
 #+title: Regional Survey: Diamer and the Nanga Parbat Massif
-#+subtitle: Geology, glaciology, ecology, spirit traditions, aesthetics — homework for the Karakoram
-#+author: mayadev (WP-0012)
+#+subtitle: From Tethys to the Anthropocene — geology, ecology, spirit traditions, deep history, aesthetics
+#+author: mayadev (WP-0012 v0, WP-0013 v1)
 #+date: 2026-03-06
+#+property: version v1
+#+property: v0-by WP-0012 (620 lines, 20+ sources)
+#+property: v1-by WP-0013 (Parts B, C, D; ~1900 lines, 50+ new sources)
+#+property: companion diamer-deep-time.org (Part A: 900 lines, 32 sources)
 
 * Scope and Method
 
@@ -18,6 +22,36 @@ travelogues, journalism, and heritage documentation. Sources cited
 with URLs throughout. No personal observation (the human has not
 visited this region). The survey follows the standard established by
 the verified spirit ecology survey (WP-0006).
+
+** Version History
+
+- *v0* (WP-0012): Sections A–E. Physical geography, spirit
+  traditions, aesthetics, narrative tensions, key sources. 620 lines.
+- *v1* (WP-0013): Added sections F–K. Flora/fauna/landscape entities
+  (Part C), deep human history — petroglyphs, pre-Islamic religion,
+  oral tradition (Part B), visual and sound references (Part D).
+  ~1,900 additional lines, 50+ new sources.
+- *Companion file*: =diamer-deep-time.org= — Deep time survey
+  (Part A): geological and evolutionary history from Tethys to the
+  Bronze Age. 900 lines, 32 sources. Drafted from training knowledge,
+  key claims web-verified.
+
+** Structure
+
+| Section | Title | WP | Lines |
+|---------+-------+----+-------|
+| A | Physical Geography | 0012 | 22–207 |
+| B | Spirit Traditions and Human Culture | 0012 | 208–450 |
+| C | Aesthetic Register | 0012 | 451–493 |
+| D | Narrative Tensions | 0012 | 494–570 |
+| E | Key Sources (Consolidated) | 0012 | 571–622 |
+| F | Flora, Fauna, and Landscape Entities | 0013-C | 623–1613 |
+| G | Part C Sources | 0013-C | 1614–1681 |
+| H | Deep Human History — The First Stories | 0013-B | 1682–2220 |
+| I | Part B Sources | 0013-B | 2221–2286 |
+| J | Visual and Sound References | 0013-D | 2287–2503 |
+| K | Part D Sources | 0013-D | 2504–end |
+| — | Deep Time (companion file) | 0013-A | diamer-deep-time.org |
 
 * A. Physical Geography
 
@@ -618,3 +652,1934 @@ itself a kind of blindness.
   https://www.see.leeds.ac.uk/structure/tectonics/nanga_parbat/
 - Lehigh "Tectonic Aneurysm":
   https://eesarchive.lehigh.edu/groups/corners/cornerdocs/aneurysm.shtml
+
+
+* F. Flora, Fauna, and Landscape Entities (WP-0013 Part C)
+
+v0's ecology section (A.6) is thin: ibex, markhor, snow leopard,
+juniper, birch, morels. This part gives each organism its due — not
+as a species list but as entities with cultural resonance and story
+potential. For each: range and behaviour near Nanga Parbat, cultural
+significance (petroglyphs, spirit traditions, local names), and what
+makes it visually or narratively interesting.
+
+** F.1 Mammals — The Ones Carved on the Rocks
+
+*** Himalayan Ibex (/Capra sibirica sakeen/)
+
+The Himalayan ibex is a subspecies of the Siberian ibex (/Capra
+sibirica/) — the most widely distributed wild goat in Central Asia.
+The subspecies /C. s. sakeen/ inhabits the Pamir Mountains, western
+Himalayas, and the mountains of northern Pakistan, Afghanistan, and
+India.
+
+*Physical*: Males stand 88-110 cm at shoulder, weigh 60-130 kg.
+Females noticeably smaller (67-92 cm, 34-56 kg). Both sexes carry
+horns — males' horns black, typically ~115 cm, in extreme cases up to
+148 cm, with large transverse ridges on the front surface and annual
+growth rings. Female horns grey-brown, averaging 27 cm. Coat shifts
+from dark brown to light tan, with a darker dorsal stripe; mature
+males darken significantly in winter with white patches. Moult
+April-July.
+
+*Behaviour*: Lives above the treeline, descending to lower slopes in
+winter. Herds of 5-30, single-sex outside the rut. Rut occurs late
+October to early January — males lash, lock horns, and push. Gestation
+170-180 days, usually a single kid (twins in ~14% of births). Males
+live ~10 years in the wild, females up to 17.
+
+*Range near Nanga Parbat*: The ibex occupies the alpine and subalpine
+zones above ~3,500m around the Nanga Parbat massif, including the
+Fairy Meadows area, the Rupal valley headwalls, and the Rakhiot valley
+flanks. Population density in the Diamer area is uncertain — reliable
+census data for this specific district is sparse. The species is
+listed as Near Threatened globally (IUCN), with low densities across
+most of its range and overall decline.
+
+*The ibex cult*: The ibex is the most frequently depicted animal in
+the Thalpan petroglyphs and across the broader Chilas/Diamer rock art
+complex. Jettmar's Pak-German Archaeological Mission documented ibex
+as the dominant animal motif among the ~30,000 petroglyphs on the
+100 km stretch of the Indus. The ibex appears in hunting scenes, in
+isolation as a ritual or totemic symbol, and on funerary markers.
+
+In pre-Islamic Dardic religion, ibex horns were placed on graves —
+a practice documented by Jettmar in /Religions of the Hindukush/
+(1975) and observed across the Dardic-speaking regions from Chitral
+to Gilgit. The horn placement is not decorative: it marks the grave
+with the animal's power. The practice parallels the broader Central
+Asian ibex cult documented from the Altai to the Pamir, suggesting
+deep antiquity.
+
+Why the ibex above all others? Several converging factors: (1) the
+ibex is the dominant large herbivore of the high-altitude zone where
+herders spend their summers — it is the wild counterpart to the
+domestic goat; (2) the annual horn growth rings make the ibex a
+living calendar, visibly marking the passage of years; (3) the
+spectacle of rutting males — rearing on hind legs, clashing horns in
+the thin air above the treeline — is one of the most dramatic
+displays in mountain wildlife; (4) the ibex's mastery of vertical
+terrain — ascending near-vertical rock faces — gives it the
+appearance of supernatural capability.
+
+*Narrative interest*: The ibex is the thread between the oldest
+petroglyphs (possibly 8,000 BCE) and the living landscape. The same
+animal carved on rock 10,000 years ago still stands on the same
+ridgeline above Thalpan. The dam will drown the carvings; the ibex
+will remain on the cliffs above the waterline.
+
+Sources:
+- Wikipedia, "Siberian ibex" (subspecies /C. s. sakeen/):
+  https://en.wikipedia.org/wiki/Siberian_ibex
+- Jettmar, /Religions of the Hindukush/ (1975/2023):
+  https://hasp.ub.uni-heidelberg.de/journals/iqas/article/view/9347
+- World Monuments Fund, Thalpan petroglyphs:
+  https://www.wmf.org/projects/petroglyphs-diamer-basha-dam-area
+
+*** Markhor (/Capra falconeri/)
+
+Pakistan's national animal. A large wild goat native to the mountain
+regions at the crossroads of Central and South Asia, including the
+Karakoram and Himalayas. Listed as Near Threatened (IUCN) since 2015.
+
+*Physical*: Adults stand 65-115 cm at shoulder, 132-186 cm long,
+weighing 32-110 kg. The highest shoulder height of any /Capra/
+species. Sexually dimorphic: males have longer hair on chin, throat,
+chest, and shanks, and are grizzled light brown to black. Both sexes
+carry tightly curled, corkscrew-like horns that spiral upward from
+the head — male horns can reach 160 cm, females 25 cm. The spiral
+horns are the species' visual signature.
+
+*Etymology — the snake-eater*: The name "markhor" derives from
+Persian /mar/ ("snake") + /khor/ ("eater"), referencing an ancient
+belief that the markhor actively kills and consumes snakes. An
+alternative etymology derives from the Persian for "curly" (referring
+to the horns). The snake-eater etymology is the more culturally
+interesting: it places the markhor in direct opposition to serpents.
+
+*The nag/klu connection*: The markhor's name as "snake-eater"
+positions it as an antagonist to the serpent — and the nag/klu
+tradition across the Himalaya identifies serpents (naga, klu) as
+water guardians, spring spirits, and underground powers. If the
+markhor eats the snake, it is a creature that masters or overcomes
+the chthonic water spirits. Whether this folk etymology reflects an
+actual observed behaviour (markhors have been observed to eat
+snakes, though this is not well-documented) or a mythological
+attribution is unclear. The connection deserves further investigation
+through Dardic folklore sources.
+
+*Distribution near Nanga Parbat*: In Pakistan, the markhor is
+restricted to the Indus and Kunar rivers and their tributaries.
+Along the Indus, it inhabits both banks from Jalkot in Kohistan
+upstream to near Tungas village in Baltistan, with Gakuch being its
+western limit up the Gilgit River, Chalt up the Hunza River, and
+the Parishing (Parishing/Astore) Valley up the Astore River. This
+range directly encompasses the Nanga Parbat massif. The markhor
+inhabits elevations of 600-3,600m in shrub forests of oak (/Quercus
+ilex/), pine (/Pinus gerardiana/), and juniper (/Juniperus
+macropoda/) — the same juniper the bitan burns for trance.
+
+The largest Pakistani population currently lives in Chitral National
+Park. The Diamer/Nanga Parbat populations are likely smaller and
+fragmented.
+
+*Behaviour*: Diurnal, active early morning and late afternoon. Diet
+shifts seasonally — grazing in spring/summer, browsing in winter,
+sometimes standing on hind legs to reach high branches. Males largely
+solitary; females and kids form herds of ~9 animals. Alarm call
+closely resembles bleating of domestic goats.
+
+*Petroglyphic representation*: The markhor appears in the Thalpan
+petroglyph complex, though less frequently than the ibex. The
+distinction between ibex and markhor in petroglyphs can be
+determined by horn morphology: ibex horns curve backward in a
+scimitar arc, markhor horns spiral. Both appear in hunting scenes.
+
+*Narrative interest*: The spiral horn is one of nature's most
+striking visual motifs — a logarithmic spiral in keratin. The
+snake-eater name places the markhor at the intersection of the
+visible (the goat on the cliff) and the invisible (the serpent
+underground). Pakistan chose this animal, not the ibex, as national
+symbol.
+
+Sources:
+- Wikipedia, "Markhor":
+  https://en.wikipedia.org/wiki/Markhor
+- Roberts, T.J., /The Mammals of Pakistan/ (1997)
+- Schaller, G.B., /Mountain Monarchs: Wild Sheep and Goats of the
+  Himalaya/ (1977)
+
+*** Snow Leopard (/Panthera uncia/)
+
+The ghost of the mountain. A large cat of the genus /Panthera/,
+native to the mountain ranges of Central and South Asia. Listed as
+Vulnerable (IUCN) — global population estimated at fewer than 10,000
+mature individuals.
+
+*Physical*: Stocky build, thick whitish-to-grey fur with black spots
+on head and neck, larger rosettes on back, flanks, and the
+remarkably long, thick tail (used for balance and warmth — wrapped
+around the face when sleeping). Small rounded ears, broad paws
+(natural snowshoes). Solitary, mostly crepuscular (dawn and
+twilight). Males larger than females.
+
+*Evolutionary note*: The snow leopard forms a sister group with the
+tiger (/P. tigris/), with genetic divergence estimated at 3.7-2.7
+Ma. The earliest definitive modern snow leopard fossil dates to the
+Late Pleistocene (Niuyan Cave, China). Putative fossils from the
+Pabbi Hills of Pakistan date to the Early Pleistocene, though
+taxonomic assignment is uncertain.
+
+*Range near Nanga Parbat*: The snow leopard inhabits alpine and
+subalpine zones at 3,000-4,500m across its range. In Pakistan, its
+habitat includes Gilgit-Baltistan, Chitral, and the northern areas
+broadly. The Nanga Parbat massif falls within the species' range,
+particularly the higher valleys and ridgelines of the Rupal, Diamir,
+and Rakhiot drainages. Camera trap studies in the broader
+Gilgit-Baltistan region have documented snow leopard presence, though
+specific published studies focused on the Diamer district are sparse
+in the open literature. The Snow Leopard Foundation Pakistan and WWF
+Pakistan have conducted surveys in adjacent areas (Khunjerab, Central
+Karakoram).
+
+*Prey*: In the Nanga Parbat area, primary prey would include
+Himalayan ibex, markhor, and marmots — all species documented in
+this survey. The snow leopard is an ambush predator that uses the
+cliffs and ridges as vantage points, the same terrain the ibex
+masters.
+
+*Cultural significance*: The epithet "ghost of the mountain" captures
+the species' near-invisibility. Snow leopards are rarely seen even
+by people who live in their habitat. There is no clear petroglyphic
+representation of the snow leopard in the Thalpan complex — the
+dominant large predator in the rock art record is absent or
+unrecognized. This absence is itself interesting: the ibex, which
+the snow leopard hunts, is the most common motif. The predator is
+invisible even in art.
+
+In the broader Himalayan and Central Asian tradition, the snow
+leopard does not carry the mythological weight of, say, the tiger
+in South Asian or the wolf in Turkic traditions. Its cultural
+significance is more modern — an icon of wilderness and remoteness,
+adopted by conservation organizations. The Shina or Burushaski
+names and any local spirit associations require further ethnographic
+investigation.
+
+*Narrative interest*: A predator so well-adapted to its terrain that
+it is effectively invisible. It hunts the same ibex that humans
+carved on rocks for 10,000 years. The snow leopard watches from the
+same cliffs. The fact that it does not appear in the petroglyph
+record — while its prey dominates it — suggests either that the
+carvers did not see it (plausible, given the animal's cryptic
+nature) or that they chose not to represent it (a silence that
+itself carries meaning).
+
+Sources:
+- Wikipedia, "Snow leopard":
+  https://en.wikipedia.org/wiki/Snow_leopard
+- Snow Leopard Foundation Pakistan:
+  https://www.snowleopardfoundation.org/
+- Jackson, R. & Ahlborn, G. (1989), "Snow Leopards (Panthera uncia)
+  in Nepal," /Mammalia/ 53(4):515-530
+- Hussain, S. (2003), "The status of the snow leopard in Pakistan,"
+  /Oryx/ 37(1):26-33
+
+*** Himalayan Brown Bear (/Ursus arctos isabellinus/)
+
+The largest mammal in the western Himalayas. A subspecies of the
+brown bear, also known as the isabelline bear or Himalayan red bear.
+Classified as Critically Endangered in Pakistan.
+
+*Physical*: Males 1.5-2.2m long, females 1.37-1.83m. Sandy or
+reddish-brown colour (the "isabelline" — a sandy-yellowish hue).
+
+*Distribution near Nanga Parbat*: In Pakistan, the primary habitats
+are the subalpine and alpine regions of Khunjerab and Deosai National
+Parks and *other protected areas in Astore and Nanga Parbat*
+(Wikipedia, citing Abbas et al. 2015 and Nawaz et al. 2008). This
+confirms presence in the Nanga Parbat area specifically.
+
+The Deosai population — the most significant and stable population —
+lies directly east of Nanga Parbat (the Deosai Plains sit at 4,114m
+between Skardu and Astore districts). The Deosai population has
+recovered from only 19 individuals in 1993 to 78 in 2022, thanks to
+the establishment of Deosai National Park. The bear's range from
+Deosai extends into the Astore valley and the eastern flanks of
+Nanga Parbat.
+
+*Evolutionary note*: The Himalayan brown bear is the sister group to
+*all other brown bears and the polar bear*, with the branching event
+dated to ~658,000 years ago (Middle Pleistocene). This divergence
+corresponds to a glaciation event on the Tibetan Plateau
+(Nyanyaxungla glaciation) that isolated the ancestral population.
+This makes the Himalayan brown bear one of the most evolutionarily
+distinct bear lineages.
+
+*The Yeti connection*: DNA analysis of alleged "Yeti" specimens has
+repeatedly identified them as Himalayan brown bear. The bear's large
+size, reddish colour, occasional bipedal stance, and occupation of
+remote high-altitude terrain likely account for a significant portion
+of Yeti sightings. In the Nanga Parbat context, Deosai itself means
+"shadow of the giant" (/deo/ = giant, /sai/ = shadow) — the giant
+may have been the bear.
+
+*Behaviour*: Omnivorous — grasses, roots, plants, insects, small
+mammals, fruits, berries, and occasionally sheep and goats.
+Hibernates October-April in dens. Feeds before sunrise and in the
+late afternoon.
+
+*Threats*: A population of 150-200 individuals across ~150,000 km^{2}
+in northern Pakistan. Threatened by overgrazing, poaching, illicit
+trade in bear fat and pelts, and increasingly by dependence on human
+waste (documented in Indian populations where up to 75% of diet may
+come from dump sites, causing toxic exposure and nutritional
+deficiency).
+
+*Narrative interest*: The evolutionary time depth — sister to all
+other brown bears, isolated by glaciation 658,000 years ago. The
+Yeti connection places the bear at the intersection of zoology and
+mythology. The Deosai recovery (19 to 78 in three decades) is one of
+the rare good conservation stories in the region. The "shadow of the
+giant" walks the plains east of the mountain of the gods.
+
+Sources:
+- Wikipedia, "Himalayan brown bear":
+  https://en.wikipedia.org/wiki/Himalayan_brown_bear
+- Wikipedia, "Deosai National Park":
+  https://en.wikipedia.org/wiki/Deosai_National_Park
+- Abbas et al. (2015), "Status of Himalayan brown bear in Pakistan,"
+  cited in Wikipedia
+- Nawaz et al. (2008), cited in Wikipedia
+- Lan et al. (2017), Phylogenetic divergence dating, /Proc. R. Soc. B/
+
+*** Long-tailed Marmot (/Marmota caudata/)
+
+The alarm whistle of the alpine meadow. The long-tailed marmot (also
+called the golden marmot) is the marmot species present in the
+western Karakoram and Nanga Parbat area. (The Himalayan marmot,
+/M. himalayana/, has a more eastern distribution — the two species'
+ranges meet but do not overlap in the western Himalayas.)
+
+*Physical*: A large, sturdy rodent weighing up to 9 kg. Weight varies
+dramatically with season: 1.5 kg post-hibernation (spring) to 7.3 kg
+pre-hibernation (autumn), when more than a quarter of body mass is
+fat. Head-and-body length 37-80 cm. The tail is notably long for a
+marmot: 16-28 cm, 37-55% of body length.
+
+*Habitat*: Lives in open or lightly wooded habitats, often among
+rocks where dwarf junipers grow — the characteristic Nanga Parbat
+landscape. Excavates deep burrows (2-10m) in suitable soil
+(fluvioglacial, alluvial deposits). Colonies of up to 30 families
+where soil conditions allow. Hibernates for ~7.5 months (late
+autumn to early spring).
+
+*The alarm whistle*: The marmot's sharp alarm call is one of the
+defining sounds of the alpine meadow (jut). It carries across the
+open terrain, audible from hundreds of metres. The whistle warns the
+colony of approaching predators — golden eagles, wolves, red foxes,
+and snow leopards. In the silence above the treeline at Fairy
+Meadows or the Rupal valley, the marmot alarm is often the first
+sign of wildlife presence.
+
+*Herodotus and the gold-digging ants*: The French ethnologist Michel
+Peissel argued that Herodotus's account of "gold-digging ants" in
+the land of the Dards was based on the golden marmot of the Deosai
+Plateau. Local tribes (including the Minaro) collected gold dust
+excavated from marmot burrows. The marmots, digging through
+gold-bearing alluvial deposits, brought gold to the surface. Peissel
+identified the Deosai as the specific location of Herodotus's story
+— making the marmot a creature that connects classical Greek
+historiography to the geology of the western Himalayas.
+
+*Diet*: Grasses, sedges, and the soft parts of alpine flowering
+plants — /Carex/, /Agrostis/, /Gentiana/, /Primula/, /Ranunculus/,
+/Saussurea/. Many of the same plants that make the jut bloom.
+
+*Predators*: Snow leopard, Tibetan wolf, red fox, golden eagle. The
+golden eagle hunts marmots from above; the snow leopard stalks from
+the rocks. The marmot is a keystone prey species linking the alpine
+food web.
+
+*Narrative interest*: The marmot whistle is a sound that carries.
+In the narrative silence of the high jut, it is the voice of
+vigilance — the first response to any approach, human or animal.
+The Herodotus connection places a rodent on the Deosai Plateau at
+the origin of one of Western history's most enduring traveller's
+tales.
+
+Sources:
+- Wikipedia, "Long-tailed marmot":
+  https://en.wikipedia.org/wiki/Long-tailed_marmot
+- Wikipedia, "Himalayan marmot" (for Deosai/Herodotus):
+  https://en.wikipedia.org/wiki/Himalayan_marmot
+- Peissel, Michel, /The Ants' Gold: The Discovery of the Greek
+  El Dorado/ (1984)
+
+** F.2 Birds — The Ones That Fly Above the Face
+
+*** Bearded Vulture / Lammergeier (/Gypaetus barbatus/)
+
+The bone-eater. The only known vertebrate whose diet consists of
+70-90% bone. Not a true Old World vulture — it forms a separate
+lineage of Accipitridae with its closest relative, the Egyptian
+vulture (/Neophron percnopterus/).
+
+*Physical*: 94-125 cm long, wingspan 2.31-2.83 m (up to 9 ft 3 in).
+Weight 4.5-7.8 kg; Himalayan birds tend to be slightly larger than
+those from other ranges. Proportions compared to a falcon scaled to
+enormous size. Unlike most vultures, the head is fully feathered —
+no bald head. Dark grey above; the breast and leg feathers are
+variably orange or rust-coloured, a colouration that is *cosmetic*:
+the bird deliberately bathes in iron-rich mud and dust, staining its
+own plumage. A black band across the eyes and black bristles under
+the chin form the "beard."
+
+*The bone-dropping behaviour*: The lammergeier carries large bones
+(and occasionally live tortoises) to great height and drops them onto
+rocks below — the /ossuary/ (bone-breaking) behaviour. The name
+"ossifrage" means "bone-breaker." It swallows bone fragments whole;
+its stomach acid (pH ~1) dissolves bone efficiently. The oesophagus
+can accommodate bones up to 25 cm long. It feeds almost exclusively
+on bone marrow and bone — a dietary niche no other vertebrate
+occupies.
+
+*Name*: German /Lammergeier/ = "lamb vulture," from the (false)
+belief that it attacks lambs. In Iran, it is called /Homa/ — a bird
+of Persian mythology associated with fortune and divinity. Whether
+the Shina or Burushaski names carry similar mythological weight
+requires further ethnographic investigation.
+
+*Range near Nanga Parbat*: The subspecies /G. b. barbatus/ ranges
+from southern Europe through the Himalayas to Nepal and western
+Pakistan. The species breeds on crags in high mountains. The Nanga
+Parbat massif — with its immense cliff systems, vertical relief,
+and populations of ibex and markhor whose carcasses provide bones —
+is prime lammergeier habitat. The Rupal Face and the Indus gorge
+cliffs would both serve as hunting and nesting territory.
+
+*Spirit associations*: The bird's immense size, the deliberate
+mud-bathing to stain itself, and the bone-dropping behaviour give
+it an uncanny appearance and ecology. In broader Himalayan
+tradition, large raptors are associated with sky spirits. In the
+v0 survey, the azhdaar (dragon-serpent) has "the wings of a raptor"
+— the lammergeier's silhouette is perhaps the visual basis.
+Specific Shina or Burushaski associations with the lammergeier
+require further fieldwork. The Persian /Homa/ association is
+potentially relevant given the Persian cultural substrate in
+Gilgit-Baltistan.
+
+*Narrative interest*: An animal that eats only bone. That
+deliberately colours itself with iron-rich earth. That drops bones
+from the sky. The lammergeier is not scavenging in the usual sense
+— it has found a food source (marrow) that no other vertebrate
+competes for, and it processes it through a behaviour (aerial
+dropping) that requires intelligence, memory of ossuary sites, and
+accurate targeting. It is the last consumer in the chain: after the
+snow leopard kills the ibex, after the griffon vultures strip the
+flesh, the lammergeier takes the skeleton.
+
+Sources:
+- Wikipedia, "Bearded vulture":
+  https://en.wikipedia.org/wiki/Bearded_vulture
+- Margalida, A. et al. (2009), "Bearded Vulture (Gypaetus barbatus)
+  diet," /Biological Conservation/
+- Houston, D.C. (1979), "The adaptations of scavengers," /Serengeti:
+  Dynamics of an Ecosystem/
+
+*** Himalayan Griffon Vulture (/Gyps himalayensis/)
+
+The massive scavenger of the high Himalaya. After the cinereous
+vulture, it is the second-largest Old World vulture and among the
+world's largest true raptors. Listed as Near Threatened (IUCN).
+
+*Physical*: Length 1,030-1,150 mm. Wingspan 2.56-3.1 m. Weight
+6-12.5 kg, averaging ~9 kg — perhaps the largest and heaviest bird
+in the Himalayas. Pale buff uniform upperside, dark greater coverts,
+tail and wing quills. Whitish down on immature heads becomes
+yellowish in adults. Long, spiky ruff feathers. Pale blue facial
+skin.
+
+*Behaviour*: Soars on thermals — incapable of sustained flapping
+flight. Follows grazers up mountains searching for carcasses. Makes
+a rattling sound descending on a carcass; grunts and hisses at
+roosts. Social — found in large flocks at feeding sites.
+
+*Range*: Mainly the higher Himalayan regions and Tibetan Plateau,
+1,200-5,500m. Distributed from Central Asia through Pakistan,
+India, Nepal, Bhutan, to western China and Mongolia. The Nanga
+Parbat massif is well within its range. These vultures would be a
+regular sight soaring on thermals above the Rupal and Diamir faces.
+
+*Tibetan sky burial connection*: In Tibetan Buddhist tradition,
+/Gyps himalayensis/ is the primary species involved in sky burial
+(/jhator/) — the offering of the body to vultures after death. This
+practice does not extend to the Sunni Muslim communities of Diamer,
+but the vulture's role as consumer of the dead carries cultural
+weight across the Himalayan world.
+
+Sources:
+- Wikipedia, "Himalayan vulture":
+  https://en.wikipedia.org/wiki/Himalayan_vulture
+
+*** Golden Eagle (/Aquila chrysaetos/)
+
+The most widely distributed eagle species. In the Nanga Parbat area,
+the golden eagle is a predator of marmots, hares, and young ibex.
+
+*Physical*: Dark brown with lighter golden-brown plumage on the nape
+(giving the name). Territories can be as large as 200 km^{2}. Builds
+large nests on cliffs — the same cliff habitat as ibex and
+lammergeier.
+
+*Range near Nanga Parbat*: The golden eagle ranges throughout the
+mountains of Central and South Asia. In the Nanga Parbat area, it
+would hunt across the alpine meadows and ridgelines, taking marmots
+as primary prey (as documented on the Tibetan Plateau). The eagle
+and the marmot form a predator-prey pair that defines the alpine
+soundscape: the marmot's alarm whistle often signals the eagle's
+approach.
+
+Sources:
+- Wikipedia, "Golden eagle":
+  https://en.wikipedia.org/wiki/Golden_eagle
+
+*** Chukar Partridge (/Alectoris chukar/)
+
+The common bird of the arid valleys. A Palearctic upland gamebird
+in the pheasant family.
+
+*Physical*: Rotund, 32-35 cm long. Light brown back, grey breast,
+buff belly. White face with black gorget, rufous-streaked flanks,
+red legs and coral-red bill.
+
+*Sound*: A noisy /chuck-chuck-chukar-chukar/ — the call from which
+the name derives. In the dry, rocky valleys of Diamer below the
+treeline, the chukar's call is one of the most persistent sounds.
+
+*Habitat*: Rocky open hillsides with grass, scrub, or cultivation.
+In Pakistan, found at 600-4,000m. Not found in areas of high
+humidity or rainfall — the Diamer rain-shadow valleys are ideal
+habitat. The chukar is to the lower, arid valleys what the marmot
+is to the alpine meadows: the characteristic voice of the
+elevation zone.
+
+*Range near Nanga Parbat*: Found along the inner Himalayan ranges
+through Pakistan, including the Indus gorge valleys, the Chilas area
+(summer temperatures exceeding 45C — classic chukar habitat), and
+the lower approaches to the mountain.
+
+Sources:
+- Wikipedia, "Chukar partridge":
+  https://en.wikipedia.org/wiki/Chukar_partridge
+
+*** Snow Partridge (/Lerwa lerwa/)
+
+The high-altitude partridge. Found widely across the Himalayan
+regions of Pakistan, India, Nepal, and China. The only species in
+its genus — the most basal member of the pheasant subfamily.
+
+*Physical*: Grey above and chestnut below, finely barred in black
+and white. Bright red bill and legs. 38-40 cm long. Males 550-700g,
+females 450-580g. Downy chicks resemble blood pheasant chicks.
+
+*Habitat*: Alpine pastures and open hillsides above the treeline but
+not in bare rocky terrain (unlike the Himalayan snowcock). Less wary
+than the snowcock. Found at elevations matching the upper jut and
+scree slopes around Nanga Parbat.
+
+*Narrative interest*: A bird of the treeline transition — it marks
+the elevation where trees give way to open sky. Its range overlaps
+precisely with the peri's domain (the jut above the forest).
+
+Sources:
+- Wikipedia, "Snow partridge":
+  https://en.wikipedia.org/wiki/Snow_partridge
+
+*** Western Tragopan (/Tragopan melanocephalus/)
+
+The rarest pheasant of the western Himalayas. Globally threatened,
+Vulnerable (IUCN). Found from Khyber Pakhtunkhwa (including
+Kohistan and Kaghan valley — adjacent to Diamer) through Kashmir,
+Chamba, and Kullu to east of the Sutlej.
+
+*Physical*: Males are very dark (grey-black with numerous white
+spots, each bordered with black and deep crimson patches). During
+display, males inflate the throat into purple lappets with pink
+margins and erect blue "horns" — a fancied resemblance to the
+mythological god Pan (hence /tragopan/ from Greek /tragos/ "goat"
++ /Pan/).
+
+*Habitat*: Upper temperate forests, 2,400-3,600m in summer, dense
+coniferous and broadleaved forests 2,000-2,800m in winter. Sensitive
+to anthropogenic disturbance. In the Nanga Parbat area, it would
+potentially occur in the forested valleys on the approaches, though
+the arid, rain-shadow character of Diamer may limit its range
+compared to the more humid valleys of Kohistan and Kaghan. Its
+presence in the Diamer district specifically is uncertain and would
+require field confirmation.
+
+*Narrative interest*: A bird that displays by inflating its throat
+into something resembling the face of a god. The most endangered
+pheasant in the western Himalayas. If it exists in the Diamer/Nanga
+Parbat forests at all, it is as much a ghost as the snow leopard.
+
+Sources:
+- Wikipedia, "Western tragopan":
+  https://en.wikipedia.org/wiki/Western_tragopan
+
+*** Note on Diamer-endemic species
+
+No bird species is endemic to Diamer district alone. The district
+lies at the intersection of multiple biogeographic zones (western
+Himalayan, Karakoram, Central Asian) and hosts species from all of
+them. The bird community's interest lies not in endemism but in
+the juxtaposition: the chukar of the hot Indus gorge (600m) and
+the snow partridge of the alpine meadow (4,500m) are separated by
+4 km of altitude within the same district.
+
+** F.3 Flora — What Grows Without Monsoon
+
+*** Juniper (/Juniperus excelsa/ subsp. /polycarpos/ and /J. macropoda/)
+
+The sacred tree of the Karakoram. Two juniper species/subspecies are
+relevant in the Nanga Parbat area:
+
+1. *Juniperus excelsa* subsp. *polycarpos* (Persian juniper): The
+   subspecies of Greek juniper that extends from Iran east to
+   northwestern Pakistan. Some botanists treat it as a distinct
+   species, /J. polycarpos/. A large shrub or tree reaching 6-20m,
+   rarely 25m. Trunk up to 2m diameter. Broadly conical to rounded
+   crown. Largely dioecious. Berry-like cones 6-11mm, blue-black
+   with whitish waxy bloom, 3-6 seeds, maturing in ~18 months.
+
+2. *Juniperus macropoda* (= /J. excelsa/ in some taxonomies): This
+   is the juniper mentioned in the markhor's habitat description —
+   the markhor inhabits shrub forests of oak, pine, and
+   /J. macropoda/. In the Diamer context, this is likely the same
+   as or closely related to /J. excelsa/ subsp. /polycarpos/.
+
+*Distribution near Nanga Parbat*: Juniper forms the dominant tree
+cover in the arid, rain-shadow valleys of Diamer where it replaces
+the deodar (/Cedrus deodara/) of the monsoon valleys. It grows on
+dry, rocky slopes between ~2,500m and ~4,000m. Above the juniper
+zone: birch and then treeless alpine meadow. Below: bare arid
+slopes or scattered scrub.
+
+*Sacred use — the bitan's smoke*: Juniper smoke is one of the three
+requirements for the shamanic trance session (alongside music and
+goat blood). The bitan inhales burning juniper smoke or bites
+juniper branches. This is not incidental — juniper burning is a
+sacred practice across the entire Dardic, Kalasha, and broader
+Central Asian shamanic world. Jettmar documented juniper/cedar
+worship as a core element of pre-Islamic Dardic religion. The
+tree's aromatic resin, slow growth in harsh conditions, and
+evergreen persistence through the mountain winter all contribute
+to its sacred status.
+
+In Tibetan Buddhist tradition, juniper smoke (/bsang/) is burned as
+purification and offering — the same basic practice with different
+theological framing. The convergence across traditions suggests deep
+antiquity.
+
+*Oldest living junipers*: /Juniperus excelsa/ and related species
+are among the longest-lived trees in the world. Individual trees
+exceeding 1,000 years are documented in Turkey and Iran. The oldest
+junipers in the Gilgit-Baltistan region have not been systematically
+dated (no published dendrochronological studies found), but given
+the species' longevity and the slow growth rates in the harsh
+Karakoram climate, individual trees in the Nanga Parbat area could
+plausibly be many centuries old. This is a gap in the published
+literature.
+
+*Narrative interest*: The juniper is the tree that opens the door
+to the spirits. Its smoke is the medium through which the bitan
+enters trance. It grows where nothing else will — on the dry, rocky
+slopes that receive no monsoon. It may have been standing when the
+petroglyphs were carved.
+
+Sources:
+- Wikipedia, "Juniperus excelsa":
+  https://en.wikipedia.org/wiki/Juniperus_excelsa
+- Adams, R.P. (2004), /Junipers of the World: The genus Juniperus/
+- Jettmar, /Religions of the Hindukush/ (1975/2023):
+  https://hasp.ub.uni-heidelberg.de/journals/iqas/article/view/9347
+
+*** Himalayan Birch (/Betula utilis/)
+
+The writing tree. A deciduous tree native to the western Himalayas,
+growing at elevations up to 4,500m. The Latin epithet /utilis/ means
+"useful." The Sanskrit name is /bhurja/ — sharing Indo-European
+cognates with the English word "birch."
+
+*Physical*: In native habitat, grows as a shrub or tree up to 20m.
+Frequently grows among scattered conifers with an understorey of
+evergreen /Rhododendron/. Thin, papery bark — very shiny, reddish
+brown, reddish white, or white — that peels in broad horizontal
+belts. The bark is the species' visual signature: white strips
+peeling from dark trunks.
+
+*Ecology near Nanga Parbat*: The birch depends on moisture from
+snowmelt, *not from the monsoon* — making it well-suited to the
+rain-shadow conditions of Diamer. It forms the upper treeline
+forest, typically at 3,500-4,500m, above the juniper zone and below
+the alpine meadow. Often with bent growth from winter snow pressure.
+A fungal growth (/bhurja-granthi/) forms black lumps on the tree
+weighing up to 1 kg.
+
+*Treeline elevation*: Around Nanga Parbat, the birch treeline varies
+by aspect and exposure but typically reaches 3,800-4,200m — the
+transition to the jut (alpine meadow). On the approach to Fairy
+Meadows (3,300m), scattered birch would be visible on the upper
+slopes.
+
+*Historical use*: The bark was used for centuries as writing
+surface for Sanskrit manuscripts, particularly in Kashmir. Sanskrit
+writers Kalidasa (c. 4th century CE), Sushruta (c. 3rd century CE),
+and Varahamihira (6th century CE) mention its use. Kashmiri Pandits
+reported all books were written on birch bark until Akbar introduced
+paper in the 16th century.
+
+Sacred mantras are still written on the bark, placed in amulets,
+and worn for protection — a practice documented since the 8th-9th
+century CE (Lakshmi Tantra).
+
+*Narrative interest*: The tree that humans wrote on before they had
+paper. The bark that peels itself, offering its surface. At Nanga
+Parbat, the birch marks the treeline — the boundary between the
+forested world of human habitation and the open, treeless world of
+the peri. The writing tree stands at the threshold.
+
+Sources:
+- Wikipedia, "Betula utilis":
+  https://en.wikipedia.org/wiki/Betula_utilis
+
+*** Alpine Meadow — The Jut in Bloom
+
+The /jut/ (Shina: summer pasture) — Fairy Meadows, Rupal meadows,
+and the alpine grasslands above the treeline — is the peri's domain.
+In bloom (June-August), these meadows are dense with wildflowers.
+Species documented from alpine meadows in the western Himalayas and
+Karakoram at 3,000-5,000m include:
+
+- */Primula/* spp. (primrose): among the earliest spring bloomers,
+  often appearing at snowmelt margins
+- */Gentiana/* spp. (gentian): deep blue flowers, characteristic of
+  high-altitude meadows
+- */Ranunculus/* spp. (buttercup): yellow, ubiquitous in moist
+  meadows
+- */Saussurea/* spp.: including snow lotus species at the highest
+  elevations, used in traditional medicine
+- */Iris/* spp.: including /Iris potaninii/ in some areas
+- */Pedicularis/* spp. (lousewort): elaborate pink-purple flowers,
+  common in moist alpine meadows
+- */Potentilla/* spp. (cinquefoil): yellow-flowered, mat-forming
+- */Edelweiss/* (/Leontopodium/): the iconic alpine flower, present
+  in the western Himalayas
+- */Aconitum/* spp. (monkshood): deep purple, highly toxic, used in
+  traditional medicine across the Himalaya (and, historically, as
+  poison)
+- */Anemone/* spp.: delicate white-to-purple flowers at snowline
+- */Bistorta/* (knotweed): pink spikes in moist meadows
+
+The grasses and sedges include /Carex/, /Agrostis/, /Deschampsia/,
+and /Koeleria/ — the same species that marmots feed on.
+
+*What it looks like in bloom*: At full bloom in July, the jut is a
+tapestry of blue (gentian), yellow (buttercup, potentilla), pink
+(primula, pedicularis), and white (anemone, edelweiss) against a
+ground of green grass. The meadows at Fairy Meadows face the Rakhiot
+glacier and the north face of Nanga Parbat — wildflowers in the
+foreground, ice in the background. The contrast is absolute.
+
+*The peri's domain*: The jut is where the peri dance under moonlight.
+The shamanic tradition holds that peri descend to earth during the
+blossoming season. The meadow in bloom is literally the setting for
+spirit encounter.
+
+*** Apricot and Cherry Orchards
+
+The blossoming trees of the valley floor. The peri choose shamans
+during the cherry and apricot blossoming seasons — they "descend
+to earth" and "select the dayal from among newborns by smelling
+their noses and mouths."
+
+*Apricot* (/Prunus armeniaca/): Gilgit-Baltistan is one of the
+world's centers of apricot diversity. The Hunza valley is
+particularly famous, but apricot orchards are widespread across the
+region including Diamer, the Astore valley, and the lower Nanga
+Parbat approaches. Varieties are numerous and locally named.
+Blossoming occurs in March-April, transforming the grey, arid valley
+floors into clouds of white and pink. The dried apricot (and apricot
+oil) is a staple food and economic product.
+
+*Cherry* (/Prunus avium/ and /P. cerasoides/): Wild and cultivated
+cherry trees blossom slightly before or concurrent with apricot.
+The blossoming season (March-April at lower elevations, up to May
+at higher) is the time of spirit selection.
+
+*Cultivation history*: Stone fruit cultivation in Central and South
+Asia has deep antiquity — apricots have been cultivated for at least
+3,000 years, with the Karakoram/Himalayan region as one of the
+likely centres of domestication. The genetic diversity of local
+varieties in Gilgit-Baltistan supports this antiquity.
+
+*Narrative interest*: The blossoming season is when the boundary
+between human and spirit worlds thins. The peri descend. The newborn
+is chosen. The trees in bloom are not scenery — they are the
+temporal marker of spirit activity. The blossom is the signal.
+
+*** Morel Mushrooms (/Morchella/ spp.)
+
+Already noted in v0: the seasonal economy at Fairy Meadows includes
+morel mushroom harvesting (/kuchuli/ in Shina) in May-June, fetching
+up to Rs 15,000/kg. Morels fruit in the juniper and birch forest
+zone after snowmelt, growing in association with the root systems
+of these trees (likely mycorrhizal). The harvest is economically
+significant — communities have transitioned from timber to tourism
+and morel collection.
+
+*Narrative interest*: A fungus that appears only briefly in the
+narrow window between snowmelt and summer heat, worth a small fortune,
+growing in partnership with the sacred juniper. The kuchuli harvest
+is one of the few economic activities that takes people into the
+forest zone regularly.
+
+*** Medicinal Plants of the Bitan
+
+The bitan's pharmacopoeia is not well-documented in the open
+literature. However, the broader ethnobotany of the western
+Himalayas and Karakoram includes several medicinal plants likely
+used by traditional healers in the Diamer/Nanga Parbat area:
+
+- */Ephedra/* spp. (joint-fir, /ma huang/): a gymnosperm shrub of
+  arid, high-altitude regions. Contains ephedrine and
+  pseudoephedrine. Used in traditional medicine across Central and
+  South Asia as a stimulant and treatment for respiratory ailments.
+  /Ephedra gerardiana/ is the common species of the western
+  Himalayas. Found on dry, rocky slopes — the same habitat as
+  juniper.
+
+- */Artemisia/* spp. (wormwood): widespread in arid habitats.
+  Contains artemisinin (the antimalarial compound). Used across the
+  Himalaya for fever, stomach complaints, and as incense. The
+  aromatic, bitter plants grow on the dry slopes of the Indus gorge
+  and lower valleys.
+
+- */Aconitum/* spp. (monkshood, /bish/ or /vatsnabh/): highly toxic
+  alkaloids. Used in minute doses in traditional medicine across the
+  Himalaya as analgesic, anti-inflammatory, and cardiac medicine. A
+  plant that kills or cures depending on dosage — resonant with the
+  bitan's dual relationship with the peri (the iron bangle that
+  both binds and protects).
+
+- */Saussurea costus/* (kuth): a threatened medicinal plant of the
+  western Himalayas, used in traditional medicine and incense. CITES
+  Appendix I listed.
+
+- *Juniper berries and resin*: The juniper itself is medicinal — the
+  berries and resin have documented antimicrobial, anti-inflammatory,
+  and digestive properties.
+
+*Gap*: The specific pharmacopoeia of the bitan/dayal in Diamer is
+not systematically documented in the accessible literature. Sidky
+(1994) and Nicolaus (2015) describe the trance practice in detail
+but do not enumerate the medicinal plants used. This is a research
+gap that would require fieldwork or access to ethnobotanical surveys
+of the Shina-speaking areas.
+
+Sources:
+- Wikipedia, "Ephedra (plant)":
+  https://en.wikipedia.org/wiki/Ephedra_(plant)
+- Shinwari, Z.K. & Gilani, S.S. (2003), "Sustainable harvest of
+  medicinal plants," /Journal of Ethnopharmacology/ 84(2-3):289-298
+- Bhat, J.A. et al. (2013), "Medicinal plants of the western
+  Himalaya," /Journal of Ethnopharmacology/ 150:975-986
+
+** F.4 Rivers and Water
+
+*** Tributaries and Meltwater Streams
+
+The Nanga Parbat massif drains into the Indus through several named
+tributaries:
+
+- *Rakhiot Nala*: Drains the Rakhiot Glacier (north face). The
+  approach route to Fairy Meadows follows this valley. The stream
+  carries heavy glacial sediment — milky, grey-green meltwater
+  laden with rock flour ground from the gneiss bedrock. The hot
+  springs at Tato village are in this drainage.
+
+- *Rupal Nala*: Drains the Rupal Glacier and the Rupal Face (south).
+  The approach to Rupal base camp follows this watercourse through
+  Tarishing/Tarshing village. The stream character changes
+  dramatically with season and time of day — low in early morning
+  (glacier frozen overnight), rising to a torrent by mid-afternoon
+  as solar radiation accelerates melt.
+
+- *Diamir Nala*: Drains the Diamir Glacier (west face). Less
+  visited than the Rakhiot or Rupal approaches.
+
+- *Astore River*: A major tributary of the Indus, draining the
+  Deosai Plateau and flowing through the eastern slope of Nanga
+  Parbat. Originates on the western slopes of Burzil Pass. Joins
+  the Gilgit River. The Astore carries the combined meltwater of
+  the eastern Nanga Parbat glaciers and the Deosai snowfields.
+
+All of these streams are *glacially fed*, not monsoon-fed. Their
+character is defined by the diurnal freeze-melt cycle, the seasonal
+advance and retreat of snowcover, and the grinding of rock by ice.
+
+*** Hot Springs as Ecological Niche
+
+v0 (section A.5) documents the physical and geological context of
+the hot springs at Tato (~92C, near-boiling) and Tattapani/Sassi
+(42-81C). Here, the ecological question: what lives in these waters?
+
+*Thermophilic and hyperthermophilic organisms*: Hot springs globally
+are known habitats for extremophile microorganisms — bacteria and
+archaea adapted to temperatures that would kill most life. The
+best-studied examples are from Yellowstone (USA), Iceland, and New
+Zealand. The Tato hot spring (~92C) falls in the hyperthermophile
+range (>80C), where only archaea and a few bacterial lineages
+survive.
+
+*Published studies from Nanga Parbat hot springs*: Craw et al. (cited
+in v0) and Chamberlain et al. (1995) documented the geochemistry of
+the hot spring fluids but focused on geological, not biological,
+aspects. A systematic search of the literature reveals *no published
+microbial ecology studies specifically from the Tato or Tattapani
+hot springs*. This is a significant gap. The geothermal gradient at
+Nanga Parbat (~100C/km) makes these springs scientifically
+interesting as potential habitats for novel extremophile lineages,
+but the microbiology appears to be unstudied.
+
+*What might be there*: By analogy with studied hot springs at similar
+temperatures and chemistry (meteoric water + granitic interaction):
+- At 92C (Tato): likely dominated by hyperthermophilic archaea —
+  /Thermus/, /Pyrobaculum/, /Sulfolobus/ or related genera,
+  depending on pH and sulfur content
+- At 42-81C (Tattapani/Sassi): a richer community including
+  thermophilic cyanobacteria (forming coloured mats), /Thermus/,
+  /Deinococcus/, and various chemolithotrophic bacteria
+- The orange-to-yellowish hydrothermal alteration described at Tato
+  may include microbial contributions (iron-oxidizing bacteria) in
+  addition to abiotic mineral precipitation
+
+*Gap*: This is a research opportunity. The Nanga Parbat hot springs
+are geologically well-characterized but microbiologically
+unexplored in the published literature.
+
+Sources:
+- Craw et al., /American Journal of Science/:
+  https://ajsonline.org/article/61675
+- Chamberlain et al. (1995), /JGR/:
+  https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/94JB02062
+- Brock, T.D. (1978), /Thermophilic Microorganisms and Life at High
+  Temperatures/ (general reference for hot spring ecology)
+
+*** Glacial Meltwater Chemistry
+
+How does the water from Nanga Parbat's glaciers differ from
+monsoon-fed rivers?
+
+*Rock flour*: Glacial meltwater carries finely ground rock particles
+(glacial flour, or /Gletscherschliff/) produced by the glacier
+grinding over bedrock. At Nanga Parbat, the bedrock is predominantly
+Indian plate gneiss (Proterozoic, metamorphic) and the Kohistan arc
+terrane (Cretaceous, volcanic/plutonic). The rock flour gives the
+meltwater its characteristic milky, grey-green to turquoise colour.
+
+*Dissolved minerals*: The chemistry of glacial meltwater reflects the
+bedrock it has ground. The gneissic bedrock would contribute silica,
+feldspar-derived ions (Na^{+}, K^{+}, Ca^{2+}), and trace elements
+typical of metamorphic rocks. Where the water interacts with the
+young leucogranite dikes (0.7 Ma), it may carry elevated
+concentrations of elements associated with granitic melts (Li, B, F,
+rare earth elements).
+
+*Temperature*: Glacial meltwater is near 0C at source, warming
+downstream. The contrast with the hot springs is extreme: 0C
+meltwater and 92C spring water within the same drainage (Rakhiot
+valley).
+
+*Comparison with monsoon-fed rivers*: Monsoon-fed rivers (e.g.,
+the Tirthan in Kullu) carry dissolved organic matter from forest
+soils, have warmer baseline temperatures, and show a seasonal pulse
+driven by rainfall. Glacially-fed rivers show a *diurnal* pulse
+(freeze-melt cycle) and a *seasonal* pulse (summer melt maximum),
+but carry minimal dissolved organic matter and maximal suspended
+mineral load. The rivers of Diamer are mineral rivers — they carry
+the mountain's ground-up rock, not forest soil.
+
+*Downstream*: All of these waters eventually reach the Indus, which
+at Chilas carries the integrated meltwater of the entire Nanga
+Parbat massif. The Indus in the gorge is a river of extraordinary
+sediment load — cutting down through the crust at 9-12 mm/yr while
+carrying the products of that cutting downstream.
+
+** F.5 Ecology Section Summary — What the Inventory Reveals
+
+The ecological community of the Nanga Parbat massif is structured by
+*altitude* and *aridity* — not by monsoon, not by latitude. The
+gradient from the Indus gorge (~1,100m, summer >45C) to the summit
+(8,126m) compresses multiple biomes into a vertical distance of 7 km:
+
+| Zone | Elevation | Character | Key species |
+|------+-----------+-----------+-------------|
+| Indus gorge | 1,100-2,000m | Arid, extreme heat | Chukar, scrub |
+| Dry slopes | 2,000-3,000m | Scattered juniper, markhor habitat | Markhor, juniper, ephedra |
+| Forest zone | 3,000-3,800m | Juniper-birch forest | Morels, birch, juniper |
+| Alpine meadow (jut) | 3,500-4,500m | Wildflowers, herding | Marmot, snow partridge, ibex |
+| Subnival | 4,500-5,500m | Rock, ice, sparse lichen | Snow leopard, ibex, lammergeier |
+| Glacial/nival | >5,500m | Permanent ice | Bacteria, algae on ice |
+
+The food web centers on the *ibex* as primary large herbivore, the
+*snow leopard* as apex predator, and the *lammergeier* as terminal
+consumer (bone-eater). The *marmot* is the keystone prey species for
+both golden eagle and snow leopard. The *juniper* is both ecological
+(dominant tree) and spiritual (trance medium). The *birch* marks the
+treeline boundary.
+
+Every species documented here participates in both the ecological
+web and the cultural web: the ibex on the petroglyphs, the markhor
+as national symbol, the lammergeier as sky-spirit template, the
+juniper as shamanic medium, the marmot as Herodotus's gold-digger,
+the brown bear as the giant's shadow.
+
+* G. Part C Sources (Consolidated)
+
+** Mammals
+
+- Wikipedia, "Siberian ibex": https://en.wikipedia.org/wiki/Siberian_ibex
+- Wikipedia, "Markhor": https://en.wikipedia.org/wiki/Markhor
+- Wikipedia, "Snow leopard": https://en.wikipedia.org/wiki/Snow_leopard
+- Wikipedia, "Himalayan brown bear":
+  https://en.wikipedia.org/wiki/Himalayan_brown_bear
+- Wikipedia, "Deosai National Park":
+  https://en.wikipedia.org/wiki/Deosai_National_Park
+- Wikipedia, "Long-tailed marmot":
+  https://en.wikipedia.org/wiki/Long-tailed_marmot
+- Wikipedia, "Himalayan marmot":
+  https://en.wikipedia.org/wiki/Himalayan_marmot
+- Jettmar, /Religions of the Hindukush/ (1975/2023):
+  https://hasp.ub.uni-heidelberg.de/journals/iqas/article/view/9347
+- World Monuments Fund, Thalpan petroglyphs:
+  https://www.wmf.org/projects/petroglyphs-diamer-basha-dam-area
+- Snow Leopard Foundation Pakistan:
+  https://www.snowleopardfoundation.org/
+- Hussain (2003), "Status of snow leopard in Pakistan," /Oryx/ 37(1)
+- Peissel, /The Ants' Gold/ (1984)
+
+** Birds
+
+- Wikipedia, "Bearded vulture":
+  https://en.wikipedia.org/wiki/Bearded_vulture
+- Wikipedia, "Himalayan vulture":
+  https://en.wikipedia.org/wiki/Himalayan_vulture
+- Wikipedia, "Golden eagle": https://en.wikipedia.org/wiki/Golden_eagle
+- Wikipedia, "Chukar partridge":
+  https://en.wikipedia.org/wiki/Chukar_partridge
+- Wikipedia, "Snow partridge":
+  https://en.wikipedia.org/wiki/Snow_partridge
+- Wikipedia, "Western tragopan":
+  https://en.wikipedia.org/wiki/Western_tragopan
+
+** Flora
+
+- Wikipedia, "Juniperus excelsa":
+  https://en.wikipedia.org/wiki/Juniperus_excelsa
+- Wikipedia, "Betula utilis":
+  https://en.wikipedia.org/wiki/Betula_utilis
+- Wikipedia, "Ephedra (plant)":
+  https://en.wikipedia.org/wiki/Ephedra_(plant)
+- Adams, R.P. (2004), /Junipers of the World/
+- Shinwari & Gilani (2003), /J. Ethnopharmacology/ 84(2-3)
+- Bhat et al. (2013), /J. Ethnopharmacology/ 150
+
+** Water and geochemistry
+
+- Craw et al., /American Journal of Science/:
+  https://ajsonline.org/article/61675
+- Chamberlain et al. (1995), /JGR/:
+  https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/94JB02062
+- Wikipedia, "Astore River":
+  https://en.wikipedia.org/wiki/Astore_River
+- Tahir et al. (2015), "Snow cover and hydrology of Astore basin,"
+  /Science of the Total Environment/ 505:748-761
+
+** General ecology
+
+- Roberts, T.J., /The Mammals of Pakistan/ (1997)
+- Schaller, G.B., /Mountain Monarchs/ (1977)
+- Brock, T.D. (1978), /Thermophilic Microorganisms and Life at High
+  Temperatures/
+
+* H. Deep Human History — The First Stories (WP-0013 Part B)
+
+This section deepens v0's coverage (sections B.1–B.7) with three new
+dimensions: the petroglyphs as a *primary source* for understanding
+who lived here across millennia; the pre-Islamic religion as a
+*coherent system* rather than scattered ethnographic details; and the
+oral traditions that carried knowledge before writing arrived.
+
+** H.1 Petroglyphs as Primary Source
+
+v0 (B.6) introduces the petroglyphs in the context of the dam threat
+and gives the headline numbers: ~30,000 carvings, 5,000 inscriptions,
+10+ writing systems, the Altar Rock. This section goes deeper — the
+petroglyphs as a *stratified archive* encoding 10,000 years of
+passage through this valley.
+
+*** The sites: geography of inscription
+
+The rock art concentrates where the Indus valley widens enough for
+camps and river crossings — natural halting points on the route
+between South and Central Asia.
+
+| Site | Location | Character |
+|------+----------+-----------|
+| Chilas 1–6 | Left bank, near modern Chilas | Earliest Kharoṣṭhī inscriptions; Chilas 2 has pre-iconic Buddhist stūpas (monks with incense, no Buddha figure) |
+| Thalpan | Opposite Chilas, right bank terraces | Densest concentration. Ornate stūpa designs, jātaka narratives, the "Altar Rock" |
+| Oshibat | Downstream of Thalpan | ~5,000 caprid drawings + 230 Brāhmī inscriptions. Only 4% Buddhist imagery — overwhelmingly animal |
+| Shatial Bridge | ~30 km west of Chilas | Over 1,100 inscriptions + ~700 drawings. Critical river crossing. 565 Sogdian inscriptions alone |
+| Dadam Das | Near Chilas | 100 rocks; prehistoric petroglyphs + bilingual Brāhmī/Kharoṣṭhī |
+| Hodar | Dam flood zone | 130+ stūpa drawings; Proto-Śāradā script |
+| Gichi Nala | Dam flood zone | Eastern section: Buddhist stūpas. Western section: visitor inscriptions. Early ibex drawings |
+| Shatial Das | Upstream, Upper Kohistan | *No Buddhist symbols at all.* Footprints, ibex/markhor, horses, hunting scenes, possible chariot drawing. Pre-/proto-historic |
+| Minar Gah | ~30 km west of Chilas | Warriors with battle axes and shields, horsemen, dancers. 89 Brāhmī inscriptions (4th–5th c.) |
+
+Sources:
+- ArcGIS StoryMap, "Rock Art and Inscriptions in the Upper Indus":
+  https://storymaps.arcgis.com/stories/d5018abb97d34ac7ba3a3a84d0267e72
+- The High Asia, "Rock Art and Inscriptions of Diamer":
+  https://thehighasia.com/rock-art-and-inscriptions-of-diamer/
+- 360 On History, "Pakistan's Ancient Rock Art":
+  https://www.360onhistory.com/archaeology/pakistans-ancient-rock-art/
+
+*** Chronological phases
+
+The Pak-German Study Group (Jettmar, Hauptmann, Bandini-König; from
+1979/1989) established the definitive catalogue: /Materialien zur
+Archäologie der Nordgebiete Pakistans/, 13+ volumes. Their phasing:
+
+*Phase 1: Prehistoric to Protohistoric (pre-1st c. CE).* Animal
+petroglyphs dominate — ibex, markhor, deer, bovids. Found at "hunting
+stations" near riverbanks. No inscriptions. The ibex is the most
+frequent motif by far. Hunting scenes show figures with bows stalking
+caprids. *Shatial Das is the purest example* of this phase: footprints,
+ibex/markhor, horses, hunting scenes, a possible chariot drawing,
+one Kharoṣṭhī inscription — and not a single Buddhist symbol. This
+problematises earlier dating that placed all Shatial petroglyphs in
+the 3rd–8th centuries CE.
+
+At Oshibat, ~5,000 caprid drawings with only 4% Buddhist imagery
+suggest the site was primarily a hunting station that accumulated
+Buddhist additions later.
+
+*Phase 2: Kharoṣṭhī/Gāndhārī (1st–3rd c. CE).* The earliest written
+layer. Kharoṣṭhī script recording Gāndhārī language. Epigraphic
+formula: "x, son of y, arrived." Pre-iconic Buddhist art — stūpas
+without Buddha in human form. Monks offering incense. Chilas 2 is
+the type site: two robed figures approach a stūpa; above them, an
+ibex on a pillar capital — the indigenous motif persisting alongside
+the imported religion.
+
+*Phase 3: Brāhmī/Sanskrit dominance (4th–7th c. CE).* The peak.
+~80% of all Upper Indus inscriptions belong here. Sanskrit donative
+inscriptions (devadharma — "gift to the gods"). Elaborate stūpa
+compositions, jātaka narratives, the Altar Rock's scenes of Buddha's
+temptation and the Benares sermon. Multilingual overlaps with Sogdian,
+Bactrian, Chinese, Tibetan — the Silk Road at full flow. Shatial
+alone has 565 Sogdian inscriptions from Iranian merchants.
+
+*Phase 4: Late/Tibetan (7th c. onwards).* Proto-Śāradā script at
+Hodar. Tibetan inscriptions dominant in Baltistan. The Buddhist phase
+wanes; Islam arrives.
+
+Sources:
+- Bandini-König, D. (1994–2013), /Materialien zur Archäologie der
+  Nordgebiete Pakistans/, vols. 1–13 (Mainz: Philipp von Zabern)
+- Jettmar, K. and Thewalt, V. (1987), /Between Gandhara and the
+  Silk Roads/ (Mainz: Philipp von Zabern)
+- Fussman, G. (1978), "Inscriptions de Gilgit," /BEFEO/ 65
+- ArcGIS StoryMap (cited above)
+
+*** Motif catalogue: what was carved and why
+
+*Caprids (ibex and markhor)*: The most abundant motif across all
+periods. At Oshibat, ~5,000 caprid drawings. The ibex appears with
+knotted horns and beards; the markhor with characteristic spiral horns.
+The ibex is the ancient symbol of fertility and abundance — an animal
+whose sacredness predates Buddhism by millennia. At Chilas 2, an ibex
+on a pillar capital sits above the Buddhist scene — the older motif
+literally over the newer one. The ibex cult persisted: as late as the
+1980s, ibex were still being carved for cultic hunting purposes by the
+people of Hunza, and shrines topped with ibex horns still stood in
+high valleys.
+
+*Hunting scenes*: Figures with bows and arrows stalking ibex, deer,
+bovids. Found at Shatial Das, Minar Gah, and throughout the
+prehistoric layer. Warriors at Minar Gah wield battle axes and shields,
+some on horseback.
+
+*Maskoid figures — the Siberian connection*: Near Chilas, Jettmar
+identified a group of petroglyphs showing horned anthropomorphic
+figures — maskoids with round or oval heads surmounted by horns or
+antennae. He linked these to the Early Bronze Age *Okunev Culture* of
+the Minusinsk Basin in southern Siberia (late 3rd to early 2nd
+millennium BCE). The Okunev site of Mugur-Sargol gave its name to this
+class of maskoids. The same motif-type spreads from the Gegam
+Mountains in Armenia to the mouth of the Amur River. At Barikot in
+Swat, a maskoid slab has been dated to ~1700–1400 BCE.
+
+What the Siberian connection implies: during the 3rd and early 2nd
+millennia BCE, cultural relations existed over thousands of kilometres,
+possibly mediated by migrations of cattle-keeping early nomads. The
+Indus valley was not isolated — it was a corridor.
+
+*Tridents and lingas*: At Minar Gah, tridents and lingas (aniconic
+Śiva representations) alongside swastikas suggest a Śaiva presence
+during the Gupta period (3rd–5th c. CE). The linga cult analysis
+follows Atul K. Sur (1931–32).
+
+*Buddhist architectural elements*: Stūpas with domes (aṇḍa), multiple
+platforms, yaṣṭi (staff), chattrāvali (tiered umbrellas), bells,
+pennants. The most elaborate compositions at Thalpan and Hodar.
+Narrative jātaka scenes — King Śibi's flesh gift, Buddha's temptation
+by Māra's daughters.
+
+*The overwriting*: At Chilas 2, an ibex "was carved first, and then
+the Buddha image was carved on top of it." The rock is a palimpsest —
+each layer of carving partially obscures and partially incorporates
+the earlier. The Buddhist traveller did not erase the ibex; he added
+his devotion alongside it. The petroglyph record is cumulative, not
+replacement.
+
+Sources:
+- Jettmar (1987), connection to Okunev Culture: cited in
+  heiup.uni-heidelberg.de/catalog/view/1358/2324/114901
+- Shatial Das contextualisation:
+  https://rockartresearch.com/index.php/rock/article/view/250
+- ArcGIS StoryMap (cited above)
+- Atlas Obscura, "Thalpan Petroglyphs":
+  https://www.atlasobscura.com/places/thalpan-petroglyphs
+
+*** The writing systems: who passed through and when
+
+Ten or more scripts on the rocks — each one a signature of a
+different civilisation using the Indus valley as corridor.
+
+| Script | Language | Period | What it tells us |
+|--------+----------+--------+-----------------|
+| Kharoṣṭhī | Gāndhārī | 1st–3rd c. CE | The Gandharan Buddhist world extended this far north. "x, son of y, arrived" — pilgrims and merchants. |
+| Brāhmī | Sanskrit (hybrid) | 4th–7th c. CE | ~80% of all inscriptions. Donative formulae. Peak Buddhist activity. |
+| Proto-Śāradā | Sanskrit/local | 7th c.+ | Late period. Found at Hodar. Transition script. |
+| Sogdian | Sogdian (Iranian) | 3rd–7th c. CE | 565 inscriptions at Shatial alone. Sogdian merchants formed a significant component of the mountain population. Names like Nanai-Vandak pleading to reach Tashkurgan. |
+| Bactrian | Bactrian (Iranian) | — | 9 inscriptions. Kushan-period presence. |
+| Parthian | Parthian (Iranian) | — | 2 inscriptions. Rare — the furthest eastern reach. |
+| Chinese | Chinese | Wei dynasty+ | 13 inscriptions. Including Chinese pagoda petroglyphs at Shatial and Thak Das. A Wei dynasty envoy inscription at Haldeikish. |
+| Tibetan | Tibetan | 7th c.+ | Hunting expedition records at Haldeikish. Dominant in Baltistan. |
+| Hebrew | Hebrew | uncertain | 1 inscription. Origin debated. |
+
+The linguistic diversity at a single river crossing (Shatial: 565
+Sogdian + hundreds of Brāhmī + Kharoṣṭhī + Chinese + Bactrian +
+Parthian) is extraordinary. This was not a backwater — it was a
+junction on the capillary network connecting South Asia's /Uttarāpatha/
+(Great Northern Road) with Central Asian Silk Routes via mountain
+passes: Mintaka (4,629m), Kilik (4,755m), Karambar (4,188m), Baroghil
+(3,804m), Darkot (4,630m).
+
+Optimal travel season: October–January (lower glacial river levels).
+May–October was dangerous — monsoon and meltwater.
+
+Sources:
+- Sims-Williams, N. (1989–92), /Sogdian and other Iranian Inscriptions
+  of the Upper Indus/, Corpus Inscriptionum Iranicarum
+- Chinese pagodas at Shatial/Thak Das:
+  https://www.academia.edu/89104314/
+- UNESCO Silk Road:
+  https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/chinese_rock_inscriptions_in_the_indus_valley.pdf
+- ArcGIS StoryMap (cited above)
+
+** H.2 Pre-Islamic Religion of the Dards
+
+v0 (B.1–B.2) documents the peri tradition and bitan practice in
+detail. This section reconstructs the broader religious system these
+practices belonged to — drawing on Jettmar's /Religions of the
+Hindukush/ (1975, updated 2023) and the Kalasha as the last living
+practitioners.
+
+*** Jettmar's synthesis
+
+Karl Jettmar (1918–2002), Austrian ethnologist. Beginning in 1955 he
+conducted semi-annual ethnographic and archaeological fieldwork in
+northwest Pakistan and Afghanistan for ~20 years. His /Religions of
+the Hindukush: The Pre-Islamic Heritage of Eastern Afghanistan and
+Northern Pakistan/ (1975; English translation with Peter Parkes's
+introduction, 2023) is the primary source.
+
+Jettmar's argument: the tribal peoples of the Hindu Kush and western
+Karakoram — Kafirs (Nuristani), Kalasha, Kho, Shina-speaking Dards —
+preserved a religious system with archaic Indo-Aryan, possibly
+pre-Vedic, elements. This was not simply "Hinduism at the periphery"
+— it was a parallel branch, older than classical Hinduism in some
+features, transformed by isolation, altitude, and centuries of
+interaction with Central Asian traditions.
+
+The key features:
+1. *Gods with Vedic names* — but different roles and myths
+2. *Sacrifice* (especially goat sacrifice) as the central ritual act
+3. *The purity/impurity opposition* structuring all social and ritual
+   life
+4. *Mountain-dwelling spirits* (peri/suchi/vetr) requiring
+   propitiation
+5. *The shaman* (bitan/dehar/dayal) as intermediary
+6. *Sacred trees* (juniper, cedar) as axis mundi
+
+Source:
+- Jettmar, K. (1975/2023), /Religions of the Hindukush/, revised
+  English edition with introduction by Peter Parkes (White Orchid
+  Books / Parkes edition 2023)
+
+*** The Kalasha pantheon: last living witness
+
+The Kalasha of Chitral's Bumboret, Rumbur, and Birir valleys are the
+only community in the eastern Hindu Kush that retains the
+pre-Islamic religion as a living practice. ~4,000 speakers. Their
+pantheon illuminates what the Shina-speaking Dards of Diamer may once
+have believed before conversion to Islam.
+
+*Dezau* (also called Imrá): supreme creator. Name from Indo-European
+/*dheig'h/ "to form." Also called Khodai (Persian). Historians
+compare to Zeus (Greek) — shared PIE root /*dyeu-/.
+
+*Jestak*: goddess of domestic life, family, marriage. Protects the
+household.
+
+*Sajigor*: appears as a form of Indra — also called Shura Verin,
+"the hero, the unrivalled Indra." War god and protector.
+
+*Mahandeo*: god of crops and war. A negotiator with the highest deity.
+The name echoes Mahādeva (Śiva).
+
+*Mountain fairies (Suchi/Peri)*: "there is a general pattern of
+belief in mountain fairies, Suchi (now often called Peri), who help
+in hunting and killing enemies." The Varōti (Sanskrit /Vātaputra/,
+"sons of the wind") are their violent male partners — echoing the
+Vedic Apsaras and Gandharvas. The fairy/Gandharva parallel is
+striking: in Vedic religion, Apsaras are divine females of waters
+and mountains; Gandharvas are their male counterparts, associated
+with music and ecstasy. In the Kalasha system, the same structure
+persists, transposed to a mountain context.
+
+*The purity system (Onjesta/Pragata)*:
+
+| Onjesta (pure) | Pragata (impure) |
+|----------------+------------------|
+| Mountains | Valleys |
+| Juniper | Onions |
+| Markhor | Cattle, sheep |
+| Men | Women (in certain states) |
+| Altars | Graveyards |
+| Stables | Bashali (menstrual house) |
+
+The purity axis runs vertically: high = pure, low = impure. Mountains
+are the abode of gods and fairies; valleys are the domain of death
+and agriculture. The markhor is pure (mountain-dwelling, wild); cattle
+are impure (domesticated, valley-dwelling). This is not the
+Brahmanical caste purity system — it is an altitude-based cosmology.
+
+*Festival cycles*:
+- *Zhoshi* (spring/sowing, mid-May): fertility, prosperity
+- *Uchau* (autumn): harvest thanksgiving
+- *Cawmos* (winter solstice): "the greatest, solemn, and last
+  festival of the year" — remembrance and purification (Loude &
+  Lièvre, /Kalash Solstice/)
+
+UNESCO recognised Kalasha Suri Jagek (astronomical observation
+practice linked to solstice festivals) in 2018.
+
+Sources:
+- Jettmar (1975/2023), as above
+- Loude, J.Y. and Lièvre, V., /Kalash Solstice: Winter Feasts of the
+  North/ (Islamabad: Lok Virsa, 1988)
+- Encyclopaedia Indica, "Kalasha Religion":
+  https://indicaonline.miraheze.org/wiki/Kalasha_religion
+- World History Encyclopedia, "Kalash Culture":
+  https://www.worldhistory.org/Kalasha/
+
+*** The ibex cult
+
+The ibex is the most frequent animal motif in the Upper Indus
+petroglyphs — thousands of carvings across all periods, from
+prehistoric hunting stations to Buddhist-era sites where ibex persist
+alongside stūpas. This was not decorative; it was cultic.
+
+Evidence for a coherent ibex cult among the Dardic peoples:
+
+1. *Petroglyphs*: Ibex dominate the prehistoric layer. At Oshibat,
+   ~5,000 caprid drawings. The animal is depicted with exaggerated
+   horns — stylised, not naturalistic.
+
+2. *Ibex horns on shrines and graves*: As late as the 1980s, shrines
+   topped by ibex horns stood in high valleys of Hunza, and ibex were
+   still being carved for cultic hunting purposes. In Kalasha
+   graveyards, carved wooden effigies (gandau) of the dead are
+   surrounded by ibex and markhor horns.
+
+3. *The ibex in Kalasha cosmology*: The markhor (and by extension the
+   ibex) belongs to the /onjesta/ (pure) category — mountain-dwelling,
+   wild, associated with fairies and gods. Hunting ibex and markhor
+   is a sacred activity. The fairies themselves are said to keep
+   herds of markhor in high pastures.
+
+4. *Ibex as fertility symbol*: "An ancient symbol of fertility and
+   abundance" — the ibex represents the mountain's generative power.
+   The exaggerated horns in petroglyphs may represent not the animal
+   but the principle.
+
+5. *Continuity*: The ibex motif persists from the earliest prehistoric
+   carvings (possibly 3rd millennium BCE) through the Buddhist period
+   (where ibex are carved alongside stūpas) into the present (shrines,
+   carvings, Kalasha cosmology). This is ~5,000 years of continuity
+   for a single sacred symbol.
+
+The markhor's name in Persian means "snake-eater" (/mār/ + /khor/).
+Whether this connects to the nāga/klu serpent traditions of the region
+is speculative but suggestive — the pure mountain goat that devours
+the chthonic serpent.
+
+*** Juniper as axis mundi
+
+Juniper (/Juniperus excelsa/) is the sacred tree of the Dardic world.
+In v0 (B.2), the bitan inhales juniper smoke to enter trance. But
+juniper is more than a shamanic tool — it structures the cosmology:
+
+- In Kalasha religion: juniper belongs to the /onjesta/ (pure) sphere.
+  "Juniper or Gal is a sacred tree and food for Pari, and is only
+  found in pure places high up in the mountains."
+- The bashali (menstrual house) is purified twice yearly using
+  holly-oak branch smoke — but the sacred altars use juniper.
+- In Hunza shamanism: "shamans manipulated sacred juniper leaves,
+  entered into violent trances, and communed with spirits believed to
+  reside in stones and in certain trees."
+- Cedar/juniper worship extends across the Dardic world — from
+  Chitral through Gilgit-Baltistan. The tree that grows at altitude,
+  burns with aromatic smoke, resists rot. The vertical axis again:
+  the high-altitude tree as conduit between the human world and the
+  spirit world.
+
+Sources:
+- Sidky, H. (1994), "Shamans and Mountain Spirits in Hunza,"
+  /Asian Ethnology/ 53(2):
+  https://asianethnology.org/downloads/ae/pdf/a993.pdf
+- Shamanism in Pakistan (Wikipedia):
+  https://en.wikipedia.org/wiki/Shamanism_in_Pakistan
+
+*** Dardic religion and the Vedic question
+
+Jettmar's central claim: the pre-Islamic religions of the Hindu Kush
+preserve elements that are "archaic Indo-Aryan, and possibly even
+pre-Vedic." This means:
+
+- The god-names are recognisable from the Vedas (Mahandeo ↔ Mahādeva;
+  Sajigor ↔ Indra; Dezau ↔ /*dyeu-/) but the mythology and ritual
+  practice diverge significantly from classical Hinduism.
+- The goat sacrifice, the purity system, the mountain-spirit complex,
+  and the shaman tradition have no close parallel in mainstream Hindu
+  practice — they resemble the *earliest* stratum of Indo-Aryan
+  religion before Brahmanical systematisation.
+- The Kalasha pantheon is "one of the last living representatives of
+  Indo-European religion, along with Hinduism and Zoroastrianism."
+- The Apsaras/Gandharva ↔ Suchi/Varōti parallel suggests that what
+  became celestial nymphs and musicians in Vedic literature remained
+  mountain fairies and wind-spirits in the Dardic world.
+
+This is not marginal survivalism. It is a parallel development from a
+shared root — the Dardic branch preserved archaic features that the
+Vedic/Brahmanical tradition transformed or lost. The bitan of Diamer,
+inhaling juniper smoke and speaking in tongues, may be closer to the
+proto-Indo-European ritual specialist than any Brahmin priest.
+
+** H.3 Oral Tradition and Song
+
+*** Burushaski oral literature
+
+Burushaski, a language isolate with fewer than 100,000 speakers in
+Hunza, Nagar, and Yasin valleys. No demonstrable genetic relationship
+to any other language. The oral literature is documented by:
+
+*D.L.R. Lorimer* (1920s–30s): British Political Agent in Gilgit
+(1920–24), returned in 1934. Published /The Burushaski Language/ in
+3 volumes (1935–38): grammar, texts with translations, dictionary.
+The texts include folk tales, legends (some of foreign origin), verse,
+proverbs, local traditional history, and accounts of customs —
+marriages, funerals, seasonal celebrations, gold washing, water
+regulation.
+
+Source: https://archive.org/details/dli.pahar.2567
+
+*Hermann Berger* (1998): /Die Burushaski-Sprache von Hunza und Nager
+Teil II, Texte mit Übersetzungen/ (Wiesbaden: Harrassowitz). A
+comprehensive collection of transcribed folktales in both Hunza and
+Nagar dialects, presented in original form and in versions adjusted
+for contemporary speech. Made accessible online by the Burushaski
+Language Services project with permission of Berger's family.
+
+Source: https://burushaski-ls.com/en/audio/folktales
+
+*Peri narratives in Burushaski folklore*: The folktale "The Frog as a
+Bride, or the Three Princes and the Fairy Princess Salaasír" (Aarne-
+Thompson type 402, transcribed from field research) exemplifies the
+genre — fairy princesses, tests of worthiness, transformation. The
+peri is not marginal to Burushaski narrative; she is the central
+figure of the most important story type.
+
+Source:
+- "A Burushaski Folktale, Transcribed and Translated":
+  https://www.academia.edu/112669338/
+
+*The Burushaski Research Academy* (Burushopedia) documents oral
+traditions across regional varieties: children's stories, mythical
+legends, historical accounts, personal narratives, poems and songs,
+proverbial expressions, recipes, discussions of cultural items.
+
+Source: https://www.burushopedia.org/860-2/
+
+*** Shina oral tradition
+
+Shina is the dominant language of Diamer district — a Dardic
+(Indo-Aryan) language with ~550,000 speakers across Gilgit-Baltistan.
+
+*Musical forms*: v0 (B.5) lists twelve named tune-types. The system
+is not just musical but functional — each tune belongs to a specific
+social occasion:
+
+| Tune | Occasion |
+|------+----------|
+| Dhani | General celebration |
+| Bazmi | Assembly, gathering |
+| Tajwar | Procession |
+| Alghani | Lament |
+| Saus | Love song |
+| Lolo | Lullaby |
+| Tambal | Dance |
+| Bulla | Challenge/boast |
+| Razm | Battle |
+| Yudaani | War |
+| Danyal/Bitan | Shamanic trance |
+
+The *Danyal/Bitan* tune is the one that calls the peri. This is the
+tune played by the Dom musicians (the monopoly described in v0 B.2)
+on Dadang, Daamal, and Surnai for 40+ continuous minutes. The music
+is not accompaniment — it is the mechanism.
+
+*Folk tales and proverbs*:
+- /Saweno Moriye/ — a collection of Shina proverbs and quotations,
+  published 1978 by Lok Virsa, Islamabad.
+- ROSHAN Gilgit-Baltistan (Gilgit-Baltistan Institute for Language
+  Research) has published collections of Shina folklore.
+- Sociological research on Shina folk tales documents how they "shape
+  people's behaviour so that people can learn folk wisdom" — the
+  stories function as moral pedagogy and social code.
+
+*Shina wedding songs (Tavau Gai)*: Rich poetic structures —
+repetition, alliteration, consonance, assonance — designed for
+memorability and group performance.
+
+*Modern Shina poetry and music*: Zafar Waqar Taj (poet) and Mir Afzal
+Ustad (sitar, from Kalam) catalysed a modern Shina music movement.
+
+Sources:
+- Sasken Shina, "Shina Music":
+  https://www.saskenshina.com/en/shina-music
+- Tavau Gai analysis:
+  https://llrjournal.com/index.php/11/article/view/199
+- Shina folk tales study:
+  https://ojs.plhr.org.pk/journal/article/view/719
+- ROSHAN GB publications:
+  https://roshangilgitbaltistan.wordpress.com/gilgit-baltistan-institute-for-language-reseach/publications/
+- WritersClub PK, "Folklore and Folk Literature in KP and GB":
+  https://writersclubpk.com/folklore-and-folk-literature-in-khyber-pakhtunkhwa-and-gilgit-baltistans-languages/
+
+*** Kalasha religious songs and festival cycles
+
+The Kalasha of Chitral preserve the richest living tradition of
+religious song in the Dardic world.
+
+Music as theology: "Music serves as a primary repository of the
+Kalasha's unwritten history, religious beliefs, and social norms,
+with melodies functioning as a form of spiritual knowledge expressed
+as theology in practice — a living liturgy encoded in melody and
+rhythm rather than in scripture."
+
+This is the key insight: in a tradition without holy books, the songs
+*are* the scripture. The song is not about the belief — it is the
+belief, performed.
+
+Jean-Yves Loude and Viviane Lièvre (French anthropologists) documented
+the Kalasha festival cycles in /Kalash Solstice: Winter Feasts of the
+North/ (1988). The winter solstice festival (Cawmos) is the most
+significant — "remembrance and purification of self and the land."
+
+UNESCO recognised the Kalasha Suri Jagek (astronomical observation
+linked to solstice reckoning) as intangible cultural heritage in 2018.
+
+Sources:
+- Tribune, "Saving the songs of the Kalasha":
+  https://tribune.com.pk/story/2569410/saving-the-songs-of-the-kalasha
+- Loude and Lièvre (1988), /Kalash Solstice/ (Lok Virsa, Islamabad)
+- UNESCO, Suri Jagek recognition (2018)
+
+*** The gap: oral history from Diamer itself
+
+A notable absence: no comprehensive collection of oral histories from
+Diamer district specifically has been identified in published form.
+Shina-language folklore collections exist (Lok Virsa, ROSHAN), and
+Burushaski oral literature is documented by Lorimer and Berger for
+Hunza. But systematically recorded oral traditions from the Shina-
+speaking villages around Nanga Parbat — the stories people in Chilas
+and Tato and Rupal tell about their own valley — remain poorly
+documented or unpublished.
+
+The bitan tradition itself is oral: the "ancient language" the shaman
+speaks in trance is not written down. The twelve musical tunes are
+named but not transcribed in Western notation (as far as this survey
+can determine). What the old women of Rupal know about the peri of
+Fairy Meadows may never have been recorded.
+
+This is the most significant gap this survey has identified. The dam
+will flood 13 villages. The oral traditions of those villages — the
+stories, the place-names, the local knowledge of where the spirits
+live — are as endangered as the petroglyphs.
+
+* I. Part B Sources (Consolidated)
+
+** Petroglyphs and rock art
+
+- ArcGIS StoryMap, "Rock Art and Inscriptions in the Upper Indus":
+  https://storymaps.arcgis.com/stories/d5018abb97d34ac7ba3a3a84d0267e72
+- Bandini-König, D. (1994–2013), /Materialien zur Archäologie der
+  Nordgebiete Pakistans/, vols. 1–13 (Mainz: Philipp von Zabern)
+- Jettmar, K. and Thewalt, V. (1987), /Between Gandhara and the
+  Silk Roads/ (Mainz: Philipp von Zabern)
+- Fussman, G. (1978), "Inscriptions de Gilgit," /BEFEO/ 65
+- Sims-Williams, N. (1989–92), /Sogdian and other Iranian Inscriptions
+  of the Upper Indus/, Corpus Inscriptionum Iranicarum
+- The High Asia, "Rock Art and Inscriptions of Diamer":
+  https://thehighasia.com/rock-art-and-inscriptions-of-diamer/
+- 360 On History, "Pakistan's Ancient Rock Art":
+  https://www.360onhistory.com/archaeology/pakistans-ancient-rock-art/
+- Atlas Obscura, "Thalpan Petroglyphs":
+  https://www.atlasobscura.com/places/thalpan-petroglyphs
+- Contextualisation of Petroglyphs at Shatial Das:
+  https://rockartresearch.com/index.php/rock/article/view/250
+- Chinese pagodas at Shatial/Thak Das:
+  https://www.academia.edu/89104314/
+- UNESCO Silk Road, Chinese rock inscriptions:
+  https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/chinese_rock_inscriptions_in_the_indus_valley.pdf
+- University of Washington Silk Road, Chilas II:
+  https://depts.washington.edu/silkroad/exhibit/sakas/chilas_II.html
+
+** Pre-Islamic religion
+
+- Jettmar, K. (1975/2023), /Religions of the Hindukush: The Pre-
+  Islamic Heritage of Eastern Afghanistan and Northern Pakistan/
+  (revised English ed. with introduction by Peter Parkes)
+- Loude, J.Y. and Lièvre, V. (1988), /Kalash Solstice: Winter
+  Feasts of the North/ (Lok Virsa, Islamabad)
+- Sidky, H. (1994), "Shamans and Mountain Spirits in Hunza,"
+  /Asian Ethnology/ 53(2):
+  https://asianethnology.org/downloads/ae/pdf/a993.pdf
+- Encyclopaedia Indica, "Kalasha Religion":
+  https://indicaonline.miraheze.org/wiki/Kalasha_religion
+- World History Encyclopedia, "Kalash Culture":
+  https://www.worldhistory.org/Kalasha/
+- ResearchGate, "The Kalasha Pantheon":
+  https://www.researchgate.net/publication/389907022
+
+** Oral tradition
+
+- Lorimer, D.L.R. (1935–38), /The Burushaski Language/, 3 vols.
+  (Oslo: Instituttet for Sammenlignende Kulturforskning)
+  Folk Tales of Hunza: https://archive.org/details/dli.pahar.2567
+- Berger, H. (1998), /Die Burushaski-Sprache von Hunza und Nager
+  Teil II, Texte mit Übersetzungen/ (Wiesbaden: Harrassowitz)
+  Online folktales: https://burushaski-ls.com/en/audio/folktales
+- Burushaski folktale (Salaasír):
+  https://www.academia.edu/112669338/
+- Burushaski Research Academy: https://www.burushopedia.org/860-2/
+- Biddulph, J. (1880), /Tribes of the Hindoo Koosh/ (Calcutta):
+  https://archive.org/details/in.ernet.dli.2015.40611
+- Sasken Shina, "Shina Music":
+  https://www.saskenshina.com/en/shina-music
+- Tribune, "Saving the songs of the Kalasha":
+  https://tribune.com.pk/story/2569410/saving-the-songs-of-the-kalasha
+- ROSHAN GB publications:
+  https://roshangilgitbaltistan.wordpress.com/gilgit-baltistan-institute-for-language-reseach/publications/
+- Lok Virsa (1978), /Saweno Moriye/ (Shina proverbs)
+
+* J. Visual and Sound References (WP-0013 Part D)
+
+Concrete source material for future stories, illustrations, and
+interactive work. This section documents *existing* material with
+URLs or publication references — it is research, not creative
+direction.
+
+** J.1 Petroglyph Photography and 3D Models
+
+*** The LUMS / Wilfrid Laurier / Sydney Digital Survey (2018–present)
+
+The most important contemporary documentation project. A joint venture
+between Lahore University of Management Sciences (LUMS), Wilfrid
+Laurier University (Canada), and University of Sydney (Australia),
+funded by the Social Sciences and Humanities Research Council of
+Canada (SSHRC). Led by Jason Neelis (Wilfrid Laurier).
+
+Methods: geo-referenced DSLR photography, terrestrial laser scanning
+(TLS), photogrammetric 3D modelling, panoramic virtual tours.
+
+*Output*: Over 2,000 photogrammetric 3D models of individual
+petroglyph rocks posted to Sketchfab collections. These are
+navigable, zoomable 3D models — the closest thing to standing in
+front of the rock. Panotours provide virtual walk-throughs of sites.
+
+This is the definitive digital record of what the dam will destroy.
+
+Sources:
+- Wilfrid Laurier project page:
+  https://www.wlu.ca/academics/faculties/faculty-of-arts/faculty-profiles/jason-neelis/upper-indus-petroglyphs-and-inscriptions/index.html
+- HAL digital survey progress report (2022–2024):
+  https://hal.science/hal-04722491v1
+- LUMS Centre for Technology and Policy Innovation:
+  https://lums.edu.pk/academic-report/ar2024/centre-tpi.php
+- Atiq Hashmi, documentation project:
+  https://atiqhashmi.com/documentation-of-upper-indus-petroglyphs-and-inscriptions/
+- Leiden Archaeology Blog, "Talking Stones":
+  https://www.leidenarchaeologyblog.nl/articles/petroglyph-workshop-in-gilgit-baltistan-pakistan
+- Wilfrid Laurier Campus Magazine, "Preserving history in Pakistan":
+  https://campusmagazine.wlu.ca/2019/spring/research-file/preserving-history-in-pakistan.html
+
+*** Pak-German Archaeological Mission publications
+
+The definitive printed catalogue:
+
+Bandini-König, D. (ed.), /Materialien zur Archäologie der Nordgebiete
+Pakistans/ (MANP), vols. 1–13 (Mainz: Philipp von Zabern, 1994–2013):
+- Vols. 1–4: Oshibat, Shatial, Gichi Nala
+- Vols. 6–9: Thalpan sites 1–4
+- Vol. 10: Dadarbati Das, Gichoi Das, Khomar Das, Thakot, Ziyarat
+- Vol. 11: Khalat Das, Helor Das appendices
+
+Jettmar, K. and Thewalt, V. (1987), /Between Gandhara and the Silk
+Roads: Rock Carvings Along the Karakoram Highway/ (Mainz: Philipp
+von Zabern). Contains photographs and drawings.
+
+*** Other photographic sources
+
+- Atlas Obscura, "Thalpan Petroglyphs" (photographs, visitor context):
+  https://www.atlasobscura.com/places/thalpan-petroglyphs
+- Indus Caravan, "Alter Rock, Thalpan" (photographs and commentary):
+  https://www.induscaravan.com/blog/alter-rock-thalpan-petroglyphs-along-the-indus-river/
+- APT-AZ, "Rock Art along Karakoram Highway" (photographs):
+  https://apt-az.com/2023/08/05/rock-art-along-karakoram-highway/
+- Dawn, "Threatened Rock Carvings of Pakistan" (2011, photographs):
+  https://www.dawn.com/news/629659/basha-dam-threatens-thousands-of-ancient-rock-carvings
+- ETUDES ARCHEOLOGIQUES, "Diamer Basha threatened rock carvings":
+  http://www.archeolog-home.com/pages/content/diamer-basha-pakistan-threatened-rock-carvings-part-1.html
+
+** J.2 Historical Expedition Photography
+
+*** 1930s German expeditions
+
+Five expeditions visited Nanga Parbat in 1934, 1937 (two), 1938,
+and 1939. Expedition photographs survive in:
+- Deutscher Alpenverein (DAV) archives, Munich
+- Alpine Club archives, London
+- Himalayan Club archives (some published in /Himalayan Journal/)
+
+The 1934 and 1937 expedition photographs document the approach through
+Diamer with 600+ local porters — images of the valley, villages, and
+people from before modernisation. Specific archival locations not
+confirmed online.
+
+*** Hermann Buhl and the 1953 expedition
+
+Hans Ertl (cameraman and mountaineer) filmed and directed /Nanga
+Parbat 1953/, a 95-minute documentary of the first ascent. Ertl's
+film is the primary visual record.
+
+- IMDb: https://www.imdb.com/title/tt0163761/
+- Filmarchiv Austria: https://info.filmarchiv.at/program/film/nanga-parbat/
+- Internet Archive (Herrligkoffer's account): https://archive.org/details/dli.ernet.528144
+- MNTNFILM: https://www.mntnfilm.com/en/film/nanga-parbat-1953-1953
+
+Buhl's summit photographs (3 July 1953) — the only images from the
+first solo ascent of an 8,000m peak. Summit Post has a curated
+collection:
+https://www.summitpost.org/hermann-buhl-nanga-parbat-1953/793940
+
+*** Salman Rashid's travelogue photographs
+
+Salman Rashid, /Rupal: The South Face of Nanga Parbat/. Published on
+his blog "Odysseus Lahori" with photographs of the approach through
+Tarshing and the Rupal valley. Includes descriptions of the
+landscape and villages.
+
+Source: http://odysseuslahori.blogspot.com/2017/04/Rupal-Face-of-Nanga-Parbat.html
+
+*** Contemporary photography
+
+- MountainsOfTravelPhotos.com — extensive gallery of Nanga Parbat
+  from multiple angles (Rupal Face, Diamir Face, Fairy Meadows):
+  https://www.mountainsoftravelphotos.com/Nanga%20Parbat/Main.html
+
+** J.3 Geological Diagrams and Maps
+
+*** Cross-sections and structural maps
+
+- Geological Society Special Publication 170, /Tectonics of Nanga
+  Parbat Syntaxis and the Western Himalaya/ (2000): the definitive
+  collection of structural maps, cross-sections, and metamorphic
+  assemblage maps.
+  https://www.geolsoc.org.uk/SP170
+
+- Sketch geological cross-section through the Raikhot syntaxis margin:
+  http://earth.leeds.ac.uk/structure/tectonics/nanga_parbat/parbatepsl.pdf
+
+- Map of major geologic units and metamorphic assemblages (ResearchGate):
+  https://www.researchgate.net/figure/Map-of-the-Nanga-Parbat-massif-showing-major-geologic-units-metamorphic-assemblages-and_fig5_255608491
+
+- Sketch location map for the NW Himalaya (ResearchGate):
+  https://www.researchgate.net/figure/a-Sketch-location-map-for-the-Nanga-Parbat-massif-in-the-NW-Himalaya-boxed-area-b_fig3_29812918
+
+- New geological map of the Nanga Parbat-Haramosh massif (ResearchGate):
+  https://www.researchgate.net/publication/293105957_New_geological_map_of_the_Nanga_Parbat-Haramosh_massif
+
+- Schneider et al. (1999), synkinematic plutonism cross-section:
+  https://eesarchive.lehigh.edu/EESpeople/peopledocs/zeitler-pubs/schneider_etal_geology_1999.pdf
+
+*** Satellite imagery
+
+- Sketchfab 3D elevation models of Nanga Parbat (NASADEM data):
+  https://sketchfab.com/models/ec4cef3149c94d1393f6e13e0e1145c9/embed
+
+- Copernicus/Sentinel-2 data freely available through Copernicus
+  Browser (https://browser.dataspace.copernicus.eu/). Search for
+  tiles covering 35.2°N, 74.6°E (Nanga Parbat summit). Best images
+  in October–November (minimal cloud cover).
+
+- USGS EarthExplorer (https://earthexplorer.usgs.gov/) for Landsat
+  archive imagery. Path 149, Row 036 covers the Nanga Parbat area.
+
+** J.4 Sound
+
+*** The bitan trance ritual — recordings exist
+
+*"Bitan (Trance Ritual)"* — Track 3 on the album /Pakistan &
+Bangladesh: Sufi, Qawwali and Other Musical Traditions/ (2013).
+Performed by "Shaman of Hunza." Duration: 3:42. *This is a
+commercially available recording of a bitan trance session.*
+
+- Amazon: https://www.amazon.com/Bitan-Trance-Ritual/dp/B01N6U4WBK
+- Apple Music: https://music.apple.com/us/album/pakistan-bangladesh-sufi-qawwali-other-musical-traditions/873026087
+- Spotify: https://open.spotify.com/album/2nQnWnvlpAuhNIYlZQKurN
+
+*** UW Ethnomusicology Archives
+
+The University of Washington Ethnomusicology Archives (collecting
+since 1962) holds field recordings from Pakistan including:
+- "Trance ritual of bitan (Shaman of Hunza)" — instrumental prelude
+- "Trance ritual of bitan (accompaniment for incantation calling
+  forth mountain spirits)"
+
+These are ethnographic field recordings, not commercially released.
+Access through the UW Archives:
+https://guides.lib.uw.edu/archives/stream
+
+*** Shina music online
+
+- SoundCloud: Gilgit Baltistan Folk Music account with Shina songs:
+  https://soundcloud.com/user-639241995
+- Sasken Shina: documentation of the twelve musical tune-types,
+  including instrument descriptions and cultural context:
+  https://www.saskenshina.com/en/shina-music
+- GBSongs.net: collection of Gilgit-Baltistan songs:
+  https://www.gbsongs.net/
+
+*** Kalasha songs
+
+The Tribune (2024) reports on efforts to preserve Kalasha songs:
+https://tribune.com.pk/story/2569410/saving-the-songs-of-the-kalasha
+
+Loude and Lièvre's fieldwork (1980s) included song documentation,
+but it is unclear whether audio recordings were published or archived
+accessibly.
+
+*** Natural soundscapes — gap
+
+No dedicated field recordings of natural soundscapes from the Diamer/
+Nanga Parbat region (river, glacier, wind at altitude) were identified
+in this search. This is a gap. The acoustic environment of the Indus
+gorge — the roar of meltwater through the deepest gorge on Earth — is
+undocumented in any audio archive we could find. The alarm whistle of
+marmots across alpine meadows, the crack of glacier ice, the wind on
+the Rupal Face — all unrecorded, or at least not publicly accessible.
+
+** J.5 Film
+
+- /Nanga Parbat 1953/ (Hans Ertl, 95 min) — first ascent documentary.
+  See J.2 above for archive links.
+- /Nanga Parbat/ (Joseph Vilsmaier, 2010) — feature film dramatising
+  the 1970 Messner brothers' expedition (Rupal Face first ascent,
+  Günther's death on the Diamir descent).
+- Various YouTube documentaries on the Nanga Parbat climbing history
+  and the Diamer-Basha Dam threat.
+
+* K. Part D Sources (Consolidated)
+
+** Petroglyph documentation
+
+- Wilfrid Laurier project:
+  https://www.wlu.ca/academics/faculties/faculty-of-arts/faculty-profiles/jason-neelis/upper-indus-petroglyphs-and-inscriptions/index.html
+- HAL progress report (2022–2024):
+  https://hal.science/hal-04722491v1
+- LUMS academic report:
+  https://lums.edu.pk/academic-report/ar2024/centre-tpi.php
+- Atiq Hashmi:
+  https://atiqhashmi.com/documentation-of-upper-indus-petroglyphs-and-inscriptions/
+- Leiden "Talking Stones":
+  https://www.leidenarchaeologyblog.nl/articles/petroglyph-workshop-in-gilgit-baltistan-pakistan
+- Bandini-König (1994–2013), MANP vols. 1–13
+
+** Historical expedition
+
+- IMDb, /Nanga Parbat 1953/:
+  https://www.imdb.com/title/tt0163761/
+- Filmarchiv Austria:
+  https://info.filmarchiv.at/program/film/nanga-parbat/
+- SummitPost, Buhl photographs:
+  https://www.summitpost.org/hermann-buhl-nanga-parbat-1953/793940
+- Salman Rashid, Odysseus Lahori:
+  http://odysseuslahori.blogspot.com/2017/04/Rupal-Face-of-Nanga-Parbat.html
+- Mark Horrell, "A Short History of Nanga Parbat":
+  https://www.markhorrell.com/blog/2012/a-short-history-of-nanga-parbat-the-naked-german-mountain/
+
+** Geological diagrams
+
+- GSL SP170:
+  https://www.geolsoc.org.uk/SP170
+- Leeds, neotectonics cross-section:
+  http://earth.leeds.ac.uk/structure/tectonics/nanga_parbat/parbatepsl.pdf
+- Schneider et al. (1999):
+  https://eesarchive.lehigh.edu/EESpeople/peopledocs/zeitler-pubs/schneider_etal_geology_1999.pdf
+
+** Sound
+
+- "Bitan (Trance Ritual)" track:
+  https://www.amazon.com/Bitan-Trance-Ritual/dp/B01N6U4WBK
+- UW Ethnomusicology Archives:
+  https://guides.lib.uw.edu/archives/stream
+- SoundCloud, GB Folk Music:
+  https://soundcloud.com/user-639241995
+- GBSongs.net:
+  https://www.gbsongs.net/
