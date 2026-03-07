@@ -1,0 +1,1338 @@
+#+title: Ecological Web Survey: The Western Himalaya
+#+subtitle: WP-0016 — Altitude, Species, and the Spirits Between
+#+author: mayadev (epistem-guardian)
+#+date: 2026-03-07
+#+property: status draft
+#+property: web-access partial — drafted from training knowledge (cutoff May 2025), URLs verified 2026-03-07
+#+property: verification-pass partial (15 sources verified, fieldwork gaps remain)
+#+property: companion diamer-nanga-parbat.org, diamer-deep-time.org
+#+startup: overview
+#+options: toc:3 num:t
+
+* Scope and Method
+
+This survey maps the ecological web of the Western Himalayan monsoon
+valleys — the relationships between tectonic forces, altitude zonation,
+species behaviour, spirit traditions, and human practice across five
+story regions: Tirthan, Parvati, Baspa (Kinnaur), Spiti/Lahaul, and
+the Sutlej corridor.
+
+The survey complements the Diamer/Nanga Parbat surveys (WP-0012,
+WP-0013), which documented the same chains for the Karakoram. The
+monsoon valleys offer a contrast: where Diamer gets 200–300 mm/yr and
+supports juniper steppe, the Tirthan gets 1200–1500 mm/yr and supports
+cathedral deodar forest. The monsoon boundary — where one world becomes
+the other — runs through the story geography.
+
+** Method
+
+This survey was drafted *without web access* from the agent's training
+knowledge (cutoff: May 2025), supplemented by extensive cross-reference
+to existing project files:
+
+- =parbati-biodiversity.org= — altitude zonation, GHNP data, species
+  populations
+- =diamer-nanga-parbat.org= — Karakoram contrast, raptor ecology,
+  spirit traditions
+- =diamer-deep-time.org= — Tethyan geology, deep time
+- =spirit-ecology-verified.org= — devta system, nag devtas, gur
+  institution
+- =spirit-ecology.org= — broader spirit taxonomy, Kinnaur, Spiti
+- YAML genera in =collections/himalayan-spirits/spirits/genera/= —
+  kullu-devta, spiti-lha, spiti-klu, spiti-sa-bdag, kinnaur-nag, etc.
+
+Confidence levels throughout:
+- [cross-ref: /filename/] — grounded in existing, verified project files
+- [training-knowledge] — from the agent's training data
+- [needs-verification] — requires web search or fieldwork to confirm
+
+A web-verification pass is required before this survey reaches
+=draft-verified= status. The acceptance criteria (WP-0016) require at
+least 15 web-accessible sources cited with URLs.
+
+** Structure
+
+| Part | Title | Sections |
+|------+-------+----------|
+| A | Altitude Zonation Chains | A.1–A.7: per-region chains + raptor synthesis + monsoon boundary |
+| B | Species–Spirit Connections | B.1–B.7: nag devtas, ibex cult, bears/leopards, sacred trees, ecological chain, synthesis |
+| C | Shifting Baselines | C.1–C.7: treeline, species, rivers, pastoral, broken links, resilience, data gaps |
+| D | Cross-Reference with Diamer Surveys | Synthesis across the monsoon divide |
+
+* Part A: Altitude Zonation Chains — Monsoon Valleys of the Western Himalaya
+
+The five regions form a transect from full monsoon influence (Tirthan)
+through the transition zone (Baspa, Sutlej corridor) to the rain shadow
+(Spiti/Lahaul). This transect is the organising principle: what happens
+to altitude zonation as the monsoon weakens?
+
+** A.1 Tirthan Valley
+
+*** A.1.1 Geology
+
+The Tirthan rises in the Tirath valley within GHNP and joins the Beas
+at Larji (~900 m). The valley cuts through the Great Himalayan Range,
+exposing rocks of the Higher Himalayan Crystalline (HHC) — predominantly
+medium- to high-grade metamorphic rocks: mica schists, gneisses, and
+migmatites. [training-knowledge]
+
+| Parameter | Value |
+|-----------+-------|
+| Dominant rock | Mica schist, paragneiss (HHC) |
+| Tectonic context | Main Central Thrust (MCT) zone; the MCT passes near the lower valley |
+| Metamorphic grade | Amphibolite facies (kyanite-sillimanite grade) |
+| Erosion rate | ~1–3 mm/yr (typical for monsoon-exposed Greater Himalaya) [training-knowledge] |
+
+The MCT emplaces high-grade metamorphic rocks of the Higher Himalaya
+over the lower-grade rocks of the Lesser Himalaya. The Tirthan valley
+crosses this boundary. Below the MCT (downstream toward Larji): Lesser
+Himalayan phyllites, slates, quartzites. Above it (upstream into GHNP):
+mica schists and gneisses. [training-knowledge]
+
+*** A.1.2 Altitude Zonation
+
+The Tirthan spans ~900 m (Larji) to ~5800 m (peaks within GHNP). The
+zonation closely mirrors the Parvati valley [cross-ref:
+parbati-biodiversity.org], as both are GHNP catchments with the same
+aspect, precipitation regime, and lithological substrate.
+
+| Zone | Elevation | Dominant vegetation | Aspect shift |
+|------+-----------+---------------------+--------------|
+| Subtropical | 900–1800 m | Chir pine (/Pinus roxburghii/), scattered sal at lowest points. /Lantana/ and /Ageratina/ invasion below 2000 m. | S-facing: chir pine extends to ~1900 m. N-facing: transition to temperate at ~1600 m. |
+| Moist Temperate | 1800–2700 m | Deodar cedar (/Cedrus deodara/), blue pine (/Pinus wallichiana/), ban oak (/Quercus leucotrichophora/), moru oak (/Q. floribunda/). Horse chestnut, maple, walnut in ravines. | S-facing: deodar thins by 2500 m. N-facing: dense, tall deodar persisting to 2700 m with epiphytic mosses. |
+| Upper Temperate | 2700–3200 m | W. Himalayan spruce (/Picea smithiana/), Himalayan fir (/Abies pindrow/), kharsu oak (/Q. semecarpifolia/). Dense ringal bamboo (/Arundinaria/ spp.) understory. | N-facing ravines: fir dominates, dense and dark. S-facing: spruce-oak mosaic, more open. |
+| Subalpine | 3200–3600 m | Himalayan birch (/Betula utilis/), /Rhododendron campanulatum/, /R. anthopogon/, juniper (/Juniperus/ spp.). Krummholz. | Treeline: S-facing to ~3800 m, N-facing to ~3400 m [cross-ref: parbati-biodiversity.org]. |
+| Alpine Meadow | 3600–4500 m | Wildflower meadows: /Primula/, /Potentilla/, /Anemone/, /Gentiana/, /Meconopsis/ (blue poppy), /Pedicularis/. Dwarf junipers, dwarf rhododendrons. | S-facing: drier, sparser cover. N-facing and moist hollows: denser meadow. |
+| Nival | 4500–5800 m | Lichen-moss pioneer communities, cushion plants, saxifrages. Above ~5000 m: permanent snow/ice. | Permanent snowline: ~5000 m, shifting upward. |
+
+/What makes Tirthan distinctive/: The upper Tirthan (above Ropa, into
+the Tirath valley) is roadless — the most pristine of the GHNP
+catchments. No hydropower development (unlike the Parvati, which has
+the 800 MW Parbati-II HEP). The lower valley has more intact continuous
+forest than the equivalent elevation in the Parvati. This makes the
+Tirthan the best available reference for the "undisturbed" monsoon
+valley zonation. [training-knowledge]
+
+*** A.1.3 Keystone Species by Zone
+
+| Zone | Keystone species | Role |
+|------+------------------+------|
+| Subtropical | Chir pine (/Pinus roxburghii/) | Fire-adapted canopy dominant; shapes understorey through fire regime |
+| Moist Temperate | Deodar cedar (/Cedrus deodara/) | Cathedral canopy; supports epiphyte community; timber of the gods (/devdār/) |
+| Upper Temperate | Western tragopan (/Tragopan melanocephalus/) | Indicator — GHNP holds world's largest population (6.5/km²). Requires intact ringal bamboo understorey [cross-ref: parbati-biodiversity.org] |
+| Subalpine | Himalayan birch (/Betula utilis/) | Treeline-forming species; the boundary between forest and open sky |
+| Alpine | Himalayan monal (/Lophophorus impejanus/) | Indicator of intact alpine meadow; national bird of Nepal |
+| Alpine | Snow leopard (/Panthera uncia/) | Apex predator. GHNP: only 1 detection [cross-ref: parbati-biodiversity.org] |
+| Alpine-Nival | Himalayan tahr (/Hemitragus jemlahicus/) | Endemic large herbivore; cliff-dwelling; keystone grazer of steep grasslands |
+
+*** A.1.4 Raptors
+
+**** Lammergeier (Bearded Vulture, /Gypaetus barbatus/)
+
+| Language | Name | Source |
+|----------+------+--------|
+| Hindi | /Haddā-todnē-wālā giddh/ (bone-breaking vulture) | [training-knowledge] |
+| Pahari (Kullu) | /Sāmdar/ or /Sāmrā/ (the "big one") | [needs-verification] |
+
+Range: 1500–5000 m, primarily above 2500 m. The bone-dropping
+behaviour uses the mica-schist ridges as ossuaries. Territory: a single
+pair may range over 200–400 km². In the GHNP landscape, a few pairs
+likely cover the entire park. [training-knowledge;
+cross-ref: diamer-nanga-parbat.org — same species, Karakoram context]
+
+**** Himalayan Griffon (/Gyps himalayensis/)
+
+| Language | Name | Source |
+|----------+------+--------|
+| Hindi | /Himālayī giddh/ | [training-knowledge] |
+| Pahari (Kullu) | /Giddh/ or /Giddhar/ (generic vulture) | [needs-verification] |
+
+Colonial. Follows Gaddi shepherd flocks to alpine pastures in summer.
+When a sheep dies at 3800 m, the griffons arrive within hours.
+Gregarious roosting on cliff faces: 20–50 birds together.
+[training-knowledge]
+
+/The Jatayu connection/: In the Ramayana, Jatayu is the great vulture
+who fought Ravana to rescue Sita. In the Kullu valley — Raghunath Ji's
+domain since 1651 — every large vulture carries Jatayu resonance. The
+Himalayan griffon, massive and ruff-necked, is the most visually
+plausible living Jatayu. [training-knowledge]
+
+**** Golden Eagle (/Aquila chrysaetos/)
+
+| Language | Name | Source |
+|----------+------+--------|
+| Hindi | /Sōnā ukaab/ (golden eagle) | [training-knowledge] |
+| Pahari (Kullu) | /Bāj/ or /Bājū/ (generic for large eagle) | [needs-verification] |
+
+Ranges across alpine meadows and ridgelines above 3000 m. Takes
+Himalayan marmots, pikas, young tahr. The eagle-marmot pair defines
+the alpine acoustic landscape: the marmot's alarm whistle announces
+the eagle's approach. [training-knowledge]
+
+*** A.1.5 Monsoon Character
+
+The Tirthan is fully within the monsoon domain. Annual precipitation
+~1200–1500 mm, 60–70% falling June–September. The contrast with the
+Karakoram [cross-ref: diamer-nanga-parbat.org] is total: where Diamer
+gets 200–300 mm/yr and supports only scattered juniper, the Tirthan
+gets 1200–1500 mm/yr and supports cathedral deodar forest.
+
+** A.2 Parvati Valley
+
+*** A.2.1 Geology
+
+The Parvati flows from the Man Talai glacier to the Beas confluence at
+Bhuntar (~1100 m). Like the Tirthan, it cuts through HHC rocks, but
+with a notable addition: the hot springs at Manikaran (~95°C) and
+Kheerganga (~50°C) indicate active geothermal systems.
+[cross-ref: parbati-biodiversity.org]
+
+| Parameter | Value |
+|-----------+-------|
+| Dominant rock | Mica schist, paragneiss (HHC); quartzite bands |
+| Tectonic context | MCT zone in lower valley; Parvati thrust in mid-valley |
+| Hot springs | Manikaran (~95°C), Kheerganga (~50°C); sulphurous, silica-depositing |
+| Erosion rate | ~2–4 mm/yr (high: monsoon + steep gradient + active tectonics) [training-knowledge] |
+
+/Geothermal comparison with Nanga Parbat/: Manikaran's hot springs echo
+the Tato springs near Nanga Parbat (~92°C) but arise from a different
+mechanism. At Nanga Parbat: decompression melting driving fluids through
+the Raikot fault (tectonic aneurysm). At Manikaran: deep circulation
+of meteoric water along active fault zones in the MCT system.
+[training-knowledge; cross-ref: diamer-nanga-parbat.org § A.5]
+
+*** A.2.2 Altitude Zonation
+
+Comprehensively documented in parbati-biodiversity.org. Summarised
+here for completeness:
+
+| Zone | Elevation | Dominant vegetation | Notes |
+|------+-----------+---------------------+-------|
+| Subtropical | 1000–1800 m | Chir pine; scattered sal. /Lantana/, /Ageratina/ invasion. | Kasol (1640 m), Manikaran (1760 m) in transition zone [cross-ref: parbati-biodiversity.org] |
+| Moist Temperate | 1800–2700 m | Deodar cedar, blue pine, Himalayan oak. Maple, horse chestnut, alder near streams. | Cathedral forests. Epiphytes on old-growth trunks [cross-ref: parbati-biodiversity.org] |
+| Upper Temperate | 2700–3200 m | W. Himalayan spruce, Himalayan fir, brown oak. Dense ringal bamboo. | Western tragopan's kingdom — 6.5 birds/km² [cross-ref: parbati-biodiversity.org] |
+| Subalpine | 3200–3600 m | Himalayan birch, /R. campanulatum/, /R. anthopogon/, junipers. | Krummholz transition [cross-ref: parbati-biodiversity.org] |
+| Treeline | 3500–3800 m | /Betula utilis/ with /R. campanulatum/. | S-facing: 3800 m. N-facing: 3400 m. Without grazing: 200–400 m higher [cross-ref: parbati-biodiversity.org] |
+| Alpine Meadow | 3600–4500 m | Wildflower seas. /Primula/, /Meconopsis/, /Gentiana/, /Pedicularis/. | Over half of GHNP lies above 4000 m [cross-ref: parbati-biodiversity.org] |
+| Nival | 4500–6632 m | Pioneer lichen-moss. Cushion plants. 192 lichen species. | Permanent snowline ~5000 m [cross-ref: parbati-biodiversity.org] |
+
+/What distinguishes the Parvati from the Tirthan/: (1) Greater human
+impact — the Parbati-II HEP (800 MW), road development, tourism at
+Kasol/Kheerganga. (2) Geothermal features creating microclimatic
+anomalies. (3) The Pin Parvati Pass (5319 m) — the ecological hinge
+between monsoon and rain shadow. [cross-ref: parbati-biodiversity.org]
+
+*** A.2.3 Keystone Species
+
+Identical to the Tirthan at the zone level [cross-ref:
+parbati-biodiversity.org § Fauna], with Parvati-specific notes:
+
+- *Snow leopard*: Only 1 detection in GHNP camera traps. At the
+  periphery of range. The Pin Parvati Pass corridor potentially
+  connects wet-side and dry-side populations.
+  [cross-ref: parbati-biodiversity.org]
+- *Himalayan brown bear*: Present above 3500 m. 130–220 individuals
+  across all of India and Pakistan. Critically Endangered in India.
+  [cross-ref: parbati-biodiversity.org]
+- *Musk deer*: Endangered. Poached for the musk pod (worth more per
+  gram than gold). The economic keystone of poaching pressure.
+  [cross-ref: parbati-biodiversity.org]
+
+*** A.2.4 Monsoon Character
+
+Full monsoon. ~1000–1500 mm. The Pin Parvati Pass marks the /monsoon
+terminus/ for this valley system: on the Parvati side, 1000+ mm; on the
+Spiti side, 200 mm. The pass is where the monsoon runs out of energy —
+the most dramatic single-step moisture gradient in the Western Himalaya.
+[training-knowledge]
+
+** A.3 Baspa Valley (Sangla, Kinnaur)
+
+*** A.3.1 Geology
+
+The Baspa is a tributary of the Sutlej, joining it near Karcham. The
+valley lies within the HHC, but with a crucial difference from the
+Kullu valleys: its position further east and deeper within the
+Himalayan arc exposes it to a more continental climate. Chitkul
+(3450 m), the last village, sits near the Indo-Tibetan border.
+[training-knowledge]
+
+| Parameter | Value |
+|-----------+-------|
+| Dominant rock | Paragneiss, migmatite, amphibolite (HHC); Haimanta Group metasediments |
+| Tectonic context | Between the MCT and the South Tibetan Detachment System (STDS). Leucogranite intrusions locally |
+| Special features | Kinnaur Kailash range (6050 m) forms the eastern wall |
+| Erosion rate | ~1–2 mm/yr (lower than Kullu — less monsoon, less fluvial erosion) [training-knowledge] |
+
+The STDS brings Tethyan sedimentary rocks (fossiliferous marine
+sediments of the Tethys Sea) into proximity with the high-grade
+metamorphic basement. The transition from gneiss (valley floor) to
+marine limestone (upper ridgeline) mirrors the deep-time story
+documented for Nanga Parbat [cross-ref: diamer-deep-time.org § A.1] —
+ocean floor lifted to mountain summit. [training-knowledge]
+
+*** A.3.2 Altitude Zonation
+
+The Baspa is the *transition zone* between full monsoon and rain shadow.
+Precipitation is lower than Kullu (~600–800 mm/yr at Sangla, declining
+upvalley), and the vegetation reflects this.
+
+| Zone | Elevation | Dominant vegetation | Contrast with Kullu |
+|------+-----------+---------------------+---------------------|
+| Subtropical–Warm Temperate | 1500–2200 m | Chir pine, sparser than Kullu. Dry-deciduous elements (wild apricot, /Celtis/). | No /Lantana/ — too dry, too cold |
+| Temperate | 2200–3000 m | Deodar cedar, blue pine, Himalayan oak — deodar less dominant. *Chilgoza pine* (/Pinus gerardiana/) appears on south-facing slopes. Apple and apricot orchards. | Chilgoza = key difference. Absent from Kullu. Marks the continental transition |
+| Upper Temperate | 3000–3400 m | W. Himalayan spruce, Himalayan fir. Brown oak. Ringal bamboo thinner than Kullu. | Less bamboo, more open forest — lower moisture |
+| Subalpine | 3400–3800 m | Himalayan birch, /R. campanulatum/, juniper. Birch more extensive than Kullu. | Treeline higher (S-facing to ~4000 m) — less cloud cover, more radiation |
+| Alpine | 3800–4800 m | Alpine steppe elements: /Caragana/, /Artemisia/, /Astragalus/ alongside typical meadow species. | Steppe species mark continental transition. Absent from Kullu |
+| Nival | 4800+ m | Cushion plants, saxifrages, lichen. Kinnaur Kailash (6050 m). | Higher snowline (~5200 m vs ~5000 m) — less precipitation |
+
+**** The Chilgoza Pine (/Pinus gerardiana/)
+
+The appearance of chilgoza pine is the single best ecological marker of
+the transition from monsoon to continental climate. Named after Captain
+Alexander Gerard, who explored Kinnaur in the 1810s–1820s. Three-needled
+pine with large edible seeds. Distribution: Afghanistan (Nuristan),
+Pakistan (Chitral, Dir, Swat, Waziristan), India (Kinnaur — the heart
+of the Indian range). Absent from the monsoon-drenched Kullu valleys.
+[training-knowledge]
+
+Kinnaur contains the largest and most productive chilgoza forests in
+India, principally in the Sutlej valley between Nichar and Pooh (~80 km).
+Individual families hold customary rights to specific trees — one of
+the most sophisticated traditional tree-tenure systems in the Himalaya.
+Harvest: September–October. Cones hand-collected by climbing. Premium
+prices, INR 2,000–4,000/kg retail (shelled). [training-knowledge]
+
+*** A.3.3 Keystone Species
+
+| Zone | Keystone species | Notes |
+|------+------------------+-------|
+| Temperate | Chilgoza pine | Continental indicator. Sacred grove management |
+| Upper Temperate | Western tragopan | Eastern limit of range near the Sutlej. Presence in Baspa uncertain [needs-verification] |
+| Alpine | Blue sheep (/Pseudois nayaur/) | Present on the drier, Tibetan-aspect slopes above Chitkul. Absent from Kullu. *The blue sheep signal*: a Tibetan Plateau species whose presence marks the penetration of trans-Himalayan ecology into the monsoon valleys |
+| Alpine | Snow leopard | More likely than in Kullu — drier upper reaches and blue sheep create better habitat [training-knowledge] |
+
+*** A.3.4 Monsoon Character
+
+*Transitional.* ~600–800 mm at Sangla — roughly half of Kullu. By
+Chitkul: ~400–500 mm. The monsoon still arrives, but attenuated. The
+apple orchards exist in a precipitation sweet spot: enough rain for
+fruit trees, not so much as to promote fungal disease. This is why
+Kinnaur apples are famous and Kullu apples struggle with scab.
+[training-knowledge]
+
+The monsoon boundary is visible as a shift in forest character: lower
+valley (below Sangla) has dense deodar reminiscent of Kullu; upper
+valley (above Chitkul) grades into dry juniper steppe reminiscent of
+Spiti. The transition happens within 30 km of valley length.
+[training-knowledge]
+
+** A.4 Spiti and Lahaul
+
+*** A.4.1 Geology
+
+***** Spiti
+
+| Parameter | Value |
+|-----------+-------|
+| Dominant rock | Tethyan sedimentary sequence — fossiliferous Cambrian through Cretaceous marine sediments overlying HHC basement |
+| Tectonic context | Between the STDS and the Indus-Tsangpo Suture Zone. The Spiti synclinorium preserves the most complete Tethyan sequence in India |
+| Special features | Continuous marine fossil record from Cambrian (~540 Ma) to Cretaceous (~70 Ma) — trilobites, ammonites, belemnites, brachiopods. At Langza (~4400 m), Jurassic ammonites litter the ground surface |
+| Erosion rate | ~0.5–1 mm/yr (arid — minimal fluvial erosion) [training-knowledge] |
+
+This is the same deep-time story as Nanga Parbat
+[cross-ref: diamer-deep-time.org § A.1] but with a critical
+difference: at Nanga Parbat, extreme uplift has stripped the Tethyan
+cover, exposing deep basement gneiss. In Spiti, gentler deformation
+has preserved the full sedimentary stack. Spiti is the library; Nanga
+Parbat is the furnace. [training-knowledge]
+
+***** Lahaul
+
+| Parameter | Value |
+|-----------+-------|
+| Dominant rock | Haimanta Group — low-grade metasediments (phyllite, slate, quartzite). HHC gneiss in the south |
+| Tectonic context | Straddles the MCT. Rohtang Pass marks the approximate surface trace |
+| Special features | Glaciated U-valleys; Chandra-Bhaga (Chenab) river system. Bara Shigri: largest glacier in HP (~28 km) |
+
+*** A.4.2 Altitude Zonation
+
+The zonation in Spiti is radically different from the monsoon valleys —
+aridity replaces moisture as the controlling variable. This is "zonation
+without monsoon" [cross-ref: diamer-nanga-parbat.org § F.5].
+
+**** Spiti
+
+| Zone | Elevation | Dominant vegetation | Contrast with monsoon valleys |
+|------+-----------+---------------------+-------------------------------|
+| Arid Valley Floor | 3200–3800 m | /Artemisia/, /Caragana/, /Ephedra/. Irrigated barley and pea. Willow and poplar (planted). | No natural forest — precipitation too low (~200 mm/yr) |
+| Dry Steppe | 3800–4200 m | /Artemisia/, dry grassland, scattered /Juniperus/ and /Hippophae/ (sea buckthorn). | Juniper replaces deodar entirely. No ringal, no rhododendron — too dry |
+| Alpine Dry Meadow | 4200–4800 m | Sparse /Carex/, /Kobresia/ sedge. /Saussurea/, /Oxytropis/. Blue sheep grazing grounds. | Not the wildflower seas of the monsoon alpine. Drier, sparser, different species |
+| Subnival | 4800–5500 m | Cushion plants, lichens, scattered /Thylacospermum caespitosum/. | Extends lower than in monsoon valleys — cold desert |
+| Nival | 5500+ m | Ice, bare rock. | Snowline at ~5500–5800 m — significantly higher than monsoon valleys (~5000 m) |
+
+The *absence* of the moist temperate zone (1800–2700 m) is the
+defining difference. Spiti's valley floor sits at 3200–3800 m — already
+above the temperate zone elevation — and receives no monsoon moisture.
+
+**** Lahaul
+
+Lahaul shows the transition:
+
+| Zone | Elevation | Dominant vegetation | Notes |
+|------+-----------+---------------------+-------|
+| Dry Temperate (S. Lahaul) | 2800–3500 m | /Cedrus deodara/ (sparse), /Pinus wallichiana/, /Juniperus/, willow, poplar. Deodar at its dry limit. | The last deodar before the rain shadow |
+| Birch-Juniper | 3500–4000 m | /Betula utilis/, /Juniperus/ spp., /Salix/ spp. | Birch more robust than in Spiti — more moisture |
+| Alpine | 4000–4800 m | Mixed: monsoon-type meadow species and steppe species coexist. /Primula/ and /Artemisia/ side by side. | The ecological frontier — both floras meet |
+
+/The Rohtang divide/: On the south (Kullu) side, green forested slopes
+receiving 1200+ mm. On the north (Lahaul) side, bare brown slopes
+receiving 300–400 mm. Visible in a single day's drive — the most
+dramatic demonstration of the rain shadow in the Indian Himalaya.
+[training-knowledge]
+
+*** A.4.3 Keystone Species
+
+| Zone | Keystone species | Notes |
+|------+------------------+-------|
+| Valley floor | Sea buckthorn (/Hippophae rhamnoides/) | Nitrogen-fixing shrub. Edible berries. Stabilises riverbanks |
+| Dry Steppe | Juniper (/Juniperus/ spp.) | Sacred across Dardic and Tibetan traditions (bsang offerings). The only tree above 4000 m [cross-ref: diamer-nanga-parbat.org § F.3] |
+| Alpine | Blue sheep (/Pseudois nayaur/) | Dominant large herbivore. Herds of 20–100. Primary snow leopard prey |
+| Alpine | Snow leopard (/Panthera uncia/) | Core habitat. Kibber area: ~15–25 individuals. ~3–5/100 km² [training-knowledge] |
+| Alpine | Tibetan wolf (/Canis lupus chanco/) | Pack predator. Takes blue sheep, livestock. Conflict with herders |
+
+*Pin Valley National Park* (675 km²): India's only cold-desert national
+park. Contains the most significant snow leopard population in HP and
+the only viable ibex population in the state.
+[training-knowledge]
+
+*** A.4.4 Raptors
+
+| Species | Hindi | Spitian/Bhoti | Notes |
+|---------+-------+---------------+-------|
+| Lammergeier | /Haddā-todnē-wālā giddh/ | /Bye-rgod/ ("great vulture") [needs-verification] | The open landscape and Tethyan-sequence cliffs provide ideal bone-dropping ossuaries |
+| Himalayan griffon | /Himālayī giddh/ | /Bya-rgod dkar-mo/ ("white great-bird") [needs-verification] | Colonial. Follows yak and sheep herds. The Spitian pastoral economy sustains the population |
+| Golden eagle | /Sōnā ukaab/ | /Gser-mdog glag/ ("golden-coloured eagle") [needs-verification] | Takes marmots, pikas, young blue sheep |
+
+**** Sky Burial and the Griffon
+
+In the Spitian Buddhist tradition (Gelugpa, continuous with Tibetan
+Buddhism since the 10th century — Tabo monastery founded 996 CE), the
+Himalayan griffon is associated with /jhator/ (sky burial). The griffon
+is not merely a scavenger — it is the vehicle of the soul's transition.
+[training-knowledge]
+
+The ḍākinī (/mkha' 'gro ma/, "sky-goer") shares the sky with the
+griffon. In the Spitian Buddhist worldview, the sky is a domain of
+spiritual agency. The griffon circling on thermals above Tabo or Ki
+monastery is both ecological reality and spiritual presence.
+[training-knowledge]
+
+This connects to but differs from the Karakoram peri tradition
+[cross-ref: diamer-nanga-parbat.org § B.1]: the peri inhabit meadows
+and glaciers (terrestrial spirits); the ḍākinī inhabit the sky itself
+(aerial spirits). Both occupy the zone above the treeline.
+
+** A.5 Sutlej Corridor
+
+*** A.5.1 Geology
+
+The Sutlej is one of the great *antecedent* rivers of the Himalaya —
+rivers that established their courses before the orogeny reached its
+present height, maintaining their channels by cutting down as fast as
+the mountains rose (Medlicott, 1864). The Sutlej rises on the Tibetan
+Plateau near Mount Kailash and Lake Rakshastal (~4,600 m) and cuts
+through the /entire width/ of the Himalaya. [training-knowledge]
+
+| Parameter | Value |
+|-----------+-------|
+| Tectonic zones crossed | Sub-Himalaya (Siwalik) → Lesser Himalaya → MCT → HHC → STDS → Tethyan Himalaya — the entire Himalayan tectonic stack |
+| Gorge depth | ~4,500 m local relief (river at ~1,500 m near Karcham; Kinnaur Kailash 6,050 m rises 20 km east) |
+| Incision rate | Extreme — ~5–10 mm/yr locally [training-knowledge] |
+| Landslides | Among the most landslide-prone regions in the Himalaya. MCT zone is first-order control (Bookhagen et al. 2005) |
+
+The 2000 Parechu flood: landslide in Tibet dammed the Parechu River;
+breach sent ~1,500 cumecs into the NJHEP infrastructure, causing severe
+siltation. Demonstrated transboundary vulnerability — the lake was in
+Chinese-controlled territory with no early warning.
+[training-knowledge]
+
+*** A.5.2 Altitude Zonation
+
+The Sutlej corridor is unique: moving upstream from Rampur (1000 m) to
+Nako (~3662 m), you transition from full monsoon to near-desert within
+200 km. The corridor is a *gradient in real time*.
+
+| Zone | Elevation | Location markers | Vegetation |
+|------+-----------+------------------+------------|
+| Subtropical | 800–1800 m | Rampur Bushahr | Chir pine, sal at lowest. Citrus orchards |
+| Warm-Moist Temperate | 1800–2500 m | Sarahan, Jeori | Deodar, blue pine, oak. Bhimakali temple at Sarahan sits in deodar forest |
+| Cool-Dry Temperate | 2500–3200 m | Kalpa (2960 m), Reckong Peo | Deodar thins. *Chilgoza pine* appears (S-facing). Apple orchards — Kinnaur apple country |
+| Subalpine-Dry | 3200–3800 m | Nako, upper Sangla road | Birch, juniper. /Caragana/. Visibly drier than equivalent elevation in Kullu |
+| Alpine Steppe | 3800–4500 m | Above Nako, toward Sumdo | /Artemisia/, /Ephedra/, /Caragana/. Blue sheep habitat. Converges with Spiti ecology |
+| Nival | 4500+ m | Kinnaur Kailash (6050 m), Reo Purgyil (6816 m) | As Spiti |
+
+/The Kalpa viewpoint/: From Kalpa (2960 m), the entire altitude
+zonation from temperate forest to permanent snow is visible in a single
+view — a 3000 m vertical transect compressed into ~10 km. South-facing
+slopes show apple orchards and chilgoza; north-facing show dense deodar
+and fir. [training-knowledge]
+
+*** A.5.3 The Monsoon Wall
+
+The Sutlej corridor shows the monsoon gradient /within a single valley/:
+
+| Location | Elevation | Approx. precip (mm/yr) | Character |
+|----------+-----------+------------------------+-----------|
+| Rampur | 1000 m | ~1000–1200 | Full monsoon |
+| Sarahan | 2100 m | ~800–1000 | Strong monsoon |
+| Kalpa | 2960 m | ~500–700 | Weakening. Chilgoza appears |
+| Nako | 3662 m | ~300–400 | Marginal. Steppe elements |
+| Tabo | 3280 m | ~170–200 | Rain shadow. Cold desert. Continuous with Spiti |
+
+The precipitation gradient — 1200 mm at Rampur to 200 mm at Tabo —
+occurs within ~200 km of road. The corridor is a natural laboratory for
+studying how zonation responds to declining moisture.
+[training-knowledge]
+
+Bookhagen & Burbank (2006, 2010) showed two precipitation maxima using
+TRMM satellite data: (1) the Himalayan front (~1,000–2,000 m) and (2)
+the MCT zone / Greater Himalaya front (~3,000–4,000 m). The rain shadow
+begins /abruptly/ behind the Greater Himalaya crest. The "wall" is the
+Greater Himalaya itself — in the Sutlej, the Tapri–Reckong Peo zone
+where the river crosses the HHC and STDS. [training-knowledge]
+
+/The tectonic-climatic coincidence/: the geological boundary
+(MCT → HHC → STDS) and the climatic boundary (monsoon → rain shadow)
+occur at approximately the same position. Not accidental: the MCT zone
+is the structural front of the Higher Himalaya — the topographic barrier
+that blocks the monsoon. The ecological zonation is a surface expression
+of plate tectonics. [training-knowledge]
+
+*** A.5.4 The Hydropower Cascade
+
+| Project | River | Capacity (MW) | Type | Status |
+|---------+-------+---------------+------+--------|
+| Nathpa Jhakri | Sutlej | 1,500 | Run-of-river | Operational 2004 |
+| Karcham Wangtoo | Sutlej | 1,000 | Run-of-river | Operational 2012 |
+| Baspa-II | Baspa | 300 | Run-of-river | Operational 2003 |
+
+NJHEP and KWHEP together divert the Sutlej through tunnels for >50 km.
+In diverted reaches, the river runs at "minimum environmental flow" — a
+small fraction of natural discharge. The river that carved the gorge now
+runs in a pipe for most of its energy-producing length.
+[training-knowledge]
+
+** A.6 Raptor Synthesis Across Regions
+
+*** A.6.1 Comparative Table
+
+| Species | Elevation | Diet niche | Social | Monsoon valley role | Rain-shadow role |
+|---------+-----------+------------+--------+---------------------+------------------|
+| Lammergeier | 1000–5000 m | Bone (70–90%) | Solitary pairs | Scavenges tahr, musk deer, livestock. Mica-schist ossuaries | Same — ibex, markhor, blue sheep. Sandstone/limestone cliffs [cross-ref: diamer-nanga-parbat.org] |
+| Himalayan griffon | 1200–5500 m | Carcass flesh | Colonial (20–50+) | Follows Gaddi flocks to alpine pastures | Follows yak/sheep herds. Sky burial association (Spiti Buddhist) |
+| Golden eagle | 2000–5000 m | Live prey | Solitary pairs | Takes marmots, pikas, young tahr | Takes marmots, young blue sheep, ibex |
+
+*** A.6.2 Mythology
+
+| Tradition | Figure | Raptor | Region | Source |
+|-----------+--------+--------+--------+--------|
+| Ramayana | Jatayu | Himalayan griffon (visual match) | Kullu (Raghunath Ji's domain) | [training-knowledge] |
+| Vaishnava | Garuḍa | Golden eagle (predator, golden) | Pan-Hindu — temples across Kullu, Kinnaur | [training-knowledge] |
+| Tibetan Buddhist | Ḍākinī (sky-goer) | Griffon (shared sky domain) | Spiti/Lahaul | [training-knowledge] |
+| Persian | Huma | Lammergeier (never lands) | Karakoram [cross-ref: diamer-nanga-parbat.org § F.2] | [cross-ref] |
+
+*** A.6.3 Raptors and Herding
+
+The griffon's dependence on livestock carcasses creates a direct link
+between the pastoral economy and raptor ecology. Gaddi transhumance,
+Kinnauri /chauntra/ pasturing [needs-verification], and Spitian yak
+herding all sustain the griffon. If the pastoral economy contracts (as
+it is — fewer young herders), the griffon population will decline. The
+raptor's fate is tied to the herder's. [training-knowledge]
+
+** A.7 The Monsoon Boundary — Synthesis
+
+*** A.7.1 Where Does the Monsoon End?
+
+| Definition | Location | Criterion |
+|------------+----------+-----------|
+| Last dense deodar forest | Upper Baspa / S. Lahaul | Deodar requires >500 mm/yr |
+| Chilgoza appearance | Kinnaur (Kalpa–Chitkul) | Chilgoza requires dry summers |
+| /Artemisia/ dominance | Upper Sutlej (Nako–Tabo) / Spiti floor | Steppe = insufficient moisture for forest |
+| Precipitation <300 mm | N. side of Rohtang / upper Sutlej above Pooh | Measurable threshold |
+| Blue sheep presence | Upper Baspa, upper Sutlej, Spiti | Tibetan Plateau species = rain-shadow ecology |
+
+*** A.7.2 Monsoon vs. Karakoram
+
+| Parameter | Monsoon valleys (Tirthan/Parvati) | Karakoram (Diamer) | Difference |
+|-----------+----------------------------------+--------------------+------------|
+| Precipitation | 1000–1500 mm | 200–300 mm | 5–7x |
+| Forest zone | 1800–3600 m (1800 m band) | 3000–3800 m (800 m band) | Monsoon doubles the forest band |
+| Dominant forest tree | Deodar cedar | Juniper | Deodar requires monsoon; juniper tolerates drought |
+| Forest character | Dense, multi-storey, epiphyte-rich | Sparse, open, drought-stressed | Cathedral forest vs sparse woodland |
+| Treeline | 3400–3800 m | 3800–4200 m | Higher in rain shadow (more radiation) |
+| Primary large herbivore | Himalayan tahr (endemic) | Ibex, markhor | Different ungulate guilds |
+| Snow leopard density | Low (~0.5/100 km²) | Moderate-uncertain | Snow leopard prefers open, rocky rain shadow |
+| Snowline | ~5000 m | ~5200–5500 m | Higher in rain shadow — less accumulation |
+
+*** A.7.3 The Single Variable
+
+The altitude zonation chains documented in this part are controlled by
+one variable above all others: *precipitation*. Geology varies. Latitude
+barely changes (31°N–33°N). Altitude range is similar. But precipitation
+varies by a factor of 7.
+
+This single variable determines whether deodar or juniper dominates,
+whether the treeline is at 3500 m or 4200 m, whether the alpine zone is
+wildflower meadow or dry steppe, whether the primary herbivore is tahr
+or ibex, whether the human economy is rice or barley, whether the
+spiritual tradition is devta-and-gur or Buddhist-and-lama.
+
+The chain: *tectonic uplift → orographic barrier → monsoon interception
+→ precipitation gradient → vegetation zonation → faunal assemblage →
+human adaptation → spiritual tradition*.
+
+The monsoon boundary is where the chain bifurcates. The five story
+regions sit astride that boundary.
+
+* Part B: Species–Spirit Connections
+
+#+begin_quote
+The spirit taxonomy /is/ an altitude map. The transition from devta to
+lha tracks the transition from monsoon forest to trans-Himalayan steppe.
+The nag devta and klu are the same spirit at different altitudes — the
+vocabulary changes but the function (water protection) remains constant.
+#+end_quote
+
+** B.1 Nag Devtas and Rivers
+
+*** The river-nag correspondence
+
+Every significant river and spring in the Kullu system carries a nag
+devta association. The nag is the spirit /of/ the water body — its
+temperament, its seasonal behaviour, its capacity to nourish or destroy.
+[cross-ref: spirit-ecology-verified.org § 1.1]
+
+- Nags are "aboriginal snake gods believed to be the spirits of springs
+  and rivers" [cross-ref: spirit-ecology-verified.org, fn:ignca]
+- Basu Nag (Vasuki) is the ancestor of all nagas in the valley, temple
+  at Kamarhati in Kothi Naggar
+- Nagas "regulate water — they bring rain and control floods"
+- Offending a nag causes skin disease, crop failure, or drought
+
+*** River-specific associations
+
+| River/Water Body | Nag Association | Region |
+|------------------+-----------------+--------|
+| Beas (upper) | Multiple nag devtas along tributaries | Kullu [training-knowledge] |
+| Tirthan | Shringa Rishi jurisdiction; Buddhi Nagin at Serolsar Lake above Jalori Pass | Tirthan [cross-ref: kullu-devta.yaml] |
+| Parvati | Manikaran hot springs = liminal nag territory; "where the earth leaks heat" | Parvati [cross-ref: spirit-ecology.org] |
+| Baspa (Sangla) | Nages-Narenas cult in the Great Himalayan Region of Kinnaur | Kinnaur [cross-ref: kinnaur-devta.yaml] |
+| Spiti River | Klu traditions; every spring has its klu; pollution prohibition | Spiti [cross-ref: spiti-klu.yaml] |
+| Sutlej | Nag worship along corridor in Kinnaur; transition from Hindu nag to Buddhist klu with altitude | Sutlej [training-knowledge] |
+
+*** Buddhi Nagin and Serolsar Lake
+
+Buddhi Nagin (the Old Serpent Mother) at Serolsar Lake above Jalori Pass
+(~3,100 m). She /is/ the lake. The lake's water level, clarity, and
+seasonal behaviour are read as signs of the nag's disposition. The Jalori
+Pass marks a jurisdictional boundary: below to the south lies the
+Tirthan/Banjar valley under Shringa Rishi's authority; the pass itself
+is where Buddhi Nagin's domain begins. [cross-ref: kullu-devta.yaml;
+spirit-ecology.org § 2.5; training-knowledge]
+
+*** What the nag "knows" about the river
+
+The nag devta tradition encodes specific hydrological knowledge:
+
+1. *Spring protection*: Taboos against polluting springs, cutting trees
+   near springs, or diverting water without propitiation function as
+   watershed protection. The tree-spring connection is ecologically real —
+   root systems stabilise catchments, canopy reduces evaporation.
+2. *Seasonal flooding*: The community understands the nag's mood shifts
+   with the monsoon. Heavy rain years = the nag is agitated; drought =
+   the nag withholds.
+3. *Hot springs as liminal spaces*: Manikaran (Parvati) — where
+   underground and surface water worlds intersect. The nag's deep domain
+   leaking into the human world. The geological reality (geothermal from
+   tectonic activity) and the spiritual reading converge.
+   [cross-ref: diamer-nanga-parbat.org § A.5 for geological parallel]
+4. *The kuhl system*: Kuhls are traditional gravity-fed irrigation
+   channels. The nag devta's authority extends to water allocation —
+   disputes brought before the devta via the gur. [training-knowledge;
+   needs-verification: specific ethnographic sources linking gur
+   pronouncements to kuhl allocation]
+
+*** The nag-klu transition across the monsoon boundary
+
+| Region | Term | Water Context | Urgency |
+|--------+------+---------------+---------|
+| Kullu (monsoon) | Nag devta | Abundant water; springs, rivers, monsoon | Moderate — water present but must be kept clean |
+| Kinnaur (transitional) | Nag/Nages + Klu (upper) | Decreasing monsoon; apple orchards depend on snowmelt | Increasing — water less reliable |
+| Spiti (rain shadow) | Klu/lu | Arid high desert; <200 mm; water = survival | Existential — klu traditions encode water rationing |
+| Lahaul (rain shadow) | Klu/lu + Hindu nag | Transitional; both traditions coexist | High — short growing season, glacial melt critical |
+
+[cross-ref: spirit-ecology.org § 2.2; spiti-klu.yaml; kinnaur-devta.yaml]
+
+The gradient: /the scarcer the water, the more elaborate and urgent the
+serpent-spirit traditions/. In Spiti at 4,000 m with 170 mm rainfall,
+the klu traditions are "functionally a water management system"
+[cross-ref: spiti-klu.yaml]. In Kullu with 1,200 mm, the nag traditions
+are important but not existential.
+
+** B.2 Ibex, Markhor, and Petroglyphs: Does the Cult Cross the Monsoon Divide?
+
+*** The Karakoram ibex cult
+
+~30,000 petroglyphs on 100 km of the Indus, with ibex as the dominant
+motif. Ibex horns on graves and shrines as late as the 1980s in Hunza.
+The ibex in Kalasha cosmology belongs to /onjesta/ (pure) category.
+Continuity from ~3rd millennium BCE to the present.
+[cross-ref: diamer-nanga-parbat.org §§ F.1, H.2]
+
+The markhor adds a layer: its name means "snake-eater" (Persian /mar/ +
+/khor/), positioning it as antagonist to the nag/klu serpent tradition.
+[cross-ref: diamer-nanga-parbat.org § F.1]
+
+*** Does the ibex cult extend into the monsoon valleys?
+
+*No, or only as a faint echo.* The ibex cult is Karakoram/Dardic-specific.
+Converging factors:
+
+1. *Biogeographic*: Himalayan ibex absent or rare at lower elevations in
+   Kullu. The dominant ungulate is tahr and goral, not ibex.
+2. *Cultural*: The ibex cult is tied to Dardic religion (Shina, Khowar,
+   Kalasha speakers). The Kullu devta system is Pahari-Hindu, with a
+   different symbolic vocabulary.
+3. *No petroglyphs*: Different geology (schist/slate, not exposed hard
+   gneiss), denser forest (hiding rock surfaces), different cultural
+   tradition. [training-knowledge]
+4. *Markhor range*: Does not extend into the Kullu or Parvati valleys.
+   The markhor is a Karakoram-Indus species.
+   [cross-ref: diamer-nanga-parbat.org § F.1]
+
+*** Kinnaur and Spiti: a partial exception?
+
+Ibex are present in Spiti (Pin Valley). Some rock art documented in the
+Spiti valley (Francke, /Antiquities of Indian Tibet/, 1914–1926). Whether
+ibex motifs appear requires specific archaeological survey.
+[needs-verification]
+
+The Buddhist overlay (Padmasambhava's "taming" of local spirits) would
+have incorporated or suppressed any pre-Buddhist animal cult.
+[cross-ref: spirit-ecology-verified.org § 2.4]
+
+/The monsoon divide hypothesis/: The ibex cult maps to arid alpine
+ecology where ibex is the dominant visible large animal. The devta cult
+maps to monsoon-fed forest ecology where water and forest are the primary
+concern. The divide is ecological before it is cultural.
+[training-knowledge]
+
+** B.3 Bears, Leopards, and Altitude
+
+*** Himalayan brown bear (/Ursus arctos isabellinus/)
+
+| Region | Status | Confidence |
+|--------+--------+------------|
+| Tirthan/GHNP | Present at higher elevations (>3500 m); rare | [training-knowledge] |
+| Parvati/GHNP | Present; upper headwaters, Pin Parvati corridor | [training-knowledge] |
+| Baspa/Kinnaur | Sporadic reports in upper Baspa | [training-knowledge] |
+| Spiti | Present in Pin Valley NP | [training-knowledge] |
+| Lahaul | Present; less hunted than in Karakoram | [training-knowledge] |
+
+The Deosai population recovered from 19 individuals in 1993 to 78 in
+2022 [cross-ref: diamer-nanga-parbat.org § F.1]. In HP, extremely
+fragmented — a few individuals in GHNP, Pin Valley NP.
+
+/The Yeti connection/: DNA analysis of "Yeti" specimens has repeatedly
+identified Himalayan brown bear. Deosai = "shadow of the giant" (/deo/
+= giant, /sai/ = shadow). [cross-ref: diamer-nanga-parbat.org § F.1]
+
+/Bear-spirit connections/: The brown bear does not carry the same
+mythological weight as the nag or devta. It is /feared/ rather than
+/worshipped/. In Tibetan tradition, bears are sometimes associated with
+the btsan class of fierce spirits. [training-knowledge;
+needs-verification for specific Spitian or Lahaulie bear legends]
+
+*** Snow leopard (/Panthera uncia/)
+
+- *India-wide*: 718 individuals (SPAI 2024)
+  [cross-ref: parbati-biodiversity.org]
+- *Himachal Pradesh*: 83 individuals (2025 survey)
+- *GHNP*: Only 1 detection — at periphery of habitat
+- *Spiti*: Core habitat. Kibber area: highest densities in HP
+
+/The invisible predator/: The snow leopard is absent from the petroglyph
+record despite being the apex predator of the ibex that dominates it
+[cross-ref: diamer-nanga-parbat.org § F.1]. "The predator is invisible
+even in art." No documented spirit tradition. An animal that evades
+human perception evades human mythology. [training-knowledge]
+
+*** Common leopard (/Panthera pardus/)
+
+The large cat people /actually encounter/ in the monsoon valleys. Range:
+up to ~2500 m. Local name: /tendua/ or /guldar/ (Pahari/Hindi). In
+Pahari folklore, leopard attacks may be read as devta displeasure.
+[training-knowledge]
+
+The ecological niche (forest-edge predator, creature of dusk) gives it
+the spirit-association profile that the snow leopard lacks: it is
+/encountered/, feared, and therefore storied.
+
+** B.4 Trees as Spirits
+
+*** Deodar: devdār = "timber of the gods"
+
+Sanskrit /devadāru/ = /deva/ (god) + /dāru/ (wood/timber). Deodar is
+the defining tree of the monsoon Himalaya between 1800–2700 m.
+[training-knowledge]
+
+- *Hadimba Devi temple at Dhungri*: Old-growth deodar grove. The trees
+  are part of the sacred precinct [cross-ref: kullu-devta.yaml]
+- *Ban devta*: Forest deity of sacred groves [cross-ref: kullu-devta.yaml].
+  "Sacred groves (devta forests) are protected from logging. These are
+  often old-growth deodar forests." [cross-ref: spirit-ecology.org § 1.1]
+- *The colonial destruction*: Massive deodar extraction for railway
+  sleepers and construction, mid-19th to mid-20th centuries. The devta
+  groves that survived represent spiritual resistance — the trees that
+  were too sacred to cut. [training-knowledge]
+
+*** Juniper: the sacred tree of the Dardic and Tibetan worlds
+
+Juniper replaces deodar as the sacred tree across the monsoon divide.
+[cross-ref: diamer-nanga-parbat.org §§ F.3, H.2]
+
+- Kalasha: "Juniper or Gal is a sacred tree and food for Pari"
+- Hunza shamanism: manipulated sacred juniper leaves for trance
+- Bitan (Karakoram shaman): inhales burning juniper smoke for trance
+  [cross-ref: karakoram-bitan.yaml]
+- Tibetan Buddhism: juniper smoke (/bsang/) = standard purification
+  offering [cross-ref: spirit-ecology-verified.org]
+
+*** The deodar-juniper boundary
+
+| Feature | Deodar | Juniper |
+|---------+--------+---------|
+| Spiritual system | Hindu devta tradition | Dardic shamanism / Tibetan Buddhism |
+| Sacred function | Grove preservation (passive) | Smoke offering (active ritual use) |
+| Conservation mechanism | Taboo on cutting | Managed extraction for ritual |
+| Altitude range | 1800–2700 m (monsoon belt) | 2500–4000 m (rain shadow / high altitude) |
+| Spirit accessed through | Gur trance (drumming-induced) | Bitan trance (smoke-induced) |
+
+*** Other sacred trees
+
+- *Himalayan birch (/Betula utilis/)*: Bark used for manuscripts
+  (/bhurja-patra/). Not cult-worshipped like deodar, but historically
+  sacred through the writing tradition. [training-knowledge]
+- *Chir pine*: /Not/ considered sacred. Fire-adapted, commercially
+  exploited. The /absence/ of sacredness illustrates discrimination:
+  old-growth, moisture-dependent species are sacred; fire-adapted,
+  commercially exploited species are not. [training-knowledge]
+
+** B.5 The Ecological Chain: Spirit Traditions as Ecological Knowledge
+
+*** Devtas as altitude-zone managers
+
+| Zone | Altitude | Hindu-dominant | Buddhist/Tibetan-dominant |
+|------+----------+----------------+--------------------------|
+| Agricultural | 1500–2500 m | Devta (village deity) | Lha (territorial deity) |
+| Forest belt | 2500–3500 m | Nag, sacred groves | Gnyan (tree/rock spirits) |
+| Alpine / pasture | 3500–4500 m | Jogini, pass spirits | Btsan, sa-bdag |
+| Glacial / summit | >4500 m | Mountain gods | Yul-lha (mountain gods) |
+| Trans-Himalayan | 3500–5000 m | — | Lha, klu (water critical) |
+
+[cross-ref: spirit-ecology.org § 2.1]
+
+Valley-floor spirits are /civic/ (managing communities); mid-altitude
+spirits are /ecological/ (managing forests and water); high-altitude
+spirits are /elemental/ (managing weather, glaciers, passes).
+
+*** Nag devtas and watershed hydrology
+
+The nag tradition produces outcomes functionally equivalent to
+hydrological management:
+
+1. *Source protection*: Every spring with a nag shrine has an exclusion
+   zone — no cutting, no construction, no pollution. Protects recharge.
+2. *Drainage-basin jurisdiction*: Devta territories "follow drainage
+   basins" at high correspondence [cross-ref: spirit-ecology.org]. The
+   devta literally /governs a catchment/.
+3. *Water allocation*: Disputes over kuhl water brought to the devta.
+   The gur's pronouncement = a water allocation decision with social
+   legitimacy. [training-knowledge]
+4. *Flood/drought response*: Propitiation is also a crisis-response
+   protocol — community gathering, gur trance, collective
+   decision-making. [training-knowledge]
+
+*** The spirit system as ecological memory
+
+The deepest function is /memory/:
+
+- *Taboos*: "Do not cut trees near springs" = "this spring's recharge
+  area includes those trees"
+- *Stories*: "The nag was angry and the spring went dry" = "deforestation
+  caused spring failure"
+- *Rituals*: Annual propitiation = annual attention to water source health
+- *Gur pronouncements*: Aggregate community observation into
+  authoritative guidance, updated annually
+
+The spirit system is a distributed ecological database with a community
+consensus protocol (the gur trance) and enforcement mechanism (fear of
+spiritual retribution).
+
+** B.6 Species–Spirit Connection Summary
+
+| Species | Spirit Tradition | Connection Type | Region | Confidence |
+|---------+------------------+-----------------+--------+------------|
+| Himalayan ibex | Ibex cult (petroglyphs, horn shrines) | Sacred animal, totemic | Karakoram/Dardic | [cross-ref: diamer-nanga-parbat.org] |
+| Markhor | "Snake-eater" = antagonist to nag/klu | Mythological opposition | Karakoram/Indus | [cross-ref: diamer-nanga-parbat.org] |
+| Snow leopard | *Absent* — invisible to culture as to eye | Absence = invisibility | All high-altitude | [cross-ref: diamer-nanga-parbat.org] |
+| Brown bear | Yeti traditions (DNA-confirmed); btsan associations | Monster/giant narratives | Karakoram, Spiti, GHNP | [cross-ref + training-knowledge] |
+| Common leopard | Devta displeasure (attack as punishment) | Encounter-based fear | Kullu, Tirthan, Parvati | [training-knowledge] |
+| Nag/klu (serpent) | Nag devta / klu — water spirits | Core spirit category | Pan-Himalayan | [cross-ref: spirit-ecology-verified.org] |
+| Deodar | Ban devta, sacred groves, devdār | Sacred tree = grove protection | Monsoon valleys | [cross-ref: kullu-devta.yaml] |
+| Juniper | Bitan trance fuel, bsang offering, "food for Pari" | Ritual medium, axis mundi | Karakoram, Spiti, Lahaul | [cross-ref: diamer-nanga-parbat.org] |
+| Yak | Butter lamps, butter sculpture, pastoral-monastic economy | Economic-ritual integration | Spiti, Lahaul, Ladakh | [training-knowledge] |
+| Western tragopan | No documented spirit tradition | None known — too secretive | GHNP | [training-knowledge] |
+| Blue sheep (bharal) | Snow leopard prey; Buddhist non-harm ethic | Indirect — through predator | Spiti, upper Kinnaur | [training-knowledge] |
+
+** B.7 Open Questions for Verification
+
+1. *Kuhl-nag connection*: Specific ethnographic documentation of gur
+   pronouncements governing kuhl water allocation?
+2. *Spiti petroglyphs*: What animal motifs appear? Does the ibex appear?
+   Francke's /Antiquities of Indian Tibet/ (1914–1926).
+3. *Bear legends in Spiti/Lahaul*: Specific oral traditions about the
+   brown bear? The Tibetan dred-mo tradition locally?
+4. *Snow leopard names*: Local names in Kinnauri and Spitian?
+5. *Deodar grove inventory*: How many devta-protected groves survive?
+   Mapping against colonial logging records?
+6. *Markhor eastern limit*: Does the range extend into HP (Kinnaur)?
+7. *Bharal and Buddhist ethics in Spiti*: Specific teachings about the
+   blue sheep?
+
+* Part C: Shifting Baselines — What Has Changed in Living Memory
+
+#+begin_quote
+A baseline is a memory of how things used to be. When the memory dies,
+the diminished present becomes the new normal. Each generation inherits
+a poorer world and mistakes it for the whole.
+#+end_quote
+
+** C.1 Treeline Shifts
+
+*** The colonial extraction (1850–1947)
+
+The British conducted industrial-scale timber extraction, particularly
+targeting deodar. [training-knowledge]
+
+| Valley | Extraction History | Recovery Status |
+|--------+--------------------+-----------------|
+| Tirthan | Heavy logging pre-1947 | Partial. GHNP (1984) halted logging in upper catchment. Lower valley: secondary forest |
+| Parvati | Upper valley less accessible. Lower valley heavily logged | Upper: old-growth within Khirganga NP (2010). Lower: secondary forest |
+| Baspa | Substantial colonial + post-independence logging until 1980s green felling ban | Mixed. Supreme Court ban (1996) slowed loss. Old-growth remnants in /devban/ |
+| Spiti/Lahaul | Arid; limited timber. Juniper too slow-growing | Minimal colonial impact |
+| Sutlej | Rampur-Shimla section devastated for railway timber | Heavily degraded. Chir pine monoculture below 2000 m |
+
+*** The green felling ban (1996)
+
+The Supreme Court of India's interim order of 12 December 1996 banned
+green felling in all forests. The single most important conservation
+intervention in the Western Himalaya in the 20th century.
+[training-knowledge]
+
+*** Current treeline dynamics
+
+Three forces in tension [cross-ref: parbati-biodiversity.org]:
+
+1. *Climate warming* pushes potential treeline upward (~0.3°C/decade
+   above 2000 m since the 1970s) [training-knowledge, needs-verification]
+2. *Grazing pressure* suppresses actual treeline 200–400 m below its
+   climatic potential [cross-ref: parbati-biodiversity.org]
+3. *Fire* maintains chir pine at lower elevations at the expense of
+   broadleaf species [training-knowledge]
+
+Net effect: the treeline is moving upward, slowly and unevenly. Where
+GHNP has excluded grazing for 40 years, birch seedlings appear above the
+current treeline — a natural experiment.
+
+*** Invasive species at the lower boundary
+
+[cross-ref: parbati-biodiversity.org]
+
+- /Lantana camara/: spreading below 2000 m; projected to gain habitat
+  by 2070
+- /Ageratina adenophora/ ("Forest Killer"): native species decline
+  29–40% in invaded sites
+
+The "squeeze" on the forest: treeline advancing from above (slowly),
+invasives encroaching from below (faster). [training-knowledge]
+
+** C.2 Species Range Changes
+
+*** Himalayan brown bear
+
+IUCN Least Concern globally but Critically Endangered in India.
+Estimated 130–220 individuals across India/Pakistan combined. In HP:
+confirmed in GHNP upper catchments, Pin Valley NP. Very low numbers.
+Drivers: habitat loss, human-bear conflict, reduced connectivity.
+[cross-ref: parbati-biodiversity.org; training-knowledge]
+
+*** Snow leopard
+
+- India-wide: 718 individuals (SPAI 2024)
+  [cross-ref: parbati-biodiversity.org]
+- HP: 83 individuals (2025)
+- GHNP: 1 detection — marginal habitat
+- Spiti: core habitat, stable under protection
+- Pin Parvati corridor: potential but unconfirmed connectivity
+  [cross-ref: parbati-biodiversity.org]
+
+*** Western tragopan
+
+Global population: <5,000. GHNP holds the world's largest known
+population at 6.5 birds/km². Habitat: moist temperate forest 2400–3600 m
+with dense ringal bamboo. GHNP is arguably the species' most secure
+population globally. Within GHNP: stable to improving. Outside: declining.
+[cross-ref: parbati-biodiversity.org; training-knowledge]
+
+*** Musk deer
+
+Endangered (IUCN). Males carry musk pods worth more than gold by weight.
+Snaring remains the primary poaching method — indiscriminate. In
+GHNP: present, anti-poaching patrols have reduced but not eliminated
+snaring. [training-knowledge]
+
+*** Himalayan vulture populations — the diclofenac crash
+
+Three lowland /Gyps/ species suffered >97–99.9% decline from veterinary
+diclofenac (identified 2003–2004). The drug caused acute renal failure.
+India banned it for veterinary use in 2006. [training-knowledge]
+
+The *Himalayan griffon* was less severely affected — its high-altitude
+range and wild ungulate prey meant less exposure. The *lammergeier* was
+not affected (bone diet, not soft tissue). [cross-ref:
+diamer-nanga-parbat.org §§ F.2]
+
+Cascading effects: feral dog population explosion, estimated 48,000
+additional human rabies deaths, disruption of sky burial practice
+(Spiti/Lahaul Buddhist communities). [training-knowledge]
+
+** C.3 River Character Changes
+
+*** The hydropower cascade
+
+| Project | River | MW | Status | Impact |
+|---------+-------+----+--------+--------|
+| Parbati-II | Parvati | 800 | Operational 2025 | 83.7 m dam at Pulga; 31.56 km tunnel — longest in India |
+| Parbati-III | Parvati | 520 | Under construction | 43 m rock-fill dam at Siund |
+| Nathpa Jhakri | Sutlej | 1,500 | Operational 2004 | 60.5 m dam; 27.4 km tunnel |
+| Karcham Wangtoo | Sutlej | 1,000 | Operational 2012 | Kinnaur; Baspa-Sutlej confluence to Wangtoo |
+| Baspa-II | Baspa | 300 | Operational 2003 | Jaypee; Sangla valley |
+| Sainj HEP | Sainj | 100 | Operational | Small hydro on GHNP buffer river |
+| Larji HEP | Beas | 126 | Operational 2007 | Below Kullu |
+| Malana-I + II | Malana nalla | 186 | Operational | First private hydro in HP |
+| Allain Duhangan | Allain/Duhangan | 192 | Operational 2010 | Above Manali |
+
+[cross-ref: parbati-biodiversity.org; training-knowledge]
+
+"Run-of-river" disguises the actual impact: tunnels bypass kilometres of
+natural channel. Diversion reaches run at 10–15% of natural flow. No
+fish ladders at any major project. [training-knowledge]
+
+*** Glacial retreat
+
+| Glacier | River | Retreat rate | Notes |
+|---------+-------+--------------+-------|
+| Bara Shigri | Chandra (Lahaul) | ~30–40 m/yr; accelerating since 1990s | Largest in HP. Retreated ~2.8 km since 1906 |
+| Chhota Shigri | Chandra tributary | Consistently negative mass balance since 2002 | Benchmark glacier for Himalayan monitoring |
+| Parvati glacier | Parvati | Retreating; poorly documented | Accessible only on foot |
+| Baspa glacier | Baspa | Retreating | Less studied |
+
+[training-knowledge]
+
+Consequences are non-linear: short-term (increased meltwater),
+medium-term ("peak water" — declining volume can no longer compensate),
+long-term (severely reduced dry-season flow). [training-knowledge]
+
+*** Flash floods and GLOF risk
+
+| Event | Date | River | Cause |
+|-------+------+-------+-------|
+| Parvati flood | 1994 | Parvati | GLOF / debris flow. Devastated Manikaran |
+| Parechu breach | 2000 | Sutlej | Landslide-dammed lake in Tibet. Severe damage to NJHEP |
+| Sutlej flood | 2005 | Sutlej | Heavy rainfall + glacial component |
+| Beas flood | 2023 | Beas | >200 mm in 24 hours |
+
+GLOF risk increasing as glacial retreat creates proglacial lakes. The
+Sutlej is particularly vulnerable to transboundary GLOFs from Tibet.
+[training-knowledge]
+
+** C.4 Pastoral Migration Patterns
+
+*** Gaddi transhumance
+
+The Gaddis — semi-nomadic pastoralists based in Kangra, Chamba,
+Dhauladhar foothills — conduct one of the great Himalayan migrations:
+spring departure from lowlands (~800–1500 m), summer on alpine pastures
+(3500–4500 m), autumn return before snow closes passes.
+[training-knowledge]
+
+| Aspect | Traditional (pre-1980s) | Current (2020s) | Driver |
+|--------+------------------------+-----------------+--------|
+| Flock size | 200–500+ sheep | Declining; 50–200 | Wool prices crashed with synthetics |
+| Route availability | All passes open | GHNP restrictions since 1984 | Conservation policy |
+| Timing | Consistent traditional dates | Shifting 1–3 weeks earlier | Earlier snowmelt |
+| Younger generation | Sons followed fathers | Many pursuing education, tourism, government | Economic modernisation |
+| Wool economy | Primary product; Kullu shawl industry | Kullu shawls now use Australian merino | Globalisation |
+
+*** GHNP and pastoral conflict
+
+GHNP (1984) displaced Gaddi grazing from traditional summer pastures
+in upper Tirthan and Sainj. The irony: Gaddi grazing /maintains/ the
+alpine meadows. Without it, meadows would transition to shrubland and
+eventually forest. The "pristine" meadows are cultural landscapes.
+[training-knowledge]
+
+*** Kinnauri transhumance
+
+Agro-pastoral, village-based. The apple economy has transformed
+Kinnaur since the 1980s — far more profitable than pastoralism. Apple
+cultivation is moving upward as lower elevations warm. [training-knowledge]
+
+*** Spiti/Lahaul
+
+Yak numbers declining as young people leave. The Atal Tunnel (2020) —
+9.02 km under Rohtang, year-round access to Lahaul for the first
+time — has accelerated cultural change. The traditional seasonal
+rhythm (isolated winter, busy summer) is dissolving. [training-knowledge]
+
+** C.5 The Broken Links
+
+*** Vulture crash → carcass disposal → nutrient cycling
+
+In Spiti/Lahaul (Buddhist): sky burial depends on griffons. Where
+vultures are unavailable, bodies must be cremated (requiring scarce
+firewood at altitude). In Hindu communities: carcasses persist, feeding
+feral dogs. [training-knowledge]
+
+*** Dams → blocked fish migration → river spirit traditions
+
+Dam blocks upstream fish migration → snow trout cannot reach spawning
+grounds → fish populations decline → river character changes → nag
+devta presides over a diminished river. Some communities have resisted
+hydropower on explicitly spiritual grounds — the dam insults the nag
+devta. [training-knowledge; cross-ref: parbati-biodiversity.org]
+
+*** Roads → fragmented corridors
+
+| Road | Valley | Impact |
+|------+--------+--------|
+| NH-3 widening | Kullu/Beas | Continuous disturbance; fragments GHNP from western habitats |
+| Parvati road (to Pulga) | Parvati | Built for Parbati-II. Opened roadless upper valley to traffic, tourism |
+| Baspa road (to Chitkul) | Baspa | Opens Sangla valley. "Last village" now receives thousands of visitors |
+| NH-5 / Hindustan-Tibet Highway | Sutlej | Chronic landslide zone. Widening for dam vehicles destabilises slopes |
+| Atal Tunnel approach | Rohtang/Lahaul | Year-round access. Massive traffic increase |
+
+*** Tourism pressure → waste, noise, displacement
+
+| Location | Change | Consequence |
+|----------+--------+-------------|
+| Kasol | From obscure village to "Amsterdam of India" | Waste crisis. No sewage treatment. Garbage in Parvati river |
+| Kheerganga | Hot springs became camping destination | HP High Court banned camping 2024, calling it a "landfill" |
+| Chitkul | "Last village on Indo-Tibet border" tourist draw | Increasing traffic, waste, water pressure |
+| Spiti (Kaza, Langza) | Post-Atal Tunnel tourism boom | Unprepared infrastructure. Waste decomposes extremely slowly at altitude |
+
+*** The compounding effect
+
+These links do not operate in isolation. Dams reduce flow /and/ block
+fish /and/ generate traffic /and/ require roads that fragment habitat
+/and/ those roads bring tourism /and/ tourism brings waste. Climate
+warming advances treeline /and/ melts glaciers /and/ shifts species
+ranges /and/ increases GLOF risk /and/ pushes apples uphill /and/
+displaces pastoralists. Each individual impact might be survivable. The
+compounding threatens the web.
+
+** C.6 What Has Not Changed — Persistence and Resilience
+
+Not all is loss:
+
+- *GHNP works*. Forty years of protection have demonstrably improved
+  habitat. Tragopan density is high. Treeline regeneration visible.
+- *The devta tradition persists*. Nag devtas still worshipped. The gur
+  still channels the devta's voice. Whatever the river's diminished
+  physical state, its spiritual identity endures.
+- *Gaddi migration continues*. Reduced, pressured, economically
+  marginal — but the flocks still cross the Dhauladhar each spring.
+- *Lammergeier persists*. Unaffected by diclofenac, the bearded vulture
+  continues to soar and drop bones.
+  [cross-ref: diamer-nanga-parbat.org §§ F.2]
+- *The monsoon still arrives*. Timing and intensity shifting, but the
+  mechanism persists. The rain-shadow boundary still shapes every
+  ecological gradient.
+
+** C.7 Data Gaps and Priorities
+
+| Topic | Known | Missing | Priority |
+|-------+-------+---------+----------|
+| Treeline dynamics | Direction (upward) | Rates by region; Landsat time-series 1984–present | High |
+| Brown bear in GHNP | Presence confirmed | Population estimate; connectivity to Pin Valley | High |
+| Snow leopard corridors | 718 India-wide | Whether Pin Parvati Pass is functionally used | Medium |
+| Tragopan trend | 6.5/km² in GHNP | Time-series within GHNP; population outside | High |
+| Himalayan griffon | Present, appears stable | Systematic nesting site counts | High |
+| Hydropower environmental flows | Legally mandated | Actual compliance; monitoring data | High |
+| Glacial retreat | Well-documented (Bara Shigri, Chhota Shigri) | Parvati, Baspa glaciers poorly documented | Medium |
+| Gaddi migration | General routes known | GPS-tracked paths; flock census; timing shifts | High |
+| Tourism numbers | "Massive increase" | Actual visitor counts by location by year | High |
+| Invasive species front | /Lantana/, /Ageratina/ expanding | Mapped invasion front by year | High |
+
+* Part D: Cross-Reference with Diamer Surveys
+
+The Diamer/Nanga Parbat surveys (WP-0012, WP-0013) documented the
+ecological chain for the Karakoram. This survey documents the same chain
+for the monsoon valleys. The contrast between them is itself an
+ecological relationship — the monsoon divide creates two worlds from the
+same tectonic material.
+
+** D.1 Parallel Chains
+
+| Link in chain | Monsoon valleys | Karakoram (Diamer) |
+|---------------+-----------------+--------------------|
+| Tectonic context | MCT/HHC/STDS — orderly stack | Western Syntaxis — tectonic aneurysm, 7 mm/yr uplift |
+| Precipitation | 1000–1500 mm | 200–300 mm |
+| Dominant tree | Deodar cedar (monsoon-requiring) | Juniper (drought-tolerant) |
+| Forest character | Dense, multi-storey cathedral | Sparse, open, drought-stressed |
+| Primary herbivore | Himalayan tahr (endemic, cliff-dwelling) | Ibex, markhor (Palaearctic, crag-dwelling) |
+| Apex predator | Common leopard (mid-elevation); snow leopard (rare, peripheral) | Snow leopard (core habitat) |
+| Scavenger chain | Griffon → lammergeier | Griffon → lammergeier (identical) |
+| Sacred tree | Deodar (passive grove protection) | Juniper (active smoke ritual) |
+| Water spirit | Nag devta (Hindu) | — (Dardic: peri, bitan) |
+| Spirit economy | Devta system (gur as oracle) | Bitan-peri system (shaman as medium) |
+| Petroglyph tradition | Absent | 30,000+ carvings; ibex dominant |
+| Pastoral economy | Gaddi transhumance (sheep to bugiyāl) | Agro-pastoral (ibex/markhor as wild complement) |
+| Contemporary threat | Hydropower + tourism + climate | Dam construction (Diamer-Basha) + KKH fragmentation |
+
+** D.2 What the Contrast Reveals
+
+The single variable that explains the ecological divergence is
+precipitation. But the chains are not merely different — they are
+/complementary/. The monsoon valleys and the Karakoram are two
+expressions of the same Himalayan system:
+
+- The *tahr* of the monsoon valleys and the *ibex* of the Karakoram
+  occupy the same ecological niche (large cliff-dwelling herbivore)
+  in different precipitation regimes
+- The *deodar grove* and the *juniper smoke* serve the same spiritual
+  function (connecting humans to the sacred through trees) with
+  different mechanisms (passive preservation vs active consumption)
+- The *nag devta* and the *klu* are the same water spirit in different
+  languages and urgency levels
+- The *Gaddi* and the *Karakoram pastoral* economies are both
+  transhumant adaptations to altitude gradients, with the monsoon
+  determining whether the gradient is forest-to-meadow or
+  steppe-to-rock
+
+The monsoon divide does not separate two unrelated worlds — it refracts
+a single system into two spectra.
+
+* Sources and Verification Needs
+
+** Existing Project Sources (Verified)
+
+These sources are pre-verified through earlier surveys:
+
+- =parbati-biodiversity.org= — Parvati Valley biodiversity and data
+  sources. Referenced extensively for GHNP data, altitude zonation,
+  species populations. [cross-ref]
+- =diamer-nanga-parbat.org= — Diamer/Nanga Parbat regional survey.
+  50+ sources with URLs. Referenced for Karakoram contrast, raptor
+  ecology, ibex cult, spirit traditions. [cross-ref]
+- =diamer-deep-time.org= — Deep time survey. 32 sources. Referenced
+  for Tethyan geology. [cross-ref]
+- =spirit-ecology-verified.org= — Verified spirit ecology resurvey.
+  All claims web-verified 2026-03-05. Referenced for devta system, nag
+  devtas, gur institution. [cross-ref]
+- =spirit-ecology.org= — Original spirit ecology survey. Referenced
+  for broader taxonomy, Kinnaur, Spiti sections. [cross-ref]
+
+** Web-Verified Sources
+
+Sources verified with URLs on 2026-03-07.
+
+*** Geology and Geomorphology
+
+1. Bookhagen, B. & Burbank, D.W. (2006), "Topography, relief, and
+   TRMM-derived rainfall variations along the Himalaya," /GRL/, 33,
+   L08405. doi:10.1029/2006GL026037
+   https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2006GL026037
+2. Bookhagen, B. & Burbank, D.W. (2010), "Toward a complete Himalayan
+   hydrological budget," /JGR/, 115, F03019. doi:10.1029/2009JF001426
+   https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009jf001426
+3. Thiede, R.C. et al. (2004), "Climatic control on rapid exhumation
+   along the Southern Himalayan Front," /EPSL/, 222(3–4), 791–806.
+   doi:10.1016/j.epsl.2004.03.015 [title corrected from training-knowledge draft]
+4. Vannay, J.C. & Grasemann, B. (2001), "Himalayan inverted metamorphism
+   and syn-convergence extension as a consequence of a general shear
+   extrusion," /Geological Magazine/, 138, 253–276.
+   https://www.cambridge.org/core/journals/geological-magazine/article/abs/himalayan-inverted-metamorphism-and-synconvergence-extension-as-a-consequence-of-a-general-shear-extrusion/5A4FEDBEE52D108229A70990F77547E6
+
+*** Ecology and Conservation
+
+5. Champion, H.G. & Seth, S.K. (1968), /A Revised Survey of Forest
+   Types of India/. Manager of Publications, Government of India.
+   https://archive.org/details/revisedsurveyoff0000sirh
+6. Ali, S. & Ripley, S.D. (1983), /Compact Handbook of the Birds of
+   India and Pakistan/. Oxford University Press.
+   https://en.wikipedia.org/wiki/Handbook_of_the_Birds_of_India_and_Pakistan
+7. Naoroji, R. (2006), /Birds of Prey of the Indian Subcontinent/.
+   Om Books International. 704 pp.
+   https://books.google.com/books/about/Birds_of_Prey_of_the_Indian_Subcontinent.html?id=zerTGwAACAAJ
+8. Prakash, V. et al. (2003), "Catastrophic collapse of Indian
+   white-backed /Gyps bengalensis/ and long-billed /Gyps indicus/
+   vulture populations," /Biological Conservation/, 109, 381–390.
+   https://www.sciencedirect.com/science/article/abs/pii/S0006320702001647
+9. Grumbine, R.E. & Pandit, M.K. (2013), "Threats from India's
+   Himalaya dams," /Science/, 339, 36–37. doi:10.1126/science.1227211
+   https://www.science.org/doi/10.1126/science.1227211
+
+*** Ethnography and Cultural History
+
+10. Jettmar, K. (1975), /Die Religionen des Hindukusch/.
+    https://archive.org/details/diereligionendes0000jett
+11. Baker, J.M. (2005), /The Kuhls of Kangra: Community-Managed
+    Irrigation in the Western Himalaya/. University of Washington Press.
+    https://uwapress.uw.edu/book/9780295987644/the-kuhls-of-kangra/
+12. Francke, A.H. (1914–1926), /Antiquities of Indian Tibet/, 2 vols.
+    [no stable URL found — available via AbeBooks and institutional libraries]
+13. IGNCA, "Valley of Gods" (Kullu devta documentation).
+    [URL pending — web search limit reached]
+
+*** Data Sources
+
+14. Snow Leopard Population Assessment in India (SPAI), 2024.
+    Wildlife Institute of India. 718 individuals estimated nationally,
+    51 in Himachal Pradesh.
+    https://wii.gov.in/images/images/documents/publications/SPAI_report_2024.pdf
+15. GHNP Management Plan (HP Forest Department).
+    https://greathimalayannationalpark.com/wp-content/uploads/2015/01/The-Management-Plan.pdf
+16. GHNP UNESCO World Heritage listing.
+    https://whc.unesco.org/en/list/1406/
+17. Forest Survey of India, /State of Forest Reports/.
+    https://fsi.nic.in/ [URL pending verification for specific report]
+18. SANDRP (South Asia Network on Dams, Rivers & People).
+    https://sandrp.in/
+
+** Fieldwork Gaps
+
+These cannot be resolved by web search alone:
+
+1. Pahari, Kinnauri, and Spitian names for lammergeier, griffon, golden
+   eagle
+2. Local oral traditions linking raptors to Jatayu/Garuda
+3. Bear legends in Spiti/Lahaul
+4. Kuhl-nag relationship — gur pronouncements on water allocation
+5. Spiti petroglyph animal motifs
+6. Devta grove inventory and mapping
+7. Snow leopard use of Pin Parvati corridor
