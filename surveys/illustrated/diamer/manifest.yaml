@@ -1,0 +1,275 @@
+# Illustration Manifest: Diamer and the Nanga Parbat Massif
+# Source surveys:
+#   - diamer-nanga-parbat.org (2585 lines, sections A-K)
+#   - diamer-deep-time.org (962 lines, section A deep time)
+
+survey: diamer-nanga-parbat
+companion: diamer-deep-time
+slug: diamer
+date: 2026-03-07
+
+# ── Palette ─────────────────────────────────────────────────────────
+palette:
+  # Base (shared with stories)
+  parchment: "#F5F0E8"
+  parchment_dk: "#EDE6D8"
+  ink: "#5C4A3A"
+  ink_light: "#8B7B6B"
+  ink_faint: "#C4B8A8"
+  walnut: "#4A3728"
+  walnut_light: "#6B5040"
+
+  # Geological
+  gneiss: "#7A7068"
+  gneiss_dark: "#5A5048"
+  leucogranite: "#D4A0A0"
+  kohistan_arc: "#3A5A3A"
+  indus_blue: "#5A7888"
+  indus_dark: "#3A5868"
+  thermal: "#C85828"
+  thermal_glow: "#E88848"
+
+  # Ecological
+  juniper: "#2A4A2A"
+  birch_gold: "#C8B060"
+  ibex_horn: "#B08830"
+  snow_leopard: "#9A9490"
+  apricot_blossom: "#E8A0A0"
+  meadow_green: "#6A8A4A"
+
+  # Petroglyph
+  rock_face: "#B8A888"
+  carved_line: "#3A2A1A"
+  patina: "#6A8A68"
+
+  # Sky / snow / water
+  sky: "#D8C8B0"
+  snow: "#E8EEF0"
+  glacier_blue: "#8AB0C8"
+  glacier_dark: "#5A8098"
+
+# ── Illustrations ───────────────────────────────────────────────────
+illustrations:
+
+  # ═══ DEEP TIME (from diamer-deep-time.org) ═══
+
+  - id: deep-time-timeline
+    section: A (companion)
+    type: timeline
+    title: "Deep Time at Nanga Parbat"
+    subtitle: "250 Ma to present — log scale"
+    elements:
+      - "Tethys Sea (250-50 Ma): marine fossils, ammonites, nummulites"
+      - "India drifts north (130-50 Ma): 15-20 cm/yr, Deccan Traps at 66 Ma"
+      - "Collision begins (~55 Ma): Kohistan arc trapped"
+      - "Himalayan orogeny (50-5 Ma): proto-Indus, monsoon develops"
+      - "Siwalik megafauna (18-1 Ma): Stegodon, Sivatherium, Gigantopithecus"
+      - "Decompression pulse (~1 Ma): ultrafast exhumation 9-13 mm/yr"
+      - "Pleistocene glaciation (2.6 Ma-12 ka): LGM ice streams"
+      - "First petroglyphs (~10,000 BP): Thalpan, Chilas"
+    modes: [inline, atlas, interactive]
+
+  - id: tectonic-aneurysm
+    section: A.1
+    type: cross-section
+    title: "The Tectonic Aneurysm"
+    subtitle: "Erosion drives uplift drives erosion"
+    elements:
+      - "Indian plate gneiss (core) punching through Kohistan arc (shell)"
+      - "Two suture zones bounding Kohistan"
+      - "Feedback arrows: erosion -> steepened geotherms -> weakened crust -> uplift"
+      - "Depth scale: 10 km exhumed in 10 Ma"
+      - "Decompression melting zone at depth"
+      - "Indus river cutting from above"
+    modes: [inline, atlas, interactive]
+
+  - id: india-drift
+    section: A.1 (companion)
+    type: map-schematic
+    title: "India's Northward Drift"
+    subtitle: "180 Ma to 50 Ma — from Gondwana to collision"
+    elements:
+      - "Four positions of India: 180 Ma, 90 Ma, 66 Ma (Deccan), 50 Ma (collision)"
+      - "Tethys Sea between positions"
+      - "Drift speed annotation: 15-20 cm/yr (anomalously fast)"
+      - "Kohistan arc in ocean before capture"
+    modes: [atlas, interactive]
+
+  - id: indus-gorge-profile
+    section: A.2
+    type: elevation-profile
+    title: "The Indus Gorge"
+    subtitle: "4,500-5,200m from river to peak — the deepest gorge"
+    elements:
+      - "River at ~1,000m elevation"
+      - "Nanga Parbat summit at 8,126m"
+      - "Rakaposhi across the valley"
+      - "Incision rate annotations: 2-12 mm/yr"
+      - "Hot springs at river level (Tato, Tattapani)"
+    modes: [inline, atlas, interactive]
+
+  # ═══ SPECIES PLATES (from section F) ═══
+
+  - id: ibex-plate
+    section: F.1
+    type: species-plate
+    title: "Himalayan Ibex"
+    subtitle: "The most sacred animal — carved 10,000 years"
+    elements:
+      - "Ibex silhouette (petroglyph style, not photorealistic)"
+      - "Horn detail: curved scimitar, 100+ cm"
+      - "Habitat annotation: above treeline, 3,500-5,500m"
+      - "Petroglyph reproduction: ibex motif from Thalpan"
+      - "Cultural note: horns placed on graves, ibex cult"
+    modes: [inline, atlas, story]
+
+  - id: markhor-plate
+    section: F.1
+    type: species-plate
+    title: "Markhor — The Snake-Eater"
+    subtitle: "Pakistan's national animal — spiral horns, nag connection"
+    elements:
+      - "Markhor silhouette with distinctive spiral horns"
+      - "Horn detail: corkscrew spiral, up to 160 cm"
+      - "Etymology annotation: mar (snake) + khor (eater)"
+      - "Connection to nag/klu tradition"
+    modes: [atlas, story]
+
+  - id: snow-leopard-plate
+    section: F.1
+    type: species-plate
+    title: "Snow Leopard — Ghost of the Mountain"
+    subtitle: "Present but never carved"
+    elements:
+      - "Leopard silhouette (petroglyph negative — outline, not filled)"
+      - "Range annotation: 3,000-5,500m"
+      - "Note: absent from petroglyphs despite sharing ibex habitat"
+    modes: [atlas, story]
+
+  - id: lammergeier-plate
+    section: F.2
+    type: species-plate
+    title: "Bearded Vulture"
+    subtitle: "Bone-eater, 3m wingspan, Homa of Persian mythology"
+    elements:
+      - "Silhouette in flight (petroglyph style)"
+      - "Wingspan annotation: 2.3-2.8m"
+      - "Behaviour: drops bones from height to crack them"
+      - "Cosmetic mud-bathing (iron oxide staining)"
+    modes: [atlas, story]
+
+  # ═══ PETROGLYPHS (from section H) ═══
+
+  - id: petroglyph-sites
+    section: H.1
+    type: map-schematic
+    title: "Petroglyph Sites Along the Indus"
+    subtitle: "9 major sites — 30,000 carvings, 10 writing systems"
+    elements:
+      - "Indus river course through Diamer"
+      - "9 sites marked: Thalpan, Chilas 1-6, Oshibat, Shatial Bridge, Dadam Das, Hodar, Gichi Nala, Shatial Das, Minar Gah"
+      - "Density annotation at each site"
+      - "Dam threat zone"
+    modes: [inline, atlas, interactive]
+
+  - id: petroglyph-chronology
+    section: H.1
+    type: timeline
+    title: "Petroglyph Chronology"
+    subtitle: "Five phases — prehistoric to Islamic"
+    elements:
+      - "Phase 1: Prehistoric (pre-1000 BCE) — animal motifs, hunting"
+      - "Phase 2: Early Historic (~1000 BCE-0) — Okunev maskoid figures"
+      - "Phase 3: Buddhist (1st-8th c CE) — stupas, Jatakas, inscriptions"
+      - "Phase 4: Hindu-Buddhist overlap (8th-12th c)"
+      - "Phase 5: Islamic (12th c onward) — Arabic inscriptions"
+      - "Writing systems timeline: Kharoshthi, Brahmi, Sogdian, Chinese, Tibetan"
+    modes: [inline, atlas, interactive]
+
+  - id: motif-catalogue
+    section: H.1
+    type: motif-catalogue
+    title: "Petroglyph Motifs of Thalpan"
+    subtitle: "The rock as palimpsest — 10,000 years of carving"
+    elements:
+      - "Ibex motif (most frequent) — stylised horn curves"
+      - "Hunting scene — archer + ibex"
+      - "Buddhist stupa — architectural rendering"
+      - "Maskoid/Okunev face — Siberian connection"
+      - "Trident/linga — Hindu overlay"
+      - "Inscriptions: Kharoshthi, Brahmi samples"
+    modes: [inline, atlas, story]
+
+  # ═══ LANDSCAPE (from sections A, C) ═══
+
+  - id: nanga-parbat-faces
+    section: A.3
+    type: elevation-profile
+    title: "The Three Faces of Nanga Parbat"
+    subtitle: "Rupal (south), Diamir (west), Rakhiot (north)"
+    elements:
+      - "Three profile views from different angles"
+      - "Rupal Face: 4,600m vertical — largest rock face on Earth"
+      - "Diamir Face: the 'naked mountain' as seen by early explorers"
+      - "Rakhiot Face: 1895 and 1953 expedition routes"
+      - "Glacier positions on each face"
+    modes: [atlas, interactive]
+
+  - id: glacier-marriage
+    section: B.3
+    type: process-diagram
+    title: "Glacier Marriage"
+    subtitle: "Male + female glacier = offspring in 12 years"
+    elements:
+      - "Male glacier (dark, debris-covered, angular)"
+      - "Female glacier (white, clean, smooth)"
+      - "Willow basket carried between them"
+      - "12-year gestation timeline"
+      - "80% success rate annotation"
+    modes: [inline, atlas, story]
+
+  - id: flora-elevation
+    section: F.3
+    type: elevation-profile
+    title: "What Grows Without Monsoon"
+    subtitle: "Vegetation zones from valley floor to summit"
+    elements:
+      - "Valley floor (~1,000-2,000m): apricot, cherry, mulberry orchards"
+      - "Montane (2,000-3,000m): juniper woodland, birch forest"
+      - "Subalpine (3,000-3,800m): juniper scrub, rhododendron"
+      - "Alpine meadow/jut (3,800-4,500m): the peri's domain — flowers in bloom"
+      - "Nival zone (>4,500m): rock, ice, snow"
+      - "Treeline annotation: 3,500-3,800m (juniper)"
+    modes: [inline, atlas, interactive]
+
+  # ═══ CONTRAST / PROCESS ═══
+
+  - id: writing-systems
+    section: H.1
+    type: writing-specimens
+    title: "Ten Writing Systems on One River"
+    subtitle: "Linguistic diversity as trade route evidence"
+    elements:
+      - "Kharoshthi (3rd c BCE - 3rd c CE)"
+      - "Brahmi (2nd-6th c CE)"
+      - "Sogdian (Silk Road traders)"
+      - "Middle Persian (Sasanian)"
+      - "Chinese (Tang dynasty pilgrims)"
+      - "Tibetan (8th c onward)"
+      - "Proto-Sarada, Gupta"
+      - "Hebrew/Aramaic (attribution uncertain)"
+    modes: [atlas, interactive]
+
+  - id: bitan-trance
+    section: B.2
+    type: process-diagram
+    title: "The Bitan's Trance"
+    subtitle: "Juniper smoke, surnai, peri descent"
+    elements:
+      - "Juniper fire (sacred smoke)"
+      - "Surnai/gabi player (40+ minutes continuous)"
+      - "Bitan in trance — peri speaking through"
+      - "Iron bangle (kau) — binds and wards simultaneously"
+      - "Five specialist categories around the circle"
+      - "Language switch: peri speak Shina regardless of bitan's mother tongue"
+    modes: [atlas, story]

@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diamer Visual Atlas — Illustrated Survey</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: Georgia, 'Times New Roman', 'Noto Serif', serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #5C4A3A;
+  background: #F5F0E8;
+  max-width: 72em;
+  margin: 0 auto;
+  padding: 2em 2em 4em;
+}
+
+a { color: #3A5868; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ── Header ──────────────────────────────────────── */
+header {
+  text-align: center;
+  border-bottom: 2px solid #C4B8A8;
+  padding-bottom: 2em;
+  margin-bottom: 2.5em;
+}
+
+h1 {
+  font-size: 2.4em;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #4A3728;
+  margin-bottom: 0.2em;
+}
+
+.subtitle {
+  font-size: 1.15em;
+  font-style: italic;
+  color: #8B7B6B;
+  margin-bottom: 1.2em;
+}
+
+.epigraph {
+  max-width: 38em;
+  margin: 0 auto;
+  font-style: italic;
+  color: #8B7B6B;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+.epigraph .attr {
+  font-style: normal;
+  color: #C4B8A8;
+  margin-top: 0.3em;
+}
+
+/* ── Navigation ──────────────────────────────────── */
+nav.toc {
+  display: flex;
+  justify-content: center;
+  gap: 1.8em;
+  flex-wrap: wrap;
+  margin-bottom: 2.5em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #C4B8A8;
+}
+
+nav.toc a {
+  color: #8B7B6B;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+  font-size: 0.75em;
+  padding: 0.3em 0.6em;
+  border-radius: 3px;
+  transition: all 0.2s;
+}
+
+nav.toc a:hover {
+  color: #4A3728;
+  background: #EDE6D8;
+  text-decoration: none;
+}
+
+/* ── Sections ────────────────────────────────────── */
+section {
+  margin-bottom: 3.5em;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #4A3728;
+  border-bottom: 1px solid #C4B8A8;
+  padding-bottom: 0.3em;
+  margin-bottom: 1.2em;
+}
+
+h2 .section-icon {
+  margin-right: 0.4em;
+  opacity: 0.6;
+}
+
+/* ── Card Grid ───────────────────────────────────── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.8em;
+}
+
+.card {
+  background: #FDFAF5;
+  border: 1px solid #C4B8A8;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: box-shadow 0.2s, transform 0.15s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 16px rgba(74, 55, 40, 0.12);
+  transform: translateY(-2px);
+}
+
+.card img {
+  width: 100%;
+  display: block;
+  border-bottom: 1px solid #C4B8A8;
+  cursor: pointer;
+}
+
+.card-body {
+  padding: 1em 1.2em 1.2em;
+}
+
+.card-body h3 {
+  font-size: 1.05em;
+  color: #4A3728;
+  margin-bottom: 0.15em;
+  line-height: 1.3;
+}
+
+.card-body .card-subtitle {
+  font-size: 0.85em;
+  font-style: italic;
+  color: #8B7B6B;
+  margin-bottom: 0.6em;
+}
+
+.card-body .card-section {
+  font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+  font-size: 0.72em;
+  color: #C4B8A8;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.card-body .card-type {
+  display: inline-block;
+  font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+  font-size: 0.68em;
+  color: #8B7B6B;
+  background: #EDE6D8;
+  padding: 0.15em 0.5em;
+  border-radius: 3px;
+  margin-left: 0.5em;
+}
+
+/* ── Lightbox ────────────────────────────────────── */
+.lightbox {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(74, 55, 40, 0.88);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.lightbox.active {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 92vw;
+  max-height: 92vh;
+  border-radius: 4px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.4);
+}
+
+/* ── Footer ──────────────────────────────────────── */
+footer {
+  text-align: center;
+  color: #C4B8A8;
+  font-size: 0.82em;
+  border-top: 1px solid #C4B8A8;
+  padding-top: 1.5em;
+  margin-top: 3em;
+}
+
+footer a { color: #8B7B6B; }
+
+/* ── Responsive ──────────────────────────────────── */
+@media (max-width: 600px) {
+  body { padding: 1em; font-size: 15px; }
+  h1 { font-size: 1.8em; }
+  .card-grid { grid-template-columns: 1fr; }
+  nav.toc { gap: 0.8em; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Diamer Visual Atlas</h1>
+  <p class="subtitle">Illustrated survey of the Nanga Parbat massif and the Indus gorge</p>
+  <p class="epigraph">
+    From Tethys seafloor to the highest rock face on Earth &mdash;
+    250 million years compressed into sixteen diagrams.<br>
+    <span class="attr">MāyāLucIA / Epistem, March 2026</span>
+  </p>
+</header>
+
+<nav class="toc">
+  <a href="#deep-time">Deep Time</a>
+  <a href="#landscape">Landscape</a>
+  <a href="#species">Species</a>
+  <a href="#petroglyphs">Petroglyphs</a>
+  <a href="#culture">Culture</a>
+</nav>
+
+<!-- ════════════════════════════════════════════════ -->
+<section id="deep-time">
+  <h2><span class="section-icon">&#9650;</span>Deep Time</h2>
+  <div class="card-grid">
+
+    <div class="card">
+      <img src="images/deep-time-timeline.png" alt="Deep time timeline" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Deep Time at Nanga Parbat</h3>
+        <p class="card-subtitle">250 Ma to present &mdash; log scale</p>
+        <span class="card-section">Section A</span>
+        <span class="card-type">timeline</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/india-drift.png" alt="India's northward drift" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>India's Northward Drift</h3>
+        <p class="card-subtitle">180 Ma to 50 Ma &mdash; from Gondwana to collision</p>
+        <span class="card-section">Section A.1</span>
+        <span class="card-type">map-schematic</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/tectonic-aneurysm.png" alt="Tectonic aneurysm cross-section" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>The Tectonic Aneurysm</h3>
+        <p class="card-subtitle">Erosion drives uplift drives erosion</p>
+        <span class="card-section">Section A.1</span>
+        <span class="card-type">cross-section</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/indus-gorge-profile.png" alt="Indus gorge elevation profile" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>The Indus Gorge</h3>
+        <p class="card-subtitle">4,500&ndash;5,200m from river to peak &mdash; the deepest gorge</p>
+        <span class="card-section">Section A.2</span>
+        <span class="card-type">elevation-profile</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════ -->
+<section id="landscape">
+  <h2><span class="section-icon">&#9651;</span>Landscape</h2>
+  <div class="card-grid">
+
+    <div class="card">
+      <img src="images/nanga-parbat-faces.png" alt="Three faces of Nanga Parbat" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>The Three Faces of Nanga Parbat</h3>
+        <p class="card-subtitle">Rupal (south), Diamir (west), Rakhiot (north)</p>
+        <span class="card-section">Section A.3</span>
+        <span class="card-type">elevation-profile</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/glacier-marriage.png" alt="Glacier marriage process diagram" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Glacier Marriage</h3>
+        <p class="card-subtitle">Male + female glacier = offspring in 12 years</p>
+        <span class="card-section">Section B.3</span>
+        <span class="card-type">process-diagram</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/flora-elevation.png" alt="Flora elevation zones" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>What Grows Without Monsoon</h3>
+        <p class="card-subtitle">Vegetation zones from valley floor to summit</p>
+        <span class="card-section">Section F.3</span>
+        <span class="card-type">elevation-profile</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════ -->
+<section id="species">
+  <h2><span class="section-icon">&#9670;</span>Species Plates</h2>
+  <div class="card-grid">
+
+    <div class="card">
+      <img src="images/ibex-species-plate.png" alt="Himalayan ibex species plate" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Himalayan Ibex</h3>
+        <p class="card-subtitle">The most sacred animal &mdash; carved 10,000 years</p>
+        <span class="card-section">Section F.1</span>
+        <span class="card-type">species-plate</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/markhor-plate.png" alt="Markhor species plate" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Markhor &mdash; The Snake-Eater</h3>
+        <p class="card-subtitle">Pakistan's national animal &mdash; spiral horns, nāg connection</p>
+        <span class="card-section">Section F.1</span>
+        <span class="card-type">species-plate</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/snow-leopard-plate.png" alt="Snow leopard species plate" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Snow Leopard &mdash; Ghost of the Mountain</h3>
+        <p class="card-subtitle">Present but never carved</p>
+        <span class="card-section">Section F.1</span>
+        <span class="card-type">species-plate</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/lammergeier-plate.png" alt="Bearded vulture species plate" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Bearded Vulture</h3>
+        <p class="card-subtitle">Bone-eater, 3m wingspan, Homa of Persian mythology</p>
+        <span class="card-section">Section F.2</span>
+        <span class="card-type">species-plate</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════ -->
+<section id="petroglyphs">
+  <h2><span class="section-icon">&#9674;</span>Petroglyphs</h2>
+  <div class="card-grid">
+
+    <div class="card">
+      <img src="images/petroglyph-sites.png" alt="Petroglyph sites along the Indus" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Petroglyph Sites Along the Indus</h3>
+        <p class="card-subtitle">9 major sites &mdash; 30,000 carvings, 10 writing systems</p>
+        <span class="card-section">Section H.1</span>
+        <span class="card-type">map-schematic</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/petroglyph-chronology.png" alt="Petroglyph chronology" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Petroglyph Chronology</h3>
+        <p class="card-subtitle">Five phases &mdash; prehistoric to Islamic</p>
+        <span class="card-section">Section H.1</span>
+        <span class="card-type">timeline</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/motif-catalogue.png" alt="Petroglyph motif catalogue" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Petroglyph Motifs of Thalpan</h3>
+        <p class="card-subtitle">The rock as palimpsest &mdash; 10,000 years of carving</p>
+        <span class="card-section">Section H.1</span>
+        <span class="card-type">motif-catalogue</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════ -->
+<section id="culture">
+  <h2><span class="section-icon">&#9702;</span>Culture &amp; Language</h2>
+  <div class="card-grid">
+
+    <div class="card">
+      <img src="images/writing-systems.png" alt="Ten writing systems" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>Ten Writing Systems on One River</h3>
+        <p class="card-subtitle">Linguistic diversity as trade route evidence</p>
+        <span class="card-section">Section H.1</span>
+        <span class="card-type">writing-specimens</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <img src="images/bitan-trance.png" alt="The bitan's trance" onclick="openLightbox(this)">
+      <div class="card-body">
+        <h3>The Bitan's Trance</h3>
+        <p class="card-subtitle">Juniper smoke, surnai, peri descent</p>
+        <span class="card-section">Section B.2</span>
+        <span class="card-type">process-diagram</span>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════ -->
+<footer>
+  <p>
+    Diamer Visual Atlas &mdash; part of the
+    <a href="https://github.com/mayalucia">MāyāLucIA</a> illustrated survey series<br>
+    Generated from survey data by matplotlib &middot; Parchment &amp; walnut ink aesthetic<br>
+    Source: <em>Diamer and the Nanga Parbat Massif</em> (Epistem, 2026)
+  </p>
+</footer>
+
+<!-- ── Lightbox ───────────────────────────────────── -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox()">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+function openLightbox(img) {
+  const lb = document.getElementById('lightbox');
+  const lbImg = document.getElementById('lightbox-img');
+  lbImg.src = img.src;
+  lbImg.alt = img.alt;
+  lb.classList.add('active');
+}
+
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('active');
+}
+
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeLightbox();
+});
+</script>
+
+</body>
+</html>

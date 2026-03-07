@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Diamer Deep Time — From Tethys to Today</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --parchment: #F5F0E8;
+  --parchment-dk: #EDE6D8;
+  --ink: #5C4A3A;
+  --ink-light: #8B7B6B;
+  --ink-faint: #C4B8A8;
+  --walnut: #4A3728;
+  --indus-blue: #5A7888;
+  --thermal: #C85828;
+  --glacier-blue: #8AB0C8;
+  --juniper: #2A4A2A;
+  --kohistan: #3A5A3A;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', 'Noto Serif', serif;
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--ink);
+  background: var(--parchment);
+  overflow-x: hidden;
+}
+
+/* ── Progress bar ────────────────────────────────── */
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: var(--thermal);
+  z-index: 100;
+  transition: width 0.1s linear;
+  width: 0%;
+}
+
+/* ── Time label ──────────────────────────────────── */
+.time-label {
+  position: fixed;
+  top: 12px;
+  right: 20px;
+  font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+  font-size: 0.82em;
+  color: var(--ink-faint);
+  z-index: 100;
+  background: rgba(245, 240, 232, 0.9);
+  padding: 0.3em 0.8em;
+  border-radius: 3px;
+  border: 1px solid var(--ink-faint);
+  transition: color 0.3s;
+}
+
+/* ── Title screen ────────────────────────────────── */
+.title-screen {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2em;
+}
+
+.title-screen h1 {
+  font-size: 3em;
+  color: var(--walnut);
+  line-height: 1.15;
+  margin-bottom: 0.3em;
+}
+
+.title-screen .subtitle {
+  font-size: 1.3em;
+  font-style: italic;
+  color: var(--ink-light);
+  margin-bottom: 1.5em;
+}
+
+.title-screen .scroll-hint {
+  font-size: 0.85em;
+  color: var(--ink-faint);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
+}
+
+/* ── Stop sections ───────────────────────────────── */
+.stop {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4em 2em;
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.stop.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.stop-inner {
+  max-width: 56em;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3em;
+  align-items: center;
+}
+
+.stop:nth-child(odd) .stop-inner {
+  direction: rtl;
+}
+
+.stop:nth-child(odd) .stop-inner > * {
+  direction: ltr;
+}
+
+.stop-text {
+  padding: 1em 0;
+}
+
+.stop-text .era {
+  font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-faint);
+  margin-bottom: 0.5em;
+}
+
+.stop-text h2 {
+  font-size: 1.7em;
+  color: var(--walnut);
+  line-height: 1.25;
+  margin-bottom: 0.4em;
+}
+
+.stop-text .stop-subtitle {
+  font-style: italic;
+  color: var(--ink-light);
+  margin-bottom: 1em;
+  font-size: 1.05em;
+}
+
+.stop-text p {
+  margin-bottom: 0.8em;
+  color: var(--ink);
+}
+
+.stop-text .detail {
+  font-size: 0.88em;
+  color: var(--ink-light);
+  border-left: 2px solid var(--ink-faint);
+  padding-left: 1em;
+  margin-top: 1em;
+}
+
+.stop-image {
+  position: relative;
+}
+
+.stop-image img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid var(--ink-faint);
+  box-shadow: 0 4px 20px rgba(74, 55, 40, 0.1);
+  cursor: pointer;
+  transition: box-shadow 0.3s;
+}
+
+.stop-image img:hover {
+  box-shadow: 0 6px 28px rgba(74, 55, 40, 0.18);
+}
+
+/* ── Divider ─────────────────────────────────────── */
+.divider {
+  text-align: center;
+  padding: 2em 0;
+  color: var(--ink-faint);
+  font-size: 1.4em;
+  letter-spacing: 0.5em;
+}
+
+/* ── Ending ──────────────────────────────────────── */
+.ending {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 4em 2em;
+}
+
+.ending h2 {
+  font-size: 2em;
+  color: var(--walnut);
+  margin-bottom: 0.5em;
+}
+
+.ending p {
+  max-width: 36em;
+  font-style: italic;
+  color: var(--ink-light);
+  font-size: 1.05em;
+  margin-bottom: 0.5em;
+}
+
+.ending .back-link {
+  margin-top: 2em;
+  font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+  font-size: 0.8em;
+}
+
+/* ── Lightbox ────────────────────────────────────── */
+.lightbox {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(74, 55, 40, 0.88);
+  z-index: 200;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.lightbox.active { display: flex; }
+
+.lightbox img {
+  max-width: 92vw;
+  max-height: 92vh;
+  border-radius: 4px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.4);
+}
+
+/* ── Responsive ──────────────────────────────────── */
+@media (max-width: 768px) {
+  .title-screen h1 { font-size: 2em; }
+
+  .stop-inner {
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+  }
+
+  .stop:nth-child(odd) .stop-inner { direction: ltr; }
+
+  .stop { min-height: auto; padding: 3em 1.5em; }
+  .stop-text h2 { font-size: 1.3em; }
+  body { font-size: 15px; }
+}
+</style>
+</head>
+<body>
+
+<div class="progress-bar" id="progress"></div>
+<div class="time-label" id="time-label">250 Ma</div>
+
+<!-- ── Title ──────────────────────────────────────── -->
+<div class="title-screen">
+  <h1>From Tethys to Today</h1>
+  <p class="subtitle">A deep-time walkthrough of Diamer and Nanga Parbat</p>
+  <p class="scroll-hint">scroll to begin the journey &darr;</p>
+</div>
+
+<!-- ══ STOP 1: Tethys Sea ════════════════════════── -->
+<div class="stop" data-time="250 Ma">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">250&ndash;50 million years ago</p>
+      <h2>The Tethys Sea</h2>
+      <p class="stop-subtitle">Where Nanga Parbat stands today, an ocean floor collected limestone.</p>
+      <p>
+        India was still attached to Gondwana, separated from Asia by the vast
+        Tethys Sea. Marine fossils &mdash; ammonites, nummulites, bivalves &mdash;
+        accumulated on the seafloor. These same fossils now sit at 5,000 metres
+        in the Himalayan foothills.
+      </p>
+      <p class="detail">
+        Nummulitic limestone from the Tethys seafloor forms visible bands in
+        the Margalla Hills near Islamabad, 300 km southeast of Nanga Parbat.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/deep-time-timeline.png" alt="Deep time timeline" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 2: India drifts north ════════════════── -->
+<div class="stop" data-time="130 Ma">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">130&ndash;50 million years ago</p>
+      <h2>India's Northward Drift</h2>
+      <p class="stop-subtitle">A continent sprints at 15&ndash;20 cm/yr &mdash; geologically reckless.</p>
+      <p>
+        India broke from Gondwana and raced northward, powered by a plume
+        that also erupted the Deccan Traps at 66 Ma. In its path lay the
+        Kohistan island arc &mdash; a volcanic chain sitting in the Tethys,
+        destined to be trapped between two continents.
+      </p>
+      <p class="detail">
+        India's drift speed was anomalously fast &mdash; 15&ndash;20 cm/yr compared
+        to the typical 2&ndash;5 cm/yr for continental plates. The Deccan eruption
+        may have accelerated it further.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/india-drift.png" alt="India's drift from Gondwana" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 3: Collision & Tectonic Aneurysm ═════── -->
+<div class="stop" data-time="55 Ma">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">55 million years ago &ndash; present</p>
+      <h2>The Tectonic Aneurysm</h2>
+      <p class="stop-subtitle">Erosion drives uplift drives erosion &mdash; a runaway feedback.</p>
+      <p>
+        When India collided with Asia, the Kohistan arc was caught between them.
+        At Nanga Parbat, a unique feedback developed: the Indus cuts the gorge
+        deeper, steepening geotherms, weakening the crust, which rebounds upward
+        faster, which steepens the gorge further.
+      </p>
+      <p>
+        The result: rock exhumed from 25 km depth in 10 million years.
+        Present uplift rates of 9&ndash;13 mm/yr make this the fastest-rising
+        mountain on Earth.
+      </p>
+      <p class="detail">
+        The &ldquo;tectonic aneurysm&rdquo; model (Zeitler et al.) explains why
+        Nanga Parbat's exhumation rate far exceeds the Himalayan average.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/tectonic-aneurysm.png" alt="Tectonic aneurysm diagram" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 4: The Gorge ═════════════════════════── -->
+<div class="stop" data-time="5 Ma">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">5 million years ago &ndash; present</p>
+      <h2>The Indus Gorge</h2>
+      <p class="stop-subtitle">River at 1,000m, summit at 8,126m &mdash; the deepest gorge on Earth.</p>
+      <p>
+        The Indus is older than the mountain it cuts through. As Nanga Parbat
+        rose, the river maintained its course by cutting faster &mdash; an
+        antecedent gorge. At the narrowest point, 4,500&ndash;5,200 metres of
+        vertical relief separate the river from the summit.
+      </p>
+      <p>
+        Hot springs at river level (Tato, Tattapani) betray the extreme
+        geothermal gradients below &mdash; the mountain is still rising,
+        and the river is still winning.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/indus-gorge-profile.png" alt="Indus gorge elevation profile" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 5: Three Faces ═══════════════════════── -->
+<div class="stop" data-time="1 Ma">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">1 million years ago &ndash; present</p>
+      <h2>The Three Faces</h2>
+      <p class="stop-subtitle">Rupal, Diamir, Rakhiot &mdash; each face tells a different geological story.</p>
+      <p>
+        The Rupal Face rises 4,600 metres in a single sweep &mdash; the largest
+        rock face on Earth. The Diamir Face is what early explorers saw: the
+        &ldquo;naked mountain&rdquo; stripped of snow. The Rakhiot Face, gentler
+        in gradient, was the stage for the 1895 first ascent attempt and
+        Buhl's 1953 solo summit.
+      </p>
+      <p>
+        Glaciers drape all three faces, their advance and retreat recording
+        Pleistocene climate oscillations in moraines now 200 km down-valley.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/nanga-parbat-faces.png" alt="Three faces of Nanga Parbat" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 6: Flora & Fauna ═════════════════════── -->
+<div class="stop" data-time="12,000 BP">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">Post-glacial &ndash; Holocene</p>
+      <h2>What Grows Without Monsoon</h2>
+      <p class="stop-subtitle">Five vegetation zones stack from apricot orchards to nival ice.</p>
+      <p>
+        Diamer sits in the monsoon shadow. What grows here survives on meltwater
+        and sparse winter precipitation. Valley floors host apricot and mulberry
+        orchards. Juniper woodland climbs to 3,500m &mdash; trees 1,000 years old,
+        gnarled into the rock. Above the treeline, alpine meadows (jut) burst
+        into brief, fierce bloom.
+      </p>
+      <p>
+        The ibex grazes above the treeline. The snow leopard follows it. The
+        lammergeier watches from above, waiting for bones.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/flora-elevation.png" alt="Vegetation elevation zones" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 7: Petroglyphs ═══════════════════════── -->
+<div class="stop" data-time="10,000 BP">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">10,000 BCE &ndash; present</p>
+      <h2>The Rock as Palimpsest</h2>
+      <p class="stop-subtitle">30,000 carvings, 10 writing systems, 9 sites along the Indus.</p>
+      <p>
+        The dark varnished boulders along the Indus gorge became a canvas
+        that was never full. Hunters carved ibex 10,000 years ago. Buddhist
+        monks added stupas and Jataka tales. Silk Road traders left
+        inscriptions in Sogdian, Chinese, Hebrew. Each layer carved over
+        the last, never erasing it.
+      </p>
+      <p>
+        Thalpan alone holds 5,000+ carvings &mdash; the densest open-air
+        petroglyph gallery on Earth. All of it threatened by the Diamer-Basha
+        dam reservoir.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/petroglyph-sites.png" alt="Petroglyph sites along the Indus" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 8: Ibex & Species ════════════════════── -->
+<div class="stop" data-time="8,000 BP">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">8,000 BCE &ndash; present</p>
+      <h2>The Ibex Cult</h2>
+      <p class="stop-subtitle">One animal, 10,000 years of reverence.</p>
+      <p>
+        The ibex dominates the petroglyph record &mdash; carved more than any
+        other motif across all nine sites and all five phases. Horns were
+        placed on graves. Ibex imagery marks mountain passes. The animal
+        connects prehistoric hunting cults to contemporary Shina cosmology.
+      </p>
+      <p>
+        The markhor (spiral-horned, &ldquo;snake-eater&rdquo;) connects to
+        the nāg tradition. The snow leopard, sharing the ibex's habitat,
+        was never carved &mdash; a negative that asks its own questions.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/ibex-species-plate.png" alt="Himalayan ibex species plate" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 9: Writing Systems ═══════════════════── -->
+<div class="stop" data-time="300 BCE">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">3rd century BCE &ndash; 12th century CE</p>
+      <h2>Ten Scripts on One River</h2>
+      <p class="stop-subtitle">The Indus gorge as a library of lost languages.</p>
+      <p>
+        The rocks at Shatial Bridge and Chilas preserve inscriptions in
+        Kharoshthi, Brahmi, Sogdian, Middle Persian, Chinese, Tibetan,
+        Proto-Sarada, Gupta, and possibly Hebrew/Aramaic. No other single
+        site on Earth records this many writing systems.
+      </p>
+      <p>
+        Each script arrived with traders, pilgrims, or armies traversing
+        the gorge. Together they prove that this &ldquo;remote&rdquo; valley
+        was a crossroads of civilisations for over a thousand years.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/writing-systems.png" alt="Ten writing systems" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<div class="divider">&middot; &middot; &middot;</div>
+
+<!-- ══ STOP 10: The Bitan ════════════════════════── -->
+<div class="stop" data-time="present">
+  <div class="stop-inner">
+    <div class="stop-text">
+      <p class="era">Living tradition</p>
+      <h2>The Bitan's Trance</h2>
+      <p class="stop-subtitle">Juniper smoke, surnai music, the peri speaks through the shaman.</p>
+      <p>
+        In contemporary Diamer, the bitan (shaman) still enters trance
+        through juniper smoke and the hypnotic drone of the surnai (double
+        reed). The peri &mdash; mountain spirits inhabiting alpine meadows
+        and glaciers &mdash; descend to speak through the bitan, diagnosing
+        illness, resolving disputes, finding lost animals.
+      </p>
+      <p>
+        The peri speak Shina regardless of the bitan's mother tongue. The
+        iron bangle (kau) simultaneously binds the bitan to their role and
+        wards against malevolent spirits.
+      </p>
+      <p class="detail">
+        Glacier marriage &mdash; placing willow baskets between a &ldquo;male&rdquo;
+        (dark, debris-covered) and &ldquo;female&rdquo; (white, clean) glacier
+        to breed an offspring in 12 years &mdash; has an 80% success rate.
+      </p>
+    </div>
+    <div class="stop-image">
+      <img src="../images/bitan-trance.png" alt="The bitan's trance diagram" onclick="openLightbox(this)">
+    </div>
+  </div>
+</div>
+
+<!-- ══ Ending ════════════════════════════════════── -->
+<div class="ending">
+  <h2>250 million years.</h2>
+  <p>
+    From seafloor to summit. From Tethys ammonites to ibex petroglyphs.
+    From continental drift to a shaman's trance.
+  </p>
+  <p>
+    The mountain is still rising. The river is still cutting. The rock
+    is still being carved.
+  </p>
+  <p class="back-link">
+    <a href="../atlas.html">&larr; Back to the Visual Atlas</a>
+  </p>
+</div>
+
+<!-- ── Lightbox ───────────────────────────────────── -->
+<div class="lightbox" id="lightbox" onclick="closeLightbox()">
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script>
+// ── Intersection Observer for scroll reveals ────────
+const stops = document.querySelectorAll('.stop');
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, { threshold: 0.15 });
+
+stops.forEach(stop => observer.observe(stop));
+
+// ── Progress bar ────────────────────────────────────
+const progressBar = document.getElementById('progress');
+const timeLabel = document.getElementById('time-label');
+
+// Time data for each stop (in order of scroll position)
+const timePoints = [
+  { threshold: 0.0,  label: '250 Ma' },
+  { threshold: 0.10, label: '130 Ma' },
+  { threshold: 0.20, label: '55 Ma' },
+  { threshold: 0.30, label: '5 Ma' },
+  { threshold: 0.40, label: '1 Ma' },
+  { threshold: 0.50, label: '12,000 BP' },
+  { threshold: 0.60, label: '10,000 BP' },
+  { threshold: 0.70, label: '8,000 BP' },
+  { threshold: 0.80, label: '300 BCE' },
+  { threshold: 0.90, label: 'Present' },
+];
+
+window.addEventListener('scroll', () => {
+  const scrollTop = window.scrollY;
+  const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+  const pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+  progressBar.style.width = pct + '%';
+
+  // Update time label
+  let currentLabel = timePoints[0].label;
+  for (const tp of timePoints) {
+    if (pct / 100 >= tp.threshold) currentLabel = tp.label;
+  }
+  timeLabel.textContent = currentLabel;
+}, { passive: true });
+
+// ── Lightbox ────────────────────────────────────────
+function openLightbox(img) {
+  const lb = document.getElementById('lightbox');
+  document.getElementById('lightbox-img').src = img.src;
+  document.getElementById('lightbox-img').alt = img.alt;
+  lb.classList.add('active');
+}
+
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('active');
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeLightbox();
+});
+</script>
+
+</body>
+</html>
