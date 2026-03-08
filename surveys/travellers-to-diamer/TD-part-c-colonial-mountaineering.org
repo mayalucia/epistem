@@ -1,0 +1,1055 @@
+#+title: The Travellers to Diamer — Part C: Colonial and Mountaineering Era
+#+subtitle: From Vigne's sketch to Buhl's bivouac (1835–1953)
+#+author: epistem-guardian (mu2tau + mayadev)
+#+date: 2026-03-08
+#+property: wp WP-0021
+
+* Scope and Method
+
+This survey covers the colonial and mountaineering era of the Diamer
+district and Nanga Parbat massif (1835--1953): the period when European
+surveyors, climbers, and administrators arrived in a landscape already
+densely inhabited by Shina-speaking communities with their own names,
+stories, and spiritual understanding of the mountain. The survey
+documents who came, what they did, who died, and---where sources
+permit---what the people already living there thought about all of it.
+
+Method: web-accessible sources---academic papers, expedition accounts
+published in the /Himalayan Journal/, the /Alpine Journal/, American
+Alpine Club publications, memoirs, Wikipedia (cross-checked), and
+digitised primary texts on the Internet Archive. Each claim carries a
+source citation with URL. Where quotations are used, the source text
+is identified. No personal observation.
+
+** Note on Names
+
+The mountain has at least three names:
+
+- *Nanga Parbat* (Kashmiri/Sanskrit: nagna parvata, "naked mountain")
+  --- the name that entered European maps through the Great
+  Trigonometrical Survey.
+- *Diamer* / *Diamir* (Shina, from Sanskrit dēva + mēru) --- "mountain
+  of God" or "heavenly mountain." Some sources give "Deo Mir" = "King
+  of the Mountains." The Diamer district takes its name from this.
+- *Schicksalsberg* (German: "mountain of destiny") --- the name the
+  Nazi propaganda apparatus attached to it after the 1934 disaster.
+
+The first two are indigenous. The third is colonial mythology. This
+survey uses "Nanga Parbat" as the conventional name but notes the
+others where context demands.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Nanga_Parbat][Wikipedia: Nanga Parbat]] --- etymology section
+- [[https://www.britannica.com/place/Nanga-Parbat][Britannica: Nanga Parbat]]
+
+
+* C.1 Early European Arrivals (1835--1860s)
+
+** C.1.1 The Great Trigonometrical Survey
+
+The Great Trigonometrical Survey of India, begun in 1802, reached the
+northwestern frontier regions by the mid-19th century. Nanga Parbat
+was observed and triangulated from distant stations in Kashmir long
+before any European set foot near it. The mountain's height was
+computed at approximately 26,660 feet (8,126 m), making it the ninth
+highest in the world. The name "Nanga Parbat" entered Survey records
+from Kashmiri informants --- the Sanskrit-derived name that Kashmiris
+used for the distant white peak visible from the Vale.
+
+The Survey did not record the Shina name /Diamer/, which was the name
+used by the people who actually lived at the mountain's base. This is
+a pattern repeated across the Himalaya: the names that entered
+European cartography were often those of distant observers, not local
+inhabitants.
+
+Source:
+- [[https://www.britannica.com/place/Nanga-Parbat][Britannica: Nanga Parbat]]
+- [[https://en.wikipedia.org/wiki/Nanga_Parbat][Wikipedia: Nanga Parbat]]
+
+** C.1.2 Godfrey Thomas Vigne (1835--1838)
+
+Godfrey Thomas Vigne (pronounced "Vine"), an English traveller and
+artist, was among the first Europeans to penetrate the Gilgit-Baltistan
+region. Between 1835 and 1838, Vigne travelled extensively through
+Kashmir, Ladakh, and Baltistan, reaching areas no European had
+previously visited.
+
+- *1835*: Reached the terminal of the Chogo Lungma glacier. Passed
+  through Deosai, the high plateau between Kashmir and Baltistan.
+- *1837*: Explored the Shyok River.
+- *1838*: Explored the Saltoro Valley and the Bilafond glacier from
+  Khaplu, searching for the Saltoro Pass.
+
+Vigne gained the trust of Ahmed Shah, the Raja of Skardu, and acquired
+antiquities and manuscripts. He witnessed the Raja's forces ambush a
+band of robbers --- "every single one of them being dispatched either
+by musket or by sword."
+
+His account was published in 1842:
+
+#+begin_quote
+/Travels in Kashmir, Ladak, Iskardo, the Countries Adjoining the
+Mountain-Course of the Indus, and the Himalaya, North of the Panjab/
+(2 vols., 13 maps and plates, including a large folding map).
+#+end_quote
+
+Vigne's travels predate any systematic European exploration of the
+Nanga Parbat massif itself. He did not approach the mountain closely,
+but his routes through Baltistan and toward Gilgit opened the region
+to European awareness.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/History_of_Gilgit-Baltistan][Wikipedia: History of Gilgit-Baltistan]]
+- [[https://www.dawn.com/news/1964945/history-deosai-land-of-giants][DAWN: Deosai, Land of Giants]]
+- [[https://www.abebooks.co.uk/book-search/title/travels-kashmir-ladak-iskardo-countries/author/vigne-g-t/][AbeBooks: Vigne's /Travels/]]
+
+** C.1.3 Henry Haversham Godwin-Austen (1857--1861)
+
+Lieutenant (later Lieutenant-Colonel) Henry Haversham Godwin-Austen
+was trained by Thomas Montgomerie in the Survey of India. Despite his
+youth (he was 23 when he began), his skills as topographer, geologist,
+explorer, and draughtsman earned him extensive fieldwork in the
+Karakoram.
+
+From 1857 to 1861, Godwin-Austen worked his way through the immense
+moraines of the Baltoro glacier, producing the first detailed
+topographic and geological sketches of the Karakoram interior. He was
+described as "the only scientific man of his time with firsthand
+knowledge of" the Karakoram. His planetable drawings exhibited
+"striking geological detail woven into brush-drawings."
+
+K2 (8,611 m), the world's second highest peak, was later proposed to
+be named "Mount Godwin-Austen" in his honour, though the designation
+K2 prevailed. The Godwin-Austen Glacier at the base of K2 carries his
+name.
+
+Fever contracted during survey work undermined his health and caused
+his premature retirement from the Survey.
+
+Sources:
+- [[https://www.researchgate.net/figure/Looking-south-from-Godwin-Austens-survey-station-above-Skinmang-camp-The-junction-of_fig3_286095497][ResearchGate: Godwin-Austen survey station]]
+- [[https://www.expeditions-unlimited.com/en/blog/himalayas/exploring-karakoram-8611-m][Expeditions Unlimited: Exploring the Karakoram]]
+
+** C.1.4 The Schlagintweit Brothers (1854--1857)
+
+Hermann, Adolf, and Robert von Schlagintweit, three brothers from
+Munich, were commissioned by the British East India Company (with
+support from Alexander von Humboldt and the King of Prussia) to study
+the Earth's magnetic field in South and Central Asia.
+
+*Adolf Schlagintweit* (1829--1857) is credited as the first European
+to see Nanga Parbat at close range, making a sketch of the mountain
+from the south around 1856. The brothers were also the first Europeans
+to cross the Kunlun Mountains and among the first to explore the
+region between the Karakoram and Kunlun.
+
+Adolf's fate was tragic: in 1857, he was murdered in Kashgar, mistaken
+for a Chinese spy and executed by the local ruler Wali Khan. He was
+27 years old.
+
+A peak in the Nanga Parbat range (5,971 m) was named "Schlagintweit
+Peak" and received its first ascent in 2009.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Adolf_Schlagintweit][Wikipedia: Adolf Schlagintweit]]
+- [[https://www.cambridge.org/core/journals/journal-of-glaciology/article/early-discoverers-xiii-the-first-glaciologists-in-central-asia/DB13C625D52A7815CC5758AD87A416EC][Cambridge: First Glaciologists in Central Asia]]
+- [[http://publications.americanalpineclub.org/articles/12201026000/][AAC: Schlagintweit Peak first ascent]]
+
+
+* C.2 Mummery's Expedition (1895)
+
+** C.2.1 Albert Frederick Mummery
+
+Albert Frederick Mummery (1855--1895) was a British mountaineer
+considered the founder of guideless and sport climbing. In the Alps,
+he established a revolutionary approach: small parties, no guides,
+technical difficulty sought rather than avoided. His book /My Climbs
+in the Alps and Caucasus/ (1895, published posthumously) is a
+foundational text of mountaineering literature.
+
+By 1895, Mummery was the most accomplished rock climber of his
+generation. His decision to attempt an 8,000-metre peak in the
+Himalaya---with a tiny party and in alpine style---was fifty years
+ahead of its time. It was the first attempt on any 8,000-metre peak
+in history.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Albert_F._Mummery][Wikipedia: Albert F. Mummery]]
+- [[https://www.markhorrell.com/blog/2015/an-early-history-of-the-8000m-peaks-mummery-crowley-and-the-duke-of-abruzzi/][Horrell: Early History of the 8000m Peaks]]
+- [[https://www.ukclimbing.com/articles/literature/mountain_literature_classics_my_climbs_in_the_alps+caucasus_by_albert_mummery-12380][UKC: Mummery Literary Classic]]
+
+** C.2.2 The Expedition
+
+The party comprised:
+
+| Name | Role | Nationality |
+|------+------+-------------|
+| A. F. Mummery | Leader | British |
+| J. Norman Collie | Climber, scientist | British (Scottish) |
+| Geoffrey Hastings | Climber | British |
+| Ragobir Thapa | Gurkha companion | Nepalese |
+| Goman Singh | Gurkha companion | Nepalese |
+
+Note: Ragobir and Goman Singh are often called "porters" in European
+accounts. They were climbing companions who went to the highest points
+with Mummery.
+
+** C.2.3 The Attempt
+
+The party approached via the Diamir (western) face. Mummery, with
+Ragobir, climbed to approximately 6,100 m on what is now called the
+"Mummery Rib"---the first time humans had climbed so high on an
+8,000-metre peak. At this altitude, Ragobir suffered severe symptoms
+consistent with high-altitude pulmonary oedema (HAPE), forcing a
+retreat.
+
+After this attempt, Mummery decided to reconnoitre an alternative
+route via the Rakhiot (northern) face. On 24 August 1895, Mummery,
+Ragobir Thapa, and Goman Singh set out to cross a high pass from
+the Diamir side to the Rakhiot Glacier.
+
+They were never seen again.
+
+** C.2.4 The Disappearance
+
+Collie and Hastings waited. When the three failed to return, Collie
+sent scouts. A local man, Lor Khan, found the abandoned rucksacks
+still in position near the pass, but no trace of the men.
+
+Collie concluded that an avalanche must have swept the trio away
+while crossing a snow-covered pass or glacier on the Rakhiot side.
+Their bodies were never recovered.
+
+The Himalayan Journal later published a detailed reconstruction:
+
+#+begin_quote
+"When at last there was no sign of him, even after Lor Khan...reported
+the rucksacks still in position, Collie knew that a disaster had
+occurred."
+#+end_quote
+
+Collie's final tribute to Mummery, published in the Alpine Journal and
+later collected in /From the Himalaya to Skye/, stands as one of the
+most poignant passages in mountaineering literature:
+
+#+begin_quote
+"The pitiless mountains have claimed him and among the snow-laden
+glaciers of the mighty hills he rests; the curves of the wind-moulded
+cornice, the delicate undulations of the fissured snow cover him,
+while the grim precipices and the great brown rocks, bending down
+into an immeasurable space, and the snow peaks he loved so well keep
+and guard and watch over the spot where he lies."
+#+end_quote
+
+--- J. Norman Collie, in /From the Himalaya to Skye/ (repr.
+Ripping Yarns, 2003), originally published in the /Alpine Journal/.
+Also reproduced in: Himalayan Journal Vol. 3, "The Passing of
+Mummery."
+
+** C.2.5 The Dead
+
+| Name | Role | Cause |
+|------+------+-------|
+| Albert Frederick Mummery | Expedition leader | Avalanche (presumed), Rakhiot side |
+| Ragobir Thapa | Gurkha companion | Avalanche (presumed) |
+| Goman Singh | Gurkha companion | Avalanche (presumed) |
+
+Bodies never recovered. The first deaths on an 8,000-metre peak.
+
+** C.2.6 Legacy
+
+Mummery's attempt established Nanga Parbat's reputation as a mountain
+that resists human ambition. His alpine-style approach---small party,
+no siege tactics, no supplemental oxygen---would not become the
+dominant paradigm for 8,000-metre climbing until Reinhold Messner's
+revolution in the 1970s and 1980s, eighty years later.
+
+The Mummery Rib on the Diamir Face bears his name.
+
+Sources:
+- [[https://www.himalayanclub.org/hj/3/1/the-passing-of-mummery/][Himalayan Journal: The Passing of Mummery]]
+- [[https://gripped.com/gripped-outdoors/albert-mummery-died-on-nanga-parbat-in-1895/][Gripped: Mummery Died on Nanga Parbat]]
+- [[https://explorersweb.com/groundbreaking-climbs-on-nanga-parbats-diamir-face/][ExplorersWeb: Diamir Face History]]
+- [[https://www.summitpost.org/albert-frederick-mummery-the-man-who-dared-nanga-parbat/967257][SummitPost: Mummery]]
+- [[https://publications.americanalpineclub.org/articles/13201214246/][AAC: Nanga Parbat NW Face via Diama Glacier]]
+- [[https://www.tranquilkilimanjaro.com/albert-mummery-the-father-of-modern-mountaineering-died-on-nanga-parbat-in-1895/][Tranquil Kilimanjaro: Mummery]]
+
+
+* C.3 The German Obsession (1932--1953)
+
+** C.3.1 Why Nanga Parbat?
+
+By the 1930s, British expeditions had claimed the Everest and
+Kangchenjunga attempts. K2 was contested. For German and Austrian
+mountaineers, shut out of the "British" peaks, Nanga Parbat was the
+available prize: an 8,000-metre giant in a region accessible from
+British India without passing through Tibet. The /Deutscher und
+Oesterreichischer Alpenverein/ (German and Austrian Alpine Club)
+backed the effort. After the Nazis rose to power in 1933, the mountain
+became a national project.
+
+** C.3.2 The 1932 Reconnaissance: Willy Merkl
+
+*Leader*: Willy Merkl (1900--1934), a Munich railway official and
+accomplished alpinist.
+
+*Party*: German-American expedition. Members included Merkl, Fritz
+Bechtold, Peter Aschenbrenner, and several American climbers including
+Rand Herron and Elizabeth Knowlton.
+
+*Achievement*: The party reconnoitred the Rakhiot approach, ascending
+to approximately 7,000 m on the East Ridge. They established that a
+route existed via the Rakhiot Glacier, over Rakhiot Peak, across the
+Silver Plateau, to the summit pyramid. No fatalities.
+
+*Significance*: Merkl's reconnaissance provided the route intelligence
+for all subsequent German expeditions through the 1930s. The Rakhiot
+approach became the "standard" route and the site of all the
+catastrophes that followed.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Willy_Merkl][Wikipedia: Willy Merkl]]
+- [[https://explorersweb.com/a-climbing-history-of-nanga-parbats-deadly-rakhiot-face/][ExplorersWeb: Rakhiot Face History]]
+
+** C.3.3 The 1934 Disaster
+
+*** The Expedition
+
+*Leader*: Willy Merkl (second attempt).
+
+*Funding*: The Deutsche Himalaya-Stiftung (German Himalayan
+Foundation), founded in 1936 but whose precursor organisation funded
+the 1934 expedition. By this point, the Nazi regime had identified
+Himalayan conquest as a propaganda vehicle. The expedition received
+state support.
+
+*Team* (Europeans): Willy Merkl, Fritz Bechtold, Peter Aschenbrenner,
+Erwin Schneider, Willo Welzenbach, Uli Wieland, Alfred Drexel, and
+others. 35 Sherpa and Bhutia porters from Darjeeling.
+
+*** The Approach March
+
+The expedition's 570 loads were brought up the Jhelum river and across
+Wular Lake to Bandipura, where *600 local coolies* awaited them. The
+march crossed the Tragbal Pass (11,586 ft) and the Burzil Pass
+(13,775 ft) --- "the crossing of the wintry Burzil pass made severe
+demands on the porters and the whole organization." By 13 May they
+reached Talliche, where they first sighted Nanga Parbat, then
+continued through Chilas to the Rakhiot bridge.
+
+At the "Märchenwiese" (Fairy Meadow), local coolies were dismissed and
+forty newly arrived Balti porters taken on for the higher camps.
+
+*** The First Death: Alfred Drexel
+
+On 8 June 1934, Alfred Drexel died at Camp 2 (5,350 m) of what was
+almost certainly high-altitude pulmonary oedema (HAPE) --- then
+unrecognised. He developed a severe headache and respiratory
+distress; attempts to administer oxygen failed. A formal funeral was
+conducted because, as Bechtold recorded, "the Balti porters most
+certainly would never have gone beyond Camp 2" without it. The
+porters' understanding of death on the mountain demanded ritual
+acknowledgement.
+
+*** The Storm and the Retreat
+
+On 6 July, Peter Aschenbrenner and Erwin Schneider reached an
+estimated height of 7,895 m --- the highest point achieved. But
+weather was deteriorating. On 7 July, a ferocious storm trapped
+fourteen climbers at approximately 7,480 m near the Silver Saddle.
+
+Aschenbrenner and Schneider descended rapidly, reaching safety but
+controversially leaving others behind (a decision debated for decades).
+The remaining climbers, weakened and without adequate supplies, began a
+desperate retreat that lasted days.
+
+Willy Merkl, Willo Welzenbach, and Uli Wieland died of exhaustion,
+exposure, and altitude sickness during the descent. Six Sherpa porters
+died alongside them or attempting to bring them down.
+
+*** The Dead of 1934
+
+| Name | Role | Cause |
+|------+------+-------|
+| Alfred Drexel | German climber | HAPE, Camp 2, 8 June |
+| Willy Merkl | Expedition leader (German) | Exhaustion/exposure, descent |
+| Willo Welzenbach | German climber | Exhaustion/exposure, descent |
+| Uli Wieland | German climber | Exhaustion/exposure, descent |
+| Gaylay | Sherpa porter | Exhaustion/exposure, descent |
+| Nima Norbu | Sherpa porter | Exhaustion/exposure, descent |
+| Pintso Norbu | Sherpa porter | Exhaustion/exposure, descent |
+| Dakshi | Sherpa porter | Exhaustion/exposure, descent |
+| Tashi | Sherpa porter | Exhaustion/exposure, descent |
+| Dorje | Sherpa porter | Exhaustion/exposure, descent |
+
+*Total dead: 10* (4 Europeans, 6 Sherpas). At the time, the worst
+disaster in Himalayan mountaineering history.
+
+The Sherpa Ang Tsering survived the descent and carried the news. His
+endurance and loyalty were later recognised with the "Tiger Badge" of
+the Himalayan Club.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/1934_Nanga_Parbat_climbing_disaster][Wikipedia: 1934 Nanga Parbat Disaster]]
+- [[https://www.himalayanclub.org/hj/7/2/the-german-himalayan-expedition-to-nanga-parbat-1934/][Himalayan Journal: 1934 Expedition]]
+- [[https://www.himalayanclub.org/hj/7/3/diary-jottings-nanga-parbat-1934/][Himalayan Journal: Diary Jottings 1934]]
+- [[https://www.200jahrewieland.com/en/story/tragic-end-at-the-fateful-mountain-of-the-germans.html][Wieland 200: Tragic End at the Fateful Mountain]]
+- [[https://explorersweb.com/a-climbing-history-of-nanga-parbats-deadly-rakhiot-face/][ExplorersWeb: Rakhiot Face History]]
+
+** C.3.4 The 1937 Catastrophe
+
+*** The Decision to Return
+
+Despite the 1934 disaster, the Deutsche Himalaya-Stiftung organised a
+new expedition for 1937. The mountain had become the /Schicksalsberg/
+--- the "mountain of destiny" --- and turning back was politically
+unthinkable under the Nazi regime.
+
+*** The Expedition
+
+*Leader*: Karl Wien (1906--1937), a respected Munich mountaineer.
+
+*Team* (climbers and scientists): Karl Wien, Hans Hartmann, Adolf
+Göttner, Martin Pfeffer, Günther Hepp, Peter Müllritter, Pert
+Fankhauser (climbers); Ulrich Luft and Karl Troll (scientists, not
+present at Camp IV).
+
+*Sherpa porters*: Nine men from Darjeeling, including Pasang Norbu
+(a survivor of 1934).
+
+*** The Avalanche
+
+Sometime between 14 and 16 June 1937, a massive serac collapsed from
+the hanging glacier on Rakhiot Peak. The resulting avalanche swept
+across the flat terrace where Camp IV was established, burying the
+tents under metres of ice and packed snow. The avalanche ran 1,200 m
+across terrain that had seemed safe.
+
+All sixteen men in camp---seven Germans and nine Sherpas---were killed
+in their sleeping bags. There were no survivors at the camp.
+
+*** Discovery
+
+On 17 June, Ulrich Luft, ascending from a lower camp, found "a
+gigantic ice avalanche" covering the Camp IV site. A serac 300 metres
+above had broken away, creating "a vast field of enormous ice-blocks
+and debris." The camp was buried under approximately 2.5 metres of
+ice.
+
+Search parties took until 15 July to excavate the site. They found
+the climbers "lying peacefully in their sleeping-bags" with diaries
+dated through 14 June.
+
+Paul Bauer received the news in Munich on 20 June --- a journalist
+telephoned with "the terrible news that seven climbers and nine
+porters had been killed on Nanga Parbat by an avalanche."
+
+*** The Sherpa Leader's Request
+
+The Sherpa leader Nursang, who was not at Camp IV, requested that the
+Sherpa dead be left undisturbed per their religious beliefs.
+
+*** The Dead of 1937
+
+*German climbers (7):*
+
+| Name | Role |
+|------+------|
+| Karl Wien | Expedition leader |
+| Hans Hartmann | Climber |
+| Adolf Göttner | Climber |
+| Martin Pfeffer | Climber |
+| Günther Hepp | Climber |
+| Peter Müllritter | Climber |
+| Pert Fankhauser | Climber |
+
+*Sherpa porters (9):*
+
+| Name |
+|------|
+| Pasang Norbu (survivor of 1934) |
+| Nim Tsering |
+| Da Thondup |
+| Kami |
+| Gyaljen Monjo |
+| Jigmay |
+| Chong Karma |
+| Ang Tsering II |
+| Mambahadur |
+
+*Total dead: 16*. This remains the worst single-event disaster on any
+8,000-metre peak.
+
+Sources:
+- [[https://www.himalayanclub.org/hj/10/11/nanga-parbat-1937/][Himalayan Journal: Nanga Parbat 1937]]
+- [[https://en.wikipedia.org/wiki/Karl_Wien][Wikipedia: Karl Wien]]
+- [[https://www.alpinejournal.org.uk/Contents/Contents_1937_files/AJ49%20210-227%20Various%20Disaster%20on%20Nanga%20Parbat.pdf][Alpine Journal: The Disaster on Nanga Parbat, 1937 (PDF)]]
+- [[https://www.nature.com/articles/1391099a0][Nature: The German Expedition to Nanga Parbat]]
+
+** C.3.5 The 1938 Expedition: Paul Bauer
+
+*** Porter Recruitment and the Mountain's Reputation
+
+Paul Bauer led the 1938 expedition, the first after the 1937
+catastrophe. The mountain had now killed 26 people in two
+expeditions. Recruiting porters proved deeply difficult.
+
+Bauer recorded in the /Himalayan Journal/:
+
+#+begin_quote
+"Enlisting the porters for the high camps caused me some anxiety, for
+there was much talk in Darjeeling about evil spirits and devils on
+Nanga Parbat, and none of the surviving Sherpa porters were willing to
+go again."
+#+end_quote
+
+--- Paul Bauer, "Nanga Parbat, 1938," /Himalayan Journal/, Vol. 11
+(1939).
+
+This passage is significant: the Sherpa community in Darjeeling had
+developed its own spiritual interpretation of the mountain's lethality.
+The talk of "evil spirits and devils" was not superstition opposing
+science---it was a community's framework for processing repeated,
+inexplicable mass death. The mountain was understood to be /inhabited/
+by malevolent forces, and going there was not merely dangerous but
+spiritually polluting.
+
+Bauer ultimately hired ten young, less-experienced Sherpas and Bhutias
+through the assistance of the Himalayan Club and his longtime porter
+Nursang.
+
+*** The Expedition
+
+Bauer, mindful of the previous disasters, was cautious. The
+expedition was plagued by bad weather. Bauer ordered the party down
+before the Silver Saddle was reached. *No fatalities.* But no
+significant progress beyond previous high points either.
+
+Sources:
+- [[https://himalayanclub.org/hj/11/7/nanga-parbat-1938][Himalayan Journal: Nanga Parbat 1938]]
+- [[https://www.goodreads.com/book/show/34611939-nanga-parbat-1937][Goodreads: Paul Bauer, /Nanga Parbat 1937/]]
+
+** C.3.6 The 1939 Reconnaissance: Aufschnaiter and Harrer
+
+*** The Expedition
+
+*Leader*: Peter Aufschnaiter (1899--1973), a Tyrolean mountaineer and
+cartographer.
+
+*Team*: Heinrich Harrer, Ludwig "Lutz" Chicken, Hans Lobenhoffer.
+
+The small four-man party explored the Diamir (western) Face, seeking
+an alternative to the deadly Rakhiot route. They concluded that the
+Diamir Face was viable---a judgment that would be vindicated decades
+later when Reinhold Messner made the first solo ascent of an
+8,000-metre peak by that route (1978).
+
+*** The Outbreak of War
+
+Having completed the reconnaissance, the party was in Karachi at the
+end of August 1939, waiting for a freighter home. On 3 September,
+Britain declared war on Germany. All four were arrested as enemy aliens
+and interned.
+
+They were transferred first to Ahmednagar (near Bombay), then to a
+larger detention camp at Dehra Dun, where they were held with
+approximately 1,000 other enemy aliens.
+
+*** The Escape
+
+On 29 April 1944, a group of seven escaped: Harrer, Aufschnaiter,
+Bruno Treipel, Hans Kopp, Sattler, and two others (Rolf Magener and
+Heins von Have, disguised as British officers).
+
+Magener and von Have took the train to Calcutta and reached the
+Japanese army in Burma. The others headed for Tibet. After Sattler
+dropped out on 10 May, the remaining four crossed the Tsang Chok-la
+Pass (5,896 m) on 17 May 1944. Eventually only Aufschnaiter and
+Harrer continued, reaching Lhasa on 15 January 1946.
+
+Harrer's account of his seven years in Tibet became one of the most
+famous travel books of the 20th century. Aufschnaiter, the more
+serious scholar, produced invaluable cartographic and ethnographic
+work on Tibet that remains underappreciated.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Peter_Aufschnaiter][Wikipedia: Peter Aufschnaiter]]
+- [[https://en.wikipedia.org/wiki/Heinrich_Harrer][Wikipedia: Heinrich Harrer]]
+- [[https://www.himalayanclub.org/hj/14/5/nanga-parbat-reconnaissance-1939/][Himalayan Journal: Nanga Parbat Reconnaissance 1939]]
+
+** C.3.7 The Schicksalsberg Narrative
+
+The /Schicksalsberg/ ("mountain of destiny") narrative requires its
+own examination because it shaped how an entire generation understood
+Nanga Parbat---and because it is still repeated, often uncritically.
+
+*** Origins
+
+After the 1934 disaster killed four German climbers (Merkl,
+Welzenbach, Wieland, Drexel), the Nazi propaganda apparatus seized the
+narrative. The dead were styled as heroes who had fallen in a struggle
+of "blood and soil" --- the mountain as adversary in a test of racial
+will.
+
+The Deutsche Himalaja-Stiftung (German Himalayan Foundation), founded
+in Munich in 1936, was tasked with organising future expeditions. Its
+explicit goal was the first ascent of the "/Schicksalsberg der
+Deutschen/" --- "the destiny mountain of the Germans." The Foundation
+was politically supported by the NSDAP and served as a propaganda
+instrument, responsible "not only for spectacular headlines about
+expeditions but also for the popularization of athletic training for
+the impending war."
+
+*** Instrumentalisation
+
+The Nazis used Nanga Parbat for:
+- Demonstrating German will and racial vigour
+- Justifying sacrifice (the dead as martyrs)
+- Projecting imperial ambition beyond Europe
+- The 1937 catastrophe was exploited in radio broadcasts and newsreels
+
+*** Post-war Continuity
+
+The narrative survived 1945 in diluted form. Karl Herrligkoffer, Willy
+Merkl's half-brother, organised the 1953 expedition explicitly as a
+"/Willy-Merkl-Gedächtnis-Expedition/" (Willy Merkl Memorial
+Expedition). The mountain remained "Germany's mountain" in popular
+imagination well into the 1960s, even as its geopolitical context
+(Pakistan, not British India) rendered the framing absurd.
+
+Sources:
+- [[https://de.wikipedia.org/wiki/Deutsche_Himalaja-Stiftung][Wikipedia (DE): Deutsche Himalaja-Stiftung]]
+- [[https://www.tandfonline.com/doi/abs/10.1080/09523367.2020.1782889][Taylor & Francis: Nanga Parbat and National Socialist Radio]]
+- [[https://www.traunsteiner-tagblatt.de/das-traunsteiner-tagblatt/chiemgau-blaetter/chiemgau-blaetter-2024_ausgabe,-der-nanga-parbat-ein-deutscher-schicksalsberg-_chid,846.html][Traunsteiner Tagblatt: Nanga Parbat, ein deutscher Schicksalsberg?]]
+
+** C.3.8 Hermann Buhl and the First Ascent (1953)
+
+*** The Expedition
+
+*Official name*: Deutsch-Österreichische Willy-Merkl-Gedächtnis-Expedition
+(German-Austrian Willy Merkl Memorial Expedition).
+
+*Leader*: Karl Maria Herrligkoffer (1916--1991), a Munich physician
+and Willy Merkl's half-brother. Herrligkoffer had no significant
+mountaineering credentials. His claim to leadership was genealogical:
+his brother had died on the mountain, and he had secured the permit
+and funding.
+
+*Climbing team*: Hermann Buhl, Otto Kempter, Hans Ertl, Walter
+Frauenberger, Albert Bitterling, Kuno Rainer, and others.
+
+*** The Mutiny
+
+On 30 June 1953, Herrligkoffer radioed an order to retreat from base
+camp. The four lead climbers --- Buhl, Frauenberger, Ertl, and
+Kempter --- ignored the order. They continued climbing, establishing a
+precarious Camp V at 6,950 m on the East Ridge.
+
+*** The Solo Summit Push
+
+On the night of 2--3 July 1953, Hermann Buhl (1924--1957) left Camp V
+alone at approximately 02:30. No other climber was fit or willing to
+accompany him. He carried no supplemental oxygen.
+
+His account, published as /Nanga Parbat Pilgrimage/ (German: /Achttausend
+drüber und drunter/, 1954), describes the seventeen-hour ascent:
+
+#+begin_quote
+"I walked and walked, climbed and climbed, for hours and hours...
+But this was quite different; now it was an incredible irresistible
+urge that drove my exhausted body onward."
+#+end_quote
+
+--- Hermann Buhl, /Nanga Parbat Pilgrimage/ (English trans. Hugh Merrick,
+1956).
+
+*** Pervitin
+
+During the ascent and descent, Buhl took Pervitin
+(methamphetamine) --- two pills on the way up, three on the way down.
+Pervitin was widely used in the German and Austrian military during
+World War II; it prevents sleep and suppresses fatigue. Buhl's use of
+it was not concealed; he reported it openly in his account. At the
+extreme altitudes, he experienced "a dangerous state of apathy"
+and perceptual illusions.
+
+*** The Summit
+
+Buhl reached the summit at approximately 19:00 on 3 July 1953, after
+seventeen hours of continuous climbing from Camp V. He was alone. He
+had carried an ice axe, which he planted on the summit, and a
+small Pakistani flag and the pennant of his Innsbruck climbing club.
+No German flag.
+
+*** The Standing Bivouac
+
+Descending in darkness, Buhl was forced to halt around 21:00 at
+approximately 8,000 m. He spent the night standing on a narrow ledge,
+holding a small handhold with one hand. He dozed occasionally but
+maintained his balance. After a sleepless night, he resumed his descent
+at 04:00.
+
+*** The Return
+
+After *41 hours* of continuous effort --- ascending, summiting, the
+open bivouac, and descending --- Buhl arrived back at Camp V in states
+of extreme exhaustion and dehydration. He had severe frostbite on
+several toes, which were later amputated.
+
+*** The Aftermath
+
+Herrligkoffer received Buhl's success badly. Buhl had defied orders,
+summited alone, planted a Pakistani flag rather than a German one, and
+become an international hero without Herrligkoffer's permission.
+Herrligkoffer attempted to minimise Buhl's role in public accounts.
+Buhl retaliated by publishing /Nanga Parbat Pilgrimage/ and giving
+lectures without Herrligkoffer's contractual permission, leading to
+legal disputes.
+
+*** Buhl's Death
+
+Hermann Buhl died on 27 June 1957 on Chogolisa (7,665 m), when a
+cornice collapsed beneath him. His body was never recovered. He was
+32 years old.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Hermann_Buhl][Wikipedia: Hermann Buhl]]
+- [[https://en.wikipedia.org/wiki/1953_German%E2%80%93Austrian_Nanga_Parbat_expedition][Wikipedia: 1953 Nanga Parbat Expedition]]
+- [[https://en.wikipedia.org/wiki/Karl_Herrligkoffer][Wikipedia: Karl Herrligkoffer]]
+- [[https://www.expeditions-unlimited.com/en/blog/himalayas/1953-hermann-buhl-solo-nanga-parbat-without-oxygen][Expeditions Unlimited: Buhl Solo 1953]]
+- [[https://abenteuer-berg.de/en/70-years-ago-today-hermann-buhl-succeeds-in-making-the-first-ascent-of-nanga-parbat/][Abenteuer Berg: 70 Years Ago Today]]
+- [[https://abenteuer-berg.de/en/pioneer-of-alpinism-hermann-buhl-was-born-100-years-ago/][Abenteuer Berg: Pioneer of Alpinism]]
+- [[https://alpinist.com/features/hermann-buhl-a-hero-undiminished/][Alpinist: Hermann Buhl, A Hero Undiminished]]
+- [[https://gripped.com/gripped-outdoors/hermann-buhl-soloed-nanga-parbat-for-first-ascent-in-1953/][Gripped: Buhl Soloed Nanga Parbat]]
+- [[https://www.alpinejournal.org.uk/Contents/Contents_1954_files/AJ59%201954%20371-390%20Frauenberger-Buhl%20Nanga%20Parbat.pdf][Alpine Journal: The Ascent of Nanga Parbat (1954, PDF)]]
+- [[https://www.herrligkoffer-stiftung.de/index.php/14-stifter/expeditionen/6-deutsch-oesterreichische-willy-merkl-gedaechtnis-expedition-1953][Herrligkoffer-Stiftung: 1953 Expedition]]
+
+** C.3.9 The Mountain's Toll (1895--1953)
+
+| Year | Dead | Europeans | Sherpas/Porters |
+|------+------+-----------+-----------------|
+| 1895 | 3 | 1 (Mummery) | 2 (Ragobir, Goman Singh) |
+| 1934 | 10 | 4 (Merkl, Welzenbach, Wieland, Drexel) | 6 |
+| 1937 | 16 | 7 (Wien + 6) | 9 |
+| *Total* | *29* | *12* | *17* |
+
+The porters and Sherpas outnumber the Europeans among the dead. Their
+names are often harder to find in the sources, and their families'
+grief is almost never recorded.
+
+
+* C.4 British Colonial Administration
+
+** C.4.1 The Gilgit Agency
+
+The Gilgit Agency was the British administrative unit responsible for
+the northernmost frontier of British India, established to monitor
+Russian movements in Central Asia (the "Great Game") and to control
+the passes linking India to Xinjiang and Afghanistan.
+
+*** Timeline
+
+- *1877*: Major John Biddulph appointed as first British agent in
+  Gilgit (Officer on Special Duty), tasked with monitoring the
+  Baroghil and Ishkoman passes and safeguarding trade caravans.
+  The posting lasted until 1881.
+- *1889*: Permanent Political Agent established in Gilgit.
+- *1889--1894*: Colonel Algernon Durand served as Political Agent.
+  Directed the 1891 Hunza-Nagar Campaign (capture of Nilt Fort).
+  Wounded in action.
+- *1920--1924*: D. L. R. Lorimer served as Political Agent.
+- *1935*: The Gilgit Agency was leased by the British from the Maharaja
+  of Jammu & Kashmir for 60 years.
+- *1 August 1947*: Lease returned to the Maharaja upon British withdrawal.
+- *1 November 1947*: The Gilgit Scouts revolt.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Gilgit_Agency][Wikipedia: Gilgit Agency]]
+- [[https://www.researchgate.net/publication/334446623_British_Intervention_and_the_Case_of_Gilgit_Agency1846-1892][ResearchGate: British Intervention and Gilgit Agency]]
+
+** C.4.2 John Biddulph and /Tribes of the Hindoo Koosh/ (1880)
+
+Major John Biddulph (1840--1921) served as the first British Political
+Agent in Gilgit (1877--1881) and took part in the Yarkand Mission of
+1873--74. His book, published in 1880, is the first systematic
+ethnography of the peoples of the Hindu Kush and Karakoram:
+
+#+begin_quote
+/Tribes of the Hindoo Koosh/ (Calcutta: Office of the Superintendent
+of Government Printing, 1880).
+#+end_quote
+
+The book covers the inhabitants, culture, society, and history of
+Yasin, Torwal, Bushkar, Baltistan, and Dardistan. Chapters address
+geography, castes and administration, customs, festivals, religions,
+and regional princes. Extensive appendices document the grammar and
+vocabulary of ten dialects and languages "scarcely studied by
+academics" at that time.
+
+Biddulph's work is invaluable precisely because it records societies
+before the full weight of colonial administration transformed them.
+It is also a colonial document, written for colonial purposes --- the
+knowledge was "invaluable to contemporary diplomats and military
+leaders who were extending British influence in northern India and
+Central Asia."
+
+Available digitally:
+- [[https://archive.org/details/in.ernet.dli.2015.40611][Internet Archive: /Tribes of the Hindoo Koosh/]]
+- [[https://www.scribd.com/document/243029254/Tribes-of-the-Hindoo-Koosh-1880-by-Major-J-Biddulph][Scribd: Biddulph 1880]]
+
+Sources:
+- [[https://en.wikipedia.org/wiki/Tribes_of_the_Hindoo_Koosh][Wikipedia: Tribes of the Hindoo Koosh]]
+
+** C.4.3 Algernon Durand and /The Making of a Frontier/ (1899)
+
+Colonel Algernon George Arnold Durand (1854--1923) served as Political
+Agent in Gilgit from 1889 to 1894. His brother, Mortimer Durand, was
+the Foreign Secretary of the Government of India who drew the
+Durand Line.
+
+Algernon Durand's memoir:
+
+#+begin_quote
+/The Making of a Frontier: Five Years' Experiences and Adventures in
+Gilgit, Hunza, Nagar, Chitral, and the Eastern Hindu-Kush/ (London:
+John Murray, 1899).
+#+end_quote
+
+The book covers the 1891 Hunza-Nagar Campaign in detail, including the
+assault on Nilt Fort. Durand was wounded during the campaign and later
+served as Military Secretary to the Viceroy of India.
+
+Available digitally:
+- [[https://archive.org/details/makingafrontier00duragoog][Internet Archive: /The Making of a Frontier/]]
+
+Sources:
+- [[https://www.amazon.com/Making-Frontier-Experiences-Adventures-Hindu-Kush/dp/1169778364][Amazon: Durand, /Making of a Frontier/]]
+
+** C.4.4 D. L. R. Lorimer: Political Agent and Linguist (1920--1924)
+
+David Lockhart Robertson Lorimer (1876--1962), a Scottish-born
+British Army officer in the Indian Political Service, served as
+Political Agent in Gilgit from 1920 to 1924. He is one of the rare
+colonial administrators whose lasting contribution was not military or
+political but linguistic.
+
+*** Linguistic Work
+
+During his Gilgit years, Lorimer studied Khowar, Shina, and
+Burushaski---the latter being a language isolate spoken in the Hunza
+and Nagar valleys, unrelated to any known language family. In 1934 he
+returned to the area for a year to complete fieldwork.
+
+His publications:
+- /The Burushaski Language/, Vol. I: Introduction and Grammar (1935)
+- /The Burushaski Language/, Vol. II: Texts and Translations (1935)
+- /The Burushaski Language/, Vol. III: Vocabulary (1938)
+- /The Wakhi Language/ (1958)
+- /The Dum'ki Language/ (1939)
+- /Syntax of Colloquial Pashtu/ (1915)
+
+Lorimer's Burushaski documentation remains the foundational reference
+for the study of this isolate.
+
+*** What He Documented Beyond Linguistics
+
+Lorimer also collected "information of an ethnographic nature" during
+his fieldwork. His papers are held at the School of Oriental and
+African Studies (SOAS), London.
+
+Sources:
+- [[https://ehrafworldcultures.yale.edu/cultures/av07/documents/003][Yale eHRAF: Lorimer, Burushaski Vol. 1]]
+- [[https://archiveshub.jisc.ac.uk/search/archives/e9249605-de7c-3080-8d64-4e46b81da36d][Archives Hub: Papers of Lt.-Col. D. L. R. Lorimer]]
+- [[https://whowaswho-indology.info/3875/lorimer-david-lockhart-robertson/][Indology Who Was Who: Lorimer]]
+- [[https://www.burushopedia.org/860-2/][Burushaski Research Academy: Learn More]]
+
+** C.4.5 Emily Overend Lorimer
+
+Emily Overend Lorimer OBE (1881--1949), D.L.R.'s wife, was an
+Anglo-Irish journalist, linguist, political analyst, and writer in her
+own right. She accompanied her husband to Gilgit and to the 1934--35
+return trip to the Hunza-Nagar region.
+
+*** Publications
+
+- /Language Hunting in the Karakoram/ (1939) --- her account of the
+  1934--35 expedition, written for a popular audience. Documents daily
+  life, crafts, and society in Hunza.
+- Articles in /The Illustrated London News/ (19 October 1935):
+  - "The Crafts and Husbandry of the Burusho: A Mountain People in
+    the 'Apex' of India"
+  - "Domestic and Outdoor Life in Hunza: A Peasant Community whose
+    Language is Unique"
+- Co-author with D.L.R. of /Persian Tales/ (1919), fifty-eight
+  traditional folktales from Kermani and Bakhtiari dialects.
+
+Emily Lorimer's writing provides a dimension absent from most colonial
+accounts: attention to domestic life, women's work, and the material
+culture of everyday existence.
+
+Sources:
+- [[https://royalasiaticsociety.org/david-lockhart-robertson-lorimer-and-emily-overend-lorimer/][Royal Asiatic Society: The Lorimers]]
+- [[https://foxedquarterly.com/lesley-downer-e-o-lorimer-literary-review/][Slightly Foxed: E. O. Lorimer]]
+- [[https://en.wikipedia.org/wiki/Emily_Lorimer][Wikipedia: Emily Lorimer]]
+- [[https://books.google.com/books/about/Language_Hunting_in_the_Karakoram.html?id=xzpuAAAAMAAJ][Google Books: /Language Hunting in the Karakoram/]]
+
+** C.4.6 The Gilgit Scouts and the 1947 Revolt
+
+*** The Force
+
+The Gilgit Scouts were a paramilitary force established by the British
+to patrol the northern frontier. Recruited locally from Gilgit,
+Hunza, Nagar, and surrounding districts, they were officered by
+British and later seconded Indian Army officers.
+
+*** The 1947 Revolt
+
+When British India was partitioned on 15 August 1947, the Gilgit
+Agency's lease was returned to the Maharaja of Jammu & Kashmir.
+The Maharaja's accession to India on 26 October 1947 placed
+Gilgit---a predominantly Muslim region with cultural and trade ties to
+the west and north---under Indian sovereignty.
+
+On *1 November 1947*, Major William Alexander Brown, the British
+officer commanding the Gilgit Scouts, organised a coup d'etat
+(codenamed *Operation Datta Khel*). The Scouts arrested the
+Maharaja's governor, Brigadier Ghansara Singh, and took control of
+Gilgit.
+
+On *2 November*, the Pakistani flag was raised on the old tower in the
+Gilgit Scout Lines. On 16 November, a Pakistani political agent, Khan
+Mohammad Alam Khan, arrived and assumed administration.
+
+*** Brown's Role
+
+Major Brown later wrote a memoir, /Gilgit Rebellion: The Major Who
+Mutinied Over Partition of India/, in which he described his motives.
+While claiming to act independently, Brown was covertly supported by
+certain British individuals sympathetic to Pakistan. The British
+government never officially sanctioned his actions, but King George VI
+later awarded Brown an OBE---suggesting tacit approval.
+
+*** Consequences
+
+The revolt led directly to Pakistan's control of Gilgit-Baltistan.
+Combined with the tribal invasion of Kashmir and the subsequent
+Indo-Pakistani war, it created the territorial division that persists
+today. Gilgit-Baltistan remains constitutionally ambiguous: neither a
+full province of Pakistan nor part of the contested Azad Kashmir.
+
+Sources:
+- [[https://en.wikipedia.org/wiki/1947_Gilgit_rebellion][Wikipedia: 1947 Gilgit Rebellion]]
+- [[https://en.wikipedia.org/wiki/Gilgit_Scouts][Wikipedia: Gilgit Scouts]]
+- [[https://en.wikipedia.org/wiki/William_Brown_(British_Army_officer)][Wikipedia: Major William Brown]]
+- [[https://hisamullahbeg.blogspot.com/2010/12/gilgit-rebellion-1947-by-william-brown.html][Blog: Gilgit Rebellion by William Brown]]
+- [[https://www.orfonline.org/research/the-kashmir-that-india-lost-a-historical-analysis-of-india-s-miscalculations-on-gilgit-baltistan][ORF: The Kashmir That India Lost]]
+- [[https://thediplomat.com/2017/03/who-is-responsible-for-the-gilgit-baltistan-dispute/][The Diplomat: Gilgit-Baltistan Dispute]]
+
+
+* Sources (Consolidated)
+
+** Primary Accounts and Memoirs
+
+1. Vigne, G. T. /Travels in Kashmir, Ladak, Iskardo.../ (1842).
+   [[https://www.abebooks.co.uk/book-search/title/travels-kashmir-ladak-iskardo-countries/author/vigne-g-t/][AbeBooks]]
+
+2. Biddulph, John. /Tribes of the Hindoo Koosh/ (1880).
+   [[https://archive.org/details/in.ernet.dli.2015.40611][Internet Archive]]
+
+3. Collie, J. Norman. /From the Himalaya to Skye/ (repr. 2003).
+   [[https://www.abebooks.com/9781904466086/Himalaya-Skye-Collie-Norman-1904466087/plp][AbeBooks]]
+
+4. Mummery, A. F. /My Climbs in the Alps and Caucasus/ (1895, posthumous).
+   [[https://www.ukclimbing.com/articles/literature/mountain_literature_classics_my_climbs_in_the_alps+caucasus_by_albert_mummery-12380][UKC]]
+
+5. Durand, Algernon. /The Making of a Frontier/ (1899).
+   [[https://archive.org/details/makingafrontier00duragoog][Internet Archive]]
+
+6. Bechtold, Fritz. /Deutsche am Nanga Parbat: Der Angriff 1934/ (1935).
+
+7. Bauer, Paul. /Nanga Parbat 1937/ (published in Himalayan Journal).
+   [[https://www.himalayanclub.org/hj/10/11/nanga-parbat-1937/][HJ Vol. 10]]
+
+8. Bauer, Paul. "Nanga Parbat, 1938." /Himalayan Journal/ Vol. 11.
+   [[https://himalayanclub.org/hj/11/7/nanga-parbat-1938][HJ Vol. 11]]
+
+9. Buhl, Hermann. /Nanga Parbat Pilgrimage/ (German 1954; English trans. 1956).
+   [[https://www.goodreads.com/book/show/238371.Nanga_Parbat_Pilgrimage][Goodreads]]
+
+10. Lorimer, D. L. R. /The Burushaski Language/ (3 vols., 1935--38).
+    [[https://ehrafworldcultures.yale.edu/cultures/av07/documents/003][Yale eHRAF]]
+
+11. Lorimer, E. O. /Language Hunting in the Karakoram/ (1939).
+    [[https://books.google.com/books/about/Language_Hunting_in_the_Karakoram.html?id=xzpuAAAAMAAJ][Google Books]]
+
+12. Harrer, Heinrich. /Seven Years in Tibet/ (1952).
+
+13. Brown, William. /Gilgit Rebellion/ (memoir).
+    [[https://hisamullahbeg.blogspot.com/2010/12/gilgit-rebellion-1947-by-william-brown.html][Excerpts online]]
+
+** Himalayan Journal and Alpine Journal Articles
+
+14. "The Passing of Mummery." /Himalayan Journal/ Vol. 3.
+    [[https://www.himalayanclub.org/hj/3/1/the-passing-of-mummery/][HJ Vol. 3]]
+
+15. "The German Himalayan Expedition to Nanga Parbat, 1934." /HJ/ Vol. 7.
+    [[https://www.himalayanclub.org/hj/7/2/the-german-himalayan-expedition-to-nanga-parbat-1934/][HJ Vol. 7]]
+
+16. "Diary Jottings, Nanga Parbat, 1934." /HJ/ Vol. 7.
+    [[https://www.himalayanclub.org/hj/7/3/diary-jottings-nanga-parbat-1934/][HJ Vol. 7]]
+
+17. "Nanga Parbat, 1937." /HJ/ Vol. 10.
+    [[https://www.himalayanclub.org/hj/10/11/nanga-parbat-1937/][HJ Vol. 10]]
+
+18. "Nanga Parbat Reconnaissance, 1939." /HJ/ Vol. 14.
+    [[https://www.himalayanclub.org/hj/14/5/nanga-parbat-reconnaissance-1939/][HJ Vol. 14]]
+
+19. "The Disaster on Nanga Parbat, 1937." /Alpine Journal/ Vol. 49.
+    [[https://www.alpinejournal.org.uk/Contents/Contents_1937_files/AJ49%20210-227%20Various%20Disaster%20on%20Nanga%20Parbat.pdf][AJ PDF]]
+
+20. Frauenberger, W. and Buhl, H. "The Ascent of Nanga Parbat." /AJ/ Vol. 59 (1954).
+    [[https://www.alpinejournal.org.uk/Contents/Contents_1954_files/AJ59%201954%20371-390%20Frauenberger-Buhl%20Nanga%20Parbat.pdf][AJ PDF]]
+
+** Modern Analysis and Journalism
+
+21. ExplorersWeb: "A Climbing History of Nanga Parbat's Deadly Rakhiot Face."
+    [[https://explorersweb.com/a-climbing-history-of-nanga-parbats-deadly-rakhiot-face/][ExplorersWeb]]
+
+22. ExplorersWeb: "A History of Climbing on Nanga Parbat's Diamir Face."
+    [[https://explorersweb.com/groundbreaking-climbs-on-nanga-parbats-diamir-face/][ExplorersWeb]]
+
+23. Horrell, Mark. "An Early History of the 8000m Peaks."
+    [[https://www.markhorrell.com/blog/2015/an-early-history-of-the-8000m-peaks-mummery-crowley-and-the-duke-of-abruzzi/][markhorrell.com]]
+
+24. Abenteuer Berg: "70 Years Ago Today: Buhl on Nanga Parbat."
+    [[https://abenteuer-berg.de/en/70-years-ago-today-hermann-buhl-succeeds-in-making-the-first-ascent-of-nanga-parbat/][abenteuer-berg.de]]
+
+25. Wieland 200: "Tragic End at the Fateful Mountain of the Germans."
+    [[https://www.200jahrewieland.com/en/story/tragic-end-at-the-fateful-mountain-of-the-germans.html][wieland200.com]]
+
+26. Lemtur, N. "Locating Himalayan Porters in the Archivalien..." (PDF).
+    [[https://www.projekt-mida.de/wp-content/uploads/2020/03/Lemtur-Nokmedemla-Locating-Himalayan-porters-in-the-Archivalien-der-Expeditiongsgesellschaften-of-the-German-Alpine-Club-1929-1939.pdf][projekt-mida.de PDF]]
+
+27. Taylor & Francis: "In the Face of Tragedy: Nanga Parbat and National Socialist Radio."
+    [[https://www.tandfonline.com/doi/abs/10.1080/09523367.2020.1782889][tandfonline.com]]
+
+28. ORF: "The Kashmir That India Lost."
+    [[https://www.orfonline.org/research/the-kashmir-that-india-lost-a-historical-analysis-of-india-s-miscalculations-on-gilgit-baltistan][orfonline.org]]
+
+** Encyclopaedias and Reference
+
+29. Wikipedia: Nanga Parbat. [[https://en.wikipedia.org/wiki/Nanga_Parbat]]
+30. Britannica: Nanga Parbat. [[https://www.britannica.com/place/Nanga-Parbat]]
+31. Wikipedia: Adolf Schlagintweit. [[https://en.wikipedia.org/wiki/Adolf_Schlagintweit]]
+32. Wikipedia: 1934 Nanga Parbat climbing disaster. [[https://en.wikipedia.org/wiki/1934_Nanga_Parbat_climbing_disaster]]
+33. Wikipedia: Karl Wien. [[https://en.wikipedia.org/wiki/Karl_Wien]]
+34. Wikipedia: Hermann Buhl. [[https://en.wikipedia.org/wiki/Hermann_Buhl]]
+35. Wikipedia: 1953 German-Austrian Nanga Parbat expedition. [[https://en.wikipedia.org/wiki/1953_German%E2%80%93Austrian_Nanga_Parbat_expedition]]
+36. Wikipedia: Karl Herrligkoffer. [[https://en.wikipedia.org/wiki/Karl_Herrligkoffer]]
+37. Wikipedia: Peter Aufschnaiter. [[https://en.wikipedia.org/wiki/Peter_Aufschnaiter]]
+38. Wikipedia: Heinrich Harrer. [[https://en.wikipedia.org/wiki/Heinrich_Harrer]]
+39. Wikipedia: Gilgit Agency. [[https://en.wikipedia.org/wiki/Gilgit_Agency]]
+40. Wikipedia: 1947 Gilgit rebellion. [[https://en.wikipedia.org/wiki/1947_Gilgit_rebellion]]
+41. Wikipedia: Emily Lorimer. [[https://en.wikipedia.org/wiki/Emily_Lorimer]]
+42. Wikipedia: Tribes of the Hindoo Koosh. [[https://en.wikipedia.org/wiki/Tribes_of_the_Hindoo_Koosh]]
+43. Nature: The German Expedition to Nanga Parbat. [[https://www.nature.com/articles/1391099a0]]

@@ -1,0 +1,87 @@
+#+title: The Travellers to Diamer: A Palimpsest of Journeys
+#+subtitle: Literature survey of human journeys to the Nanga Parbat massif — from Faxian's peg-path to Kolouchová's last descent
+#+author: epistem-guardian (mu2tau + mayadev)
+#+date: 2026-03-08
+#+property: wp WP-0021
+#+property: status draft
+#+property: version v1
+#+startup: overview
+#+options: toc:3 num:t
+
+* Scope and Method
+
+This survey documents the *human journeys* to Diamer: who came, when,
+why, what they wrote, and what happened to them. The organising axis is
+chronological — each era contributes a layer to the palimpsest. The
+same mountain infrastructure, read by different agents through different
+models.
+
+The output is raw material for a story — tentatively titled "The
+Travellers to Diamer" — that takes the form of a guest register
+spanning 10,000 years.
+
+Method: web-accessible sources — primary texts (Chinese pilgrim accounts,
+expedition memoirs, colonial ethnographies), academic publications,
+mountaineering archives, news sources. Each part is self-contained with
+its own consolidated sources section.
+
+** What makes this survey different
+
+WP-0012 and WP-0013 surveyed the *place* — geology, glaciology, ecology,
+petroglyphs, spirit traditions. This WP surveys the *visitors* — a
+diachronic cross-section of everyone who came to the mountain and left
+a trace.
+
+** Structure
+
+| Part | Title                              | File                                         | Lines |
+|------+------------------------------------+----------------------------------------------+-------|
+| A    | Ancient Travellers                 | =TD-part-a-ancient-travellers.org=           |   644 |
+| B    | Medieval Travellers                | =TD-part-b-medieval-travellers.org=          |   890 |
+| C    | Colonial and Mountaineering Era    | =TD-part-c-colonial-mountaineering.org=      |  1055 |
+| D    | Modern Era                         | =TD-part-d-modern-era.org=                   |  1063 |
+| E    | The Voices Never Heard             | =TD-part-e-voices-never-heard.org=           |  1165 |
+|------+------------------------------------+----------------------------------------------+-------|
+|      | Total                              |                                              |  4817 |
+
+Each part is self-contained with its own sources section. The per-part
+files live in =surveys/travellers-to-diamer/= and are included below.
+
+** Key findings
+
+- *Dara Shikoh fort at Chilas* — resolved as a prestige misattribution.
+  The fort was built by Ali Sher Khan Anchan (Maqpon dynasty, c. 1600),
+  not the Mughal prince. (Part B)
+- *Faxian's crossing* — direct quotation from Legge translation of
+  the sāṅkupatha (peg-path) in the Indus gorge, 399 CE. (Part A)
+- *The dead of Nanga Parbat* — all named from 1934 (10 dead) and 1937
+  (16 dead), both European and Sherpa. Cumulative toll 1895–1953:
+  29 dead. (Part C)
+- *2013 massacre* — all 11 victims named. (Part D)
+- *Shina love story found* — /Yurmas ga Malang/ by Khalifa Rehmat Jan
+  Malang (1885–1971), comparable to Heer Ranjha. (Part E)
+- *The structural silence* — the most documented mountain in the
+  Karakoram has the least-documented local community. Seven compounding
+  causes analysed. (Part E)
+- *Diamer-Basha Dam* — 35,000+ petroglyphs threatened, only 14%
+  being scanned. No comparable effort for oral traditions. (Part D)
+
+* Part A: Ancient Travellers
+
+#+include: "travellers-to-diamer/TD-part-a-ancient-travellers.org" :minlevel 2
+
+* Part B: Medieval Travellers
+
+#+include: "travellers-to-diamer/TD-part-b-medieval-travellers.org" :minlevel 2
+
+* Part C: Colonial and Mountaineering Era
+
+#+include: "travellers-to-diamer/TD-part-c-colonial-mountaineering.org" :minlevel 2
+
+* Part D: Modern Era
+
+#+include: "travellers-to-diamer/TD-part-d-modern-era.org" :minlevel 2
+
+* Part E: The Voices Never Heard
+
+#+include: "travellers-to-diamer/TD-part-e-voices-never-heard.org" :minlevel 2

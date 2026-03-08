@@ -1,0 +1,890 @@
+#+title: The Travellers to Diamer -- Part B: Medieval Travellers
+#+subtitle: Arab geographers, Central Asian rulers, Mughals, Sikhs (700--1850 CE)
+#+author: epistem-guardian (mu2tau + mayadev)
+#+date: 2026-03-08
+#+property: wp WP-0021
+
+* Overview
+
+This survey covers the period from the arrival of Islam to the end of Dogra
+expansion: roughly 700--1850 CE. The Diamer region during this long span
+was never the centre of any empire. It sat at the edge --- north of Kashmir,
+south of Gilgit, west of Baltistan --- a zone of Shina-speaking independent
+communities through which trade routes threaded and armies occasionally
+passed. The question for each traveller or ruler is: did they actually reach
+Diamer, or did they describe it from a distance?
+
+The sections proceed chronologically: Arab geographers who knew the
+subcontinent's northern mountains from secondary knowledge; Central Asian
+and local rulers who actually controlled the territory; Mughals whose
+empire reached Kashmir but whose grip on the mountains beyond was tenuous;
+and finally the Sikh and Dogra campaigns that brought the region into the
+orbit of Lahore and then Jammu.
+
+#+begin_quote
+*Epistemic note*: For much of this period, Diamer itself produced no
+written records. The Shina-speaking communities of Chilas, Darel, Tangir,
+and their tributaries were pre-literate until Islamic conversion brought
+Arabic script. Our sources are overwhelmingly external --- Chinese annals,
+Persian chronicles, Mughal administrative documents, and British military
+reports looking backward. The rock inscriptions and petroglyphs (50,000+
+at sites along the Indus in Diamer district) are the territory's own voice,
+but they are pre-Islamic and fall silent around the 10th--11th century.
+#+end_quote
+
+* B.1 Arab Geographers and Travellers
+
+** B.1.1 The Problem of Distance
+
+The great Arab geographers of the 9th--12th centuries produced remarkable
+maps and geographical encyclopaedias, but their knowledge of the mountains
+north of Kashmir was indirect. The Hindu Kush and Karakoram lay beyond the
+frontiers of the Abbasid Caliphate. Travellers who crossed into India
+typically used the passes of Afghanistan (Khyber, Bolan, or Khawak), well
+south of the Gilgit-Diamer corridor. No Arab geographer is known to have
+visited Diamer directly.
+
+** B.1.2 Al-Masudi (c. 896--956)
+
+- *Full name*: Abu al-Hasan Ali ibn al-Husayn al-Masudi
+- *Origin*: Baghdad
+- *Active*: 10th century; died c. 956 CE
+- *Key work*: /Muruj al-Dhahab wa-Ma'adin al-Jawhar/ ("The Meadows of Gold
+  and Mines of Gems")
+- *Relevance to Diamer*: Indirect
+
+Al-Masudi has been called the "Herodotus of the Arabs." He travelled
+extensively --- to the Indus Valley, the western coast of India, Sri Lanka,
+East Africa, and the Caspian. His /Meadows of Gold/ combines universal
+history with scientific geography and includes descriptions of India's
+rivers (Indus, Ganges) and mountains. He depicted the Indus and Ganges on
+his maps, with Sri Lanka at the subcontinent's southern tip.
+
+However, al-Masudi's India travels focused on the Deccan plateau, the
+western coast, and the Indus valley lowlands. There is no evidence that he
+reached the upper Indus in the Diamer-Gilgit region, or that he described
+the mountains north of Kashmir with any specificity.
+
+- *Primary source*: Al-Masudi, /Muruj al-Dhahab/, Sprenger translation (1841),
+  available at Internet Archive
+  https://archive.org/details/historicalencycl00masrich
+- *Reference*: Britannica entry on al-Masudi
+  https://www.britannica.com/biography/al-Masudi
+- *Reference*: Library of Congress catalogue entry
+  https://www.loc.gov/item/2021666164
+
+** B.1.3 Al-Biruni (973--1048)
+
+- *Full name*: Abu Rayhan Muhammad ibn Ahmad al-Biruni
+- *Origin*: Khwarezm (modern Uzbekistan)
+- *Active*: Came to India with Mahmud of Ghazni's forces, 1017--1030 CE
+- *Key work*: /Tarikh al-Hind/ ("Kitab al-Hind") completed c. 1030 CE
+- *Relevance to Diamer*: Significant but indirect
+
+Al-Biruni is the Arab-world scholar most likely to have known of the
+mountains north of Kashmir. He spent over a decade in India, studied
+Sanskrit, and engaged deeply with Indian science and geography. His
+geographical contributions are remarkable:
+
+*** What al-Biruni knew about the northern mountains
+
+1. *Kashmir*: He characterised Kashmir as "a plateau surrounded by high
+   inaccessible mountains" and recognised its strategic position bridging
+   Tibetan culture, Inner Asia, and the Indian subcontinent. He noted
+   restricted access to the valley.
+
+2. *Mountain height measurement*: At Nandana Fort in the Salt Range (Pind
+   Dadan Khan, modern Pakistan), al-Biruni devised a trigonometric method
+   to measure the Earth's radius by observing the height of a mountain and
+   the dip of the horizon. His result (equivalent to ~3,929 English miles)
+   was 99% accurate. This demonstrates his sophisticated understanding of
+   mountain topography.
+
+3. *The Indus sources*: Al-Biruni records descriptions of Kashmir and the
+   source of the Indus, suggesting awareness of the river's northern
+   headwaters.
+
+4. *Northern frontier*: He was cognisant of the geostrategic position of
+   Kashmir along vital trade corridors connecting the Indian subcontinent
+   with Inner Asia.
+
+*** Did he mention Diamer or Nanga Parbat specifically?
+
+No direct reference to Diamer, Chilas, or the mountain later called Nanga
+Parbat has been identified in the available translations of /Kitab al-Hind/.
+His description of the mountains north of Kashmir is general --- "high
+inaccessible mountains" --- rather than naming specific peaks or valleys.
+The Gilgit region was under Buddhist or Tibetan influence at this time,
+outside the sphere of the Ghaznavid campaigns that brought al-Biruni to
+India.
+
+- *Primary source*: Al-Biruni, /Kitab al-Hind/, Sachau translation (1888),
+  Internet Archive
+  https://archive.org/details/alberunisindia_201612
+- *Primary source*: Al-Biruni, /Kitab al-Hind/, Qeyamuddin Ahmad edition,
+  Internet Archive
+  https://archive.org/details/india-by-al-biruni-qeyamuddin-ahmad
+- *Reference*: Encyclopaedia Iranica, "Biruni: Geography"
+  https://www.iranicaonline.org/articles/biruni-abu-rayhan-iv/
+- *Reference*: Kashmir Life, "Al-Biruni's Kashmir"
+  https://kashmirlife.net/al-birunis-kashmir-vol-15-issue-43-338439/
+- *Reference*: Nandana Fort and al-Biruni's geodetic experiment
+  https://travelpakistani.com/blogs/nandna-fort-where-al-biruni-measures-the-radius-of-the-earth/71
+
+** B.1.4 Al-Idrisi (1100--1165)
+
+- *Full name*: Abu Abdullah Muhammad al-Idrisi
+- *Origin*: Ceuta (modern Morocco)
+- *Active*: Court of King Roger II, Palermo, Sicily
+- *Key work*: /Nuzhat al-Mushtaq fi Ikhtiraq al-Afaq/ ("Tabula Rogeriana"),
+  completed 1154 CE
+- *Relevance to Diamer*: Minimal
+
+Al-Idrisi produced the most advanced medieval world map, engraved on a
+six-foot silver disc over 15 years of work at the Norman court in Sicily.
+His geography divides the known world into seven climatic zones and
+seventy sections. He drew on earlier Arab geographers plus reports from
+Norman travellers and merchants.
+
+Al-Idrisi's maps include the Indian subcontinent, but his knowledge of the
+mountains north of Kashmir was derived from earlier sources rather than
+direct observation. No specific reference to the Gilgit-Diamer region has
+been identified in the /Tabula Rogeriana/.
+
+- *Primary source*: Description at Library of Congress
+  https://blogs.loc.gov/maps/2022/01/al-idrisis-masterpiece-of-medieval-geography/
+- *Reference*: Wikipedia, "Muhammad al-Idrisi"
+  https://en.wikipedia.org/wiki/Muhammad_al-Idrisi
+- *Reference*: National Geographic education resource
+  https://education.nationalgeographic.org/resource/al-idrisi/
+
+** B.1.5 Ibn Battuta (1304--1369)
+
+- *Full name*: Abu Abdullah Muhammad Ibn Battuta
+- *Origin*: Tangier, Morocco
+- *Journey to India*: 1332--1333 CE
+- *Key work*: /Rihla/ ("A Gift to Those Who Contemplate the Wonders of Cities
+  and the Marvels of Travelling"), dictated to Ibn Juzayy
+- *Relevance to Diamer*: None --- he did not pass through the region
+
+*** Ibn Battuta's actual route to India
+
+Ibn Battuta crossed into India via Afghanistan, not via the northern
+mountains. His route:
+
+1. From Khorasan through Afghanistan
+2. Crossed the Hindu Kush via the *Khawak Pass* at ~4,000 m / 13,000 ft
+3. Through Ghazni and Kabul
+4. Reached the Indus River on *12 September 1333*
+5. Entered Sindh, then proceeded to Multan, Lahore, and Delhi
+
+*** The Hindu Kush passage
+
+Ibn Battuta's account of the Hindu Kush is vivid. He wrote:
+
+#+begin_quote
+"After this I proceeded to the city of Barwan, in the road to which is a
+high mountain, covered with snow and exceedingly cold; they call it the
+Hindu Kush, that is Hindu-slayer, because most of the slaves brought
+thither from India die on account of the intenseness of the cold."
+#+end_quote
+
+This passage gives us the famous folk etymology of "Hindu Kush." But the
+Khawak Pass lies far to the west of Diamer --- it is in the Afghan Hindu Kush,
+near Baghlan, some 500 km west of Chilas. Ibn Battuta's Indus crossing was
+in Sindh, at the southern end of the river, not in the northern gorges near
+Diamer.
+
+*** Assessment
+
+Ibn Battuta came nowhere near Diamer. His route through Afghanistan to
+Sindh bypassed the entire Karakoram-Western Himalaya mountain system.
+He is irrelevant to Diamer's specific history, but his Hindu Kush passage
+provides the best medieval Arab account of the broader mountain system.
+
+- *Primary source*: /Rihla/ of Ibn Battuta, Gibb translation, available via
+  Internet Archive and multiple publishers
+- *Reference*: Wikipedia, "The Travels of Ibn Battuta"
+  https://en.wikipedia.org/wiki/The_Travels_of_Ibn_Battuta
+- *Reference*: Britannica, "Ibn Battuta"
+  https://www.britannica.com/biography/Ibn-Battuta
+- *Reference*: The Conversation, "Ibn Battuta: a 14th-century judge..."
+  https://theconversation.com/ibn-battuta-a-14th-century-judge-and-ambassador-travelled-further-than-marco-polo-the-rihla-records-his-adventures-246148
+
+** B.1.6 Summary: Arab Geography and Diamer
+
+| Geographer    | Dates     | Visited India? | Mentioned Diamer? | Closest reference         |
+|---------------+-----------+----------------+--------------------+---------------------------|
+| Al-Masudi     | c. 896--956 | Yes (lowlands)  | No                 | Indus valley, rivers      |
+| Al-Biruni     | 973--1048  | Yes (13 years)  | No (indirectly)    | Kashmir mountains, Indus source |
+| Al-Idrisi     | 1100--1165 | No              | No                 | Compiled earlier sources  |
+| Ibn Battuta   | 1304--1369 | Yes             | No                 | Hindu Kush (Khawak Pass)  |
+
+None of these travellers visited or specifically described Diamer. Al-Biruni
+comes closest, with his description of Kashmir's "high inaccessible mountains"
+to the north and his knowledge of the Indus sources. The Diamer region in
+this period was under Buddhist (Patola Shahi) and then Tibetan influence,
+outside the circuits of Arab-world travellers.
+
+* B.2 Central Asian and Local Rulers
+
+** B.2.1 The Patola Shahi Dynasty (c. 6th--8th century CE)
+
+- *Also known as*: Palola Shahi, Gilgit Shahis, rulers of "Little Bolur" (Chinese: 小勃律)
+- *Religion*: Vajrayana Buddhism
+- *Capital*: Gilgit
+- *Period*: c. 6th century -- c. 750 CE
+- *Relevance to Diamer*: High --- they controlled the route through the region
+
+*** Historical context
+
+The Patola Shahis were a Buddhist dynasty ruling from Gilgit over a kingdom
+located on the strategic trans-Himalayan trade route (now the Karakoram
+Highway corridor). Their kingdom controlled the passage between Central Asia,
+Tibet, and the Indian subcontinent. Chinese Tang dynasty records refer to
+the kingdom as "Bolur" (勃律), subdivided into Greater Bolur (Baltistan)
+and Lesser Bolur (Gilgit).
+
+*** Known rulers
+
+The first known Patola Shahi ruler, per Tang annals, was King *Somana*
+(6th century CE). The best-documented ruler is *Navasurendraditya-nandin*
+(r. c. 644--655 CE), whose reign is attested by numerous Sanskrit
+inscriptions, including the Danyor Rock Inscriptions on the left bank of
+the Gilgit River.
+
+*** The Gilgit Manuscripts
+
+In 1931, cattle grazers discovered a wooden box inside a circular chamber
+within a Buddhist stupa near Gilgit. It contained birch-bark manuscripts
+dating to the 5th--6th century CE --- Buddhist canonical texts including the
+Lotus Sutra. A second set was excavated at Naupur in 1938, along with
+Buddhist bronze cult objects bearing Patola Shahi dedicatory inscriptions.
+These are among the oldest surviving manuscript collections in South Asia.
+
+*** Tibet-Tang rivalry over Gilgit
+
+The Diamer-Gilgit region became a pawn in the great-power rivalry between
+the Tibetan Empire and Tang China:
+
+- *656 CE*: Tibetan Empire attacks Patola Shahis
+- *Late 600s*: Tibet wrests control from Tang dynasty
+- *737/738*: Tibetan troops under Minister Bel Kyesang Dongtsab conquer
+  Little Palola
+- *747 CE*: Tang general *Gao Xianzhi* (a Korean-origin general serving
+  Tang) leads a remarkable campaign of ~10,000 cavalry across the Pamirs,
+  defeats Tibet's forces, captures the Patola Shahi king and queen, and
+  temporarily restores Tang control over the Gilgit passes
+- *755 CE*: The An Lushan Rebellion forces Tang withdrawal from Central Asia;
+  Chinese influence in the region collapses permanently
+
+*** Connection to Diamer
+
+The Patola Shahis controlled the Indus corridor through which modern Diamer
+lies. The tens of thousands of Buddhist petroglyphs along the Indus at
+Chilas, Thalpan, and Shatial --- documented by the Pakistan-German
+Archaeological Mission (Karl Jettmar from 1980, Harald Hauptmann from 1989)
+--- were carved during and around the Patola Shahi period. These include
+stupas, lotus-seated Bodhisattvas (especially Maitreya), and inscriptions
+in Kharoshthi, Brahmi, Sogdian, and other scripts. An estimated 50,000
+petroglyphs and 5,000 inscriptions have been documented across northern
+Pakistan's Karakoram Highway corridor.
+
+The rock art evidence tells us that the Indus valley through Diamer was a
+major thoroughfare for Buddhist travellers, merchants, and pilgrims during
+the Patola Shahi period. Diamer was not a backwater --- it was on a silk
+road branch.
+
+- *Reference*: Wikipedia, "Patola Shahis"
+  https://en.wikipedia.org/wiki/Patola_Shahis
+- *Reference*: Travel the Himalayas, "The Patola Shahis of Gilgit"
+  https://travelthehimalayas.com/kiki/2018/8/27/the-patola-shahis-of-gilgit
+- *Reference*: Gilgit Manuscripts at History of Information
+  https://www.historyofinformation.com/detail.php?id=4213
+- *Reference*: Gao Xianzhi at Wikipedia
+  https://en.wikipedia.org/wiki/Gao_Xianzhi
+- *Reference*: Hauptmann (2024), /Lords of the Mountains/, Heidelberg
+  University Publishing (review)
+  https://jac.qau.edu.pk/index.php/jac/article/view/157
+- *Reference*: Archnet, "Pre-Islamic Heritage in the Northern Areas"
+  https://www.archnet.org/publications/4868
+- *Reference*: Voice of Vienna, "Buddhist Petroglyphs of Chilas"
+  https://voiceofvienna.org/2025/01/kashmir-buddhist-petroglyphs-of-chilas/
+- *Reference*: CEUR-WS, "Tracing the Palola Shahi Royal Genealogy"
+  https://ceur-ws.org/Vol-3814/paper5.pdf
+
+** B.2.2 The Decline of Buddhism and the Transition Period (8th--14th century)
+
+The collapse of Patola Shahi power after the Tang withdrawal left the
+Diamer-Gilgit region in a political vacuum. The archaeological evidence
+from rock art tells a clear story:
+
+- *8th century*: Iranian (possibly Tibetan) influence replaces Buddhist
+  patronage. Production of petroglyphs declines.
+- *9th--10th century*: A completely new ethnic element appears along the
+  Indus at Chilas sites, with radically different artistic styles,
+  indicating that Buddhism had lost its prominent position.
+- *11th--12th century*: The last datable pre-Islamic monuments. After this,
+  the rock-carving tradition ceases entirely.
+
+This transition period is poorly documented in written sources. The Shina-
+speaking communities who inhabit Diamer today were likely establishing
+themselves during this period, but they left no written records.
+
+- *Reference*: Encyclopaedia Iranica, "Chilas"
+  https://www.iranicaonline.org/articles/chilas-township-in-the-upper-indus-valley-in-pakistani-controlled-jammu-and-kashmir-almost-directly-south-of-gilgit-and-loc/
+- *Reference*: Daily Times, "Tracing the roots of Buddhism in
+  Gilgit Baltistan"
+  https://dailytimes.com.pk/319210/tracing-the-roots-of-buddhism-in-gilgit-baltistan/
+
+** B.2.3 The Trakhan Dynasty of Gilgit (c. 7th century -- c. 1810)
+
+- *Origin*: Turkic tribes; some sources say Zoroastrian background
+- *Religion*: Initially Zoroastrian or syncretic; later Ismaili Muslim
+- *Capital*: Gilgit
+- *Duration*: Several centuries; ended c. 1810 with the death of Raja Abbas
+- *Relevance to Diamer*: Direct --- Chilas, Darel, Tangir were within the
+  Trakhan sphere of influence
+
+*** Origins and establishment
+
+Turkic tribes arrived in Gilgit during the 7th century and founded what
+became known as the Trakhan dynasty. The rulers of Yasin, Punial, and
+Chitral had close ties with the Trakhan dynasty, and the tribal regions of
+Gor, Darel, Chilas, Tangir, and Herban had their origin and history linked
+with the Trakhan rulers.
+
+*** Notable rulers (selected)
+
+| Ruler              | Dates (approx)  | Notes                                    |
+|--------------------+------------------+------------------------------------------|
+| Raja Trakhan       | 1310--1335       | Ismaili ruler of Gilgit                  |
+| Raja Somul         | 1335--1390       | Successor                                |
+| Raja Khusaro Khan  | 1390--1435       |                                          |
+| Raja Hyder Khan    | 1435--1480       |                                          |
+| Raja Chalis Khan   | 1480--1515       |                                          |
+| Raja Nur Khan      | 1515--1565       |                                          |
+| Shah Mirza I       | enthroned 1127   | Earlier period, formal enthronement      |
+
+The Ismailis ruled Gilgit for approximately 255 years during the Trakhan
+period.
+
+*** Relationship to Diamer
+
+The Trakhan rulers exercised suzerainty over the Diamer region, but actual
+control was mediated through local Shina-speaking communities who governed
+themselves through jirga (council of elders). The British later called the
+Indus valley below Chilas and its tributary valleys --- Darel, Tangir,
+Harban, Sazin, Kandia --- "Yaghestan" ("land of the free"). These
+communities were "a nest of tiny republics; there was one in almost every
+side valley, each loosely guided by a jirga but effectively leaderless,
+all at war with one another and feuding internally."
+
+The Trakhans provided an overarching political framework, but the Diamer
+communities fiercely resisted external domination.
+
+- *Reference*: Ismaili.net, "The Trakhan dynasty in Central Asia"
+  https://www.ismaili.net/histoire/history07/history705.html
+- *Reference*: The Karakoram, "Trakhan"
+  https://thekarakoram.com.pk/trakhan/
+- *Reference*: Daily Times, "Sikh, Dogra and British wars with Chilasis,
+  Darelis and Tangeris"
+  https://dailytimes.com.pk/484140/sikh-dogra-and-british-wars-with-chilasis-darelis-and-tangeris-part-i/
+
+** B.2.4 The Spread of Islam in Diamer
+
+- *Period*: c. 14th--16th century (approximate)
+- *Mechanism*: Sufi missionaries, not military conquest
+- *Sect*: Sunni (Deobandi school, introduced by Pashtun preachers)
+
+*** How Islam reached the region
+
+Islam arrived in Gilgit-Baltistan through multiple vectors, at different
+times, with different sectarian orientations:
+
+| Region    | Sect       | Source of conversion                     | Period (approx)  |
+|-----------+------------+------------------------------------------+------------------|
+| Baltistan | Shia       | Via Kashmir and Central Asia             | 14th--15th c.    |
+| Gilgit    | Ismaili    | Trakhan rulers, Central Asian Sufis      | 14th c. onward   |
+| Diamer    | Sunni      | Sufi missionaries from Kaghan/Swat       | 14th--16th c.    |
+
+*** Conversion in Diamer specifically
+
+The ancestors of Chilas were converted to Islam by a Sufi named *Syed Noor
+Shah* (also known as Ghazi Baba), who came from the Kaghan Valley. He was
+the first person to preach Islam in Thak (a locality in Chilas) and built
+the first mosque there, which reportedly still stands.
+
+In the Darel and Tangir valleys, Islam came from Swat, brought by Pashtun
+preachers. The Deobandi school of Sunni Islam became dominant in Diamer.
+
+*** The broader context
+
+The Islamisation of the northern areas was part of a wider movement
+connected to Sufi orders spreading from Kashmir and Central Asia. The most
+influential figure for Kashmir itself was *Mir Sayyid Ali Hamadani*
+(c. 1314--1384), a Persian Sufi of the Kubrawiya order who arrived in
+Kashmir around 1372 CE with 700 artisans and scholars. While Hamadani's
+direct impact was on Kashmir rather than Diamer, his movement created the
+conditions under which Islam spread northward into the mountain valleys.
+
+*** The pre-Islamic legacy
+
+The Buddhist rock carvings at Chilas show that conversion was gradual.
+Buddhist artistic traditions persisted until the 11th--12th century, well
+after Islam had arrived in neighbouring regions. The replacement was not
+violent iconoclasm but a slow cultural transition as trade routes shifted
+and new religious authorities gained influence.
+
+- *Reference*: Wikipedia, "Chilas" (conversion account)
+  https://en.wikipedia.org/wiki/Chilas
+- *Reference*: Wikipedia, "Diamer District"
+  https://en.wikipedia.org/wiki/Diamer_District
+- *Reference*: ASC Central Asia, "Blood Revenge, Pushtoons and Islam in
+  Chilas"
+  http://asc-centralasia.edu.pk/old_site/Issue_64/05_Blood_Revenge.html
+- *Reference*: Wikipedia, "Mir Sayyid Ali Hamadani"
+  https://en.wikipedia.org/wiki/Mir_Sayyid_Ali_Hamadani
+
+** B.2.5 Ali Sher Khan Anchan and the Maqpon Conquest of Diamer (c. 1600)
+
+- *Full name*: Ali Sher Khan Anchan
+- *Origin*: Skardu, Baltistan
+- *Dynasty*: Maqpon
+- *Reign*: c. 1580/1595--1633
+- *Religion*: Muslim (Shia/Nourbakhshi)
+- *Relevance to Diamer*: Direct military conquest
+
+*** Who was Ali Sher Khan Anchan?
+
+The greatest of the Balti rulers. He unified Baltistan and expanded the
+Maqpon kingdom to its maximum extent: Ladakh and western Tibet in the east,
+Chitral and Kafiristan in the west, Gilgit and Hunza in the north.
+
+*** The conquest of Diamer
+
+Incessant raids and attacks on Roundu, Dras, Gultari, and Shigar by people
+from Gilgit, Chilas, and Astore forced Ali Sher Anchan to march with a
+strong army. He conquered *Astore, Gilgit, Hunza, Nagar, and Chilas*. From
+Gilgit he advanced to conquer Chitral and Kafiristan.
+
+*** The Chilas Fort
+
+The fort at Chilas (*Qila Chilas*) was *constructed by Ali Sher Khan Anchan*
+in the late 16th century during his campaigns. This is a critical finding
+for the Dara Shikoh question (see B.3.1 below).
+
+*** Mughal connections
+
+Ali Sher Khan Anchan had friendly relations with the Mughal court. He
+established marital alliances with the Gyalpo (ruler) of Ladakh and the
+Trakhan ruler of Gilgit. He sent musicians from Skardu to Delhi to learn
+Indian music; Mughal architecture influenced the region under his reign.
+He also introduced polo to the Gilgit region.
+
+He was succeeded by Adam Khan in 1633.
+
+- *Reference*: Wikipedia, "Ali Sher Khan Anchan"
+  https://en.wikipedia.org/wiki/Ali_Sher_Khan_Anchan
+- *Reference*: Prestine Travels, "Forts in Gilgit Baltistan"
+  https://prestinetravels.com/forts-in-gilgit-baltistan/
+- *Reference*: Skardu City, "Major local dynasties of Baltistan"
+  https://skarducity.com/2020/07/31/the-major-local-dynasties-of-baltistan/
+- *Reference*: Pakistan Traveler, "The Maqpon Dynasty"
+  https://www.pakistantraveler.com/maqpon-dynasty/
+
+* B.3 Mughal Connections
+
+** B.3.1 The Dara Shikoh Fort Question -- RESOLVED
+
+#+begin_quote
+*Claim*: A fort at Chilas was built by Dara Shikoh, the Mughal prince and
+eldest son of Shah Jahan.
+
+*Verdict*: Almost certainly *false*. The attribution is a misidentification.
+The fort at Chilas (Qila Chilas) was built by *Ali Sher Khan Anchan* of the
+Maqpon dynasty in the late 16th century, during his military campaigns
+that conquered Astore, Gilgit, Hunza, Nagar, and Chilas.
+#+end_quote
+
+*** The evidence against Dara Shikoh
+
+1. *No primary Mughal source attests to it.* Dara Shikoh's movements are
+   well documented in Mughal chronicles (the /Alamgirnama/, the accounts of
+   Niccolao Manucci, and multiple court histories). None place him at
+   Chilas or anywhere in the northern mountain territories.
+
+2. *Dara Shikoh's known life.* He was born 1615, was appointed governor of
+   various Mughal provinces (Allahabad, Punjab, Multan, and the Kabul subah
+   at different times), but his intellectual interests (Upanishad translation,
+   Sufi mysticism, the /Majma ul-Bahrain/) kept him near the Mughal
+   heartland. The war of succession (1657--1659) ended with his defeat at
+   the Battle of Samugarh (May 1658) and execution on 30 August 1659. There
+   is no documented period when he would have been building forts at the
+   edge of the empire.
+
+3. *The fort pre-dates Dara Shikoh.* Ali Sher Khan Anchan reigned
+   c. 1580--1633, dying before Dara Shikoh reached adulthood. The Chilas
+   fort was built during Anchan's campaigns of conquest in the late 16th
+   century.
+
+4. *Mughal administrative reach.* The Mughal empire conquered Kashmir in
+   1586 (Akbar) and Shah Jahan carved it out as a separate subah. But
+   Mughal control did not extend effectively beyond the Kashmir valley into
+   the independent Shina-speaking territories of Diamer. The Mughals had
+   *diplomatic* relations with rulers of Gilgit and Baltistan (Ali Sher
+   Khan Anchan had friendly ties with the Mughal court), but they did not
+   garrison the area.
+
+5. *Local tourism attribution.* The "Dara Shikoh Fort" label appears in
+   modern tourism materials (e.g., Gilgit-Baltistan tourism department
+   websites). This is likely a prestige attribution --- associating a local
+   landmark with a famous Mughal prince to enhance its historical cachet.
+   Similar misattributions are common across South Asia.
+
+*** How the misattribution likely arose
+
+The Maqpon conquest of Chilas coincided roughly with the Mughal period, and
+Ali Sher Khan Anchan had documented connections to the Mughal court. Over
+centuries of oral transmission, the local fort may have become associated
+with the Mughal dynasty generally, and then with its most romanticised
+figure, Dara Shikoh --- the philosopher-prince, translator of the
+Upanishads, tragic heir. Dara Shikoh's name carries cultural prestige that
+a Balti ruler's does not, especially in a Sunni region where Mughal
+identity resonates.
+
+- *Reference*: Wikipedia, "Dara Shikoh"
+  https://en.wikipedia.org/wiki/Dara_Shikoh
+- *Reference*: Britannica, "Dara Shikoh"
+  https://www.britannica.com/biography/Dara-Shikoh
+- *Reference*: Wikipedia, "Ali Sher Khan Anchan"
+  https://en.wikipedia.org/wiki/Ali_Sher_Khan_Anchan
+- *Reference*: Prestine Travels, "Forts in Gilgit Baltistan"
+  https://prestinetravels.com/forts-in-gilgit-baltistan/
+- *Reference*: GB Tourism Dept, "District Diamer"
+  https://visitgilgitbaltistan.gov.pk/district/id/4
+
+** B.3.2 Mughal Administration and the Northern Frontier
+
+*** Akbar's conquest of Kashmir (1586)
+
+Akbar annexed Kashmir and initially placed it under the Kabul subah. The
+Mughal interest in Kashmir was strategic (controlling passes to Central Asia)
+and personal (the Mughal emperors loved Kashmir as a summer retreat). But
+the mountains north of the Kashmir valley --- Diamer, Gilgit, Baltistan ---
+lay beyond effective Mughal control.
+
+*** Shah Jahan's extension (by 1634)
+
+Shah Jahan carved Kashmir out as a separate subah. His son Salim (later
+Jahangir) married a princess of Baltistan, and by 1634, Shah Jahan had
+captured Ladakh and Baltistan, incorporating them into the Kashmir province.
+This brought Mughal claims closer to Diamer, but the fiercely independent
+Shina communities of Chilas, Darel, and Tangir were never effectively
+administered by the Mughals.
+
+*** Abu'l Fazl's Ain-i-Akbari
+
+The /Ain-i-Akbari/, Abu'l Fazl's administrative compendium of Akbar's empire
+(written 1589--1596), describes the fifteen subahs in detail. It includes
+coverage of the Kashmir subah and references to the /Rajatarangini/ (the
+12th-century Sanskrit chronicle of Kashmir's kings). However, the /Ain-i-Akbari/
+treats the northern mountain territories as frontier zones beyond
+detailed administrative description. Gilgit and Chilas do not appear as
+administered units --- they were known but not governed.
+
+- *Primary source*: /Ain-i-Akbari/, Blochmann translation (1873), Vol. I,
+  Internet Archive
+  https://archive.org/details/in.ernet.dli.2015.108204
+- *Primary source*: /Ain-i-Akbari/, Jarrett translation, Vols. II--III,
+  Internet Archive
+  https://archive.org/details/dli.ministry.00123
+- *Reference*: Heritage Lab, "Mapping the Subahs of the Mughal Empire"
+  https://www.theheritagelab.in/map-subahs-mughal-empire/
+- *Reference*: ORF, "The Kashmir that India Lost"
+  https://www.orfonline.org/research/the-kashmir-that-india-lost-a-historical-analysis-of-india-s-miscalculations-on-gilgit-baltistan
+
+** B.3.3 Mughal-era connections via the Maqpon dynasty
+
+The most concrete Mughal-era link to Diamer runs through the Maqpon rulers
+of Skardu, particularly Ali Sher Khan Anchan (see B.2.5 above). The Maqpons
+unified Gilgit-Baltistan with Chitral and Ladakh, maintained friendly
+relations with the Mughal court, and adopted Mughal architectural styles.
+This was a relationship of equals and allies, not of imperial centre and
+administered province.
+
+* B.4 Sikh and Dogra Campaigns (1839--1850)
+
+** B.4.1 Zorawar Singh's Invasion of Baltistan (1839--1840)
+
+- *Full name*: General Zorawar Singh Kahluria
+- *Origin*: Kahlur (Bilaspur), a Rajput principality in the Himalayan foothills
+- *Served*: Gulab Singh, Dogra ruler of Jammu (vassal of the Sikh Empire)
+- *Campaign*: Conquest of Baltistan, winter 1839/40
+- *Relevance to Diamer*: Indirect but significant --- the Dogra conquest of
+  Baltistan set the stage for later campaigns into Gilgit and Chilas
+
+*** Background
+
+After conquering Ladakh for Gulab Singh in 1834--1840, Zorawar Singh turned
+his attention to Baltistan. He exploited a succession dispute in the Maqpon
+dynasty: Prince Muhammad Shah, disinherited by his father Raja Ahmad Shah
+of Skardu, sought Dogra support.
+
+*** The campaign
+
+With an army of approximately 15,000 (Dogras augmented by a large Ladakhi
+contingent), Zorawar Singh invaded Baltistan in the winter of 1839/40.
+
+Key events:
+
+1. *Bridge-building across the Indus*: Mehta Basti Ram and his men cut
+   trees and built a temporary bridge over the icy Indus at night.
+2. *Battle at Wanko Pass*: While the Dogras were crossing the Indus, Balti
+   forces under Ghulam Hussain and Wazir Sultan Beg attacked. After fierce
+   fighting, Ghulam Hussain was killed and Sultan Beg retreated with
+   casualties of ~2,000 dead and 1,000 wounded.
+3. *Initial setback*: An advance brigade of 5,000 under Nidhan Singh lost
+   its way in the snow, was surrounded, and many soldiers perished from cold.
+4. *Siege of Skardu*: Zorawar Singh besieged Skardu fort for fifteen days.
+   Ahmad Shah surrendered.
+
+*** Aftermath
+
+Ahmad Shah was deposed. His son Muhammad Shah was installed as ruler under
+Dogra suzerainty, ordered to pay annual tribute of Rs. 7,000. Zorawar Singh
+took control of Kharmang, Khapalu, Tolti, Parkuta, Shigar, Rondu, and Astor.
+
+*** Note on Diamer
+
+Zorawar Singh's campaign targeted Baltistan (Skardu), not Diamer directly.
+But the conquest of Astor brought Dogra forces close to the Diamer region
+and established the military infrastructure for later interventions.
+
+- *Reference*: Wikipedia, "Dogra invasion of Baltistan"
+  https://en.wikipedia.org/wiki/Dogra_invasion_of_Baltistan
+- *Reference*: Wikipedia, "Zorawar Singh (Dogra general)"
+  https://en.wikipedia.org/wiki/Zorawar_Singh_(Dogra_general)
+- *Reference*: VIF India, "Looking Back at General Zorawar Singh"
+  https://www.vifindia.org/article/2024/march/22/Looking-Back-at-General-Zorawar-Singh-and-his-Campaigns-An-Assessment
+- *Reference*: Indian Defence Review, "Trans-Himalayan Campaigns"
+  https://indiandefencereview.com/trans-himalayan-campaigns-of-gen-zorawar-singh/
+
+** B.4.2 Zorawar Singh's Death at To-yo, Tibet (12 December 1841)
+
+Having conquered Ladakh and Baltistan, Zorawar Singh received permission from
+Maharaja Sher Singh to invade western Tibet (Ngari Khorsum) in 1841. He
+stormed the fort at Taklakot on 6 September 1841.
+
+But the Tibetan counter-attack came at the *Battle of To-yo* on 12 December
+1841. In the early exchange of fire, Zorawar was wounded in the right
+shoulder by a matchlock ball. Despite the wound, he killed four or five
+Tibetans before a lance was hurled through his chest. He fell without
+uttering a sound.
+
+His death demoralised the Dogra forces. Many were captured; many more
+perished in the hastily organised flight from Tibet in the bitter winter
+cold.
+
+*** Significance for Diamer
+
+Zorawar Singh never reached Diamer. His campaigns operated on the
+Ladakh-Baltistan-Tibet axis. But his conquests established Dogra control
+over the southern and eastern approaches to Gilgit-Baltistan, creating the
+political framework within which Diamer would eventually be subjugated.
+
+- *Reference*: Wikipedia, "Dogra-Tibetan war"
+  https://en.wikipedia.org/wiki/Dogra%E2%80%93Tibetan_war
+
+** B.4.3 The Sikh Intervention in Gilgit (1842--1843)
+
+- *Commander*: Colonel Nathu Shah
+- *Sent by*: Sheikh Ghulam Mohi-ud-Din, Kashmir Governor of the Sikh Empire
+- *Context*: The murder of Sikander Shah of Gilgit by Raja Gohar Aman of Yasin
+
+*** Events
+
+After Sikander Shah of Gilgit was killed by Raja Gohar Aman of Yasin, the
+Sikh governor of Kashmir dispatched Colonel Nathu Shah with a Sikh force to
+restore order. The Sikh forces:
+
+1. Defeated Gohar Aman
+2. Established a garrison at Gilgit
+3. Reinstated Karim Khan (brother of the late Sikander Shah) as vassal ruler
+
+By the end of 1843, Sikh forces had secured Gilgit, Astore, and Chilas. A
+strong Sikh garrison was stationed at Gilgit under a thanedar (military
+commandant).
+
+*** Significance
+
+This was the *first external military garrison established at Chilas*
+(beyond Ali Sher Khan Anchan's earlier conquest). The Sikh presence in
+Chilas was brief and tenuous, but it established the precedent of external
+military control that the Dogras and British would continue.
+
+- *Reference*: Wikipedia, "Sikh intervention in Gilgit"
+  https://en.wikipedia.org/wiki/Sikh_intervention_in_Gilgit
+
+** B.4.4 The Treaty of Amritsar (16 March 1846) and Its Consequences
+
+*** The sale of Kashmir
+
+After the First Anglo-Sikh War (1845--1846), the British East India Company
+sold Kashmir to Raja Gulab Singh of Jammu for 75 lakh (7.5 million)
+Nanakshahi rupees under the Treaty of Amritsar. The treaty transferred
+sovereignty over the Kashmir Valley along with Jammu, Ladakh, Baltistan,
+and Gilgit.
+
+This was the foundational document for the princely state of Jammu and
+Kashmir, and it brought Diamer --- at least on paper --- under Dogra sovereignty.
+
+*** Dogra troops replace Sikhs
+
+In 1846, Dogra soldiers relieved the Sikh troops posted at Astore and
+Gilgit. Nathu Shah and Karim Khan both transferred their allegiance to
+Gulab Singh and continued local administration.
+
+- *Reference*: Wikipedia, "Treaty of Amritsar (1846)"
+  https://en.wikipedia.org/wiki/Treaty_of_Amritsar_(1846)
+- *Reference*: ORF, "The Kashmir that India Lost"
+  https://www.orfonline.org/research/the-kashmir-that-india-lost-a-historical-analysis-of-india-s-miscalculations-on-gilgit-baltistan
+
+** B.4.5 Nathu Shah's Death and the Fall of Gilgit (1848)
+
+- *Date*: 1848
+- *Killed by*: Forces of the Mir of Hunza
+
+*** Events
+
+After the Treaty of Amritsar, Nathu Shah remained in Gilgit as Gulab
+Singh's commander. In 1848, he led a force to attack the Hunza valley on
+behalf of Gulab Singh. The expedition was a disaster: Nathu Shah and his
+force were destroyed by Hunza forces. Gilgit fort fell into the hands of
+the Hunza Raja and his Yasin and Punial allies.
+
+*** Aftermath
+
+Gilgit was soon reconquered by Gulab Singh's Dogra troops, but the
+incident demonstrated the fragility of external control over the northern
+territories. In 1852, Gilgit's inhabitants drove their new rulers out in
+an uprising, with the support of Raja Gohar Aman.
+
+- *Reference*: Wikipedia, "Gilgit"
+  https://en.wikipedia.org/wiki/Gilgit
+
+** B.4.6 The Dogra Conquest of Chilas (1850--1852)
+
+The fort of Chilas was conquered by Gulab Singh's forces in 1850. The Dogra
+forces destroyed the existing Chilas fort in 1851 during a punitive attack,
+but Chilas was occupied in 1852 --- at the cost of 400 Dogra casualties.
+
+Dogra rule was imposed on Chilas in 1852, though the Chilasis continued to
+enjoy substantial internal independence. The region's fierce resistance to
+external control --- the legacy of the "Yaghestan" tradition --- meant that
+Dogra sovereignty was always nominal in the Darel, Tangir, and surrounding
+valleys.
+
+- *Reference*: Wikipedia, "Chilas"
+  https://en.wikipedia.org/wiki/Chilas
+- *Reference*: Daily Times, "Sikh, Dogra and British wars with Chilasis"
+  https://dailytimes.com.pk/484140/sikh-dogra-and-british-wars-with-chilasis-darelis-and-tangeris-part-i/
+
+** B.4.7 The Dogra Garrison at Gilgit --- Life at the Edge of Empire
+
+After the initial turbulence of the 1840s--1850s, the Dogra garrison at
+Gilgit settled into a precarious existence:
+
+- *1877*: British establish an "Officer on Special Duty" at Gilgit to
+  monitor the passes (the "Great Game" period --- concern about Russian
+  expansion toward India).
+- *1882*: The position is withdrawn.
+- *1889*: A permanent British Political Agent is established at Gilgit,
+  creating the *Gilgit Agency*.
+- *1913*: The Jammu and Kashmir State Forces at the Gilgit garrison are
+  replaced by the British-officered *Gilgit Scouts*.
+- *1935*: Maharaja Gulab Singh's successor is forced to lease the Gilgit
+  Agency to the British for 60 years. The region is effectively administered
+  by the British until 1947.
+- *1 July 1947*: The leased area is retroceded to the Maharaja.
+- *1--2 November 1947*: The Gilgit Scouts under Major William Brown take
+  the Dogra governor into protective custody and raise the Pakistan flag.
+
+Throughout this period, Chilas and the Diamer valleys remained the most
+difficult territory --- the "Yaghestan" where no external authority could
+fully impose order.
+
+- *Reference*: Wikipedia, "Gilgit Agency"
+  https://en.wikipedia.org/wiki/Gilgit_Agency
+- *Reference*: ResearchGate, "British Intervention and the Case of Gilgit
+  Agency: 1846-1892"
+  https://www.researchgate.net/publication/334446623_British_Intervention_and_the_Case_of_Gilgit_Agency1846-1892
+- *Reference*: Dawn, "History: The Gilgit-Baltistan Conundrum"
+  https://www.dawn.com/news/1587950
+
+* Synthesis: Who Actually Reached Diamer?
+
+| Figure / Dynasty       | Period        | Reached Diamer? | Nature of contact                 |
+|------------------------+---------------+-----------------+-----------------------------------|
+| Al-Masudi              | c. 940s       | No              | Described India's rivers/lowlands |
+| Al-Biruni              | c. 1017--1030 | No              | Knew Kashmir mountains, Indus     |
+| Al-Idrisi              | c. 1154       | No              | Compiled from earlier sources     |
+| Ibn Battuta            | 1333          | No              | Crossed Hindu Kush far to west    |
+| Patola Shahis          | c. 6th--8th c. | Yes (controlled) | Buddhist rulers of Gilgit         |
+| Trakhan dynasty        | c. 7th--19th c. | Yes (suzerainty) | Gilgit rulers, linked to Chilas   |
+| Sufi missionaries      | c. 14th--16th c. | Yes             | Converted Chilas to Islam         |
+| Ali Sher Khan Anchan   | c. 1600       | Yes (conquest)  | Built Chilas fort, conquered area |
+| Mughals (Akbar--Aurangzeb) | 1586--1707  | No (Kashmir only) | Diplomatic ties via Maqpons       |
+| Dara Shikoh            | 1615--1659    | *No* (misattrib.) | Fort attribution is false         |
+| Sikh forces            | 1842--1843    | Yes (garrison)  | Secured Chilas under Nathu Shah   |
+| Zorawar Singh          | 1839--1841    | No (Baltistan)  | Conquered adjacent territories    |
+| Dogra forces           | 1850--1852    | Yes (conquest)  | Destroyed and rebuilt Chilas fort |
+
+The pattern is clear: Diamer was visited primarily by *conquerors and
+missionaries*, not by travellers and geographers. The great Arab scholars
+knew of the region's mountains only from afar. The people who came to Diamer
+came to control it, convert it, or pass through it on trade routes. The
+region's own people --- the Shina-speaking communities of the "Yaghestan" ---
+left no written records of their own, but they fiercely resisted every
+attempt at external domination, from the Patola Shahis to the Dogras.
+
+* Sources Index
+
+** Primary sources available online
+1. Al-Masudi, /Muruj al-Dhahab/ (Sprenger trans.): https://archive.org/details/historicalencycl00masrich
+2. Al-Biruni, /Kitab al-Hind/ (Sachau trans.): https://archive.org/details/alberunisindia_201612
+3. Al-Biruni, /Kitab al-Hind/ (Ahmad ed.): https://archive.org/details/india-by-al-biruni-qeyamuddin-ahmad
+4. Ibn Battuta, /Rihla/ (Gibb trans.): multiple publishers; Wikipedia overview at https://en.wikipedia.org/wiki/The_Travels_of_Ibn_Battuta
+5. Abu'l Fazl, /Ain-i-Akbari/ Vol. I (Blochmann trans.): https://archive.org/details/in.ernet.dli.2015.108204
+6. Abu'l Fazl, /Ain-i-Akbari/ Vols. II-III (Jarrett trans.): https://archive.org/details/dli.ministry.00123
+
+** Secondary sources and references
+7. Encyclopaedia Iranica, "Biruni: Geography": https://www.iranicaonline.org/articles/biruni-abu-rayhan-iv/
+8. Encyclopaedia Iranica, "Chilas": https://www.iranicaonline.org/articles/chilas-township-in-the-upper-indus-valley-in-pakistani-controlled-jammu-and-kashmir-almost-directly-south-of-gilgit-and-loc/
+9. Britannica, "Al-Masudi": https://www.britannica.com/biography/al-Masudi
+10. Britannica, "Ibn Battuta": https://www.britannica.com/biography/Ibn-Battuta
+11. Britannica, "Dara Shikoh": https://www.britannica.com/biography/Dara-Shikoh
+12. Wikipedia, "Patola Shahis": https://en.wikipedia.org/wiki/Patola_Shahis
+13. Wikipedia, "Gao Xianzhi": https://en.wikipedia.org/wiki/Gao_Xianzhi
+14. Wikipedia, "Ali Sher Khan Anchan": https://en.wikipedia.org/wiki/Ali_Sher_Khan_Anchan
+15. Wikipedia, "Dogra invasion of Baltistan": https://en.wikipedia.org/wiki/Dogra_invasion_of_Baltistan
+16. Wikipedia, "Zorawar Singh": https://en.wikipedia.org/wiki/Zorawar_Singh_(Dogra_general)
+17. Wikipedia, "Sikh intervention in Gilgit": https://en.wikipedia.org/wiki/Sikh_intervention_in_Gilgit
+18. Wikipedia, "Treaty of Amritsar (1846)": https://en.wikipedia.org/wiki/Treaty_of_Amritsar_(1846)
+19. Wikipedia, "Gilgit Agency": https://en.wikipedia.org/wiki/Gilgit_Agency
+20. Wikipedia, "History of Gilgit-Baltistan": https://en.wikipedia.org/wiki/History_of_Gilgit-Baltistan
+21. Ismaili.net, "The Trakhan dynasty": https://www.ismaili.net/histoire/history07/history705.html
+22. The Karakoram, "Trakhan": https://thekarakoram.com.pk/trakhan/
+23. ORF, "The Kashmir that India Lost": https://www.orfonline.org/research/the-kashmir-that-india-lost-a-historical-analysis-of-india-s-miscalculations-on-gilgit-baltistan
+24. VIF India, "Zorawar Singh campaigns": https://www.vifindia.org/article/2024/march/22/Looking-Back-at-General-Zorawar-Singh-and-his-Campaigns-An-Assessment
+25. Daily Times, "Sikh, Dogra and British wars with Chilasis": https://dailytimes.com.pk/484140/sikh-dogra-and-british-wars-with-chilasis-darelis-and-tangeris-part-i/
+26. Dawn, "Gilgit-Baltistan Conundrum": https://www.dawn.com/news/1587950
+27. ResearchGate, "British Intervention Gilgit Agency": https://www.researchgate.net/publication/334446623_British_Intervention_and_the_Case_of_Gilgit_Agency1846-1892
+28. Travel the Himalayas, "Patola Shahis": https://travelthehimalayas.com/kiki/2018/8/27/the-patola-shahis-of-gilgit
+29. Hauptmann (2024), /Lords of the Mountains/: review at https://jac.qau.edu.pk/index.php/jac/article/view/157
+30. Voice of Vienna, "Buddhist Petroglyphs of Chilas": https://voiceofvienna.org/2025/01/kashmir-buddhist-petroglyphs-of-chilas/
+31. Archnet, "Pre-Islamic Heritage Northern Areas": https://www.archnet.org/publications/4868
+32. Library of Congress, "Al-Idrisi's Masterpiece": https://blogs.loc.gov/maps/2022/01/al-idrisis-masterpiece-of-medieval-geography/
+33. Kashmir Life, "Al-Biruni's Kashmir": https://kashmirlife.net/al-birunis-kashmir-vol-15-issue-43-338439/
+34. Pakistan Traveler, "Maqpon Dynasty": https://www.pakistantraveler.com/maqpon-dynasty/
+35. CEUR-WS, "Tracing Palola Shahi Genealogy": https://ceur-ws.org/Vol-3814/paper5.pdf

@@ -1,0 +1,1063 @@
+#+title: The Travellers to Diamer — Part D: Modern Era
+#+subtitle: Messner's tragedy, the massacre, the highway, the dam (1953–present)
+#+author: epistem-guardian (mu2tau + mayadev)
+#+date: 2026-03-08
+#+property: wp WP-0021
+
+* Scope and Method
+
+This file covers the modern era of Diamer and Nanga Parbat — from
+the first summit in 1953 to the present. The period is defined by
+mountaineering tragedy and triumph, political violence, mega-
+infrastructure, and the transformation of a remote district into a
+contested node of tourism, energy politics, and cultural erasure.
+
+Method: web-accessible sources — mountaineering journals, news
+archives, academic papers, heritage databases, and journalism.
+Sources cited with URLs throughout. Where sources conflict, the
+conflict is noted. Where verification is impossible, the gap is
+stated.
+
+** Structure
+
+| Section | Title | Content |
+|---------+--------------------------------------------+-------------------------------------|
+| D.1 | Messner and the Post-War Mountaineers | 1953–2022: summits, deaths, records |
+| D.2 | The 2013 Massacre | The base camp attack |
+| D.3 | Klára Kolouchová (2025) | A modern death on the mountain |
+| D.4 | The KKH and Tourism | Highway, Fairy Meadows, trekking |
+| D.5 | The Dam Workers | Diamer-Basha Dam and what it erases |
+| — | Sources | Consolidated references |
+
+* D.1 Messner and the Post-War Mountaineers
+
+** D.1.1 Context: Herrligkoffer and the German Obsession
+
+Before Messner, before the post-war golden age, there is Karl Maria
+Herrligkoffer (1916–1991) — the Munich physician who made Nanga
+Parbat his life's obsession. Herrligkoffer was the half-brother of
+Willy Merkl, who died on Nanga Parbat in the catastrophic 1934
+expedition. This personal connection drove Herrligkoffer to organise
+expedition after expedition to the mountain: 1953, 1961, 1962, 1963,
+1964, 1968, 1970, 1975, 1981, 1982 — ten expeditions spanning three
+decades.
+
+Herrligkoffer was controversial. He was not himself a strong
+technical climber, but he insisted on leading as expedition
+organiser, controlling communications, and retaining rights over
+expedition accounts. This pattern of control would fuel the most
+bitter controversy in Himalayan mountaineering history.
+
+- Source: [[https://en.wikipedia.org/wiki/Karl_Herrligkoffer][Karl Herrligkoffer — Wikipedia]]
+
+** D.1.2 The First Ascent: Hermann Buhl, 1953
+
+On 3 July 1953, Austrian climber Hermann Buhl made the first ascent
+of Nanga Parbat — alone, without supplemental oxygen, in a 41-hour
+solo push from the last camp. He reached the summit at 7 pm and was
+forced to spend the night standing on a narrow ledge near the top.
+He returned to camp the following day, severely frostbitten, having
+lost two toes.
+
+The expedition was led by Herrligkoffer. Buhl had defied orders to
+turn back. The relationship between the two men deteriorated
+afterward into legal disputes over expedition accounts and book
+rights.
+
+Buhl's solo ascent remains one of the most extraordinary feats in
+mountaineering history. He died four years later on Chogolisa (7665m)
+when a cornice collapsed beneath him.
+
+- Source: [[https://en.wikipedia.org/wiki/Nanga_Parbat][Nanga Parbat — Wikipedia]]
+- Source: [[https://en.wikipedia.org/wiki/1953_German%E2%80%93Austrian_Nanga_Parbat_expedition][1953 German-Austrian Nanga Parbat expedition — Wikipedia]]
+
+** D.1.3 The Diamir Face: Kinshofer, Mannhardt, Löw (1962)
+
+On 22 June 1962, Germans Toni Kinshofer, Anderl Mannhardt, and
+Siegfried Löw completed the second ascent of Nanga Parbat and the
+first ascent via the Diamir Face, on yet another Herrligkoffer
+expedition.
+
+Their route avoided the avalanche-prone central Diamir Face by
+ascending a buttress on the left side, reaching the Kinshofer
+Icefield, and traversing the Bazhin Gap to the summit. This route
+has become the standard climbing route on Nanga Parbat, known as the
+*Kinshofer Route*, and remains the most commonly used route to this
+day.
+
+*** The Descent Disaster
+
+The descent proved catastrophic. Löw lagged behind. Kinshofer
+climbed back up toward him, but Löw fell past and out onto the
+glacier. Badly injured, he was cared for by Kinshofer while
+Mannhardt descended past empty Camp IV to Camp III for help. Löw
+died during the descent. Kinshofer and Mannhardt survived but
+suffered severe frostbite.
+
+Toni Kinshofer himself would die in 1966, falling while ice climbing
+in the Bavarian Alps — age 31.
+
+- Source: [[https://explorersweb.com/groundbreaking-climbs-on-nanga-parbats-diamir-face/][A History of Climbing on Nanga Parbat's Diamir Face — Explorersweb]]
+- Source: [[http://publications.americanalpineclub.org/articles/12196352404/Asia-Pakistan-Nanga-Parbat-Diamir-Face][AAC Publications — Nanga Parbat, Diamir Face (1963 AAJ)]]
+- Source: [[https://en.wikipedia.org/wiki/Toni_Kinshofer][Toni Kinshofer — Wikipedia]]
+
+** D.1.4 The Messner Tragedy (1970)
+
+This is the central drama of Nanga Parbat's modern history — a story
+that took 35 years and forensic DNA analysis to resolve.
+
+*** The Expedition
+
+In June 1970, Herrligkoffer led a large expedition to attempt the
+first ascent of the Rupal Face — the highest mountain wall on Earth,
+rising 4,500m from the Rupal Valley to the summit. The team included
+two brothers from South Tyrol: *Reinhold Messner* (age 25) and
+*Günther Messner* (age 23). Günther joined the expedition late,
+filling an opening on the team.
+
+*** The Summit Push
+
+On 27 June 1970, Reinhold Messner reached the summit of Nanga Parbat
+via the Rupal Face — the first ascent of this enormous wall.
+According to Reinhold's account, Günther followed him to the summit
+unexpectedly, arriving in a deteriorated state.
+
+The brothers bivouacked near the summit overnight, near the so-called
+Merkl Notch, because a descent of the Rupal Face in the dark seemed
+impossible given Günther's exhaustion and altitude sickness. By
+morning, Reinhold judged that Günther could not safely descend the
+Rupal Face. They chose instead to descend the gentler Diamir Face on
+the opposite side of the mountain — a traverse that had never been
+done before.
+
+*** Günther's Death
+
+During the descent of the Diamir Face, Reinhold left Günther resting
+while he reconnoitred the route ahead. When he returned, Günther was
+gone. Reinhold searched for hours but found no trace. He concluded
+that an avalanche had swept his brother away.
+
+Reinhold continued down alone, suffering severe frostbite. He lost
+seven toes and was rescued by local woodcutters in the Diamir Valley.
+
+*** The 35-Year Controversy
+
+Reinhold's account was immediately challenged by other expedition
+members, principally *Hans Saler* and *Max von Kienlin*. Their
+counter-narrative held that:
+
+- Günther never crossed the summit with Reinhold.
+- Reinhold descended the Diamir Face alone to claim the first traverse.
+- Günther was left near the summit to descend the Rupal Face
+  by himself, where he died alone and unseen.
+
+The dispute became extraordinarily bitter. It spawned more than a
+dozen lawsuits. It produced competing books: Messner's own "Die Rote
+Rakete am Nanga Parbat" (later withdrawn under court order from
+Herrligkoffer), Saler's "Between Light and Shadows", and von
+Kienlin's "The Traverse" (English translations of the latter two
+were prevented by court order obtained by Messner). The controversy
+was further complicated by a post-expedition love affair between
+Reinhold Messner and von Kienlin's wife, which some saw as tainting
+the accusations with personal revenge.
+
+- Source: [[https://www.outsideonline.com/outdoor-adventure/climbing/buried-past/][Buried in the Past — Outside Online]]
+- Source: [[https://www.planetmountain.com/en/news/alpinism/nanga-parbat-1970-reinhold-messner-told-the-truth.html][Nanga Parbat 1970: Reinhold Messner told the truth — PlanetMountain]]
+- Source: [[https://summitersclub.com/blog/messner-brothers-nanga-parbat-climb-story/][Messner Brothers' Tragic Nanga Parbat Climb Explained — Summiters Club]]
+
+*** "The Naked Mountain" (2003)
+
+Messner's memoir, /The Naked Mountain: Nanga Parbat — Brother, Death
+and Solitude/ (German 2002, English 2003, The Mountaineers Books),
+is his definitive account of the 1970 expedition. It is an
+extraordinary document — part climbing narrative, part grief memoir,
+part legal brief. The American Alpine Club's review noted its
+"intense and deeply felt" quality while acknowledging the unresolved
+factual disputes.
+
+- Source: [[http://publications.americanalpineclub.org/articles/12200444700/The-Naked-Mountain][AAC Publications — Review of The Naked Mountain]]
+- Source: [[https://www.goodreads.com/book/show/1834173.The_Naked_Mountain][The Naked Mountain — Goodreads]]
+
+*** The Boot on the Glacier (2005)
+
+In July 2005, three Pakistani guides discovered human remains on the
+Diamir Face at approximately 4,300 metres — a skull fragment, a boot
+containing a foot, and other bone fragments, exposed by glacial
+retreat.
+
+Reinhold recognised the brown leather Lowa Triple boot and the jacket.
+
+On 21 October 2005, scientists at the University of Innsbruck
+completed DNA analysis of tissue samples from the remains. The DNA
+confirmed: the remains were Günther Messner's.
+
+The location — on the Diamir Face, not the Rupal Face — supported
+Reinhold's account. Günther had indeed crossed the summit and
+descended the Diamir side with his brother. He had indeed perished
+on the Diamir Face, as Reinhold had always maintained.
+
+- Source: [[https://pubmed.ncbi.nlm.nih.gov/16673142/][Unravelling the mystery of Nanga Parbat — PubMed (forensic genetics paper)]]
+- Source: [[https://en.wikipedia.org/wiki/G%C3%BCnther_Messner][Günther Messner — Wikipedia]]
+- Source: [[https://www.climbing.com/news/messner-mystery-solved/][Messner Mystery Solved? — Climbing Magazine]]
+
+*** The Second Boot (2022)
+
+In 2022, a second boot belonging to Günther was recovered from the
+glacier and returned to Reinhold — a moment of deeply personal
+closure more than fifty years after the tragedy.
+
+- Source: [[https://explorersweb.com/gunther-messners-second-boot-returns-to-reinhold/][Günther Messner's Second Boot Returns to Reinhold — Explorersweb]]
+- Source: [[https://gripped.com/profiles/gunther-messner-died-in-1970-his-brother-reinhold-just-got-his-boot/][Günther Messner Died in 1970, His Brother Reinhold Just Got His Boot — Gripped]]
+- Source: [[https://gearjunkie.com/climbing/reinhold-messner-brothers-boot-found][Decades-Long 'Conspiracy' Resolved: Reinhold Messner Vindicated — GearJunkie]]
+
+*** Assessment
+
+The DNA evidence resolved the factual question: Günther was on the
+Diamir Face when he died. But it did not resolve all questions about
+the expedition dynamics — particularly the rocket signal controversy
+(whether a red rocket fired from base camp was a summit signal or an
+abort order) and the degree to which Herrligkoffer's expedition
+management contributed to the disaster. The ethical complexity of
+the event — two brothers, one left behind, one who survived and
+became the most famous mountaineer in history — remains a permanent
+feature of Nanga Parbat's human landscape.
+
+** D.1.5 First Female Ascent: Liliane Barrard (1984)
+
+On 27 June 1984, *Liliane Barrard* of France became the first woman
+to summit Nanga Parbat, climbing without supplementary oxygen. She
+climbed with her husband Maurice Barrard; the couple were known in
+French mountaineering as "the highest couple."
+
+Two years later, in 1986, both Liliane and Maurice summited K2 — but
+disappeared during the descent. Liliane's body was found a month
+later at approximately 5,330m. Maurice's body was discovered twelve
+years later on the glacier above Base Camp.
+
+- Source: [[https://www.guinnessworldrecords.com/world-records/665357-first-ascent-of-nanga-parbat-female][First ascent of Nanga Parbat (female) — Guinness World Records]]
+- Source: [[https://explorersweb.com/remembering-liliane-barrard/][Remembering Liliane Barrard — Explorersweb]]
+- Source: [[https://en.wikipedia.org/wiki/Liliane_and_Maurice_Barrard][Liliane and Maurice Barrard — Wikipedia]]
+
+** D.1.6 First Winter Ascent: Sadpara, Txikon, Moro (2016)
+
+On 26 February 2016, at 3:17 pm, three climbers completed the first
+winter ascent of Nanga Parbat:
+
+- *Muhammad Ali Sadpara* (Pakistan)
+- *Alex Txikon* (Spain)
+- *Simone Moro* (Italy)
+
+A fourth team member, *Tamara Lunger* (Italy), stopped just short of
+the summit due to extreme fatigue.
+
+The ascent was achieved after *31 unsuccessful winter attempts* on the
+mountain over the preceding decades. Nanga Parbat had been the last
+of the fourteen 8,000-metre peaks to resist a winter ascent (K2 was
+later climbed in winter in January 2021).
+
+Ali Sadpara became a national hero in Pakistan. His achievement was
+all the more remarkable given that he came from the village of
+Sadpara near Skardu, a high-altitude community with no tradition of
+professional mountaineering infrastructure. He went on to summit
+eight 8,000-metre peaks.
+
+Sadpara died on K2 on 5 February 2021, along with Icelandic climber
+John Snorri Sigurjónsson and Chilean climber Juan Pablo Mohr. His
+body was found in July 2021, approximately 300 metres below the
+Bottleneck at ~7,900m. His son Sajid, who had turned back due to an
+oxygen regulator failure, survived.
+
+- Source: [[https://www.nationalgeographic.com/adventure/article/absolute-misery-climbers-complete-the-historic-first-winter-ascent-of-nanga-parbat-the-killer-mountain][Climbers Summit Dangerous Mountain in Pakistan for First Winter Ascent — National Geographic]]
+- Source: [[https://www.planetmountain.com/en/news/alpinism/nanga-parbat-summit-and-first-winter-ascent-by-simone-moro-ali-sadpara-and-alex-txikon.html][Nanga Parbat summit and first winter ascent — PlanetMountain]]
+- Source: [[https://en.wikipedia.org/wiki/Ali_Sadpara][Ali Sadpara — Wikipedia]]
+
+** D.1.7 The Second Winter Ascent: Revol and Mackiewicz (2018)
+
+On 25 January 2018, *Élisabeth Revol* (France) and *Tomasz
+Mackiewicz* (Poland) reached the summit of Nanga Parbat in winter —
+the second winter ascent. This was Mackiewicz's seventh attempt at a
+winter ascent of the mountain.
+
+At the summit, when Revol asked Mackiewicz how he was feeling, he
+replied: "I can't see you. I can't see anything." He had removed
+his goggles and was suffering from snow blindness. He was also
+developing altitude sickness and severe frostbite.
+
+The descent became a survival crisis. Mackiewicz could no longer
+walk. Revol sheltered him in a crevasse at approximately 7,280m and
+descended alone, triggering a rescue via satellite communication.
+
+The rescue operation was remarkable. Two hundred kilometres away,
+a Polish team was attempting the first winter ascent of K2. Four of
+their climbers — *Adam Bielecki*, *Denis Urubko*, *Jarosław Botor*,
+and *Piotr Tomala* — abandoned their own expedition and were
+helicoptered to Nanga Parbat by Pakistani military pilots led by
+Lt. Col. Anjum Rafique.
+
+Bielecki and Urubko climbed through the night and reached Revol,
+guiding her down to safety. They could not reach Mackiewicz in the
+deteriorating conditions. He was declared dead.
+
+Revol lost several fingers and toes to frostbite. She became the
+second woman to summit an 8,000-metre peak in winter (after
+Wanda Rutkiewicz on Everest in 1980). Revol later published a memoir,
+/To Live/, dedicated to Mackiewicz.
+
+- Source: [[https://www.npr.org/sections/thetwo-way/2018/01/29/581530678/after-harrowing-weekend-rescue-one-climber-saved-one-lost-to-killer-mountain][After Harrowing Weekend Rescue, One Climber Saved, One Lost — NPR]]
+- Source: [[https://www.outsideonline.com/outdoor-adventure/climbing/behind-scenes-daring-rescue-nanga-parbat/][Rescue on the Killer Mountain — Outside Online]]
+- Source: [[https://www.himalayanclub.org/hj/74/4/rescue-on-nanga/][Rescue on Nanga — Himalayan Journal]]
+- Source: [[https://alpinist.com/features/elisabeth-revols-book-to-live-is-an-ode-to-tomasz-mackiewicz-and-nanga-parbat/][Elisabeth Revol's book "To Live" — Alpinist]]
+
+** D.1.8 The Death Toll
+
+Nanga Parbat earned its epithet "Killer Mountain" before anyone
+stood on top of it. Thirty-one people died on the mountain before
+Buhl's first ascent in 1953, most of them on the German expeditions
+of the 1930s. The worst single disaster was in 1937, when an
+avalanche at Camp IV below Rakhiot Peak killed all sixteen men in
+the camp — seven Germans and nine Sherpas.
+
+*** Overall Statistics (approximate, as of 2024)
+
+| Mountain | Total Deaths | Summits | Fatality Ratio |
+|---------------+--------------+---------+--------------------------|
+| Annapurna I | ~75 | ~250 | ~32 deaths per 100 summits |
+| K2 | ~96 | ~800 | ~23 deaths per 100 summits |
+| Nanga Parbat | ~80+ | ~400 | ~21 deaths per 100 summits |
+
+/Note/: These numbers vary across sources and change with each season.
+The fatality ratio (deaths per 100 summits) is the meaningful
+comparator, not absolute death counts.
+
+Before 1990, Nanga Parbat's fatality rate was an astonishing *77%*.
+The modern rate of approximately 21% reflects improved gear, weather
+forecasting, and route knowledge — but the mountain remains among the
+deadliest in the world.
+
+Annapurna I holds the highest fatality-to-summit ratio overall. K2
+has a higher absolute death toll but more summits. Nanga Parbat's
+claim to the "Killer Mountain" title rests primarily on its
+pre-1953 history, when expedition after expedition ended in disaster.
+
+- Source: [[https://en.wikipedia.org/wiki/List_of_deaths_on_eight-thousanders][List of deaths on eight-thousanders — Wikipedia]]
+- Source: [[https://www.ultimatekilimanjaro.com/the-worlds-most-dangerous-mountains/][The World's 15 Most Dangerous Mountains — Ultimate Kilimanjaro]]
+- Source: [[https://www.zmescience.com/ecology/environmental-issues/mountain-files-the-deadliest-mountains-nanga-parbat-and-annapurna/][Mountain files: the deadliest mountains — ZME Science]]
+
+* D.2 The 2013 Massacre
+
+** D.2.1 The Attack
+
+On the night of 22–23 June 2013, approximately sixteen gunmen
+attacked a mountaineering base camp on the Diamir Face of Nanga
+Parbat, in Gilgit-Baltistan, Pakistan. The attackers were reportedly
+dressed in Gilgit-Baltistan Scouts uniforms, which enabled them to
+approach the camp and pass through security checkpoints.
+
+The gunmen entered the tents, lined up the climbers, and shot them.
+Eleven people were killed — ten foreign mountaineers and one
+Pakistani guide. The base camp was at approximately 4,200m on the
+Diamir side.
+
+Two climbers survived by hiding: a Chinese climber who concealed
+himself in a sleeping bag, and another who hid behind equipment.
+
+** D.2.2 The Victims
+
+All eleven victims, by name and nationality:
+
+| # | Name | Nationality | Notes |
+|---+-----------------------------------+------------------+------------------------------------------------|
+| 1 | Igor Svergun | Ukraine | Expedition leader; biophysicist from Kharkiv |
+| 2 | Badawi Kashaev (Magomedovich) | Ukraine | From Kharkiv |
+| 3 | Dmitry Konyaev (Sergeyevich) | Ukraine | From Kharkiv |
+| 4 | Anton Dobeš | Slovakia | |
+| 5 | Peter Šperka | Slovakia | |
+| 6 | Rao Jianfeng | China | |
+| 7 | Yang Chunfeng | China | |
+| 8 | Chen Honglu | USA / China | Dual citizenship; original kidnap target |
+| 9 | Ernestas Markšaitis | Lithuania | |
+| 10 | Sona Sherpa | Nepal | |
+| 11 | Ali Hussain | Pakistan | Cook, from Hushe Valley, Charakusa; age ~28 |
+
+/Source note/: The names of the three Ukrainian climbers are
+transliterated from Cyrillic and appear with slight variations across
+English-language sources. The table above follows the forms used by
+the Ukrainian sports site 4sport.ua as reported by Alpinist and the
+Wikipedia article.
+
+*** Igor Svergun
+
+Igor Svergun deserves particular mention. He was not merely an
+amateur climber but a distinguished biophysicist — a leading
+researcher in small-angle X-ray scattering at the European Molecular
+Biology Laboratory (EMBL) in Hamburg. His work on protein structure
+determination was internationally recognised.
+
+- Source: [[https://en.wikipedia.org/wiki/Igor_Svergun][Igor Svergun — Wikipedia]]
+
+*** Chen Honglu
+
+According to reporting in Dawn, the Pakistani English-language
+newspaper, Chen Honglu — the Chinese-American dual citizen — may have
+been the intended kidnapping target rather than a murder victim. The
+plan reportedly was to take him hostage and trade him for a Taliban
+commander held in Afghanistan. When the attackers entered the camp,
+Chen burst from his tent and physically tackled one of the gunmen
+using martial arts. The militant, named Mujeeb, panicked and shot
+him, reportedly disrupting the original kidnapping plan and
+escalating the operation into mass murder.
+
+This account, if accurate, means the massacre of all eleven people
+may have resulted from one man's decision to fight back — a detail
+of unbearable moral weight.
+
+- Source: [[https://www.dawn.com/news/1115891][Chinese-American was target of Nanga Parbat massacre — Dawn]]
+
+** D.2.3 The Attackers
+
+Two militant groups claimed responsibility:
+
+*Jundullah* — a sectarian extremist group with a track record of
+attacks in Gilgit-Baltistan — was the first to claim the attack.
+Jundullah (sometimes spelled Jundallah) operated primarily against
+Shia communities in the region.
+
+The *Tehrik-i-Taliban Pakistan (TTP)* also claimed responsibility,
+stating the attack was retaliation for the US drone strike that
+killed Wali-ur-Rehman, a senior Taliban commander, on 29 May 2013
+— less than a month before the massacre.
+
+The dual claims complicate attribution. Some analysts believe the
+attack was planned by Jundullah operatives with TTP support; others
+see the TTP claim as opportunistic.
+
+- Source: [[https://jamestown.org/program/recent-wave-of-terrorism-in-pakistans-gilgit-baltistan-region/][Recent Wave of Terrorism in Pakistan's Gilgit-Baltistan Region — Jamestown Foundation]]
+- Source: [[https://en.wikipedia.org/wiki/2013_Nanga_Parbat_massacre][2013 Nanga Parbat massacre — Wikipedia]]
+
+** D.2.4 The Trial and Convictions
+
+The attackers were tried in military courts established under
+Pakistan's *National Action Plan* against terrorism, which was adopted
+after the 2014 Peshawar school massacre. Thirteen militants were
+convicted and sentenced to death. The death warrants were signed by
+the Army Chief.
+
+One convicted attacker specifically named in reporting was *Irfan
+Ullah*, son of Khudayar, condemned to death for participation in the
+base camp assault.
+
+The convicts were shifted to Adiala Jail in Rawalpindi. As of the
+most recent reporting available, the status of the executions is
+unclear — Pakistan has carried out some terrorism-related executions
+but the process has faced delays and legal challenges.
+
+- Source: [[https://www.rferl.org/a/pakistan-sentences-13-militants-death-terrorism-charges-massacre-foreign-moutaineers/27615958.html][Pakistan Sentences 13 Militants To Death — RFE/RL]]
+- Source: [[https://tribune.com.pk/story/1066459/army-chief-signs-execution-orders-of-13-terrorists][Army chief signs execution orders of 13 terrorists — Express Tribune]]
+- Source: [[https://www.dawn.com/news/1255399/nanga-parbat-massacre-convicts-shifted-to-adiala-jail][Nanga Parbat massacre convicts shifted to Adiala Jail — Dawn]]
+
+** D.2.5 The Aftermath
+
+The immediate impact on Pakistan's mountain tourism was devastating:
+
+- Ninety percent of climbing expeditions were cancelled in the weeks
+  following the attack.
+- In the summer of 2014, *zero international climbing teams* attempted
+  Nanga Parbat.
+- Nationwide, foreign climbing groups dropped from an average of ~75
+  per year to approximately 30 in 2014.
+- The estimated annual cost to Pakistan's economy was *US$100 million*
+  in lost tourism revenue.
+
+The Pakistan Army deployed military escorts for all mountaineering
+expeditions in Gilgit-Baltistan. Security checkpoints were
+established on all access roads. The level of military presence in
+the region increased significantly.
+
+Recovery was slow but has been substantial. By the early 2020s,
+international expeditions had returned to pre-attack levels, and
+Gilgit-Baltistan is now broadly regarded as one of the safest
+regions in Pakistan, supported by enhanced security, improved local
+infrastructure, and community-driven tourism initiatives.
+
+- Source: [[https://www.washingtonpost.com/world/asia_pacific/one-year-after-shocking-terrorist-attack-pakistans-peaks-bereft-of-foreign-climbers/2014/06/29/b72beaa8-f7b6-11e3-a606-946fd632f9f1_story.html][One year after shocking terrorist attack, Pakistan's peaks bereft of foreign climbers — Washington Post]]
+- Source: [[https://tribune.com.pk/story/767902/expeditions-to-nanga-parbat-take-a-hit-after-2013-massacre][Expeditions to Nanga Parbat take a hit after 2013 massacre — Express Tribune]]
+- Source: [[https://karakorumbasecamp.com/2025/06/24/remembering-the-nanga-parbat-massacre-of-2013-from-horror-to-hope-through-the-eyes-of-survivors/][Remembering the Nanga Parbat Massacre of 2013: From Horror to Hope — Karakorum Base Camp]]
+- Source: [[https://www.voanews.com/a/nanga-parbat-new-terror-risk-confronts-himalayan-climbers/2832985.html][Mountaineers Factor in Risk of Terrorism Two Years After Nanga Parbat — VOA]]
+
+* D.3 Klára Kolouchová (2025)
+
+** D.3.1 The Climber
+
+*Klára Kolouchová* (6 September 1978 – 3 July 2025) was a Czech
+mountaineer, author, and educator. She was the first Czech woman to
+summit the three highest peaks on Earth — Everest, K2, and
+Kangchenjunga — and had summited five 8,000-metre peaks in total:
+
+| # | Peak | Date | Notes |
+|---+---------------+-------------------+---------------------------------------|
+| 1 | Cho Oyu | 9 March 2006 | 8,188m; her first 8,000er |
+| 2 | Everest | 16 May 2007 | First Czech woman to summit Everest |
+| 3 | Kangchenjunga | Spring 2019 | 8,586m |
+| 4 | K2 | Summer 2019 | First Czech woman; ~20th woman globally |
+| 5 | Annapurna I | 2024 | 8,091m |
+
+She also completed the *Seven Summits* (highest peak on each
+continent) and four of the *Volcanic Seven Summits*.
+
+Beyond mountaineering, Kolouchová published two books: /Himálajský
+deník/ (Himalayan Diary), documenting her Everest expedition, and
+/Nahoře fouká/ ("It Blows at the Top", 2022). She was affiliated with
+Anglo-American University in Prague. She was married and had two
+children, Emma and Cyril.
+
+- Source: [[https://en.wikipedia.org/wiki/Kl%C3%A1ra_Kolouchov%C3%A1][Klára Kolouchová — Wikipedia]]
+- Source: [[https://english.radio.cz/klara-kolouchova-tragedy-trailblazing-czech-mountaineer-dies-nanga-parbat-8855891][Klára Kolouchová tragedy — Radio Prague International]]
+- Source: [[https://www.aauni.edu/news/in-memoriam-klara-kolouchova/][In Memoriam: Klára Kolouchová — Anglo-American University in Prague]]
+
+** D.3.2 The Death
+
+On 3 July 2025, Kolouchová died on Nanga Parbat at age 46. She fell
+from the mountain between Camp 1 and Camp 2 during descent.
+
+Her Sherpa, *Taraman Tamang*, was approximately 40–50 metres behind
+her. He heard a scream and saw her fall outside the fixed rope. They
+were on their way back to Camp 2 at the time.
+
+Early reports cited an oxygen tank explosion as the cause, but this
+was dismissed by Czech mountaineer *Jan Trávníček*, who pointed to a
+fatal fall as the likely explanation.
+
+The circumstances raise the persistent question of fixed-rope
+security on high-altitude routes — particularly the gap between
+clipping in and out of anchors, when a climber is momentarily
+unprotected.
+
+- Source: [[https://explorersweb.com/tragedy-on-nanga-parbat-czech-woman-dies-in-fall/][Tragedy on Nanga Parbat: Czech Woman Dies In Fall — Explorersweb]]
+- Source: [[https://summitersclub.com/blog/tragic-nanga-parbat-fall-czech-climber/][Tragic Nanga Parbat Fall Claims Czech Climber's Life — Summiters Club]]
+- Source: [[https://gulfnews.com/world/asia/pakistan/killer-mountain-czech-climber-klara-dies-in-a-fall-on-pakistans-notorious-peak-1.500188509][Killer Mountain: Czech climber Klára dies in a fall — Gulf News]]
+- Source: [[https://www.geo.tv/latest/612277-czech-mountaineer-dies-during-nanga-parbat-expedition][Czech mountaineer dies during Nanga Parbat expedition — Geo News]]
+
+** D.3.3 Response
+
+The Czech mountaineering community mourned her as a pioneer. The
+Anglo-American University in Prague published a memorial noting her
+role as "an inspiration to students and colleagues alike." The
+Aspen Institute Central Europe, where she had been a fellow,
+honoured her legacy.
+
+Kolouchová's death is a reminder that Nanga Parbat — even on the
+standard Kinshofer Route, even in summer, even for highly experienced
+climbers — remains lethal. She was not attempting anything novel or
+extreme. She was descending a known route in season. She was 46,
+fit, and had summited K2. The mountain does not grade on a curve.
+
+- Source: [[https://pamirtimes.net/2025/07/03/famous-czech-mountaineer-klara-kolouchova-dies-at-nanga-parbat/][Famous Czech Mountaineer Klára Kolouchová Dies at Nanga Parbat — Pamir Times]]
+
+* D.4 The KKH and Tourism
+
+** D.4.1 The Karakoram Highway
+
+The *Karakoram Highway* (KKH) is the highest paved international road
+in the world, connecting Hasan Abdal in Punjab, Pakistan to Kashgar
+in Xinjiang, China via the Khunjerab Pass (4,714m). It is sometimes
+called the *Eighth Wonder of the World* — a title that recognises
+both its engineering and its human cost.
+
+*** Construction
+
+Construction was a joint Pakistan-China project spanning approximately
+two decades. The dates in sources vary:
+
+- Engineering surveys began in 1959.
+- Active construction began in 1966 (some sources say 1962).
+- The road was completed in 1978–1979.
+- It was opened to the public in 1986.
+
+The Chinese government initially proposed routing the highway over
+the Mintaka Pass, but in 1966 recommended the steeper *Khunjerab
+Pass* instead, citing the former's vulnerability to air strikes — a
+Cold War calculation embedded in civil engineering.
+
+*** The Death Toll
+
+The human cost of the highway was staggering. The most commonly
+cited figure is:
+
+- *810 Pakistani workers* killed
+- *200+ Chinese workers* killed (some sources report ~82 Chinese;
+  the higher figure of ~200 appears in more sources and is likely
+  more accurate)
+
+Deaths were primarily from landslides, rockfalls, and falls. The
+terrain the road traverses — the gorges of the Indus, Hunza, and
+Gilgit rivers through active seismic zones — is among the most
+geologically unstable on Earth.
+
+Over 140 Chinese workers who died during construction are buried in a
+Chinese cemetery in Gilgit, which is maintained to this day by a
+Pakistani gravekeeper.
+
+/Note on the discrepancy/: The figure of 82 Chinese deaths appears in
+some Pakistani government sources. The figure of ~200 appears in
+Chinese state media (CGTN, Xinhua) and multiple independent
+accounts. It is possible the lower figure counts only deaths on the
+Pakistani side of the border, while the higher figure includes deaths
+on the Chinese section. The true number may never be established.
+
+- Source: [[https://en.wikipedia.org/wiki/Karakoram_Highway][Karakoram Highway — Wikipedia]]
+- Source: [[https://www.pakistantoday.com.pk/2023/08/16/kkh-the-highway-constructed-with-blood-flesh-of-chinese-pakistani-workers/][KKH — the highway constructed with flesh & blood — Pakistan Today]]
+- Source: [[https://news.cgtn.com/news/3d41544e794d444e/share.html][Karakoram Highway: Memorial for China-Pakistan friendship — CGTN]]
+- Source: [[https://english.news.cn/20250217/1d20445df9774f11a9a6a731e16b7b49/c.html][Pakistani gravekeeper honors Karakoram Highway builders — Xinhua]]
+
+*** Impact on Diamer
+
+Before the KKH, the Diamer district was profoundly isolated. Chilas,
+the district capital, was reachable only by foot trails or mule
+track. The highway connected the Indus valley to the national road
+network and, via the Khunjerab Pass, to China.
+
+The transformation was not merely logistical but cultural: goods,
+ideas, military presence, and outsiders began flowing through a
+valley that had been effectively autonomous for centuries. The KKH
+did not bring modernity to Diamer — it brought Diamer into the
+state's field of vision.
+
+** D.4.2 The Road to Fairy Meadows
+
+The *Fairy Meadows Jeep Track* runs approximately 15 km from Raikot
+Bridge on the KKH to the village of Tato (also spelled Tattu), at the
+edge of the Fairy Meadows National Park. It is often described as
+one of the most dangerous roads in the world.
+
+The track is:
+- Unpaved gravel and loose shale
+- Approximately one jeep wide (no room to pass in most sections)
+- Without guardrails
+- Carved into cliffs approximately 1,000 metres above the valley floor
+- Accessible only to local drivers in modified 4x4 vehicles
+
+Visitors describe "the acrid smell of burning brake pads, the screech
+of tyres on loose shale, and the terrifying sight of a gravel ribbon
+carved into a cliff... completely devoid of guardrails."
+
+Only local drivers are permitted to operate on the track. Foreign
+tourists and their vehicles are prohibited — a regulation that
+functions both as safety measure and as economic protection for the
+local transport operators.
+
+From Tato, a 5 km hiking trail (approximately 3–4 hours) leads to
+Fairy Meadows proper — an alpine meadow at approximately 3,300m with
+direct views of the Nanga Parbat Rupal Face.
+
+*** The Paradox of Access
+
+The road's very danger acts as a regulatory mechanism. As one travel
+writer observed, "the sheer terror of the track prevents the
+devastating effects of mass industrialised tourism." The difficulty
+of access has preserved Fairy Meadows from the overdevelopment that
+has degraded comparable sites elsewhere in northern Pakistan.
+
+- Source: [[https://www.dangerousroads.org/asia/pakistan/116-fairy-meadows-road-pakistan.html][Driving the Treacherous Fairy Meadows Road — DangerousRoads.org]]
+- Source: [[https://en.wikipedia.org/wiki/Fairy_Meadows_National_Park][Fairy Meadows National Park — Wikipedia]]
+- Source: [[https://againstthecompass.com/en/fairy-meadows-trek-nanga-parbat-base-camp/][Fairy Meadows trek & Nanga Parbat Base Camp — Against the Compass]]
+
+** D.4.3 Fairy Meadows and the Tourism Boom
+
+Fairy Meadows was declared a *National Park* by the Government of
+Pakistan in 1995. Since 1992, local communities have operated camping
+sites and accommodation in the area.
+
+*** Infrastructure
+
+The meadow and its approaches now support:
+
+- Camping sites and tent rentals (~500 PKR / ~$4.70 per night with
+  sleeping bag)
+- Basic bungalows (~1,000 PKR / ~$9.50 per night)
+- Upgraded bungalows and "luxury" accommodation (relative term at
+  3,300m)
+- Food stalls and basic restaurants
+- The camping area known as "Raikot Serai" covers approximately 800
+  hectares
+
+The six-month tourist season runs from April through September. The
+site generates approximately PKR 17 million annually from tourism
+(food, transport, accommodation).
+
+*** Who Visits
+
+The visitor profile has shifted dramatically in recent years:
+
+- *Pakistani domestic tourists* now constitute the majority of
+  visitors, driven by improved road access from Islamabad (via the
+  KKH) and the social media visibility of the site.
+- *International trekkers* have returned since the security
+  improvements following the 2013 massacre, though in smaller numbers
+  than the domestic market.
+- The *Nanga Parbat Base Camp trek* (from Fairy Meadows via Beyal
+  Camp and the Raikot Glacier viewpoint) is the primary draw for
+  serious trekkers — approximately 5–6 hours each way.
+
+Social media has been transformative. Fairy Meadows is now one of the
+most photographed and hashtagged locations in Pakistan. This
+visibility has created both opportunity (local income) and pressure
+(overcrowding in peak season, waste management problems, cultural
+friction between conservative local communities and urban Pakistani
+visitors).
+
+- Source: [[https://discoveringpakistan.com/fairy-meadows/][Fairy Meadows — Gateway to Nanga Parbat — Discovering Pakistan]]
+- Source: [[https://www.ultimategearlists.com/destinations/fairy-meadows-nanga-parbat-base-camp-pakistan][Fairy Meadows & Nanga Parbat Base Camp Guide — Ultimate Gear Lists]]
+- Source: [[https://www.jackandjilltravel.com/fairy-meadows-nanga-parbat/][The Fairy Meadows in Pakistan and Hiking Nanga Parbat Basecamp — Jack and Jill Travel]]
+
+** D.4.4 The Base Camp Trek
+
+The standard Nanga Parbat Base Camp trek from Fairy Meadows follows
+this route:
+
+| Stage | From | To | Time | Notes |
+|-------+-----------------------+----------------------+---------------+-------------------------------|
+| 1 | Fairy Meadows (3,300m) | Beyal Camp (3,500m) | 60–90 min | Gentle ascent through forest |
+| 2 | Beyal Camp | Raikot Glacier VP | ~60 min | Views of glacier and icefall |
+| 3 | Raikot Glacier VP | Base Camp (3,967m) | 90–120 min | Steep final 30 min |
+
+The round trip from Fairy Meadows to Base Camp and back is typically
+done in a single long day (10–12 hours) or with an overnight at Beyal
+Camp.
+
+The infrastructure is minimal: Beyal Camp has a few tea houses and
+camping spots. The trail beyond Beyal is rough and unmarked in
+places. There are no rescue facilities between Fairy Meadows and
+Base Camp.
+
+* D.5 The Dam Workers
+
+** D.5.1 The Diamer-Basha Dam
+
+The *Diamer-Basha Dam* (also spelled Diamer-Bhasha) is a concrete-
+filled gravity dam under construction on the River Indus, situated
+between Kohistan district (Khyber Pakhtunkhwa) and Diamer district
+(Gilgit-Baltistan).
+
+*** Key Facts
+
+| Parameter | Value |
+|---------------------------+---------------------------------------------|
+| River | Indus |
+| Type | Roller-Compacted Concrete (RCC) gravity dam |
+| Height | 272 metres |
+| Power generation capacity | 4,500 MW |
+| Storage capacity | 6.4 million acre-feet (MAF) |
+| Reservoir length | ~100 km |
+| Annual electricity output | 18.1 billion kWh |
+| Total cost | ~Rs. 1,406.5 billion (~US$5 billion) |
+| Construction contract | Signed 13 May 2020 |
+| Contractor | Power China–FWO Joint Venture |
+| Expected completion | ~2028–2029 |
+
+If completed as designed, it will be one of the tallest dams in the
+world and the largest in Pakistan.
+
+- Source: [[https://en.wikipedia.org/wiki/Diamer-Bhasha_Dam][Diamer-Bhasha Dam — Wikipedia]]
+- Source: [[https://wapda.gov.pk/diamer-basha-dam-project/][Diamer Basha Dam Project — WAPDA]]
+- Source: [[https://nishadil.com/news/diamer-bhasha-dam-pakistans-future-water-and-power-hub-set-for-major-construction-milestone/a2e072731fddc4a047c3d2fa0d52b8fc][Diamer-Bhasha Dam: RCC Work Begins 2025 — Nishadil]]
+
+** D.5.2 What the Dam Erases: The Petroglyphs
+
+The dam reservoir will flood a stretch of the Indus gorge containing
+one of the densest concentrations of rock art in the world.
+Approximately *35,000 petroglyphs* will be affected — carvings and
+inscriptions dating from the Neolithic (~8,000 BCE) through the
+Buddhist period to the Islamic era.
+
+The inscriptions are in multiple ancient scripts and languages:
+*Brāhmī, Sogdian, Middle Persian, Chinese, Tibetan*, and what some
+researchers have identified as ancient Hebrew. They represent
+millennia of travellers along the Indus corridor — pilgrims,
+merchants, armies, monks — leaving their marks on the rocks.
+
+*** UNESCO Status
+
+The petroglyphs are *not* on the UNESCO World Heritage List, which
+deprives them of certain international legal protections. The World
+Monuments Fund (WMF) has listed them as endangered heritage, but the
+absence of World Heritage designation limits the international
+community's leverage.
+
+*** Salvage Efforts
+
+WAPDA (the Water and Power Development Authority) has developed a
+*Cultural Heritage Management Plan* that includes:
+
+- 3D scanning of 5,000 selected carvings (out of 35,000)
+- The selection was made by *Harald Hauptmann* (1936–2018), former
+  head of the Pak-German Archaeological Mission and professor at
+  Heidelberg University, who led decades of petroglyph documentation
+  in the region.
+- Digital archiving of the scan data
+- Full-scale replicas for display in a planned museum
+- Cultural tourism promotion in Gilgit-Baltistan
+
+The salvage covers approximately *14%* of the total petroglyph
+inventory. The remaining 30,000 carvings will be submerged.
+
+WAPDA has announced plans to *digitise* remaining carvings as part of
+an expanded documentation programme, but the scale of the task versus
+the construction timeline raises questions about feasibility.
+
+- Source: [[https://www.wmf.org/projects/petroglyphs-diamer-basha-dam-area][Petroglyphs in the Diamer-Basha Dam Area — World Monuments Fund]]
+- Source: [[https://dialogue.earth/en/water/pakistans-diamer-basha-dam-will-drown-ancient-carvings/][Pakistan's Diamer Basha dam will drown ancient carvings — Dialogue Earth]]
+- Source: [[https://www.dawn.com/news/1817891][Wapda to digitise prehistoric rock carvings at Diamer Basha Dam site — Dawn]]
+- Source: [[https://travelpakistani.com/blogs/diamer-basha-dam-threat-to-ancient-rock-carvings/469][Diamer Basha Dam Threat to Ancient Rock Carvings — Travel Pakistani]]
+
+** D.5.3 Displacement
+
+The dam reservoir will flood *31 villages*, affecting approximately
+*28,650 people* and displacing more than *4,135 households*.
+
+A 2024 academic study (published in the MDPI journal /Sustainability/)
+documented the social impact of the project delay on affected
+communities:
+
+- Households have been living in uncertainty about relocation and
+  rehabilitation for years, as construction timelines have shifted
+  repeatedly.
+- Only *37% of affected households* expressed willingness to resettle
+  in the proposed model villages — indicating deep community
+  resistance to the resettlement plan.
+- Concerns include loss of agricultural land, disruption of social
+  networks, inadequate compensation, and the erasure of ancestral
+  connections to place.
+
+The people of Diamer are predominantly Shina-speaking, with strong
+clan and village identities. Resettlement to "model villages" —
+designed on a grid, without reference to the social geography of the
+original settlements — represents a fundamental rupture in the
+relationship between community and landscape.
+
+- Source: [[https://www.mdpi.com/2071-1050/17/6/2387][Development-Induced Displacement: A Case Study of Diamer Basha Dam — MDPI Sustainability]]
+- Source: [[https://dialogue.earth/en/water/pakistan-breaks-ground-for-dream-dam-project-at-diamer/][Pakistan breaks ground for dream dam project at Diamer — Dialogue Earth]]
+
+** D.5.4 The Workers
+
+The dam is being built by the *Power China–FWO Joint Venture* (Frontier
+Works Organisation, a division of the Pakistan Army, partnered with
+the Chinese state corporation). Power China holds a 70% stake; FWO
+holds 30%. The workforce includes:
+
+- Over 17,000 Chinese workers expected across the project's duration
+- Pakistani labourers, many from the local Diamer and Kohistan
+  communities
+- FWO military-engineering personnel
+
+In September 2025, the project advertised 130 new positions through
+the POWERCHINA-FWO joint venture: civil and planning engineers,
+dumper drivers, heavy equipment operators, masons, drillers, steel
+fixers, carpenters, and general labourers. Applications were processed
+through the Collector and Deputy Commissioner Diamer offices, with
+emphasis on "training and hiring local workers to ensure community
+participation."
+
+- Source: [[https://www.nation.com.pk/18-Sep-2025/diamer-basha-dam-creates-130-job-opportunities-for-locals][Diamer Basha Dam creates 130 job opportunities for locals — The Nation]]
+
+Detailed reporting on the workforce — their origins, conditions,
+perspectives on the petroglyphs — remains sparse. The project operates
+in a region with limited press access, military involvement in
+construction, and security restrictions inherited from the post-2013
+environment.
+
+** D.5.5 The Voices of the Displaced
+
+The displaced communities have not been silent — but their voices
+appear primarily in protest coverage, not in the dam's official
+narrative. In 2025, the *Huqooq Do, Dam Banao Tehreek* ("Give Rights,
+Build the Dam" Movement) organised sustained protests that shut the
+Karakoram Highway at Bab-e-Chilas for over 42 days.
+
+*** Named voices
+
+*Attaullah Khan*, leader of the Diamer-Bhasha Dam Affectees Action
+Committee, articulated the loss in terms that compensation frameworks
+cannot capture:
+
+#+begin_quote
+"There cannot be a compensation for the graves of our ancestors, our
+culture, tradition and history."
+#+end_quote
+
+--- Attaullah Khan, reported in Dialogue Earth (2020) and subsequent
+coverage.
+
+*Shafiullah Danish*, 27 years old, from Thor village — one of the
+thirteen villages that will be submerged — expressed the frustration
+of a generation that has grown up under the dam's shadow:
+
+#+begin_quote
+"The indifferent attitude of the government will one day make us
+rebels. We are not allowed to even speak for our rights."
+#+end_quote
+
+--- Shafiullah Danish, reported in Dialogue Earth (2020).
+
+*Muhammad Shafique*, also from Thore village:
+
+#+begin_quote
+"We sacrificed our culture and even our graveyards in the larger
+national interest but the government did not honour its commitment.
+For a tribal man, nothing is more important than the graveyard of his
+ancestors."
+#+end_quote
+
+--- Muhammad Shafique, reported in Dialogue Earth / The Third Pole.
+
+*Ziaul Haq*, a sawmill and furniture factory owner from Thoril Nala
+village in Diamer, whose business faces destruction without
+compensation, supports eight children through school and college:
+
+#+begin_quote
+"The government takes away land, factory and house without
+compensation."
+#+end_quote
+
+--- Ziaul Haq, reported in Lok Sujag (2025).
+
+*Sahibzada*, 67 years old, from Upper Kohistan, had two separate
+ancestral homes classified as one for compensation purposes and
+received a single "Choolha Package" (Rs 3.5 million) for two houses
+and a shop. He has been fighting through the courts without
+resolution.
+
+*** The protest movement
+
+The Affectees Committee's 32-point charter of demands includes:
+resettlement of affected families, allotment of homes in Islamabad
+and Abbottabad at nominal rates, construction of model residential
+colonies in Diamer, jobs in the project, educational scholarships,
+and wheat subsidies. The government states Rs 151 billion has been
+disbursed in compensation, but affected communities dispute the
+adequacy and distribution.
+
+The movement's slogan — /Huqooq Do, Dam Banao/ ("Give Rights, Build
+the Dam") — is notable for what it does /not/ say. The protesters do
+not oppose the dam. They accept the national interest argument. They
+ask only to be treated as participants rather than obstacles.
+
+- Source: [[https://dialogue.earth/en/water/pakistan-breaks-ground-for-dream-dam-project-at-diamer/][Pakistan breaks ground for dream dam project at Diamer — Dialogue Earth]]
+- Source: [[https://www.thethirdpole.net/en/energy/pakistani-villagers-oppose-indus-dam/][Pakistani villagers oppose Indus dam — The Third Pole / Dialogue Earth]]
+- Source: [[https://www.dawn.com/news/1900953][Diamer-Bhasha Dam protest enters seventh week — Dawn]]
+- Source: [[https://www.dawn.com/news/1829391/karakoram-highway-blocked-as-protesters-demand-compensation-promised-for-diamer-bhasha-dam][KKH blocked as protesters demand compensation — Dawn]]
+- Source: [[https://loksujag.com/story/why-diamer-bhasha-dasu-dam-affected-people-protest-continually-eng][Why do affected people protest continually? — Lok Sujag]]
+- Source: [[https://pamirtimes.net/2025/02/20/protests-over-diamer-bhasha-dam-intensify-as-affected-communities-demand-rights/][Protests intensify as affected communities demand rights — Pamir Times]]
+- Source: [[https://www.nation.com.pk/30-Jan-2019/diamer-bhasha-dam-affectees-protest-for-rights][Diamer Bhasha Dam affectees protest for rights — The Nation]]
+
+** D.5.6 The Larger Question
+
+The Diamer-Basha Dam crystallises a tension that runs through this
+entire survey series: the relationship between infrastructure,
+memory, and power. The Karakoram Highway brought the state's gaze to
+Diamer. The dam brings the state's need — for electricity, for water
+storage, for control of the Indus. The petroglyphs are 10,000 years
+of human presence being sacrificed for a reservoir that will silt up
+in a century.
+
+This is not an argument against the dam — Pakistan's energy and water
+needs are real and urgent. It is an observation that the cost is being
+tallied in the wrong currency. Thirty thousand rock carvings are not
+"heritage" in the abstract. They are the signatures of individuals
+who stood in a specific place and made a mark. Each one is an act of
+presence. The dam will erase 86% of them without a record.
+
+- Source: [[https://dialogue.earth/en/energy/pakistans-diamer-bhasha-dam-neither-green-nor-cheap/][Pakistan's Diamer Bhasha dam neither green nor cheap — Dialogue Earth]]
+
+* Sources (Consolidated)
+
+** D.1 Sources — Mountaineering
+
+1. [[https://en.wikipedia.org/wiki/Karl_Herrligkoffer][Karl Herrligkoffer — Wikipedia]]
+2. [[https://en.wikipedia.org/wiki/Nanga_Parbat][Nanga Parbat — Wikipedia]]
+3. [[https://en.wikipedia.org/wiki/1953_German%E2%80%93Austrian_Nanga_Parbat_expedition][1953 German-Austrian Nanga Parbat expedition — Wikipedia]]
+4. [[https://explorersweb.com/groundbreaking-climbs-on-nanga-parbats-diamir-face/][A History of Climbing on Nanga Parbat's Diamir Face — Explorersweb]]
+5. [[http://publications.americanalpineclub.org/articles/12196352404/Asia-Pakistan-Nanga-Parbat-Diamir-Face][AAC Publications — Nanga Parbat, Diamir Face]]
+6. [[https://en.wikipedia.org/wiki/Toni_Kinshofer][Toni Kinshofer — Wikipedia]]
+7. [[https://www.outsideonline.com/outdoor-adventure/climbing/buried-past/][Buried in the Past — Outside Online]]
+8. [[https://www.planetmountain.com/en/news/alpinism/nanga-parbat-1970-reinhold-messner-told-the-truth.html][Nanga Parbat 1970: Reinhold Messner told the truth — PlanetMountain]]
+9. [[https://summitersclub.com/blog/messner-brothers-nanga-parbat-climb-story/][Messner Brothers' Tragic Nanga Parbat Climb — Summiters Club]]
+10. [[http://publications.americanalpineclub.org/articles/12200444700/The-Naked-Mountain][AAC Publications — Review of The Naked Mountain]]
+11. [[https://pubmed.ncbi.nlm.nih.gov/16673142/][Unravelling the mystery of Nanga Parbat — PubMed]]
+12. [[https://en.wikipedia.org/wiki/G%C3%BCnther_Messner][Günther Messner — Wikipedia]]
+13. [[https://www.climbing.com/news/messner-mystery-solved/][Messner Mystery Solved? — Climbing Magazine]]
+14. [[https://explorersweb.com/gunther-messners-second-boot-returns-to-reinhold/][Günther Messner's Second Boot Returns — Explorersweb]]
+15. [[https://gripped.com/profiles/gunther-messner-died-in-1970-his-brother-reinhold-just-got-his-boot/][Günther Messner Died in 1970 — Gripped]]
+16. [[https://gearjunkie.com/climbing/reinhold-messner-brothers-boot-found][Reinhold Messner Vindicated — GearJunkie]]
+17. [[https://www.guinnessworldrecords.com/world-records/665357-first-ascent-of-nanga-parbat-female][First ascent of Nanga Parbat (female) — Guinness World Records]]
+18. [[https://explorersweb.com/remembering-liliane-barrard/][Remembering Liliane Barrard — Explorersweb]]
+19. [[https://en.wikipedia.org/wiki/Liliane_and_Maurice_Barrard][Liliane and Maurice Barrard — Wikipedia]]
+20. [[https://www.nationalgeographic.com/adventure/article/absolute-misery-climbers-complete-the-historic-first-winter-ascent-of-nanga-parbat-the-killer-mountain][First Winter Ascent of Nanga Parbat — National Geographic]]
+21. [[https://www.planetmountain.com/en/news/alpinism/nanga-parbat-summit-and-first-winter-ascent-by-simone-moro-ali-sadpara-and-alex-txikon.html][First winter ascent — PlanetMountain]]
+22. [[https://en.wikipedia.org/wiki/Ali_Sadpara][Ali Sadpara — Wikipedia]]
+23. [[https://www.npr.org/sections/thetwo-way/2018/01/29/581530678/after-harrowing-weekend-rescue-one-climber-saved-one-lost-to-killer-mountain][Revol/Mackiewicz rescue — NPR]]
+24. [[https://www.outsideonline.com/outdoor-adventure/climbing/behind-scenes-daring-rescue-nanga-parbat/][Rescue on the Killer Mountain — Outside Online]]
+25. [[https://www.himalayanclub.org/hj/74/4/rescue-on-nanga/][Rescue on Nanga — Himalayan Journal]]
+26. [[https://alpinist.com/features/elisabeth-revols-book-to-live-is-an-ode-to-tomasz-mackiewicz-and-nanga-parbat/][Revol's "To Live" — Alpinist]]
+27. [[https://en.wikipedia.org/wiki/List_of_deaths_on_eight-thousanders][List of deaths on eight-thousanders — Wikipedia]]
+28. [[https://www.ultimatekilimanjaro.com/the-worlds-most-dangerous-mountains/][Most Dangerous Mountains — Ultimate Kilimanjaro]]
+29. [[https://www.zmescience.com/ecology/environmental-issues/mountain-files-the-deadliest-mountains-nanga-parbat-and-annapurna/][Deadliest mountains — ZME Science]]
+
+** D.2 Sources — The 2013 Massacre
+
+30. [[https://en.wikipedia.org/wiki/2013_Nanga_Parbat_massacre][2013 Nanga Parbat massacre — Wikipedia]]
+31. [[https://www.nationalgeographic.com/adventure/article/130628-nanga-parbat-pakistan-mountaineering-climbers-world-murder-poland-nepal-china-lithuania][Climbers Recount Murder on Famous Pakistan Peak — National Geographic]]
+32. [[https://en.wikipedia.org/wiki/Igor_Svergun][Igor Svergun — Wikipedia]]
+33. [[https://www.dawn.com/news/1115891][Chinese-American was target — Dawn]]
+34. [[https://jamestown.org/program/recent-wave-of-terrorism-in-pakistans-gilgit-baltistan-region/][Recent Wave of Terrorism in GB — Jamestown Foundation]]
+35. [[https://www.rferl.org/a/pakistan-sentences-13-militants-death-terrorism-charges-massacre-foreign-moutaineers/27615958.html][13 Militants Sentenced — RFE/RL]]
+36. [[https://tribune.com.pk/story/1066459/army-chief-signs-execution-orders-of-13-terrorists][Execution orders signed — Express Tribune]]
+37. [[https://www.dawn.com/news/1255399/nanga-parbat-massacre-convicts-shifted-to-adiala-jail][Convicts shifted to Adiala Jail — Dawn]]
+38. [[https://www.washingtonpost.com/world/asia_pacific/one-year-after-shocking-terrorist-attack-pakistans-peaks-bereft-of-foreign-climbers/2014/06/29/b72beaa8-f7b6-11e3-a606-946fd632f9f1_story.html][Pakistan's peaks bereft of foreign climbers — Washington Post]]
+39. [[https://tribune.com.pk/story/767902/expeditions-to-nanga-parbat-take-a-hit-after-2013-massacre][Expeditions take a hit — Express Tribune]]
+40. [[https://karakorumbasecamp.com/2025/06/24/remembering-the-nanga-parbat-massacre-of-2013-from-horror-to-hope-through-the-eyes-of-survivors/][From Horror to Hope — Karakorum Base Camp]]
+41. [[https://www.voanews.com/a/nanga-parbat-new-terror-risk-confronts-himalayan-climbers/2832985.html][Mountaineers Factor in Risk of Terrorism — VOA]]
+42. [[http://altitudepakistan.blogspot.com/2013/06/nanga-parbat-diamir-bc-massacre-list-of.html][List of Victims — Altitude Pakistan]]
+43. [[https://alpinist.com/newswire/nanga-parbat-victims-alleged-attackers-identified/][Victims, Alleged Attackers Identified — Alpinist]]
+
+** D.3 Sources — Kolouchová
+
+44. [[https://en.wikipedia.org/wiki/Kl%C3%A1ra_Kolouchov%C3%A1][Klára Kolouchová — Wikipedia]]
+45. [[https://english.radio.cz/klara-kolouchova-tragedy-trailblazing-czech-mountaineer-dies-nanga-parbat-8855891][Kolouchová tragedy — Radio Prague International]]
+46. [[https://www.aauni.edu/news/in-memoriam-klara-kolouchova/][In Memoriam — Anglo-American University]]
+47. [[https://explorersweb.com/tragedy-on-nanga-parbat-czech-woman-dies-in-fall/][Czech Woman Dies In Fall — Explorersweb]]
+48. [[https://summitersclub.com/blog/tragic-nanga-parbat-fall-czech-climber/][Tragic Fall — Summiters Club]]
+49. [[https://gulfnews.com/world/asia/pakistan/killer-mountain-czech-climber-klara-dies-in-a-fall-on-pakistans-notorious-peak-1.500188509][Klára dies in a fall — Gulf News]]
+50. [[https://www.geo.tv/latest/612277-czech-mountaineer-dies-during-nanga-parbat-expedition][Czech mountaineer dies — Geo News]]
+51. [[https://pamirtimes.net/2025/07/03/famous-czech-mountaineer-klara-kolouchova-dies-at-nanga-parbat/][Kolouchová dies at Nanga Parbat — Pamir Times]]
+
+** D.4 Sources — KKH and Tourism
+
+52. [[https://en.wikipedia.org/wiki/Karakoram_Highway][Karakoram Highway — Wikipedia]]
+53. [[https://www.pakistantoday.com.pk/2023/08/16/kkh-the-highway-constructed-with-blood-flesh-of-chinese-pakistani-workers/][KKH constructed with flesh & blood — Pakistan Today]]
+54. [[https://news.cgtn.com/news/3d41544e794d444e/share.html][KKH: Memorial for China-Pakistan friendship — CGTN]]
+55. [[https://english.news.cn/20250217/1d20445df9774f11a9a6a731e16b7b49/c.html][Pakistani gravekeeper honors KKH builders — Xinhua]]
+56. [[https://www.dangerousroads.org/asia/pakistan/116-fairy-meadows-road-pakistan.html][Fairy Meadows Road — DangerousRoads.org]]
+57. [[https://en.wikipedia.org/wiki/Fairy_Meadows_National_Park][Fairy Meadows National Park — Wikipedia]]
+58. [[https://againstthecompass.com/en/fairy-meadows-trek-nanga-parbat-base-camp/][Fairy Meadows trek guide — Against the Compass]]
+59. [[https://discoveringpakistan.com/fairy-meadows/][Fairy Meadows — Discovering Pakistan]]
+60. [[https://www.ultimategearlists.com/destinations/fairy-meadows-nanga-parbat-base-camp-pakistan][Fairy Meadows guide — Ultimate Gear Lists]]
+
+** D.5 Sources — The Dam
+
+61. [[https://en.wikipedia.org/wiki/Diamer-Bhasha_Dam][Diamer-Bhasha Dam — Wikipedia]]
+62. [[https://wapda.gov.pk/diamer-basha-dam-project/][WAPDA — Diamer Basha Dam Project]]
+63. [[https://nishadil.com/news/diamer-bhasha-dam-pakistans-future-water-and-power-hub-set-for-major-construction-milestone/a2e072731fddc4a047c3d2fa0d52b8fc][RCC Work Begins 2025 — Nishadil]]
+64. [[https://www.wmf.org/projects/petroglyphs-diamer-basha-dam-area][Petroglyphs in the Diamer-Basha Dam Area — World Monuments Fund]]
+65. [[https://dialogue.earth/en/water/pakistans-diamer-basha-dam-will-drown-ancient-carvings/][Diamer Basha dam will drown ancient carvings — Dialogue Earth]]
+66. [[https://www.dawn.com/news/1817891][Wapda to digitise rock carvings — Dawn]]
+67. [[https://travelpakistani.com/blogs/diamer-basha-dam-threat-to-ancient-rock-carvings/469][Dam Threat to Rock Carvings — Travel Pakistani]]
+68. [[https://www.mdpi.com/2071-1050/17/6/2387][Displacement case study — MDPI Sustainability]]
+69. [[https://dialogue.earth/en/water/pakistan-breaks-ground-for-dream-dam-project-at-diamer/][Pakistan breaks ground — Dialogue Earth]]
+70. [[https://dialogue.earth/en/energy/pakistans-diamer-bhasha-dam-neither-green-nor-cheap/][Neither green nor cheap — Dialogue Earth]]
+71. [[https://www.nation.com.pk/18-Sep-2025/diamer-basha-dam-creates-130-job-opportunities-for-locals][130 job opportunities for locals — The Nation]]
+72. [[https://www.thethirdpole.net/en/energy/pakistani-villagers-oppose-indus-dam/][Pakistani villagers oppose Indus dam — The Third Pole]]
+73. [[https://www.dawn.com/news/1900953][Dam protest enters seventh week — Dawn]]
+74. [[https://www.dawn.com/news/1829391/karakoram-highway-blocked-as-protesters-demand-compensation-promised-for-diamer-bhasha-dam][KKH blocked as protesters demand compensation — Dawn]]
+75. [[https://loksujag.com/story/why-diamer-bhasha-dasu-dam-affected-people-protest-continually-eng][Why do affected people protest continually? — Lok Sujag]]
+76. [[https://pamirtimes.net/2025/02/20/protests-over-diamer-bhasha-dam-intensify-as-affected-communities-demand-rights/][Protests intensify — Pamir Times]]
+77. [[https://www.nation.com.pk/30-Jan-2019/diamer-bhasha-dam-affectees-protest-for-rights][Affectees protest for rights — The Nation]]

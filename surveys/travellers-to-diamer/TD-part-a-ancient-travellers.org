@@ -1,0 +1,644 @@
+#+title: The Travellers to Diamer — Part A: Ancient Travellers
+#+subtitle: Petroglyph makers, Chinese pilgrims, Silk Road merchants (~8000 BCE – 700 CE)
+#+author: epistem-guardian (mu2tau + mayadev)
+#+date: 2026-03-08
+#+property: wp WP-0021
+
+* Introduction
+
+The upper Indus valley through Diamer district — the stretch from Shatial
+to Chilas and beyond toward Gilgit — is one of the most densely inscribed
+landscapes on Earth. Approximately 30,000 petroglyphs and 5,000 inscriptions
+in more than 10 writing systems have been documented on a 100 km stretch of
+river canyon [cite:tracce:kkhcarvings]. This is not accidental. The gorge of
+the Indus at this point is narrow, violent, and unavoidable: anyone travelling
+between Central Asia and the Indian subcontinent via the Karakoram or the
+western Himalaya had to pass through here. For at least ten thousand years,
+they left their marks on the desert-varnished boulders that line the banks.
+
+This survey covers the ancient travellers — from the earliest anonymous
+petroglyph makers of the Mesolithic to the last Buddhist pilgrims before the
+Islamic transformation of the region. The account is organised by community
+rather than strict chronology, since many of these groups overlapped in time.
+
+* A.1 The Petroglyph Makers (~8000 BCE – 1000 CE)
+
+** A.1.1 The Earliest Carvers: Mesolithic Hunters
+
+The earliest rock carvings in the upper Indus valley date to approximately the
+ninth millennium BCE — the late Stone Age / early Mesolithic [cite:encyclopedia:rockart].
+These are the oldest anthropogenic marks in the region, preceding agriculture, metals,
+and organised religion by thousands of years.
+
+The subjects are almost exclusively wild animals: ibex with large curving horns,
+markhor, snow leopards, and hunting scenes. The hunter himself is rarely depicted
+in the earliest layers. These carvings are typically found closest to the riverbank,
+on boulders with heavy desert varnish — the darkest patina indicating the longest
+exposure [cite:highasia:rockart].
+
+Who were these people? The evidence is indirect. They were likely semi-nomadic
+hunter-gatherer groups moving up the Indus drainage during interglacial periods,
+pursuing alpine game. Beginning in the Upper Palaeolithic, some 20,000 to 10,000
+years ago, people began moving up these rivers in pursuit of game, with the
+earliest anthropomorphic figures and animal petroglyphs of large horned goats,
+sheep, ibex, and snow leopards probably dating to this time [cite:encyclopedia:rockart].
+
+No settlement sites from this period have been identified in Diamer proper.
+The carvers remain anonymous — known only by what they left on rock.
+
+** A.1.2 The Bronze Age Transition: Herders and Giants
+
+By the third millennium BCE, the character of the carvings changes. Large
+engravings of humped zebu cattle appear, indicating that herders — not just
+hunters — were now frequenting the Indus gorge [cite:encyclopedia:rockart].
+Agriculture had started in the wider region, and carvings of horses appear for
+the first time [cite:ancientconnection:buddhistrockart].
+
+A striking feature of this period is the appearance of approximately 50 carvings
+of "giants" — large human-like figures, all depicted without facial features
+[cite:ancientconnection:buddhistrockart]. Their purpose and identity remain
+debated. They may represent deities, ancestral figures, or ritual participants.
+
+** A.1.3 The Okunev Culture Connection: Siberia to the Indus
+
+One of the most remarkable findings from the upper Indus rock art is its
+connection to the Okunev culture of south Siberia. The Okunev culture was a
+pastoralist society of the early Bronze Age (late 3rd to early 2nd millennium
+BCE) based in the Minusinsk Basin on the middle and upper Yenisei river
+[cite:wikipedia:okunev].
+
+Okunev-style petroglyphs — specifically three distinctive mask types dating to
+the 3rd millennium BCE — have been identified in the upper reaches of the Indus,
+near Chilas, connected to Okunev engravings by their main motifs and stylistic
+peculiarities [cite:academia:petroglyphsmigrations]. This implies a migration or
+cultural transmission corridor spanning approximately 2,500 km from the Yenisei
+to the Indus.
+
+The Sayan complex of archaeological cultures of the Early Bronze Age, composed
+mainly of descendants of the Afanasyevo and Okunevo tribes, appears to have
+formed a cultural entity that migrated southwards to the upper reaches of the
+Indus and further westwards to eastern Anatolia [cite:academia:petroglyphsmigrations].
+The distribution of Okunev-style motifs such as the Mugur-Sargol representations
+across regions from China to the upper Indus indicates cultural diffusion from
+Okunev traditions [cite:ulukayin:okunev].
+
+#+begin_quote
+*Epistemic status*: The Okunev–Indus connection is proposed on the basis of
+stylistic similarity in petroglyphs across distant sites. It is supported by
+multiple scholars but remains a hypothesis about cultural transmission rather
+than a demonstrated migration. No DNA evidence or settlement archaeology
+directly links the two regions in this period.
+#+end_quote
+
+** A.1.4 Scythian and Steppe Nomad Influence (~1000 – 200 BCE)
+
+At the beginning of the first millennium BCE, a new artistic vocabulary appears
+in the upper Indus carvings: the Eurasian Animal Style. Stags and ibex with
+large backward-curving horns, depicted in dynamic movement, can be linked to
+Scythian (Saka) artistic traditions dating to the eighth century BCE, and to
+even earlier animal-style art from Siberia dating from the eleventh to ninth
+centuries BCE [cite:encyclopedia:rockart].
+
+These carvings were left by nomadic groups — referred to in the rock art
+literature as the Sakan tribes — who moved down the river valleys from the
+Eurasian steppes. Their presence marks the beginning of the upper Indus gorge
+as a transit corridor rather than merely a hunting ground.
+
+** A.1.5 Karl Jettmar's Periodisation
+
+Karl Jettmar (1918–2002), professor of ethnology at Heidelberg, was the
+founding figure of systematic rock art research in the upper Indus. When the
+Karakoram Highway was inaugurated in 1978, exposing thousands of previously
+inaccessible engravings, Jettmar recognised their significance. In 1980, he
+and Ahmad Hasan Dani launched the Pak-German Archaeological Mission (later the
+Pak-German Study Group) to document the sites systematically
+[cite:dawn:threatenedcarvings].
+
+Jettmar's major publications include:
+
+- /Between Gandhara and the Silk Roads: Rock Carvings along the Karakorum
+  Highway/ (1987, with Volker Thewalt) [cite:google:jettmarbetween]
+- /Antiquities of Northern Pakistan/ (ANP), 5 volumes (1989–2004), the
+  definitive corpus [cite:archive:anp1; cite:archive:anp2]
+
+Jettmar identified three broad chronological phases in the rock art
+[cite:tracce:kkhcarvings]:
+
+| Phase | Approximate Date | Characteristics |
+|-------+------------------+-------------------------------------------------------|
+| Prehistoric | ~8000 BCE – 1st c. BCE | Animals, hunting scenes, demon-like creatures |
+| Buddhist | ~1st c. CE – 9th/10th c. CE | Stupas, Buddhas, Bodhisattvas, inscriptions in Brahmi, Kharosthi, Sogdian |
+| Post-Buddhist | ~9th/10th c. – 14th/15th c. CE | Axes, sun-symbols; transition to Islamic period |
+
+Within the prehistoric phase, sub-periods can be distinguished by style:
+early hunting scenes (Mesolithic), zebu and giant figures (Bronze Age),
+Eurasian Animal Style (Iron Age / Scythian influence). Within the Buddhist
+phase, a dense overlay of stupa carvings, donor inscriptions, and narrative
+panels (including Jataka scenes) accumulated over roughly a millennium.
+
+Jettmar's later work (1989) moved away from a simple ethno-archaeological
+interpretation that would directly imply a chronological distinction between
+Buddhist and non-Buddhist carvings. His spatial-oriented approach considers
+the carvings as grouped together within bigger but still specific, contained
+mountain sites [cite:researchgate:chilasrockart].
+
+#+begin_quote
+*Note on periodisation terminology*: Some secondary sources refer to "Period
+I–V" in connection with Jettmar. This five-period scheme appears in the
+Encyclopaedia Iranica article on Chilas and in Dani's later work, refining
+the three-phase model. The exact correspondence between numbering schemes
+varies across publications. The three-phase model given here follows Jettmar's
+own primary publications as described in the TRACCE/rupestre.net summary and
+the Encyclopedia.com entry.
+#+end_quote
+
+** A.1.6 The Thalpan Bridge Site
+
+Thalpan is a small village on the Indus opposite Chilas town, the headquarters
+of Diamer district. The rock art site known as Thalpan Bridge (or Thalpan I)
+is the densest concentration of petroglyphs in the entire upper Indus
+[cite:researchgate:thalpanmonastic].
+
+Thousands of rock carvings have been documented here by the Pak-German
+Archaeological Mission from the late 1970s onward, published across six
+dedicated volumes [cite:researchgate:thalpanmonastic]. The majority are
+Buddhist in nature — stupas, Buddhas, Bodhisattvas, and donor inscriptions —
+though prehistoric and post-Buddhist layers are also present.
+
+The site's significance lies in:
+
+1. *Density*: More carvings per unit area than any comparable site in South or
+   Central Asia
+2. *Temporal depth*: Carvings spanning roughly ten millennia on the same
+   boulders
+3. *Multilingualism*: Inscriptions in Kharosthi, Brahmi (both early and late
+   variants), Proto-Sarada, Sogdian, Chinese, and possibly Hebrew
+   [cite:tracce:kkhcarvings]
+4. *Narrative content*: Jataka scenes, particularly the Sibi Jataka
+   [cite:thenews:tracinghistories]
+5. *Monastic context*: Recent discovery of a possible Buddhist monastic
+   complex at Thalpan [cite:researchgate:thalpanmonastic]
+
+The Chilas I site (directly across the river from Thalpan Bridge, above the
+Karakoram Highway) contains complementary material, including prominent panels
+of Bodhisattva Avalokiteshvara and Bodhisattva Maitreya [cite:fridaytimes:buddhistchilas].
+
+*** Threat
+
+The proposed Diamer-Basha Dam, if built, would submerge many of the most
+significant rock art sites in the region, including portions of the Thalpan
+and Chilas concentrations [cite:dawn:threatenedcarvings].
+
+* A.2 Chinese Buddhist Pilgrims
+
+** A.2.1 Faxian (法顯) — ~399 CE
+
+| Field | Detail |
+|-------+--------|
+| *Name* | Faxian (Fa-Hien, Fa-hsien) |
+| *Dates* | c. 337 – c. 422 CE |
+| *Origin* | Shanxi province, China |
+| *Purpose* | Pilgrimage to India to obtain Buddhist vinaya (monastic discipline) texts |
+| *Route through Diamer* | Crossed the Indus gorge via the śaṅkupatha (suspended crossing / peg-path) |
+| *What he wrote* | /Foguo Ji/ (佛國記), "A Record of the Buddhist Kingdoms" |
+| *What happened to him* | Returned to China via Sri Lanka and the sea route; translated texts until his death |
+| *Primary source* | James Legge (tr.), /A Record of Buddhistic Kingdoms/ (1886) |
+
+*** The Śaṅkupatha: Faxian's Own Account
+
+Faxian left Chang'an in 399 CE with a group of fellow monks, travelling
+westward through the Taklamakan and then south across the high passes toward
+India. His account of crossing the Indus gorge is one of the most vivid
+passages in early travel literature.
+
+From James Legge's translation (1886), available on Project Gutenberg
+[cite:gutenberg:faxian]:
+
+#+begin_quote
+"The way was difficult and rugged, (running along) a bank exceedingly
+precipitous, which rose up there, a hill-like wall of rock, 10,000 cubits from
+the base. When one approached the edge of it, his eyes became unsteady; and if
+he wished to go forward in the same direction, there was no place on which he
+could place his foot; and beneath were the waters of the river called the
+Indus. In former times men had chiselled paths along the rocks, and distributed
+ladders on the face of them, to the number altogether of 700, at the bottom of
+which there was a suspension bridge of ropes, by which the river was crossed,
+its banks being there eighty paces apart."
+#+end_quote
+
+The chapter heading in Legge's translation reads: "Crossing of the Indus. When
+Buddhism First Crossed the River for the East." (Chapter VII.)
+
+*** The Peg-Path Technique
+
+The Sanskrit term for this crossing method is *śaṅkupatha* — literally
+"peg-path" — rendered in Chinese as *xuándù* (懸度, "suspended crossing").
+Faxian's term is *bàngtī* (棒梯, "pole-step"), describing the same technique
+from the traveller's perspective: wooden pegs driven into the rock face,
+serving as footholds for traversing vertical cliff walls above the river
+[cite:falk:sankupatha; cite:academia:falksuccessors].
+
+Harry Falk's comprehensive study, "The Suspended Crossing (śaṅkupatha) in the
+Gorges of the Indus River as described by Chinese Pilgrims Faxian, Dharmodgata
+and Xuanzang" (2020), published on Academia.edu, reconstructs the likely
+location of the crossing and compares the accounts of multiple pilgrims
+[cite:falk:sankupatha].
+
+Faxian appears to have followed a relatively simple path through the Yasin
+Valley and across the Dadarili pass to reach the Indus gorge
+[cite:falk:sankupatha].
+
+** A.2.2 Dharmodgata (曇摩竭) — Early 5th Century CE
+
+| Field | Detail |
+|-------+--------|
+| *Name* | Dharmodgata (Tánmójié) |
+| *Dates* | Active early 5th century CE, contemporary or near-contemporary of Faxian |
+| *Origin* | China (Eastern Jin dynasty) |
+| *Purpose* | Buddhist pilgrimage |
+| *Route through Diamer* | Crossed the Indus gorge via the śaṅkupatha, same general corridor as Faxian |
+| *What he left behind* | Account recorded in the /Gaosengzhuan/ (Biographies of Eminent Monks) |
+| *Primary source* | /Gaosengzhuan/ (compiled by Huijiao, 519 CE) |
+
+Dharmodgata was Faxian's direct successor on the route. His account, preserved
+in the /Gaosengzhuan/, describes using /yì/ (杙, "pegs") to climb the rock on
+the bank of the Indus — a slightly different term from Faxian's /bàngtī/ but
+referring to the same peg-path technique [cite:falk:sankupatha].
+
+The terminological difference is significant for Falk's reconstruction: it
+suggests that different pilgrims experienced (or at least described) slightly
+different variants of the crossing infrastructure, which may have been
+maintained and modified over decades.
+
+** A.2.3 Xuanzang (玄奘) — ~630 CE
+
+| Field | Detail |
+|-------+--------|
+| *Name* | Xuanzang (Hsüan-tsang) |
+| *Dates* | 602–664 CE |
+| *Origin* | Henan province, China |
+| *Purpose* | Buddhist pilgrimage and study; collection of sutras |
+| *Route through Diamer* | Entered the subcontinent via the Karakoram passes; crossed the Indus |
+| *What he wrote* | /Da Tang Xiyu Ji/ (大唐西域記), "Great Tang Records on the Western Regions" (646 CE) |
+| *What happened to him* | Returned to China with 657 texts; spent the rest of his life translating |
+| *Primary source* | Li Rongxi (tr.), /The Great Tang Dynasty Record of the Western Regions/ (BDK English Tripitaka, 1996) |
+
+*** The Route and the Capsized Boat
+
+Xuanzang left Chang'an in 629 CE, travelling westward through Central Asia
+and entering the Indian subcontinent from the northwest. His account describes
+visiting Uddiyana (Swat) and various Buddhist sites along the way
+[cite:factsanddetails:xuanzangindia].
+
+The most dramatic incident on the Indus occurred in 644 CE, on the return
+journey. At Hund on the Indus, a storm rose up and overturned his boats. He
+lost approximately 50 of his precious manuscripts and an unspecified quantity
+of flower seeds he was bringing back to China [cite:factsanddetails:xuanzanwestern].
+
+According to the biographical sources, his scriptures and images were loaded in
+a boat with companions to sail across the river, while Xuanzang himself waded
+through on his elephant, with a man appointed to take care of the scriptures.
+The loss was devastating. He sent to Udyana for extra copies of his scriptures,
+waiting two months at Kapisa hoping for their arrival
+[cite:factsanddetails:xuanzangindia].
+
+Notably, Xuanzang does not recount this accident in the /Da Tang Xiyu Ji/
+itself; it appears only in his later letters to monks in India requesting
+replacement copies [cite:wikipedia:recordswesternregions].
+
+*** The Peg-Path in Xuanzang's Account
+
+Xuanzang also describes crossing the Indus gorges using a technique he calls
+/zhuóyì/ (斲杙, "hitting-peg") — lexically related to both Faxian's /bàngtī/
+and Dharmodgata's /yì/. This confirms that the śaṅkupatha infrastructure was
+still in use more than two centuries after Faxian's crossing
+[cite:falk:sankupatha].
+
+** A.2.4 Other Chinese Pilgrims
+
+The śaṅkupatha crossing was used by Chinese monks from the Han dynasty through
+to the Song dynasty — a span of roughly one thousand years
+[cite:falk:sankupatha]. Harry Falk's paper catalogues the known pilgrims who
+attempted the crossing. Most are known only from brief mentions in monastic
+biographies.
+
+Chinese rock inscriptions have been found at Shatial and Thak Das near Chilas,
+including carved pagoda images — evidence of Chinese pilgrims marking their
+passage through the gorge [cite:unesco:chineserockinscrip; cite:academia:pagodasindus].
+
+* A.3 Sogdian, Persian, and Other Silk Road Travellers
+
+** A.3.1 The Sogdian Inscriptions at Shatial
+
+Shatial is located approximately 60 km west of Chilas on the Indus. It was a
+critical transit point — a natural crossing site where the river narrowed
+sufficiently for a bridge or ferry [cite:wikipedia:shatial].
+
+At the Shatial bridge site, more than 1,000 inscriptions and 700 petroglyphs
+have been documented. Of these, Iranian merchants left behind over 550
+inscriptions in the Sogdian language, dating from the 3rd to 7th centuries CE.
+In addition, nine inscriptions in the extinct Bactrian language and two each in
+Middle Persian and Parthian have been identified
+[cite:iranicaonline:chilas; cite:wikipedia:shatial].
+
+*** Who Were They?
+
+The Sogdians were an Iranian-speaking people based in Sogdiana (centred on
+Samarkand and Bukhara in modern Uzbekistan). From the 4th to 8th centuries CE,
+they dominated east–west trade across Central Asia, their language serving as
+the lingua franca of the Silk Road [cite:sogdians.si:introduction;
+cite:iranicaonline:sogdiantrade].
+
+The Shatial inscriptions are mostly brief: personal names, patronymics,
+sometimes a prayer or a dedication. They are the marks of merchants pausing
+at a river crossing, recording their presence before continuing onward.
+
+*** What Were They Trading?
+
+Sogdian merchants traded a diverse range of goods: musk, silk, silverware,
+slaves, precious metals and stones, furs, amber, relics, paper, spices, brass,
+curcuma, sal ammoniac, medicinal plants, candy sugar, and perfumes
+[cite:factsanddetails:sogdianmerchants; cite:iranicaonline:sogdiantrade]. Among
+the most prized were horses from the Ferghana Valley, gemstones from India,
+musk from Tibet, and furs from the northern steppes.
+
+*** Where Were They Going?
+
+A trade route from Sogdiana crossed the Indus near Shatial and terminated in an
+emporium on the southern bank. Here the Sogdians traded with Buddhist merchants
+(who had Iranian names) from the south, who could move more freely through the
+territory of their respective protectors on the southern bank
+[cite:iranicaonline:chilas]. This suggests a structured trade system with
+intermediaries rather than end-to-end caravan routes.
+
+** A.3.2 Nicholas Sims-Williams and the Corpus
+
+The definitive scholarly study of the Sogdian inscriptions is:
+
+- Nicholas Sims-Williams, /Sogdian and Other Iranian Inscriptions of the Upper
+  Indus, I/ (London: School of Oriental and African Studies, 1989), part of the
+  /Corpus Inscriptionum Iranicarum/ series. 36 pages, 170 plates
+  [cite:cambridge:simswilliamsreview; cite:worldcat:simswilliams].
+
+Sims-Williams also published on the Iranian inscriptions of Shatial specifically:
+"The Iranian Inscriptions of Shatial," /Indologica Taurinensia/ 23–24 (1997–98)
+[cite:openedition:simswilliamsshatial].
+
+Nicholas Sims-Williams is Research Professor of Iranian and Central Asian
+Studies at SOAS, University of London, and the foremost authority on Sogdian
+and Bactrian languages [cite:wikipedia:simswilliams].
+
+** A.3.3 Aramaic/Hebrew Inscriptions — Disputed
+
+Some sources mention Hebrew inscriptions among the multilingual record at
+Shatial and Thalpan [cite:tracce:kkhcarvings; cite:storymaps:upperindus].
+These claims require careful handling.
+
+The Kharosthi script — the dominant writing system for Gandhara and the
+northwest in the early centuries CE — was itself derived from Aramaic, the
+official script of the Achaemenid Persian state chancelleries
+[cite:archnet:hauptmann]. This means that superficially "Aramaic-looking"
+inscriptions may in fact be Kharosthi.
+
+Whether any inscriptions at these sites are genuinely Hebrew (as opposed to
+Aramaic, Kharosthi, or misidentified Iranian scripts) remains disputed in the
+academic literature. The detailed archaeological accounts by Sims-Williams,
+Jettmar, and Dani emphasise Kharosthi, Brahmi, Sogdian, Bactrian, Middle
+Persian, and Parthian without prominently featuring Hebrew.
+
+#+begin_quote
+*Epistemic status*: The existence of Hebrew inscriptions in the upper Indus is
+mentioned in some overview sources but not confirmed in the specialist
+epigraphy. Treat as uncertain.
+#+end_quote
+
+** A.3.4 Sassanid Persian Presence
+
+After the Sassanid dynasty secured Iran under Ardashir I, the second emperor
+Shapur I (240–270 CE) extended his authority eastward into what is now Pakistan,
+with the previously autonomous Kushans obliged to accept his suzerainty. While
+the Kushan empire declined at the end of the 3rd century, Sassanid cultural and
+political influence remained relevant in the northwest
+[cite:storymaps:upperindus].
+
+The Middle Persian and Parthian inscriptions at Shatial (two each) likely date
+to the Sassanid period (224–651 CE). These are far fewer than the Sogdian
+inscriptions, suggesting that Sassanid subjects were less frequent travellers
+on this particular route, or less inclined to inscribe their presence.
+
+The Kushans, who controlled this region before the Sassanid period, were
+influenced by the Sassanid conception of kingship, which spread through trade
+in Sassanid silverware and textiles depicting emperors hunting or dispensing
+justice [cite:storymaps:upperindus].
+
+* A.4 The Buddhist Period Summit (~100 BCE – 700 CE)
+
+** A.4.1 Who Built the Monasteries?
+
+The Buddhist presence in the upper Indus was not merely transient. Recent
+survey work has identified a possible Buddhist monastic complex at Thalpan
+itself [cite:researchgate:thalpanmonastic], suggesting permanent or
+semi-permanent religious establishments alongside the itinerant pilgrims and
+traders.
+
+The builders and patrons likely included:
+
+1. *Local rulers*: The Patola Shahis (Palola Shahis) were a dynasty of
+   Buddhist kings who ruled the Kingdom of Gilgit from the 6th to 8th century
+   CE. Their kingdom sat on the strategic trans-Himalayan trade route now known
+   as the Karakoram Highway [cite:wikipedia:patolashahis].
+2. *Gandharan monks*: The rock art shows strong Gandharan stylistic influence,
+   with stupas and Bodhisattva figures closely paralleling Gandharan sculpture
+   traditions [cite:springer:routesbeyondgandhara].
+3. *Donor–travellers*: Many inscriptions are dedicatory — recording the gift
+   of a stupa carving by a named individual, often with a prayer for merit.
+
+** A.4.2 The Jataka Scenes
+
+Among the most significant carvings at Thalpan are narrative panels depicting
+Jataka tales — stories of the Buddha's previous incarnations. According to
+Ahmad Hasan Dani (1983), the boulder art at Thalpan depicts Jataka stories of
+the Buddha, notably the Sibi Jataka — showing a standing Bodhisattva holding a
+balance in his hand, illustrating the tale of King Sibi who offered his own
+flesh to save a dove [cite:thenews:tracinghistories; cite:youlin:thalpanbuddhist].
+
+Other Buddhist motifs include:
+
+- Stupas of varying styles and sizes (the most numerous single motif)
+- Figures of Bodhisattva Avalokiteshvara and Bodhisattva Maitreya
+  [cite:fridaytimes:buddhistchilas]
+- Tridents, swastikas, and other auspicious symbols
+- Linga representations (3rd–5th centuries CE) [cite:highasia:rockart]
+
+** A.4.3 Was This a Major Pilgrim Route?
+
+The density of Buddhist inscriptions — approximately 2,000 in the main Indus
+valley south of Gilgit alone, in both Kharosthi and two variants of Brahmi
+script [cite:iranicaonline:chilas] — strongly indicates that this was a major
+pilgrim and trade route. The inscriptions were written by "pilgrims, travellers,
+traders and others — mainly in the 4th and 5th centuries" [cite:highasia:rockart].
+
+The presence of inscriptions in 10+ writing systems and languages (Kharosthi,
+Brahmi, Proto-Sarada, Sogdian, Bactrian, Middle Persian, Parthian, Chinese,
+and possibly Hebrew) makes the upper Indus gorge one of the most multilingual
+archaeological corridors in the world [cite:tracce:kkhcarvings].
+
+The region was not merely a transit corridor: Gilgit and Kashmir in this period
+were the seat of a major school of Buddhist art, producing ornate early medieval
+bronze icons that also greatly influenced metallic statue production in the
+Swat Valley [cite:wikipedia:patolashahis].
+
+** A.4.4 Ahmad Hasan Dani's Work
+
+Ahmad Hasan Dani (1920–2009) was Pakistan's foremost archaeologist, historian,
+and linguist. His contributions to the study of Diamer's rock art are
+foundational:
+
+- /Chilas: The City of Nanga Parbat (Dyamar)/ (1983) — the first
+  comprehensive study of Chilas rock art and inscriptions
+  [cite:thenews:tracinghistories]
+- Co-direction (with Karl Jettmar) of the Pak-German Study Group from 1980
+  onward [cite:wikipedia:dani]
+- Transcription and interpretation of Kharosthi inscriptions, including the
+  "Kaboa" (Kamboa) inscription
+- /History of Northern Areas of Pakistan: Up to 2000 A.D./ (2001)
+  [cite:google:danihistory]
+
+Dani's partnership with Jettmar produced the most comprehensive documentation
+of any rock art corpus in South Asia: a German-Pakistani survey group that
+discovered several thousand rock carvings and about 2,000 inscriptions in the
+main Indus valley south of Gilgit [cite:iranicaonline:chilas].
+
+** A.4.5 When and Why Did Buddhist Presence End?
+
+The decline of Buddhism in Diamer was not a single event but a centuries-long
+transformation driven by multiple factors:
+
+1. *Geopolitical disruption (7th–8th century)*: The Patola Shahi kingdom was
+   caught between the Tang dynasty and the Tibetan Empire. Around 650 CE,
+   Gilgit came under Tang suzerainty. In 737/738, Tibetan troops took control.
+   In 747, the Tang general Gao Xianzhi recaptured the region. But by 755,
+   the An Lushan Rebellion forced Tang withdrawal from Central Asia, ending
+   Chinese protection of the Buddhist corridor [cite:wikipedia:patolashahis].
+
+2. *Economic disruption*: The collapse of Tang power in Central Asia disrupted
+   the Silk Road trade that had sustained the Buddhist communities along the
+   upper Indus.
+
+3. *Gradual Islamisation (8th–14th century)*: Islam arrived gradually.
+   Buddhism survived in Gilgit-Baltistan until the 13th–14th century, perhaps
+   slightly longer in the nearby Swat Valley [cite:wikipedia:buddhismpakistan].
+   Sufi missionaries, notably Mir Sayyid Ali Hamadani (14th century) and the
+   Noorbakshia Sufi sect, were the principal agents of conversion
+   [cite:wikipedia:baltipeople].
+
+4. *Local transformation*: The Maqpon kings who rose in Baltistan from the
+   13th century onward adopted Islam, and most of the population had converted
+   by the end of the 17th century [cite:wikipedia:baltipeople].
+
+In Diamer district specifically, the rock art shows the transition: the
+Buddhist period gives way to a post-Buddhist phase characterised by axes and
+sun-symbols [cite:tracce:kkhcarvings], before the Islamic period brought an
+end to figurative rock carving entirely.
+
+#+begin_quote
+*Note*: Despite conversion, the Balti people and other groups in the region
+still retain many cultural traits of pre-Islamic Bon and Tibetan Buddhist
+rituals within their society [cite:wikipedia:baltipeople].
+#+end_quote
+
+* Sources
+
+** Primary Texts
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:gutenberg:faxian | Faxian (tr. James Legge), /A Record of Buddhistic Kingdoms/ (1886), Project Gutenberg eBook #2124 | https://www.gutenberg.org/ebooks/2124 |
+| cite:archive:faxianoriginal | Faxian (tr. James Legge), /A Record of Buddhistic Kingdoms/ (Oxford, 1886), Internet Archive | https://archive.org/details/ARecordOfBuddhisticKingdoms |
+| cite:washington:faxian | "The Journey of Faxian to India," Silk Road Seattle, University of Washington | https://depts.washington.edu/silkroad/texts/faxian.html |
+| cite:wikipedia:recordswesternregions | "Records of the Western Regions," Wikipedia | https://en.wikipedia.org/wiki/Records_of_the_Western_Regions |
+| cite:uhpress:xuanzang | Li Rongxi (tr.), /The Great Tang Dynasty Record of the Western Regions/, BDK English Tripitaka (1996), UH Press | https://uhpress.hawaii.edu/title/the-great-tang-dynasty-record-of-the-western-regions/ |
+| cite:archive:xuanzangfulltext | /The Great Tang Dynasty Record of the Western Regions/, full text, Internet Archive | https://archive.org/stream/dBET_T2087_GreatTangRecordofWesternRegions_1996_0/dBET_T2087_GreatTangRecordofWesternRegions_1996_0_djvu.txt |
+
+** Scholarly Works on the Śaṅkupatha and Chinese Pilgrims
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:falk:sankupatha | Harry Falk, "The Suspended Crossing (śaṅkupatha) in the Gorges of the Indus River as described by Chinese Pilgrims Faxian, Dharmodgata and Xuanzang" (2020) | https://www.academia.edu/45623852/ |
+| cite:academia:falksuccessors | Harry Falk, "Faxian and Early Successors on Their Route from Dunhuang to Peshawar: In Search of the Suspended Crossing" | https://www.academia.edu/106439260/ |
+| cite:unesco:chineserockinscrip | "Chinese Rock Inscriptions in the Indus Valley (North Pakistan)," UNESCO Silk Road | https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/chinese_rock_inscriptions_in_the_indus_valley.pdf |
+| cite:academia:pagodasindus | "Pagodas on the Indus: Exploring the Chinese Pagodas' Petroglyphs at Shatial and Thak Das — Chilas, Northern Pakistan," Academia.edu | https://www.academia.edu/89104314/ |
+
+** Rock Art and Archaeology of the Upper Indus
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:tracce:kkhcarvings | "Karakorum Highway Rock Carvings," TRACCE / rupestre.net | https://www.rupestre.net/tracce/?p=1327 |
+| cite:encyclopedia:rockart | "Rock Art," Encyclopedia.com | https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/rock-art |
+| cite:archive:anp1 | Karl Jettmar (ed.), /Antiquities of Northern Pakistan, Volume 1/ (1989), Internet Archive | https://archive.org/details/anp1text__z3 |
+| cite:archive:anp2 | Karl Jettmar (ed.), /Antiquities of Northern Pakistan, Volume 2/, Internet Archive | https://archive.org/details/anp2__z3 |
+| cite:google:jettmarbetween | Karl Jettmar & V. Thewalt, /Between Gandhara and the Silk Roads: Rock Carvings along the Karakorum Highway/ (1987) | https://books.google.com/books/about/Between_Gandhara_and_the_Silk_Roads.html?id=LUUsngEACAAJ |
+| cite:heidelberg:rockartupperindus | "III. The Rock Art of the Upper Indus: 1. The Prehistory," Heidelberg University Publishing | https://heiup.uni-heidelberg.de/catalog/view/1358/2324/114901 |
+| cite:researchgate:thalpanmonastic | "Discovery and Contextualization of a Possible Buddhist Monastic Complex at Thalpan, District Diamer, Gilgit-Baltistan Province, Pakistan," ResearchGate | https://www.researchgate.net/publication/342534264 |
+| cite:researchgate:chilasrockart | "Rock art in Chilas in the Upper Indus Valley, Pakistan: When, by Whom and Why?," ResearchGate | https://www.researchgate.net/publication/382457728 |
+| cite:dawn:threatenedcarvings | "Basha dam threatens thousands of ancient rock carvings," Dawn News (2011) | https://www.dawn.com/news/629659 |
+| cite:highasia:rockart | "Rock art and inscriptions of Diamer," The High Asia | https://thehighasia.com/rock-art-and-inscriptions-of-diamer/ |
+| cite:ancientconnection:buddhistrockart | "The Buddhist Rock Art of Pakistan," The Ancient Connection | https://www.theancientconnection.com/ancient-rock-art/buddhist-rock-art-pakistan/ |
+| cite:tandfonline:chilasbridge | "Enquiring the Rocks: Statistical Investigation of Buddhist Stupa Carvings at Chilas Bridge," /South Asian Studies/ 38:2 (2022) | https://www.tandfonline.com/doi/full/10.1080/02666030.2022.2111086 |
+| cite:springer:routesbeyondgandhara | "Routes Beyond Gandhara: Buddhist Rock Carvings in the Context of the Early Silk Roads," Springer | https://link.springer.com/chapter/10.1007/978-3-030-00728-7_20 |
+| cite:archnet:hauptmann | Harald Hauptmann, "Pre-Islamic Heritage in the Northern Areas of Pakistan" | https://s3.us-east-1.amazonaws.com/media.archnet.org/system/publications/contents/4868/original/DPC1581.pdf |
+
+** Sogdian and Iranian Inscriptions
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:cambridge:simswilliamsreview | Review of Sims-Williams, /Sogdian and Other Iranian Inscriptions of the Upper Indus, I/ (1989), /Bulletin of SOAS/, Cambridge Core | https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/corpus-inscriptionum-iranicarum |
+| cite:worldcat:simswilliams | /Sogdian and Other Iranian Inscriptions of the Upper Indus/, WorldCat | https://search.worldcat.org/title/sogdian-and-other-iranian-inscriptions-of-the-upper-indus/oclc/20916857 |
+| cite:openedition:simswilliamsshatial | Review of Sims-Williams, "The Iranian Inscriptions of Shatial," /Abstracta Iranica/ | https://journals.openedition.org/abstractairanica/35155 |
+| cite:wikipedia:simswilliams | "Nicholas Sims-Williams," Wikipedia | https://en.wikipedia.org/wiki/Nicholas_Sims-Williams |
+| cite:iranicaonline:chilas | "Chilas," Encyclopaedia Iranica | https://www.iranicaonline.org/articles/chilas-township-in-the-upper-indus-valley |
+| cite:iranicaonline:sogdiantrade | "Sogdian Trade," Encyclopaedia Iranica | https://www.iranicaonline.org/articles/sogdian-trade/ |
+| cite:sogdians.si:introduction | "Who Were the Sogdians," Smithsonian Institution | https://sogdians.si.edu/introduction/ |
+| cite:storymaps:upperindus | "Rock Art and Inscriptions in the Upper Indus," ArcGIS StoryMaps | https://storymaps.arcgis.com/stories/d5018abb97d34ac7ba3a3a84d0267e72 |
+
+** Sogdian Trade and the Silk Road
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:factsanddetails:sogdianmerchants | "Sogdians: Merchants of the Silk Road," Facts and Details | https://factsanddetails.com/central-asia/Central_Asian_Topics/sub8_8a/entry-4498.html |
+| cite:silkroad:sogdians | "Sogdians — The Most Successful Merchants of the Silk Road," silk-road.com | https://silk-road.com/sogdians |
+| cite:sogdians.si:traderoutes | "Historical Trade Routes of the Sogdians," Smithsonian Institution | https://sogdians.si.edu/historic-trade-routes-of-the-sogdians/ |
+
+** Okunev Culture and Bronze Age Connections
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:wikipedia:okunev | "Okunev culture," Wikipedia | https://en.wikipedia.org/wiki/Okunev_culture |
+| cite:academia:petroglyphsmigrations | "Petroglyphs, as evidence of ancient migrations," Academia.edu | https://www.academia.edu/35312179 |
+| cite:ulukayin:okunev | "Okunev Petroglyphs and Eurasian Solar Deities," Ulukayin | https://ulukayin.org/okunev-petroglyphs-and-eurasian-solar-deities/ |
+
+** Buddhist Decline and Regional History
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:wikipedia:buddhismpakistan | "Buddhism in Pakistan," Wikipedia | https://en.wikipedia.org/wiki/Buddhism_in_Pakistan |
+| cite:wikipedia:patolashahis | "Patola Shahis," Wikipedia | https://en.wikipedia.org/wiki/Patola_Shahis |
+| cite:wikipedia:baltipeople | "Balti people," Wikipedia | https://en.wikipedia.org/wiki/Balti_people |
+| cite:wikipedia:historygilgitbaltistan | "History of Gilgit-Baltistan," Wikipedia | https://en.wikipedia.org/wiki/History_of_Gilgit-Baltistan |
+| cite:researchgate:buddhistdecline | "Decline of Buddhism in Pakistan: A Historical Review," /PJSR/ (2022) | https://www.researchgate.net/publication/365618984 |
+| cite:google:danihistory | A.H. Dani, /History of Northern Areas of Pakistan: Up to 2000 A.D./ (2001) | https://books.google.com/books?id=MOltAAAAMAAJ |
+| cite:wikipedia:dani | "Ahmad Hasan Dani," Wikipedia | https://en.wikipedia.org/wiki/Ahmad_Hasan_Dani |
+
+** Other Sources
+
+| Tag | Full Citation | URL |
+|-----+---------------+-----|
+| cite:factsanddetails:xuanzangindia | "Xuanzang in India (630–645)," Facts and Details | https://factsanddetails.com/china/cat2/4sub8/entry-5453.html |
+| cite:factsanddetails:xuanzanwestern | "Xuanzang in Western China," Facts and Details | https://factsanddetails.com/china/cat2/4sub8/entry-5450.html |
+| cite:britannica:faxian | "Faxian," Encyclopaedia Britannica | https://www.britannica.com/biography/Faxian |
+| cite:wikipedia:shatial | "Shatial," Wikipedia | https://en.wikipedia.org/wiki/Shatial |
+| cite:thenews:tracinghistories | "Tracing Histories," /The News/ (Pakistan) | https://www.thenews.com.pk/tns/detail/1332459-tracing-histories |
+| cite:fridaytimes:buddhistchilas | "Buddhist Petroglyphs of Chilas," /The Friday Times/ (2025) | https://thefridaytimes.com/02-Jan-2025/buddhist-petroglyphs-of-chilas |
+| cite:youlin:thalpanbuddhist | "Buddhist Rock Art of Diamer's Thalpan," /Youlin Magazine/ | https://www.youlinmagazine.com/article/buddhist-rock-art-of-diamer-thalpan/Mjc3Nw== |
+| cite:induscaravan:shatialrockcarving | "Rock Carvings of Shatial — Silk Road Heritage," Re:Discover Pakistan | https://www.induscaravan.com/blog/rock-carving-shatial-silkroad-heritage-indus-riverchatial/ |
+| cite:wlu:neelis | Jason Neelis, "Upper Indus Petroglyphs and Inscriptions in Northern Pakistan," Wilfrid Laurier University | https://www.wlu.ca/academics/faculties/faculty-of-arts/faculty-profiles/jason-neelis/upper-indus-petroglyphs-and-inscriptions/index.html |

@@ -1,0 +1,1165 @@
+#+title: The Travellers to Diamer --- Part E: The Voices Never Heard
+#+subtitle: Women, porters, love stories, oral tradition --- and the silence around them
+#+author: epistem-guardian (mu2tau + mayadev)
+#+date: 2026-03-08
+#+property: wp WP-0021
+#+property: sources 30+
+#+property: method Web search (WebSearch tool, 25+ queries), archive.org, academic databases
+
+* Scope and Method
+
+This survey covers the voices systematically absent from the written
+record of Diamer district and Nanga Parbat: women, porters, local
+storytellers, and the oral traditions that exist (or once existed)
+outside the colonial-academic-mountaineering textual apparatus.
+
+Method: extensive web searching across academic databases, archive
+catalogues, mountaineering histories, folklore collections, and
+journalism. Each section documents what was searched for, what was
+found, and --- critically --- what was not found. The absences are
+themselves findings.
+
+*A warning*: Part E was always expected to yield the thinnest results.
+The WP stated: "the absence is itself data." This proved accurate.
+What follows is an honest accounting of a search through structured
+silence.
+
+* E.1 Women of Diamer
+:PROPERTIES:
+:CUSTOM_ID: e1-women
+:END:
+
+** E.1.1 The Old Women of Rupal and the Peri Stories
+
+*Searched for*: documentation of women as keepers of peri/fairy
+stories in Rupal village and surrounding Diamer settlements; women's
+spirit narratives from the Nanga Parbat region.
+
+*Found*: Nothing specific to Rupal or Diamer women as peri
+storytellers. The silence is near-total. What exists is contextual
+and from adjacent regions:
+
+- The /pari khan/ tradition (see below) documents women as spirit
+  mediums in Chitral, establishing that women-spirit relationships are
+  a recognized institution in the broader northern Pakistan region.
+- Shamanic practice in Gilgit-Baltistan involves the /bitan/
+  (Burushaski) or /dhinal/ (Shina) --- the shaman who communes with
+  /pari/ (fairies/spirits) --- but published accounts focus
+  overwhelmingly on male practitioners. The bitans "fall into a trance
+  and converse with the Pari in the Shina language, while drinking
+  blood from a freshly severed goat's head." The ritual requires
+  specific music called /Shireen zuban/ ("sweet tongue"), played on
+  dadang (drum), daamal, and surnai.
+  [fn:bitan1] [[https://republicpolicy.com/shamanism-in-gilgit-baltistan/][Republic Policy: Shamanism in Gilgit Baltistan]]
+  [fn:bitan2] [[https://www.youlinmagazine.com/story/shamanism-in-gilgit-baltistan/MjI0MA==][Youlin Magazine: Shamanism in Gilgit Baltistan]]
+  [fn:bitan3] [[https://misbahayat.medium.com/shamanism-taming-fairies-of-the-north-66e7cbc44f90][Misbah Hayat: Shamanism --- Taming Fairies of the North]]
+
+- Women's roles in spirit traditions are attested but undocumented.
+  The /pari khan/ literature from Chitral (see E.1.2) strongly
+  suggests analogous practices exist across the region, but no
+  fieldworker appears to have specifically sought out elderly women in
+  Diamer as spirit-narrative keepers.
+
+*Not found*: Any published account from women of Rupal or Diamer
+about their spirit traditions. Any named woman storyteller from the
+region. Any recording or transcript of a woman telling a peri story
+from the Nanga Parbat valleys.
+
+*Assessment*: The peri stories almost certainly exist in living
+memory. The gap is not in the tradition but in the documentation.
+No one with the access, language skills, and intent has published
+from this specific intersection.
+
+** E.1.2 The Pari Khan Tradition
+
+*Searched for*: pari khan tradition, women as spirit mediums in
+northern Pakistan, specifically any evidence from Diamer district.
+
+*Found*: A well-documented tradition --- but from Chitral, not Diamer:
+
+The /pari khan/ is a woman who attains the status of spirit medium in
+Chitral, Pakistan. The process begins when certain women experience
+illnesses "locally interpreted as spirit possession." Treatment
+involves either exorcism or "domestication" of the spirit. In the
+latter case, the possessed woman learns to live with the spirit and
+becomes its host --- a /pari khan/.[fn:pk1]
+
+The social dynamics are striking: a woman who becomes a pari khan
+"gains considerable attention and social status by virtue of her
+alleged spiritual powers to heal various illnesses." She gains
+"exemptions from regular household chores" and elevation "to the
+status of matriarch," often with "monetary advantages within the
+traditionally male-dominated society."[fn:pk2]
+
+Academic analysis frames this as a response to patriarchal constraint:
+the practice is "rooted in patriarchal culture and oppressive norms
+that frustrate women to the extent of illnesses." Spirit mediumship
+becomes an idiom through which women claim authority in a society
+that otherwise denies it.[fn:pk3]
+
+[fn:pk1] [[https://ojs.ahss.org.pk/journal/article/view/401][Annals of Human and Social Sciences: Unveiling the Healing Rituals of Spirit Media (Pari Khan) in Chitral]]
+[fn:pk2] [[https://www.researchgate.net/publication/375992404][ResearchGate: Unveiling the Healing Rituals of Spirit Media (Pari Khan) in Chitral: A Dramaturgical Analysis]]
+[fn:pk3] [[https://ideapublishers.org/index.php/jhsms/article/view/978][JHSMS: From Hostage to Host --- Spirit Possession, Mediumship, and Gender Relations in Chitral]]
+
+*Does this exist in Diamer specifically?* No published evidence was
+found. The /bitan/ tradition documented in Gilgit-Baltistan involves
+both men and women, but published accounts overwhelmingly describe
+male shamans. The structural similarity to the pari khan tradition is
+suggestive --- both involve spirit mediumship, both use trance, both
+involve healing --- but the specific gendered institution of the pari
+khan as documented in Chitral has not been reported from Diamer in any
+source found.
+
+*The gap*: Chitral has been studied by Peter Parkes (University of
+Kent) and others who specifically investigated spirit beliefs and
+gender. Diamer has not received comparable ethnographic attention
+to gender and spirit practice.
+
+** E.1.3 Women's Accounts from the Region
+
+*Searched for*: memoirs, oral histories, ethnographies of women from
+Gilgit-Baltistan, gender studies of northern Pakistan.
+
+*Found*:
+
+- *Kathryn Besio (2005)*: "Telling Stories to Hear Autoethnography:
+  Researching Women's Lives in Northern Pakistan." Published in
+  /Gender, Place & Culture/, Vol. 12, No. 3. Research conducted in
+  Askole village, 1997-1998. Uses sewing machines as an analytical
+  tool for "conveying the 'real' effects of colonialism, imperialism,
+  and globalization in the lives of women."[fn:besio]
+
+- *Anna Grieser (2014)*: "Fieldwork Encounters: Being Foreign and
+  Female in Gilgit." Published in /Ethnoscripts/, Vol. 16, No. 1
+  (special issue: Anthropology of Gilgit-Baltistan). Examines the
+  challenges of being a foreign female researcher in Gilgit's
+  gender-segregated society, noting that "transgressions of
+  gender-boundaries during fieldwork resulted in multiplying and
+  uncontrollable rumors."[fn:grieser]
+
+- *Humera Dinar (2020)*: An ethnographic study of women-led
+  businesses in Gilgit-Baltistan examining gendered entrepreneurship.
+  Published in /South Asian Survey/.[fn:dinar]
+
+- *Purdue University dissertation*: "Development and Marginalization:
+  Gender, Infrastructure, and State-making in Gilgit-Baltistan,
+  Pakistan" --- an anthropological study described as "anthropology
+  conducted at home" by a researcher from the region.[fn:purdue]
+
+[fn:besio] [[https://www.tandfonline.com/doi/full/10.1080/09663690500202566][Gender, Place & Culture: Telling Stories to Hear Autoethnography]]
+[fn:grieser] [[https://journals.sub.uni-hamburg.de/ethnoscripts/article/view/779][Ethnoscripts: Fieldwork Encounters: Being Foreign and Female in Gilgit]]
+[fn:dinar] [[https://journals.sagepub.com/doi/abs/10.1177/0973174120983129][South Asian Survey: Women-Led Businesses in Gilgit-Baltistan]]
+[fn:purdue] [[https://hammer.purdue.edu/articles/thesis/Development_and_Marginalization_Gender_Infrastructure_and_State-making_in_Gilgit-Baltistan_Pakistan/12743876][Purdue: Development and Marginalization in Gilgit-Baltistan]]
+
+*Not found*: Any published first-person account by a woman from
+Diamer district. No memoir, no autobiography, no oral history
+collection from Diamer women specifically. The Besio and Grieser
+studies are from Askole (Baltistan) and Gilgit town respectively ---
+not from the Shina-speaking Diamer heartland.
+
+** E.1.4 Women Mountaineers on Nanga Parbat
+
+*Searched for*: female summiteers of Nanga Parbat, their stories.
+
+*Found*:
+
+- *Liliane Barrard* (France): First woman to climb Nanga Parbat,
+  reaching the summit on 27 June 1984 via the Rupal Face, without
+  supplementary oxygen, alongside her husband Maurice Barrard. She
+  later died descending K2 in 1986.[fn:barrard]
+
+- *Wanda Rutkiewicz* (Poland): Summited Nanga Parbat in 1985. First
+  woman to summit K2 (1986). Disappeared on Kangchenjunga in 1992.
+  Her story is one of extraordinary determination --- and of the
+  1980s as a particularly lethal decade for women on 8,000m
+  peaks.[fn:rutkiewicz]
+
+- *Naila Kiani and Samina Baig*: First Pakistani women to summit
+  Nanga Parbat, 2 July 2023.[fn:naila]
+
+- *Sheikha Asma Al Thani* (Qatar): First Qatari woman to summit
+  Nanga Parbat, 2025.[fn:asma]
+
+- *Klara Kolouchova* (Czech Republic): Pioneering Czech mountaineer
+  who died on Nanga Parbat in 2025 during a summit attempt.[fn:klara]
+
+- *Alison Hargreaves* (UK): Did not climb Nanga Parbat, but her
+  story intersects with the mountain: she died on K2 in 1995, and
+  her son Tom Ballard died on Nanga Parbat in 2019. The
+  intergenerational tragedy is among the most haunting in
+  mountaineering.[fn:alison]
+
+[fn:barrard] [[https://www.guinnessworldrecords.com/world-records/665357-first-ascent-of-nanga-parbat-female][Guinness: First Female Ascent of Nanga Parbat]]
+[fn:rutkiewicz] [[https://en.wikipedia.org/wiki/Wanda_Rutkiewicz][Wikipedia: Wanda Rutkiewicz]]
+[fn:naila] [[https://www.thenews.com.pk/latest/1086231-naila-kiani-becomes-first-pakistani-woman-to-scale-nanga-parbat][The News: Naila Kiani Becomes First Pakistani Woman to Scale Nanga Parbat]]
+[fn:asma] [[https://www.nation.com.pk/09-Jul-2025/sheikha-asma-becomes-first-qatari-woman-to-summit-nanga-parbat][The Nation: Sheikha Asma Summits Nanga Parbat]]
+[fn:klara] [[https://english.radio.cz/klara-kolouchova-tragedy-trailblazing-czech-mountaineer-dies-nanga-parbat-8855891][Radio Prague: Klara Kolouchova Dies on Nanga Parbat]]
+[fn:alison] [[https://en.wikipedia.org/wiki/Alison_Hargreaves][Wikipedia: Alison Hargreaves]]
+
+*Note the pattern*: These are all foreign women. No woman from Diamer,
+no woman from Gilgit-Baltistan, appears in the mountaineering history
+of their own mountain until Naila Kiani and Samina Baig in 2023. The
+mountain that towers over their villages was climbed by people from
+France, Poland, Qatar --- but not by local women for nearly 40 years
+after the first female ascent.
+
+** E.1.5 Emily Overend Lorimer (1881--1949)
+
+*Searched for*: Emily Lorimer's documentation of women's lives in
+the Gilgit region.
+
+*Found*: Emily Overend Lorimer was an Anglo-Irish journalist,
+linguist, political analyst, and writer --- and one of the most
+significant Western women to have lived in and written about the
+northern areas of Pakistan.
+
+She accompanied her husband D.L.R. Lorimer to Gilgit when he was
+posted as Political Agent in 1920. Asked by his superior whether she
+would be willing to go to the "hardship posting" of Gilgit, she
+replied: "I'm willing to go with my husband to HELL."[fn:eol1]
+
+During four years in Gilgit (1920-1924) and a return expedition
+(1934-1935), Emily documented daily life extensively:
+
+- /Language Hunting in the Karakoram/ (1939): Her account of the
+  1934-35 stay in Hunza while D.L.R. studied Burushaski. Covers
+  "houses, land, marriage customs, harvest festivals, crafts, and
+  care of children" --- daily life of the Burusho people recorded
+  with ethnographic attentiveness.[fn:eol2]
+  *Available on archive.org*: [[https://archive.org/details/dli.pahar.2738][archive.org/details/dli.pahar.2738]]
+
+- "Domestic and Outdoor Life in Hunza: A Peasant Community whose
+  Language is Unique" and "The Crafts and Husbandry of the Burusho"
+  --- illustrated articles in /The Illustrated London News/, October
+  1935.
+
+- The Lorimer papers are archived at SOAS via the Royal Asiatic
+  Society.[fn:eol3]
+
+[fn:eol1] [[https://foxedquarterly.com/lesley-downer-e-o-lorimer-literary-review/][Slightly Foxed: E. O. Lorimer]]
+[fn:eol2] [[https://archive.org/details/dli.pahar.2738][Archive.org: Language Hunting in the Karakoram]]
+[fn:eol3] [[https://royalasiaticsociety.org/david-lockhart-robertson-lorimer-and-emily-overend-lorimer/][Royal Asiatic Society: The Lorimer Papers]]
+
+*Relevance to Diamer*: Emily Lorimer's work focuses on *Hunza*
+(Burushaski-speaking), not on *Diamer* (Shina-speaking). Gilgit
+served as the administrative centre; Hunza was the cultural focus.
+Diamer/Chilas lies south and was less accessible, more conservative,
+and less visited by colonial wives. Emily's documentation of women's
+lives --- "marriage customs," "care of children," domestic craft ---
+is among the richest from the broader region, but it does not extend
+to the Shina-speaking communities of Diamer.
+
+*Not found*: Any comparable female observer who spent extended time
+in Diamer specifically and documented women's lives there.
+
+** E.1.6 Female Researchers in Diamer
+
+*Searched for*: female anthropologists or researchers who conducted
+fieldwork specifically in Diamer district.
+
+*Found*: Ruth Laila Schmidt has researched the Shina language of
+Indus Kohistan (adjacent to Diamer) for 30+ years, collaborating
+with Pakistani colleagues Muhammad Manzar Zarin and Razwal
+Kohistani.[fn:schmidt] Her work on oral history (see E.4) is the
+closest to sustained female scholarly presence in the linguistic
+and cultural space of Diamer.
+
+Anna Grieser and other contributors to the 2014 /Ethnoscripts/
+special issue on "Anthropology of Gilgit-Baltistan" worked in Gilgit
+proper, not Diamer.[fn:sokefeld]
+
+[fn:schmidt] [[https://d1i1jdw69xsqx0.cloudfront.net/digitalhimalaya/collections/journals/ebhr/pdf/EBHR_25&26_03.pdf][Schmidt: The Oral History of the Darma Lineage of Indus Kohistan]]
+[fn:sokefeld] [[https://www.ssoar.info/ssoar/bitstream/handle/document/61329/ssoar-ethnoscripts-2014-1-sokefeld-Anthropology_of_Gilgit-Baltistan_introduction.pdf][Sokefeld: Anthropology of Gilgit-Baltistan (Introduction)]]
+
+*Not found*: Any female researcher who conducted sustained
+ethnographic fieldwork in Diamer district and published results.
+The sectarian violence of the 1980s-2000s (see E.5) made Diamer
+particularly dangerous and difficult for fieldwork of any kind.
+
+* E.2 Porters and Guides
+:PROPERTIES:
+:CUSTOM_ID: e2-porters
+:END:
+
+** E.2.1 The Structural Asymmetry
+
+Mountaineering has been called "the most literary of all sports."
+Climbers tend to be educated, articulate, and prolific writers.
+Sherpas and local porters tend not to write books. The result is a
+vast literature in which the people who carry the heaviest loads and
+face the greatest risk per unit of pay are the least represented as
+narrating subjects.
+
+Sherry Ortner's /Life and Death on Mt. Everest: Sherpas and
+Himalayan Mountaineering/ (Princeton, 2001) is the definitive
+anthropological study of this asymmetry. Of the approximately 300
+climbers who have died on Everest, more than one-third have been
+Sherpas. Yet most published accounts focus on Western climbers.[fn:ortner]
+
+In the specific case of Nanga Parbat, the asymmetry is extreme:
+the German expeditions of the 1930s produced a substantial literature
+in German and English --- expedition accounts, Alpine Journal
+reports, Himalayan Journal articles, memoirs --- but the Sherpa
+porters who died alongside (and in greater numbers than) the German
+climbers left almost no textual trace in their own voices.
+
+[fn:ortner] [[https://press.princeton.edu/books/paperback/9780691074481/life-and-death-on-mt-everest][Princeton UP: Life and Death on Mt. Everest]]
+
+** E.2.2 The 1934 Disaster: Named Dead
+
+The 1934 expedition, led by Willy Merkl with backing from Nazi
+Germany, ended in disaster when a storm trapped climbers and porters
+above 7,000m. Three German climbers and six Sherpa porters died:
+
+*The German dead*: Willy Merkl, Willo Welzenbach, Uli Wieland.
+
+*The Sherpa dead*:
+1. *Gaylay* --- died alongside Merkl, probably 14-15 July. They were
+   stranded together above the Silver Saddle, unable to descend.
+2. *Nima Norbu* --- perished 8 July during a forced bivouac at a
+   secondary camp under the Silver Saddle.
+3. *Dakshi* --- died in the secondary camp above Camp VII on the
+   night of 11 July.
+4. *Pintso Norbu (Pinzo Norbu)* --- died near Camp V "on the track
+   from sheer exhaustion."
+5. *Nima Dorje* --- died near Camp V, also of exhaustion on the
+   descent.
+6. *Nima Tashi* --- died near Camp V alongside Nima Dorje and Pintso
+   Norbu.[fn:1934wiki][fn:1934hj]
+
+[fn:1934wiki] [[https://en.wikipedia.org/wiki/1934_Nanga_Parbat_climbing_disaster][Wikipedia: 1934 Nanga Parbat Climbing Disaster]]
+[fn:1934hj] [[https://www.himalayanclub.org/hj/7/2/the-german-himalayan-expedition-to-nanga-parbat-1934/][Himalayan Journal: The German Himalayan Expedition to Nanga Parbat, 1934]]
+
+*The sole Sherpa survivor*: *Ang Tsering* (1905-2002). He survived
+seven days battling through the storm and was the last man to reach
+safety. Jonathan Neale interviewed Ang Tsering in 2000, when Tsering
+was approximately 95 years old, for the book /Tigers of the Snow/
+(2002). This is the single most important first-person Sherpa account
+from the Nanga Parbat expeditions.[fn:neale]
+
+*What we know about these men*: Almost nothing beyond their names,
+the camps they died at, and the manner of their deaths. Gaylay's
+loyalty in staying with Merkl is mentioned in every account as an
+act of extraordinary devotion --- but it is always told from the
+perspective of what it means for Merkl's story, not Gaylay's. Where
+was Gaylay from? Did he have a family? What was his life before and
+beyond Nanga Parbat? The record is silent.
+
+[fn:neale] [[https://www.amazon.com/Tigers-Snow-Fateful-Sherpas-Mountaineering/dp/0312266235][Amazon: Tigers of the Snow by Jonathan Neale]]
+
+** E.2.3 The 1937 Disaster: Sixteen Dead Under Avalanche
+
+On approximately 14 June 1937, an avalanche struck Camp IV below
+Rakhiot Peak, killing the entire team: seven Germans and nine
+Sherpas. All sixteen bodies were buried under the snow.
+
+*The German dead*: Karl Wien, Hans Hartmann, Adi Gottner, Gunther
+Hepp, Pert Fankhauser, Martin Pfeffer, Peter Mullritter.
+
+*The Sherpa dead*:
+1. *Pasang* --- described as "one of their best porters"
+2. *Nim Tsering*
+3. *Mambahadur*
+4. *Kami*
+5. *Gyaljen Monjo*
+6. *Jigmay*
+7. *Chong Karma*
+8. *Ang Tsering II*
+9. *Da Thondup*
+[fn:1937hj]
+
+[fn:1937hj] [[https://www.himalayanclub.org/hj/10/11/nanga-parbat-1937/][Himalayan Journal: Nanga Parbat, 1937]]
+
+*The asymmetry in death*: The German dead are remembered in alpine
+club memorials, in expedition histories, in the narrative of German
+mountaineering as national endeavour. The Sherpa dead are listed in
+footnotes. None of the nine have biographical entries in any source
+found. None have memorial plaques. Their families received whatever
+compensation the expedition contract provided --- and then vanished
+from the record.
+
+** E.2.4 Local Chilas Porters
+
+*Searched for*: names or oral histories of local men from Chilas who
+carried loads for the German expeditions of the 1930s.
+
+*Found*: The 1934 expedition specifically moved away from using local
+porters. The Himalayan Journal records that the 1932 attempt "suffered
+from the unreliability of local porters," which led the 1934
+expedition to engage trained Sherpa and Bhutia porters from
+Darjeeling.[fn:1934hj_porters]
+
+The expedition did engage 35 Sherpa and Bhutia porters from
+Darjeeling, described as "an elite corps of porters trained in
+mountain craft and discipline by the British Mount Everest and German
+Kangchenjunga Expeditions." Named among them: Lewa (first Sirdar),
+Nima Thondup, Wangdi Nurbu, Pasang, Jigmay Isherung.[fn:1934hj_porters]
+
+[fn:1934hj_porters] [[https://www.himalayanclub.org/hj/7/2/the-german-himalayan-expedition-to-nanga-parbat-1934/][Himalayan Journal: The German Himalayan Expedition to Nanga Parbat, 1934]]
+
+*Not found*: Any names of local Chilas men who worked as low-altitude
+porters or carriers for these expeditions. No oral histories from
+Diamer families about their involvement in the expeditions. The local
+men who carried loads from Chilas to base camp are entirely absent
+from the record --- they fall below even the Sherpa porters in the
+hierarchy of remembrance.
+
+** E.2.5 Contemporary Porter/Guide Accounts
+
+*Searched for*: published interviews, documentaries, or accounts from
+contemporary porters and guides working in tourism around Nanga Parbat.
+
+*Found*: Fragments, not narratives. The travel blog and trekking
+literature names a few local guides but never centres their
+perspective:
+
+- *Ghani* — a guide on the Around Nanga Parbat / Mazeno La trek,
+  described as "the best friend of Tomek Mackiewicz in Pakistan."
+  The trekker notes: "We spent a lot of time together and I enjoyed
+  his stories about Tomek" — stories about the Polish climber who
+  died on Nanga Parbat in the 2018 winter attempt. Ghani's own
+  story — where he is from, how he became a guide, what the mountain
+  means to him — is not recorded.[fn:mazeno]
+- *Faquir* and *Aid* — named as guide companions on the same trek.
+  No biographical detail.[fn:mazeno]
+
+The pattern is consistent: local guides appear as named supporting
+characters in Western trekking accounts, never as narrating subjects.
+Their knowledge of the mountain — routes, weather, local names for
+features, spirit traditions — is consumed but not documented.
+
+No equivalent of the Sherpa memoir tradition exists for local Diamer
+guides. No "porter's-eye view" of modern tourism on Nanga Parbat has
+been published.
+
+[fn:mazeno] [[https://www.thetrekblog.com/blog/2025/7/29/nanga-parbat-mazeno-la][Pakistan Nanga Parbat — Mazeno La — The Trek Blog (2025)]]
+
+** E.2.6 The Porter Literature
+
+*Searched for*: Elizabeth Hawley's archives, the Himalayan Database,
+oral history projects focused on porters.
+
+*Found*:
+
+- *Elizabeth Hawley (1923-2018)* and the *Himalayan Database*: Hawley
+  spent 60 years in Kathmandu documenting every Himalayan expedition.
+  Her archive, digitised by Richard Salisbury, contains expedition
+  records, member lists, and outcomes. It covers Nepal Himalaya
+  primarily --- Nanga Parbat, being in Pakistan, falls partially
+  outside her systematic coverage. The database is invaluable for
+  statistical analysis of deaths, routes, and outcomes --- but it
+  records climbers and Sherpas as data points, not as narrating
+  subjects.[fn:hawley]
+
+- *Jonathan Neale, /Tigers of the Snow/ (2002)*: The single most
+  important attempt to recover Sherpa voices from Nanga Parbat.
+  Neale interviewed about 20 retired climbing Sherpas and sirdars,
+  "as well as in some cases their wives or widows." His central
+  informant was Ang Tsering. The book reframes the 1934 expedition
+  from the Sherpa perspective, describing it as "the decisive moment
+  in the transformation of 'coolies' into the Sherpas as climbing
+  legends."[fn:neale2]
+
+- *Ang Tharkay memoir*: /Sherpa: The Memoir of Ang Tharkay/ --- an
+  autobiography by one of the most renowned Sherpas of early
+  Himalayan exploration (born 1908), long available only in French,
+  recently translated to English. Not specific to Nanga Parbat but
+  part of the thin porter-memoir tradition.[fn:tharkay]
+
+[fn:hawley] [[https://www.himalayandatabase.com/history.html][The Himalayan Database: History]]
+[fn:neale2] [[https://www.kirkusreviews.com/book-reviews/jonathan-neale/tigers-of-the-snow/][Kirkus Reviews: Tigers of the Snow]]
+[fn:tharkay] [[https://www.everand.com/book/846257687/Sherpa-The-Memoir-of-Ang-Tharkay][Everand: Sherpa --- The Memoir of Ang Tharkay]]
+
+*The broader picture*: As one journalist summarised, "Sherpas' real
+stories are seldom written."[fn:mongabay] The porter memoir is an
+almost-empty genre. Climbers write books; porters carry them.
+
+[fn:mongabay] [[https://news.mongabay.com/2022/08/sherpas-real-stories-are-seldom-written-qa-with-authors-ankit-babu-adhikari-pradeep-bashyal/][Mongabay: Sherpas' Real Stories Are Seldom Written]]
+
+* E.3 Love Stories and Folk Romance
+:PROPERTIES:
+:CUSTOM_ID: e3-love
+:END:
+
+** E.3.1 The Question
+
+Does the Shina oral tradition have its own love stories, analogous to
+Heer Ranjha (Punjabi), Sassi Punnun (Sindhi), Sohni Mahiwal
+(Punjabi/Sindhi), Adam Khan and Durkhanai (Pashto), or Laila Majnun
+(Persian)?
+
+*Answer*: Yes. At least one has been found, and traces of others exist.
+
+** E.3.2 Yurmas ga Malang: The Shina Love Story
+
+*Khalifa Rehmat Jan Malang* (1885-1971) of SherQilla, Punial, Ghizer
+district, was a scholar and legendary Sufi poet who wrote in Shina
+and Persian. His love story --- /Yurmas ga Malang/ --- "has earned a
+distinguished place in Shina poetry and literature, comparable to
+timeless tales such as Heer Ranjha in Punjabi, Sassi Punnuh in
+Sindhi, Adam Khan and Durkhanai in Pashto, and Layla Majnun in
+Persian."[fn:malang1]
+
+The narrative: Khalifa Rehmat Jan harboured deep love for a maiden
+named Yurmas but remained silent during her lifetime. Yurmas died of
+illness, and in his anguish he channelled his grief into poetry ---
+becoming "the pioneer of contemporary Shina poetry." His work earned
+him the epithet "SherQilla ka Malang" ("the Malang of SherQilla").[fn:malang2]
+
+A book, /Malangay Samutari/, was published in 2012 and launched at
+Karakoram International University in Gilgit, collecting and
+analysing his work.[fn:malang3]
+
+[fn:malang1] [[https://muqadima.wordpress.com/2017/09/08/khalifa-rehmad-jan-malang-a-legend-1885-to-1971/][Voice of Gilgit Baltistan: Khalifa Rehmat Jan Malang, a Legend]]
+[fn:malang2] [[https://medium.com/@muazam.sapru5/yourmas-ga-malang-4058da1ae125][Muazam Sapru: Yurmas ga Malang]]
+[fn:malang3] [[https://pamirtimes.net/2012/11/17/malangay-samutari-launched-at-kiu-gilgit/][Pamir Times: Malangay Samutari Launched at KIU]]
+
+*Significance*: This is a real love story, not a folktale --- the
+poet lived and died within living memory. It is the Shina
+equivalent of the great romances of the subcontinent. But note: it
+comes from Ghizer district (Punial), not from Diamer. The
+Shina-speaking area is broad; Diamer is one part of it.
+
+** E.3.3 Burushaski Folktale Romances
+
+*Searched for*: love stories in Lorimer's Burushaski folktale
+collection and other sources.
+
+*Found*: Burushaski oral tradition contains recognisable romance
+narratives:
+
+- */Baadil Jamaal/*: The love story of a prince named Gakase
+  Peibuluk and a fairy (pari) named Baadil Jamaal. Recorded in the
+  Hunza dialect of Burushaski, available through the Burushaski
+  Language Services and documented at the UNT Digital
+  Library.[fn:baadil]
+
+- */Limpi Kisar/*: A romantic quest narrative in which Limpi Kisar's
+  wife is stolen on their wedding day by an ogre, and he travels
+  across mountains to recover her. Also available via the UNT Digital
+  Library.[fn:limpi]
+
+[fn:baadil] [[https://digital.library.unt.edu/ark:/67531/metadc988497/][UNT Digital Library: Retelling of Baadil Jamaal]]
+[fn:limpi] [[https://digital.library.unt.edu/ark:/67531/metadc967356/][UNT Digital Library: Retelling of Limpi Kisar]]
+
+These are Burushaski, not Shina --- from Hunza, not Diamer. But they
+establish that the northern mountains do have indigenous romance
+traditions, contra any assumption that the region lacks them.
+
+** E.3.4 D.L.R. Lorimer's Burushaski Texts
+
+D.L.R. Lorimer's /The Burushaski Language/ (1935) was published in
+two volumes by the Instituttet for Sammenlignende Kulturforskning in
+Oslo. Volume II contains "Texts and Translations" --- the actual
+folktales and narratives collected during his time in the
+region.[fn:lorimer_cambridge]
+
+*Availability*: The work is catalogued in HathiTrust Digital Library
+(partial/limited view)[fn:lorimer_hathi] and Open Library.[fn:lorimer_ol]
+It is *not* freely available in full on archive.org (the
+archive.org entry for Lorimer materials is /Language Hunting in
+the Karakoram/ by Emily, not D.L.R.'s linguistic volumes).
+
+The Burushaski Language Services website (burushaski-ls.com) hosts
+audio recordings of folktales in Burushaski, some of which derive
+from the Lorimer tradition.[fn:bls]
+
+[fn:lorimer_cambridge] [[https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/abs/burushaski-language-by-d-l-r-lorimer/1DC9567A0D555B97890D557A33156FD1][Cambridge Core: Review of The Burushaski Language]]
+[fn:lorimer_hathi] [[https://babel.hathitrust.org/cgi/pt?id=mdp.39015022407749][HathiTrust: The Burushaski Language]]
+[fn:lorimer_ol] [[https://openlibrary.org/books/OL6335828M/The_Burushaski_language][Open Library: The Burushaski Language]]
+[fn:bls] [[https://burushaski-ls.com/en/audio/folktales][Burushaski Language Services: Folktales]]
+
+** E.3.5 Shina Folk Songs (Lok Geet)
+
+*Searched for*: documented Shina love songs, /lok geet/ traditions.
+
+*Found*: Shina has a rich tradition of musical genres, but
+documentation of specific love song texts is thin. The major
+musical categories of Gilgit-Baltistan include:[fn:shina_music]
+
+- *Dhani* --- narrative/heroic
+- *Bazmi* --- celebratory/festive
+- *Tajwar* --- mystical/devotional
+- *Alghani* --- elegiac/mourning
+- *Saus* --- seasonal
+- *Lolo* --- lullabies
+- *Tamba* --- rhythmic/dance
+
+"Every musical tune in Gilgit-Baltistan is associated with a heroic
+deed of a forefather or a crucial event in the collective life of
+society." Love songs exist within this tradition but have not been
+systematically collected or translated in any source located.[fn:shina_music]
+
+[fn:shina_music] [[https://www.saskenshina.com/en/shina-music][Sasken Shina: Shina Music]]
+
+*Jamshid Khan Dukhi (1956-2022)* is noted as "a poet of resistance in
+Gilgit-Baltistan," suggesting a tradition of politically engaged
+Shina poetry alongside the lyrical tradition of Malang Jan.[fn:dukhi]
+
+[fn:dukhi] [[https://tribune.com.pk/story/2402199/jamshid-khan-dukhi-1956-2022-a-poet-of-resistance-in-gilgit-baltistan][Express Tribune: Jamshid Khan Dukhi --- A Poet of Resistance]]
+
+** E.3.6 ROSHAN and Lok Virsa
+
+*Searched for*: Aga Khan Foundation/ROSHAN cultural documentation
+projects and Lok Virsa collections from Gilgit-Baltistan.
+
+*Found*:
+
+- *Aga Khan Trust for Culture (AKTC)*: Active in northern Pakistan
+  since 1989. Major restoration work on Baltit Fort, Altit Fort,
+  Shigar Fort, and Khaplu Palace. Focus is architectural heritage,
+  not oral tradition documentation per se.[fn:aktc]
+
+- *Lok Virsa* (National Institute of Folk and Traditional Heritage,
+  Islamabad): Maintains a Gilgit-Baltistan section with exhibits
+  of material culture --- woolen cloaks, embroidery, musical
+  instruments (daamal, surnai). The institute's mandate includes
+  field surveys to record oral traditions at regional level.
+  In 1986, SIL (Summer Institute of Linguistics) collaborated with
+  Lok Virsa and Quaid-e-Azam University on a survey of languages
+  of northern Pakistan.[fn:lokvirsa]
+
+*** Lok Virsa's Gilgit-Baltistan fieldwork
+
+Lok Virsa has conducted at least one extensive research fieldwork
+campaign in Gilgit-Baltistan, documenting indigenous folk culture and
+craft heritage. The team authenticated and identified 50 master
+artisans and 25 folk artists and musicians, with detailed audio-visual
+and photographic documentation. The fieldwork covered six districts:
+*Gilgit, Hunza-Nagar, Ghizer, Skardu, Gaunche, and Astore* ---
+including "their remotest villages and far-flung areas."[fn:lokvirsa_gb]
+
+*Diamer was not among the six districts covered.* The most
+conservative and historically volatile district in Gilgit-Baltistan
+was excluded from the cultural documentation survey. This is
+consistent with the security and access barriers documented in E.5.
+
+The Library of Congress holds Lok Virsa audio recordings from Pakistan
+under the subject heading "Folk Music," but these are catalogued
+without sufficient granularity to determine whether any originate
+from Diamer or contain Shina oral tradition material.[fn:loc_lokvirsa]
+
+*Not found*: Specific love-story collections from either
+organisation. No searchable online catalogue of Lok Virsa's
+Gilgit-Baltistan oral tradition recordings that would confirm or deny
+the existence of Diamer-specific material. If ROSHAN (the Aga Khan
+Foundation's mobile network in northern Pakistan) has funded specific
+cultural documentation projects with published outputs, they were not
+located.
+
+[fn:aktc] [[https://the.akdn/en/where-we-work/south-asia/pakistan/conservation-and-development-in-gilgit-baltistan-pakistan][AKDN: Conservation and Development in Gilgit-Baltistan]]
+[fn:lokvirsa] [[https://lokvirsa.org.pk/][Lok Virsa: Official Website]]
+[fn:lokvirsa_gb] [[http://www.chitraltoday.net/lok-virsa-documents-culture-of-gilgit-baltistan/][Chitral Today: Lok Virsa documents culture of Gilgit-Baltistan]]
+[fn:loc_lokvirsa] [[https://www.loc.gov/audio/?all=true&fa=location:pakistan%7Csubject:folk+music%7Ccontributor:lok+virsa][Library of Congress: Lok Virsa audio recordings from Pakistan]]
+
+** E.3.7 PhD Theses on Shina Oral Tradition
+
+*Searched for*: doctoral dissertations on Shina folklore, oral
+tradition, love stories.
+
+*Found*: A 2023 article in /Pakistan Languages and Humanities
+Review/: "Sociological and Cultural Implications of Folk Tales: A
+Case Study of Shina Society," examining how Shina folktales from
+the collection /Dadai Sheloky/ shape communal values and
+behaviour.[fn:plhr]
+
+*Not found*: A specific PhD dissertation dedicated to Shina oral
+tradition in any English-language dissertation database searched.
+This does not mean none exists --- it may exist in Urdu, or in
+Pakistani university repositories not indexed in Western databases.
+The absence from English-language search results is itself a form
+of the structural silence documented in E.5.
+
+[fn:plhr] [[https://ojs.plhr.org.pk/journal/article/view/719][PLHR: Sociological and Cultural Implications of Folk Tales --- Shina Society]]
+
+* E.4 Local Oral Tradition
+:PROPERTIES:
+:CUSTOM_ID: e4-oral
+:END:
+
+** E.4.1 The Claim: No Comprehensive Collection Exists
+
+WP-0012 identified a gap: "no comprehensive collection of oral
+histories from Diamer district exists in published form."
+
+*Verification*: This claim is *confirmed* by the present search.
+No single published volume collects the oral traditions of Diamer
+district comprehensively. What exists are fragments:
+
+** E.4.2 Fragments That Exist
+
+*** Ghulam Muhammad (1905)
+
+/Festivals and Folklore of Gilgit/ (1905), published in /Memoirs of
+the Asiatic Society of Bengal/. Available on archive.org.[fn:ghulam]
+This is among the earliest published collections of folklore from the
+Gilgit region, predating most Western ethnographic work. Covers Gilgit
+proper, not Diamer specifically.
+
+[fn:ghulam] [[https://archive.org/details/cu31924023651064][Archive.org: Festivals and Folklore of Gilgit --- Ghulam Muhammad]]
+
+*** D.L.R. Lorimer (1935)
+
+/The Burushaski Language/, Vol. II --- texts and translations in
+Burushaski. Burushaski, not Shina; Hunza, not Diamer. But part of
+the broader knowledge ecology of the region. (See E.3.4.)
+
+*** Karl Jettmar (1955--1990s)
+
+Jettmar conducted fieldwork in northwestern Pakistan from 1955 to
+the mid-1970s. His primary focus was petroglyphs and rock
+inscriptions, but his ethnographic work touched on oral traditions
+insofar as they related to the petroglyphic record:
+
+- /Beyond the Gorges of the Indus: Archaeology Before Excavation/
+  (2002) --- Jettmar's major synthesis, available on archive.org.[fn:jettmar1]
+- "Non-Buddhist Traditions in the Petroglyphs of the Indus Valley"
+  (1985) --- published by Heidelberg University.[fn:jettmar2]
+- /Antiquities of Northern Pakistan/, Vols. 1-2 (1989+), with
+  D. Konig and V. Thewalt --- rock inscriptions of the Indus
+  Valley.[fn:jettmar3]
+
+Jettmar documented connections between petroglyphs and local oral
+traditions, but his work is primarily archaeological, not
+ethnographic. He records what the rocks say, not what the people say
+about themselves.
+
+[fn:jettmar1] [[https://archive.org/details/dli.pahar.3734][Archive.org: Beyond the Gorges of the Indus]]
+[fn:jettmar2] [[https://archiv.ub.uni-heidelberg.de/propylaeumdok/6457/1/Jettmar_Non_Buddhist_traditions_1985.pdf][Heidelberg: Non-Buddhist Traditions in Petroglyphs]]
+[fn:jettmar3] See Jettmar, Konig, Thewalt. /Antiquities of Northern Pakistan/. Verlag Philipp von Zabern, 1989.
+
+*** Ahmad Hasan Dani (1920--2009)
+
+The pioneer of rock art studies in Pakistan. His key works on
+Diamer:
+
+- /Chilas: The City of Naga Parvat (Dyamar)/ --- the most focused
+  study of Chilas in the archaeological literature.
+- /Human Records on the Karakorum Highway/ --- broader scope.
+- Leader of the Pak-German Study Group (with Jettmar and Harald
+  Hauptmann) from 1980, conducting archaeological explorations in
+  Diamer and Hunza.[fn:dani]
+
+*Oral traditions*: Dani's work is primarily archaeological. His
+publications document rock carvings and inscriptions, occasionally
+referencing oral traditions that relate to the sites, but no
+systematic collection of oral history appears in the sources
+located.
+
+[fn:dani] [[https://www.dawn.com/news/948707][Dawn: Dr Dani's Contribution to History and Archaeology]]
+
+*** Carla F. Radloff with Shakil Ahmad Shakil (1998)
+
+/Folktales in the Shina of Gilgit: Text, Grammatical Analysis and
+Commentary/ (SIL, Islamabad, 1998). Part of the "Studies in
+Languages of Northern Pakistan" series, Vol. 2. The 199-page volume
+contains folktales recorded in Shina from the Gilgit region, with
+both original texts and grammatical analysis.[fn:radloff]
+
+This is the *closest thing to a systematic Shina folktale collection*
+found. However: it covers Gilgit, not Diamer specifically, and it
+was produced primarily as a linguistic resource (grammatical analysis
+is the frame), not as an ethnographic folklore collection.
+
+*Available as PDF from SIL*: [[https://www.sil.org/system/files/reapdata/13/82/56/138256623622760949003113935743299913976/742_CRadloff_Folktales_Gilgit_of_Shina_1998.pdf][SIL: Folktales in the Shina of Gilgit]]
+
+[fn:radloff] [[https://www.sil.org/resources/archives/742][SIL Global: Folktales in the Shina of Gilgit]]
+
+*** Ruth Laila Schmidt (2003)
+
+"The Oral History of the Darma Lineage of Indus Kohistan." Published
+in /European Bulletin of Himalayan Research/ (EBHR), Nos. 25/26
+(2003/2004).
+
+Schmidt documents legends of Shina speakers in Kohistan describing a
+"tribal revolt" by ancestors of the Darma lineage in which former
+autocratic rulers were killed. This event, which also marked "the
+victory over pre-Islamic religion," is "vividly remembered by the
+elders as the foundational moment of local rule."[fn:schmidt2]
+
+Schmidt's careful analysis suggests the events can be dated to the
+early nineteenth century, but "the stories retain the memory of an
+ancient kingdom dating back about a thousand years." Her key insight:
+"Oral history, though not easily linked to a precise time-axis, is
+a storehouse of transmuted memories which are kept alive even in
+periods of fundamental change."
+
+[fn:schmidt2] [[https://d1i1jdw69xsqx0.cloudfront.net/digitalhimalaya/collections/journals/ebhr/pdf/EBHR_25&26_03.pdf][EBHR: The Oral History of the Darma Lineage]]
+
+** E.4.3 The Bitan Tradition
+
+*Searched for*: first-person accounts from bitan ritual participants.
+
+*Found*: Descriptive accounts of the bitan/dhinal ritual exist (see
+E.1.1), including details of the music, trance induction, goat
+sacrifice, and pari communication. The ritual process called
+/Shattoki/ in Shina takes approximately 40 minutes.[fn:bitan_detail]
+
+*Not found*: Any published first-person account from a bitan
+practitioner describing their experience from the inside. No "what
+it feels like to be possessed" narrative. The descriptions are all
+from external observers or general cultural reportage.
+
+[fn:bitan_detail] [[https://hunzatrekandtours.com/shaman/][Hunza Trek and Tours: Who is a Hunza Shaman?]]
+
+** E.4.4 Peter Parkes and Chitral/Diamer
+
+*Searched for*: Did Peter Parkes (University of Kent), known for his
+work on the Kalasha people of Chitral, also work in Diamer?
+
+*Found*: Parkes's published work focuses on the Kalasha of Chitral
+--- their ritual regulation of power, environmental knowledge, and
+cultural history. No published work by Parkes on Diamer or the
+Shina-speaking communities was found.[fn:parkes]
+
+[fn:parkes] [[https://www.researchgate.net/publication/238755995_Enclaved_knowledge_Indigent_and_indignant_representations_of_environmental_management_and_development_among_the_Kalasha_of_Pakistan][ResearchGate: Parkes --- Enclaved Knowledge among the Kalasha]]
+
+** E.4.5 Documentary Films
+
+*Searched for*: documentary films about Diamer/Chilas that capture
+local voices.
+
+*Found*: No documentary specifically focused on Diamer local voices
+was found. General tourism and geography content about
+Gilgit-Baltistan exists on YouTube and Dailymotion, but these are
+not ethnographic documentaries.
+
+The one significant documentary intersection with the region is
+/The Last Mountain/ (2021), about Tom Ballard and Alison Hargreaves
+--- but this is about Western mountaineers, not local
+voices.[fn:lastmtn]
+
+[fn:lastmtn] [[https://dorothystpictures.com/work/the-last-mountain/][Dorothy St Pictures: The Last Mountain]]
+
+** E.4.6 The Diamer Basha Dam Threat
+
+One crucial context for oral tradition: the Diamer Basha Dam, under
+construction on the Indus, will inundate 37,051 rock carvings on
+5,928 boulders --- carvings dating from 8,000 BCE to the 16th
+century CE, in Brahmi, Sogdian, Middle Persian, Chinese, Tibetan,
+and Hebrew scripts.[fn:dam1]
+
+WAPDA has signed a Rs 46.5 million agreement for digitisation and 3D
+modelling of "significant rock carvings within the impact zone."
+But there is *no comparable effort to document the oral traditions*
+of the communities that will be displaced. The carvings are being
+digitised; the stories are not.[fn:dam2]
+
+In 2015, vandals separately destroyed centuries-old rock carvings at
+Chilas, suggesting that even the physical heritage is not safe.[fn:dam3]
+
+[fn:dam1] [[https://dialogue.earth/en/water/pakistans-diamer-basha-dam-will-drown-ancient-carvings/][Dialogue Earth: Pakistan's Diamer Basha Dam Will Drown Ancient Carvings]]
+[fn:dam2] [[https://www.dawn.com/news/1817891][Dawn: WAPDA to Digitise Prehistoric Rock Carvings at Diamer Basha Dam Site]]
+[fn:dam3] [[https://pamirtimes.net/2015/01/29/chilas-vandals-destroy-centuries-old-rock-carvings/][Pamir Times: Vandals Destroy Centuries-Old Rock Carvings at Chilas]]
+
+* E.5 The Structural Silence
+:PROPERTIES:
+:CUSTOM_ID: e5-silence
+:END:
+
+** E.5.1 The Paradox
+
+Nanga Parbat is among the most documented mountains in the world.
+The German expeditions of the 1930s alone produced thousands of pages
+of expedition literature. Hermann Buhl's solo first ascent in 1953
+is one of the great stories of mountaineering. The mountain's geology
+has been studied by teams from Lehigh, ETH Zurich, and Heidelberg.
+Its petroglyphs have been catalogued in multi-volume scholarly series.
+
+And yet: the community that lives in its shadow --- the Shina-speaking
+people of Diamer --- has almost no presence in the published record
+as narrating subjects. They are documented, not documenting.
+Described, not describing. Present as backdrop, not as voice.
+
+This is not accidental. It is structural.
+
+** E.5.2 Seven Causes of Silence
+
+*** 1. Oral vs. Literate: The Missing Script
+
+Shina had no standardised written form until the late 20th century.
+T. Grahame Bailey produced the first scholarly grammar in 1924 using
+Roman transliteration. Various proposed orthographies followed in
+the 1960s, but "only in the late 2010s has Shina orthography been
+standardised and primers as well as dictionaries endorsed by the
+territorial government of Gilgit-Baltistan have been published."[fn:script]
+
+This means: for most of recorded history, Shina speakers could not
+write in their own language. The choice was to compose in Urdu,
+Persian, or English --- all of which required education in a
+non-native medium --- or to remain within oral tradition. The
+written record of the region is therefore necessarily produced by
+outsiders or by locals writing in languages not their own.
+
+[fn:script] [[https://en.wikipedia.org/wiki/Shina_language][Wikipedia: Shina Language --- Orthography]]
+
+*** 2. Colonial Extraction of Knowledge
+
+The pattern is consistent across the colonial Himalaya: outsiders
+arrive, observe, document, and publish. The British political agents,
+German mountaineers, Austrian ethnographers, and Norwegian linguists
+who studied the Gilgit-Baltistan region all produced knowledge *about*
+local people. The local people themselves did not produce knowledge
+*for* the outside world.
+
+Gayatri Chakravorty Spivak's question --- "Can the Subaltern Speak?"
+(1988) --- resonates here with particular force. Spivak argues that
+the subaltern (the structurally excluded) cannot "speak" in the
+sense of having their perspective "recognised as meaningful and
+authoritative" within dominant institutions, archives, and
+theoretical frameworks. "Epistemic violence" operates not through
+physical force but through "defining what counts as knowledge, who
+has the right to produce knowledge, and what experiences are
+considered valid."[fn:spivak]
+
+The Diamer case is a textbook illustration. The knowledge that
+"counts" about Nanga Parbat is geological, mountaineering, and
+archaeological. The knowledge that exists in Shina-speaking oral
+tradition --- about spirits, about the mountain's character, about
+love and loss and the meaning of the landscape --- does not register
+as knowledge in the institutional apparatus.
+
+[fn:spivak] [[https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf][Spivak: Can the Subaltern Speak? (PDF)]]
+
+*** 3. Gender Barriers to Publication
+
+In a society with strict gender segregation --- where female
+ethnographers report that "transgressions of gender-boundaries
+during fieldwork resulted in multiplying and uncontrollable
+rumors"[fn:grieser2] --- the knowledge held by women is doubly
+excluded. Women's stories are told to other women, in domestic
+spaces, in a language without a standard script, in a region
+difficult to access, in a cultural context where female researchers
+face extreme methodological challenges.
+
+The pari khan tradition documented in Chitral (E.1.2) demonstrates
+that women's spirit knowledge is real, institutionalised, and socially
+significant. The near-total absence of equivalent documentation from
+Diamer reflects not the absence of the tradition but the absence of
+anyone positioned to document it.
+
+[fn:grieser2] [[https://journals.sub.uni-hamburg.de/ethnoscripts/article/view/779][Ethnoscripts: Fieldwork Encounters]]
+
+*** 4. Political Instability and Sectarian Violence
+
+Diamer has been among the most dangerous districts in
+Gilgit-Baltistan. In the 1988 Gilgit Massacre, a Sunni /lashkar/
+comprising thousands from Mansehra, Chilas, and Kohistan attacked
+Shia communities; estimates of dead range from 150 to 900.[fn:sect1]
+
+The violence intensified in the 2000s and 2010s:
+- February 2012: 18 Shia pilgrims killed on the Karakoram Highway
+  in Kohistan.
+- April 2012: 20 killed at Chilas.
+- August 2012: 22 killed near Babusar Pass.[fn:sect2]
+
+General Zia ul Haq's Islamisation policies (1977-1988) "injected
+sectarian poison in Gilgit-Baltistan, especially in Diamer."[fn:sect3]
+
+This sustained violence made Diamer extremely dangerous for
+fieldwork. Foreign researchers stayed away. Local researchers
+faced threats from militant groups. The window for ethnographic
+documentation --- never wide --- closed further with each cycle of
+violence.
+
+[fn:sect1] [[https://www.files.ethz.ch/isn/143360/IB_GilgitBaltistan.pdf][IDSA: Sectarian Strife in Gilgit-Baltistan]]
+[fn:sect2] [[https://herald.dawn.com/news/1398713][Dawn Herald: The Relentless Spread of Religious Violence in Diamer District]]
+[fn:sect3] [[https://pamirtimes.net/2013/08/16/why-anxious-about-chilas/][Pamir Times: Why Anxious About Chilas?]]
+
+*** 5. The Karakoram Highway Paradox
+
+The completion of the Karakoram Highway in 1978 opened Diamer to
+vehicular traffic for the first time. The expectation might be that
+accessibility would lead to cultural documentation. The opposite
+occurred: the highway brought modernisation, monetisation of the
+subsistence economy, introduction of consumer goods, and the erosion
+of traditional lifeways --- faster than documentation could
+capture them.[fn:kkh]
+
+The Aga Khan Trust for Culture noted that "increased accessibility,
+coupled with the impact of tourism, introduced a rapid
+transformation of local customs and economic patterns."[fn:aktc2] The
+highway delivered not documentation but disruption.
+
+[fn:kkh] [[https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/karakoram-highway-the-impact-of-road-construction-on-mountain-societies/7D2CCD12E734018D0B1E40ED015D2A7F][Cambridge: The Karakoram Highway --- Impact of Road Construction on Mountain Societies]]
+[fn:aktc2] [[https://the.akdn/en/where-we-work/south-asia/pakistan/conservation-and-development-in-gilgit-baltistan-pakistan][AKDN: Conservation and Development in Gilgit-Baltistan]]
+
+*** 6. Language Barriers in Published Research
+
+Most research on Diamer is published in English or German --- in
+journals, monographs, and databases inaccessible to the communities
+being studied. The Heidelberg rock-art volumes, the Alpine Journal
+expedition reports, the Norwegian linguistic studies --- none of
+these are available to a Shina-speaking reader in Chilas.
+
+Knowledge flows in one direction: out of Diamer, into Western
+academic institutions. It does not flow back. The communities that
+are the subject of study cannot read the studies.
+
+*** 7. The Digital Divide
+
+What exists online about Diamer is overwhelmingly produced by
+outsiders: mountaineering bloggers, travel agencies, geological
+researchers, heritage organizations. The local digital presence is
+thin: some Shina music on SoundCloud and Spotify[fn:digital1], some
+Facebook pages, some YouTube content. But the deep oral tradition ---
+the stories, the songs, the spirit narratives --- exists "only in
+oral memory," as the WP warned, not in any searchable digital form.
+
+The Diamer Basha Dam digitisation project (E.4.6) is telling: Rs
+46.5 million for 3D scanning of rock carvings, Rs 0 (as far as can
+be determined) for recording the oral traditions of the people who
+live among those carvings.
+
+[fn:digital1] [[https://www.gbsongs.net/][GB Songs: Gilgit-Baltistan Music]]
+
+** E.5.3 The Compounding Effect
+
+These seven factors do not operate independently. They compound:
+
+- A woman in Diamer speaks a language that had no standard script
+  until the 2010s, in a region made dangerous by sectarian violence,
+  in a society where gender segregation limits her contact with
+  researchers, in a country where research funding flows to
+  geological surveys and dam engineering rather than oral history, in
+  a world where the published record requires English or German or
+  Urdu --- none of which is her first language.
+
+- A porter on Nanga Parbat in 1934 carried loads for an expedition
+  backed by Nazi Germany, in a language (Nepali/Sherpa) that had
+  limited literary tradition, for researchers who saw him as labour
+  rather than informant, in a system where his death was recorded as
+  a data point and his life was not recorded at all.
+
+The silence is not a single failure. It is a /system of exclusion/
+with multiple reinforcing mechanisms. Each barrier alone might be
+overcome; together they produce near-total erasure.
+
+** E.5.4 What Spivak's Framework Reveals
+
+Spivak's concept of "epistemic violence" clarifies what is happening:
+the violence is not in the absence of speech but in the absence of
+/listening structures/. The women of Rupal have stories. The porters
+of 1934 had lives. The oral tradition of Diamer is (or was) alive.
+The problem is not that these voices do not exist but that no
+apparatus exists to receive them as /knowledge/.
+
+The published record is not a neutral repository of what is known.
+It is a shaped artefact reflecting who had power, who had literacy,
+who had access to journals and publishers, who was considered a
+valid knowledge-producer. By these criteria, the Shina-speaking
+communities of Diamer --- especially women, especially the poor,
+especially those outside the colonial-academic network --- were
+systematically excluded.
+
+"The most documented mountain in the Karakoram has the
+least-documented local community" is not a paradox. It is a
+predictable consequence of who does the documenting and why.
+
+** E.5.5 What Remains Possible
+
+The oral tradition is not dead. It is merely unrecorded.
+
+Ruth Laila Schmidt's work demonstrates that sustained, respectful,
+linguistically competent engagement with Shina-speaking communities
+can recover oral histories of remarkable depth --- "a storehouse of
+transmuted memories kept alive even in periods of fundamental
+change."
+
+The window is narrowing. The elders who remember the old stories are
+aging. The Karakoram Highway, the Diamer Basha Dam, smartphones,
+and satellite television are transforming the cultural landscape
+faster than at any point in history. What is not recorded in the
+next decade may be lost.
+
+But something could still be done. A project with:
+- Shina-speaking female researchers
+- Recording equipment and transcription support
+- Community consent and participation
+- Publication in Shina as well as English
+- Long time horizons (years, not weeks)
+
+...could still recover much of what this survey has documented as
+absent. The structural silence is man-made. It can, in principle,
+be un-made.
+
+* E.6 Sources (Consolidated)
+:PROPERTIES:
+:CUSTOM_ID: e6-sources
+:END:
+
+** E.6.1 Women and Gender
+
+| Source | URL |
+|--------+-----|
+| Annals of Human and Social Sciences: Pari Khan in Chitral | [[https://ojs.ahss.org.pk/journal/article/view/401]] |
+| JHSMS: Spirit Possession and Gender Relations in Chitral | [[https://ideapublishers.org/index.php/jhsms/article/view/978]] |
+| Besio: Telling Stories to Hear Autoethnography | [[https://www.tandfonline.com/doi/full/10.1080/09663690500202566]] |
+| Grieser: Fieldwork Encounters --- Foreign and Female in Gilgit | [[https://journals.sub.uni-hamburg.de/ethnoscripts/article/view/779]] |
+| Dinar: Women-Led Businesses in Gilgit-Baltistan | [[https://journals.sagepub.com/doi/abs/10.1177/0973174120983129]] |
+| Purdue: Development and Marginalization in GB | [[https://hammer.purdue.edu/articles/thesis/Development_and_Marginalization_Gender_Infrastructure_and_State-making_in_Gilgit-Baltistan_Pakistan/12743876]] |
+| Slightly Foxed: E. O. Lorimer | [[https://foxedquarterly.com/lesley-downer-e-o-lorimer-literary-review/]] |
+| Royal Asiatic Society: Lorimer Papers | [[https://royalasiaticsociety.org/david-lockhart-robertson-lorimer-and-emily-overend-lorimer/]] |
+| Archive.org: Language Hunting in the Karakoram | [[https://archive.org/details/dli.pahar.2738]] |
+
+** E.6.2 Porters and Mountaineering
+
+| Source | URL |
+|--------+-----|
+| Wikipedia: 1934 Nanga Parbat Climbing Disaster | [[https://en.wikipedia.org/wiki/1934_Nanga_Parbat_climbing_disaster]] |
+| Himalayan Journal: German Expedition 1934 | [[https://www.himalayanclub.org/hj/7/2/the-german-himalayan-expedition-to-nanga-parbat-1934/]] |
+| Himalayan Journal: Nanga Parbat 1937 | [[https://www.himalayanclub.org/hj/10/11/nanga-parbat-1937/]] |
+| Neale: Tigers of the Snow (Amazon) | [[https://www.amazon.com/Tigers-Snow-Fateful-Sherpas-Mountaineering/dp/0312266235]] |
+| Kirkus: Tigers of the Snow review | [[https://www.kirkusreviews.com/book-reviews/jonathan-neale/tigers-of-the-snow/]] |
+| Ortner: Life and Death on Mt. Everest | [[https://press.princeton.edu/books/paperback/9780691074481/life-and-death-on-mt-everest]] |
+| Mongabay: Sherpas' Real Stories Are Seldom Written | [[https://news.mongabay.com/2022/08/sherpas-real-stories-are-seldom-written-qa-with-authors-ankit-babu-adhikari-pradeep-bashyal/]] |
+| Himalayan Database: History | [[https://www.himalayandatabase.com/history.html]] |
+
+** E.6.3 Love Stories and Oral Tradition
+
+| Source | URL |
+|--------+-----|
+| Voice of GB: Khalifa Rehmat Jan Malang | [[https://muqadima.wordpress.com/2017/09/08/khalifa-rehmad-jan-malang-a-legend-1885-to-1971/]] |
+| Muazam Sapru: Yurmas ga Malang | [[https://medium.com/@muazam.sapru5/yourmas-ga-malang-4058da1ae125]] |
+| Pamir Times: Malangay Samutari | [[https://pamirtimes.net/2012/11/17/malangay-samutari-launched-at-kiu-gilgit/]] |
+| UNT Digital Library: Baadil Jamaal | [[https://digital.library.unt.edu/ark:/67531/metadc988497/]] |
+| UNT Digital Library: Limpi Kisar | [[https://digital.library.unt.edu/ark:/67531/metadc967356/]] |
+| Burushaski Language Services: Folktales | [[https://burushaski-ls.com/en/audio/folktales]] |
+| SIL: Radloff --- Folktales in the Shina of Gilgit | [[https://www.sil.org/resources/archives/742]] |
+| Schmidt: Oral History of the Darma Lineage | [[https://d1i1jdw69xsqx0.cloudfront.net/digitalhimalaya/collections/journals/ebhr/pdf/EBHR_25&26_03.pdf]] |
+| PLHR: Sociological Implications of Shina Folk Tales | [[https://ojs.plhr.org.pk/journal/article/view/719]] |
+| Sasken Shina: Shina Music | [[https://www.saskenshina.com/en/shina-music]] |
+
+** E.6.4 Archaeology and Local History
+
+| Source | URL |
+|--------+-----|
+| Archive.org: Ghulam Muhammad --- Festivals and Folklore of Gilgit | [[https://archive.org/details/cu31924023651064]] |
+| Archive.org: Jettmar --- Beyond the Gorges of the Indus | [[https://archive.org/details/dli.pahar.3734]] |
+| Heidelberg: Jettmar --- Non-Buddhist Traditions | [[https://archiv.ub.uni-heidelberg.de/propylaeumdok/6457/1/Jettmar_Non_Buddhist_traditions_1985.pdf]] |
+| Dawn: Ahmad Hasan Dani's Contributions | [[https://www.dawn.com/news/948707]] |
+| Dialogue Earth: Diamer Basha Dam | [[https://dialogue.earth/en/water/pakistans-diamer-basha-dam-will-drown-ancient-carvings/]] |
+| Dawn: WAPDA Digitisation | [[https://www.dawn.com/news/1817891]] |
+
+** E.6.5 Structural Analysis
+
+| Source | URL |
+|--------+-----|
+| Spivak: Can the Subaltern Speak? | [[https://jan.ucc.nau.edu/~sj6/Spivak%20CanTheSubalternSpeak.pdf]] |
+| Wikipedia: Shina Language (Orthography) | [[https://en.wikipedia.org/wiki/Shina_language]] |
+| IDSA: Sectarian Strife in Gilgit-Baltistan | [[https://www.files.ethz.ch/isn/143360/IB_GilgitBaltistan.pdf]] |
+| Dawn Herald: Religious Violence in Diamer | [[https://herald.dawn.com/news/1398713]] |
+| Pamir Times: Why Anxious About Chilas? | [[https://pamirtimes.net/2013/08/16/why-anxious-about-chilas/]] |
+| Cambridge: KKH Impact on Mountain Societies | [[https://www.cambridge.org/core/journals/modern-asian-studies/article/abs/karakoram-highway-the-impact-of-road-construction-on-mountain-societies/7D2CCD12E734018D0B1E40ED015D2A7F]] |
+| AKDN: Conservation and Development in GB | [[https://the.akdn/en/where-we-work/south-asia/pakistan/conservation-and-development-in-gilgit-baltistan-pakistan]] |
+| Lok Virsa: Official Website | [[https://lokvirsa.org.pk/]] |
+
+** E.6.6 Mountaineering (Women)
+
+| Source | URL |
+|--------+-----|
+| Guinness: First Female Ascent of Nanga Parbat | [[https://www.guinnessworldrecords.com/world-records/665357-first-ascent-of-nanga-parbat-female]] |
+| Wikipedia: Wanda Rutkiewicz | [[https://en.wikipedia.org/wiki/Wanda_Rutkiewicz]] |
+| The News: Naila Kiani Summits Nanga Parbat | [[https://www.thenews.com.pk/latest/1086231-naila-kiani-becomes-first-pakistani-woman-to-scale-nanga-parbat]] |
+| Wikipedia: Alison Hargreaves | [[https://en.wikipedia.org/wiki/Alison_Hargreaves]] |
+| Dorothy St Pictures: The Last Mountain | [[https://dorothystpictures.com/work/the-last-mountain/]] |
