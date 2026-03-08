@@ -1,0 +1,1286 @@
+#+TITLE: WSET Wine Survey — Part A: Grape Varieties and Vine Biology
+#+AUTHOR: epistem survey (mu2tau + mayadev)
+#+DATE: 2026-03-08
+#+PROPERTY: WP WS-0001-A
+#+PROPERTY: STATUS draft
+#+PROPERTY: DOMAIN wine-education
+#+STARTUP: showall
+
+* Part A: Grape Varieties and Vine Biology
+:PROPERTIES:
+:SURVEY: WS-0001
+:PART: A
+:SCOPE: Major grape varieties (red and white), vine biology, terroir, viticulture
+:END:
+
+This part covers the foundational knowledge of grape varieties and vine
+biology as taught across WSET Levels 1--4. Each section is tagged with
+the WSET level at which the material is typically introduced.
+
+* 1 Major Red Grape Varieties
+:PROPERTIES:
+:WSET_LEVEL: L2 (introduced), L3 (regional detail), L4 (diploma depth)
+:END:
+
+** 1.01 Cabernet Sauvignon
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Bordeaux, France. A natural cross of Cabernet Franc and
+  Sauvignon Blanc.
+- *Color*: Deep, dark ruby to purple.
+- *Tannin*: High. Firm, structured tannins that soften with age.
+- *Acidity*: Medium to medium-high.
+- *Body*: Full-bodied.
+- *Aromas/flavors*: Blackcurrant (cassis), black cherry, green pepper
+  (cool climate), cedar, tobacco, vanilla (oak-aged), eucalyptus, mint.
+- *Where it thrives*: Bordeaux (Left Bank: Medoc, Graves), Napa Valley,
+  Coonawarra (Australia), Maipo Valley (Chile), Stellenbosch (South
+  Africa), Bolgheri (Italy — Super Tuscans).
+- *Notable wines*: Chateau Latour, Chateau Mouton Rothschild, Opus One,
+  Almaviva, Sassicaia.
+
+cite:[[https://en.wikipedia.org/wiki/Cabernet_Sauvignon][Wikipedia: Cabernet Sauvignon]]
+cite:[[https://winefolly.com/deep-dive/common-types-of-wine/][Wine Folly: Common Types of Wine]]
+
+** 1.02 Merlot
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Bordeaux, France.
+- *Color*: Medium to deep ruby.
+- *Tannin*: Medium, softer and more approachable than Cabernet Sauvignon.
+- *Acidity*: Medium (lower than Pinot Noir).
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Plum, black cherry, raspberry, pomegranate,
+  chocolate, herbal notes (bell pepper, green olive in cooler areas),
+  vanilla and mocha when oak-aged.
+- *Where it thrives*: Bordeaux (Right Bank: Saint-Emilion, Pomerol),
+  Napa Valley, Washington State, northern Italy (Veneto, Friuli),
+  Chile, New Zealand (Hawke's Bay).
+- *Notable wines*: Chateau Petrus, Chateau Le Pin, Chateau Cheval Blanc.
+
+cite:[[https://bettertastingwine.com/red_wine_types.html][Better Tasting Wine: Red Wine Types]]
+cite:[[https://halleckvineyard.com/pinot-noir-vs-cabernet-vs-merlot/][Halleck Vineyard: Pinot Noir vs Cabernet vs Merlot]]
+
+** 1.03 Pinot Noir
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Burgundy, France. One of the oldest cultivated varieties.
+- *Color*: Pale to medium ruby, translucent.
+- *Tannin*: Low to medium. Smooth, silky texture.
+- *Acidity*: Medium-high to high.
+- *Body*: Light to medium-bodied.
+- *Aromas/flavors*: Strawberry, red cherry, raspberry, mushroom, tea
+  leaf, truffle, forest floor (aged), clove, cinnamon. Develops
+  leather, game, and sous-bois with age.
+- *Where it thrives*: Burgundy (Cote de Nuits, Cote de Beaune), Champagne
+  (as a blending grape), Oregon (Willamette Valley), New Zealand
+  (Central Otago, Martinborough), Sonoma Coast, Tasmania, Alto Adige,
+  Baden (Germany).
+- *Notable wines*: Romanee-Conti, Chambertin, Volnay, Domaine Leroy.
+  Also the principal grape in Champagne and many sparkling wines.
+
+cite:[[https://halleckvineyard.com/pinot-noir-vs-cabernet-vs-merlot/][Halleck Vineyard]]
+cite:[[https://tasteofpurple.com/learn/pinot-noir-vs-cabernet/][Taste of Purple: Pinot Noir vs Cabernet]]
+
+** 1.04 Syrah / Shiraz
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Northern Rhone Valley, France. DNA analysis showed it is a
+  cross of Dureza and Mondeuse Blanche.
+- *Color*: Deep, inky dark purple.
+- *Tannin*: Medium-plus to high.
+- *Acidity*: Medium to medium-high.
+- *Body*: Medium to full-bodied (moderate climate) to consistently
+  full-bodied (warm climate).
+- *Aromas/flavors*:
+  - *Cool/moderate climate (Syrah)*: Blackberry, black pepper, mint,
+    violet, smoked meat, olive.
+  - *Warm climate (Shiraz)*: Jammy blackberry, licorice, anise, leather,
+    chocolate, vanilla.
+- *Where it thrives*: Northern Rhone (Hermitage, Cote-Rotie, Cornas),
+  Barossa Valley, McLaren Vale, Hunter Valley (Australia), Walla Walla
+  (Washington), Stellenbosch, Rhone blends (GSM) worldwide.
+- *Notable wines*: Hermitage (Jaboulet, Chapoutier), Penfolds Grange,
+  Henschke Hill of Grace.
+
+cite:[[https://en.wikipedia.org/wiki/Syrah][Wikipedia: Syrah]]
+cite:[[https://www.wine-searcher.com/grape-1112-shiraz-and-syrah][Wine-Searcher: Syrah/Shiraz]]
+cite:[[https://wineinsiders.com/blogs/wine-101-types-of-wines-grapes/syrah-shiraz][Wine Insiders: Syrah/Shiraz]]
+
+** 1.05 Tempranillo
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Spain. Name derives from /temprano/ (early), referring to
+  its early ripening.
+- *Color*: Medium ruby, tends to pale with age.
+- *Tannin*: Medium.
+- *Acidity*: Low to medium (naturally low acid and low sugar).
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Plum, strawberry, cherry, leather, tobacco, vanilla,
+  dried fig. Takes well to oak (American oak = coconut, dill; French
+  oak = spice, cedar).
+- *Where it thrives*: Rioja, Ribera del Duero, Toro, La Mancha (Spain);
+  Douro (Portugal, as Tinta Roriz); Argentina; Australia.
+- *Notable wines*: Vega Sicilia Unico, Pingus, Lopez de Heredia Vina
+  Tondonia.
+- *Synonyms*: Tinta Roriz (Portugal), Cencibel (La Mancha), Tinto Fino
+  (Ribera del Duero), Ull de Llebre (Catalonia).
+
+cite:[[https://en.wikipedia.org/wiki/Tempranillo][Wikipedia: Tempranillo]]
+
+** 1.06 Sangiovese
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Tuscany, Italy. Name means "blood of Jove" (Jupiter).
+- *Color*: Medium ruby with garnet rim.
+- *Tannin*: Medium-plus to high. Firm, sometimes rustic.
+- *Acidity*: High. Naturally high-acid grape.
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Sour cherry, red plum, dried herbs, tobacco, leather,
+  tomato leaf, earth, tea. With age: dried fruit, leather, game.
+- *Where it thrives*: Tuscany (Chianti Classico, Montalcino, Montepulciano,
+  Scansano), Romagna, Umbria (Montefalco blends), Corsica (as
+  Nielluccio), Argentina, California.
+- *Notable wines*: Brunello di Montalcino (100% Sangiovese Grosso),
+  Chianti Classico Riserva, Vino Nobile di Montepulciano, Super Tuscans
+  (Tignanello, blended).
+- *Clones*: Sangiovese Grosso (larger berry, used in Brunello),
+  Sangiovese Piccolo.
+
+cite:[[https://en.wikipedia.org/wiki/Sangiovese][Wikipedia: Sangiovese]]
+cite:[[https://winefolly.com/deep-dive/guide-to-sangiovese-wine/][Wine Folly: Sangiovese]]
+cite:[[https://www.totalwine.com/discover/learn/sangiovese][Total Wine: Sangiovese]]
+
+** 1.07 Nebbiolo
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Piedmont, Italy. Name from /nebbia/ (fog), referring to the
+  autumn fogs of the Langhe hills, or the fog-like bloom on ripe berries.
+- *Color*: Pale garnet/brick — deceptively light for the tannin level.
+- *Tannin*: Very high. Powerful, gripping tannins that require years of
+  aging to soften.
+- *Acidity*: High.
+- *Body*: Full-bodied despite pale color.
+- *Aromas/flavors*: Roses, violets, tar, cherry, raspberry coulis,
+  truffle, dried herbs, licorice, leather. The classic descriptor is
+  "tar and roses."
+- *Where it thrives*: Piedmont (Barolo DOCG, Barbaresco DOCG, Roero,
+  Langhe, Gattinara, Ghemme), Lombardy (Valtellina, as Chiavennasca).
+  Limited plantings outside Italy.
+- *Notable wines*: Barolo (Giacomo Conterno, Bruno Giacosa, Bartolo
+  Mascarello), Barbaresco (Gaja, Produttori del Barbaresco).
+- *Aging*: Barolo requires minimum 38 months aging (18 in wood);
+  Barbaresco minimum 26 months (9 in wood).
+
+cite:[[https://en.wikipedia.org/wiki/Nebbiolo][Wikipedia: Nebbiolo]]
+cite:[[https://winefolly.com/deep-dive/guide-to-nebbiolo-wine/][Wine Folly: Nebbiolo]]
+cite:[[https://winefolly.com/deep-dive/barolo-barbaresco-italy-nebbiolo-regions/][Wine Folly: Barolo & Barbaresco]]
+
+** 1.08 Grenache / Garnacha
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Aragon, Spain (as Garnacha). Spread to southern France,
+  Sardinia (as Cannonau).
+- *Color*: Medium ruby, tends toward pale/translucent.
+- *Tannin*: Low to medium.
+- *Acidity*: Low to medium.
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Raspberry, strawberry, white pepper, candied fruit,
+  cinnamon, orange peel, leather. Tends to produce wines with high
+  alcohol and soft texture.
+- *Where it thrives*: Southern Rhone (Chateauneuf-du-Pape, Cotes du
+  Rhone), Priorat, Garnacha de Aragon (Spain), Roussillon,
+  South Australia (Barossa old-vine), Sardinia (Cannonau di Sardegna).
+- *Notable wines*: Chateau Rayas, Alvaro Palacios L'Ermita (Priorat),
+  GSM blends.
+- *Key role*: Principal grape in GSM (Grenache-Syrah-Mourvedre) blends.
+  Provides the fruit and warmth; Syrah adds color and pepper;
+  Mourvedre adds tannin and structure.
+
+cite:[[https://en.wikipedia.org/wiki/Grenache][Wikipedia: Grenache]]
+cite:[[https://www.vinerra.com/education/wines/grenache-an-in-depth-wine-profile][Vinerra: Grenache]]
+cite:[[https://boundbywine.com/blogs/wine-guide/grenache-garnacha-cannonau][BoundbyWine: Grenache]]
+
+** 1.09 Malbec
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Southwest France (Cahors), probably from northern Burgundy.
+  Also known as Cot.
+- *Color*: Deep, inky dark purple — one of the darkest red grapes.
+- *Tannin*: Medium to high (higher and more rustic in Cahors; softer,
+  plusher in Argentina).
+- *Acidity*: Medium.
+- *Body*: Full-bodied.
+- *Aromas/flavors*:
+  - *Cahors*: Damson plum, tobacco, garlic, raisin, dark tannic structure.
+  - *Argentina*: Ripe plum, blackberry, black cherry, violet, milk
+    chocolate, vanilla.
+- *Where it thrives*: Mendoza, Argentina (especially Uco Valley at high
+  altitude); Cahors, France; also planted in Chile, Australia, South Africa.
+- *Notable wines*: Catena Zapata, Achaval-Ferrer, Cahors "black wine."
+- *Note*: Argentina holds ~70% of world's Malbec plantings. Altitude
+  (900--1500 m in Mendoza) produces intense color and concentration.
+
+cite:[[https://en.wikipedia.org/wiki/Malbec][Wikipedia: Malbec]]
+cite:[[https://winefolly.com/tips/mendoza-malbec-vs-cahors-malbec/][Wine Folly: Mendoza vs Cahors Malbec]]
+cite:[[https://www.decanter.com/wine/grape-varieties/malbec/][Decanter: Malbec]]
+
+** 1.10 Zinfandel / Primitivo
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Croatia (as Tribidrag/Crljenak Kastelanski). DNA confirmed
+  in 1994 that Zinfandel, Primitivo, and the Croatian grape are
+  genetically identical.
+- *Color*: Deep ruby to purple.
+- *Tannin*: Medium to high, sometimes chewy.
+- *Acidity*: Medium.
+- *Body*: Medium to full-bodied. Often high alcohol (14--17%).
+- *Aromas/flavors*:
+  - *Cooler sites*: Raspberry, cranberry, red pepper.
+  - *Warmer sites*: Blackberry, black pepper, anise, jam, bramble.
+  - Oak-aged: Vanilla, baking spice, sweet tobacco.
+- *Where it thrives*: California (Sonoma: Dry Creek Valley, Lodi,
+  Amador County, Paso Robles), Puglia (Italy, as Primitivo di Manduria),
+  Croatia (small plantings).
+- *Notable wines*: Ridge Geyserville, Turley Wine Cellars, Primitivo
+  di Manduria DOC.
+- *Style note*: Also used for White Zinfandel (blush/rose), which
+  accounts for a large volume of California production.
+
+cite:[[https://en.wikipedia.org/wiki/Zinfandel][Wikipedia: Zinfandel]]
+cite:[[https://winefolly.com/grapes/zinfandel/][Wine Folly: Zinfandel/Primitivo]]
+cite:[[https://www.vivino.com/wine-news/the-origin-of-zinfandel-and-primitivo][Vivino: Origin of Zinfandel and Primitivo]]
+
+** 1.11 Gamay
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Burgundy, France. Officially: Gamay Noir a Jus Blanc.
+  Banned from Burgundy in 1395 by Duke Philip the Bold in favor of
+  Pinot Noir; found its home in Beaujolais.
+- *Color*: Light to medium ruby, translucent.
+- *Tannin*: Low. Deliberately kept low through carbonic maceration.
+- *Acidity*: Medium-high to high. Vibrant.
+- *Body*: Light to medium-bodied.
+- *Aromas/flavors*: Cherry, raspberry, strawberry, banana (carbonic
+  maceration), violet, peony, wet stone. Cru wines develop complexity:
+  earthy, spicy, mineral notes.
+- *Where it thrives*: Beaujolais (10 Crus: Morgon, Moulin-a-Vent,
+  Fleurie, Brouilly, Cote de Brouilly, Chiroubles, Julienas, Chenas,
+  Regnie, Saint-Amour), Loire Valley (Touraine), Switzerland,
+  Ontario (Canada).
+- *Notable wines*: Beaujolais Nouveau (released third Thursday of
+  November), Cru Beaujolais (Morgon, Moulin-a-Vent for aging).
+- *Vinification*: Carbonic maceration — whole clusters sealed in CO2;
+  intracellular fermentation at ~2% ABV; produces fresh, fruity,
+  low-tannin wines.
+
+cite:[[https://www.willakenzie.com/blog-gamay-wine-guide.html][WillaKenzie: Gamay Wine Guide]]
+cite:[[https://www.wine-searcher.com/grape-182-gamay][Wine-Searcher: Gamay]]
+
+** 1.12 Mourvedre / Monastrell
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Spain (as Monastrell, likely from the Sagunto/Murviedro
+  region of Valencia).
+- *Color*: Deep, dark purple.
+- *Tannin*: High. Robust, firm structure.
+- *Acidity*: Medium.
+- *Body*: Full-bodied.
+- *Aromas/flavors*: Wild game, earth, blackberry, dark plum, leather,
+  black pepper, smoked meat, garrigue (wild herbs). Can be rustic.
+- *Where it thrives*: Bandol (Provence — where it must be at least 50%
+  of blends), Chateauneuf-du-Pape, Jumilla and Yecla (Spain),
+  South Australia, California (Rhone Rangers).
+- *Notable wines*: Domaine Tempier (Bandol), GSM blends worldwide.
+- *Key role*: The "M" in GSM blends. Provides tannin backbone,
+  dark color, and savory complexity.
+
+cite:[[https://en.wikipedia.org/wiki/Mourv%C3%A8dre][Wikipedia: Mourvedre]]
+
+** 1.13 Pinotage
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: South Africa. Created in 1925 by Professor Abraham Izak
+  Perold at Stellenbosch University as a cross of Pinot Noir x Cinsaut
+  (then called Hermitage in South Africa — hence the name).
+- *Color*: Deep ruby to dark purple.
+- *Tannin*: Medium to high.
+- *Acidity*: Medium.
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Bramble, dark berries, smoke, earthy notes,
+  sometimes tropical fruit, banana, and a characteristic acetone/
+  paint-like note when poorly made. Top examples show plum, chocolate,
+  espresso.
+- *Where it thrives*: Stellenbosch, Paarl, Swartland (South Africa).
+  Limited plantings elsewhere (New Zealand, Brazil, Canada, Zimbabwe).
+- *Notable wines*: Kanonkop, Beyerskloof.
+- *Significance*: South Africa's signature grape; symbolizes the
+  country's winemaking identity.
+
+cite:[[https://en.wikipedia.org/wiki/Pinotage][Wikipedia: Pinotage]]
+
+** 1.14 Touriga Nacional
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Portugal. Disputed between Dao and Douro Valley — both
+  regions claim it.
+- *Color*: Very deep, intense purple-black. Thick-skinned grape rich in
+  color compounds.
+- *Tannin*: High. Excellent structure and aging capacity.
+- *Acidity*: Medium to medium-high.
+- *Body*: Full-bodied.
+- *Aromas/flavors*: Violet, blackberry, cherry, plum, blueberry, dark
+  chocolate, cedar, rocky/mineral notes. Intense floral character is
+  distinctive.
+- *Where it thrives*: Douro Valley, Dao, Alentejo (Portugal).
+  Increasingly planted in Australia (Barossa) and South Africa.
+- *Notable wines*: Port (traditionally the most prized grape for vintage
+  Port), Barca Velha, Quinta do Crasto, Chryseia.
+- *Significance*: Considered Portugal's finest red grape variety. Small
+  berries with high skin-to-juice ratio produce concentrated wines.
+
+cite:[[https://en.wikipedia.org/wiki/Touriga_Nacional][Wikipedia: Touriga Nacional]]
+cite:[[https://winefolly.com/deep-dive/exploring-touriga-nacional-wine/][Wine Folly: Touriga Nacional]]
+cite:[[https://winesofportugal.com/en/portuguese-wines/grape-varieties/touriga-nacional/][Wines of Portugal: Touriga Nacional]]
+
+** 1.15 Carmenere
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Bordeaux, France. One of the original six Bordeaux red
+  grapes. Name from French /carmin/ (crimson), for autumn leaf color.
+- *Color*: Deep ruby to dark red.
+- *Tannin*: Medium to high (softer than Cabernet Sauvignon).
+- *Acidity*: Medium.
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Blackberry, plum, dark cherry, green pepper,
+  green peppercorn, eucalyptus, cocoa, cedar, sweet spice. Higher
+  levels of pyrazines give herbaceous character.
+- *Where it thrives*: Chile (Central Valley: Rapel, Colchagua, Maule).
+  Almost extinct in France after phylloxera; survived in Chile where
+  it was mislabeled as Merlot until 1994.
+- *Notable wines*: Concha y Toro Terrunyo, Santa Rita Casa Real
+  Carmenere.
+- *Historical note*: In 1994, French ampelographer Jean-Michel
+  Boursiquot identified that much of Chile's "Merlot" was actually
+  Carmenere. It was grown mixed with Merlot for most of the 20th
+  century (up to 50% of volume). Now Chile's signature red grape.
+
+cite:[[https://en.wikipedia.org/wiki/Carm%C3%A9n%C3%A8re][Wikipedia: Carmenere]]
+cite:[[https://winefolly.com/deep-dive/carmenere-wine-guide/][Wine Folly: Carmenere]]
+cite:[[https://southamericawineguide.com/carmenere-day-chilean-carmenere/][South America Wine Guide: Carmenere]]
+
+* 2 Major White Grape Varieties
+:PROPERTIES:
+:WSET_LEVEL: L2 (introduced), L3 (regional detail), L4 (diploma depth)
+:END:
+
+** 2.01 Chardonnay
+:PROPERTIES:
+:WSET_LEVEL: L1--L2
+:END:
+
+- *Origin*: Burgundy, France. DNA analysis: a cross of Pinot Noir and
+  Gouais Blanc.
+- *Color*: Pale gold (unoaked) to deep gold (oaked).
+- *Acidity*: Medium. Malleable through malolactic fermentation.
+- *Body*: Medium to full-bodied (the most full-bodied of the major whites).
+- *Aromas/flavors*:
+  - *Unoaked/cool climate*: Green apple, lemon, chalk, mineral,
+    white peach.
+  - *Oaked/warm climate*: Butter, vanilla, toast, coconut, toffee,
+    pineapple, mango, hazelnut.
+- *Where it thrives*: Burgundy (Chablis, Meursault, Puligny-Montrachet,
+  Pouilly-Fuisse), Champagne (Blanc de Blancs), Napa/Sonoma, Margaret
+  River, Adelaide Hills, Casablanca Valley (Chile), Limari (Chile).
+- *Notable wines*: Montrachet, Corton-Charlemagne, Kistler, Leeuwin
+  Estate Art Series.
+- *Key concept*: Chardonnay is a "winemaker's grape" — its relatively
+  neutral character acts as a canvas for winemaking techniques (oak,
+  lees stirring, MLF).
+
+cite:[[https://bettertastingwine.com/white_wine_types.html][Better Tasting Wine: White Wine Types]]
+cite:[[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business: Major White Varieties]]
+
+** 2.02 Sauvignon Blanc
+:PROPERTIES:
+:WSET_LEVEL: L1--L2
+:END:
+
+- *Origin*: Loire Valley, France. Parent grape (with Cabernet Franc) of
+  Cabernet Sauvignon.
+- *Color*: Pale straw to light gold.
+- *Acidity*: High. Bracing, refreshing acidity.
+- *Body*: Light to medium-bodied.
+- *Aromas/flavors*:
+  - *Cool climate*: Gooseberry, green pepper, cut grass, asparagus,
+    cat's pee (thiol-driven), lime, grapefruit.
+  - *Warm climate*: Passion fruit, melon, peach, tropical notes.
+  - *Oaked (Fume Blanc style)*: Smoke, vanilla, roasted notes.
+- *Where it thrives*: Loire Valley (Sancerre, Pouilly-Fume), Bordeaux
+  (blended with Semillon), Marlborough (New Zealand), Casablanca
+  (Chile), Stellenbosch, Friuli.
+- *Notable wines*: Cloudy Bay, Didier Dagueneau Silex (Pouilly-Fume),
+  Domaine Vacheron (Sancerre).
+
+cite:[[https://casaloce.com/pages/what-is-the-difference-between-chardonnay-vs-sauvignon-blanc][Casa Loce: Chardonnay vs Sauvignon Blanc]]
+
+** 2.03 Riesling
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Rhine region, Germany. First documented in 1435.
+- *Color*: Pale straw, often with green tinge. Can develop deep gold
+  with age.
+- *Acidity*: High. Among the highest-acid white grapes. Acidity is the
+  backbone that balances residual sugar in off-dry/sweet styles.
+- *Body*: Light to medium-bodied.
+- *Aromas/flavors*: Green apple, lime, peach, apricot, honey, white
+  flowers, rose blossom, slate/mineral (Mosel), petrol/kerosene
+  (aged — from TDN compound).
+- *Where it thrives*: Germany (Mosel, Rheingau, Pfalz, Nahe), Alsace,
+  Austria (Wachau), Clare Valley and Eden Valley (Australia),
+  Finger Lakes (New York), Ontario.
+- *Notable wines*: Egon Muller Scharzhofberger, Trimbach Clos Sainte
+  Hune, Grosset Polish Hill.
+- *Style range*: Dry (Trocken), off-dry (Kabinett, Spatlese), sweet
+  (Auslese, BA, TBA, Eiswein). German Pradikat system classifies by
+  ripeness at harvest.
+
+cite:[[https://en.wikipedia.org/wiki/Riesling][Wikipedia: Riesling]]
+cite:[[https://floridawineacademy.com/blogs/blog/riesling-chardonnay-sauvignon-blanc-exploring-white-wine-stars-with-wset-courses-at-florida-wine-academy][Florida Wine Academy: White Wine Stars]]
+
+** 2.04 Pinot Grigio / Pinot Gris
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Burgundy, France. A color mutation of Pinot Noir. Grey-blue
+  to brownish-pink skins.
+- *Color*: Pale straw (Italian style) to deep golden or copper-toned
+  (Alsace style).
+- *Acidity*: Medium (Italian style: higher, crisper) to low-medium
+  (Alsace style: richer).
+- *Body*: Light-bodied (Italian: Pinot Grigio) to medium-full (Alsace:
+  Pinot Gris).
+- *Aromas/flavors*:
+  - *Pinot Grigio (Italy)*: Lemon, green apple, pear, mineral, clean
+    and neutral.
+  - *Pinot Gris (Alsace)*: Peach, apricot, honey, smoke, spice. Richer,
+    more textured.
+- *Where it thrives*: Northeastern Italy (Veneto, Friuli, Trentino-Alto
+  Adige), Alsace, Oregon, New Zealand, Germany (as Grauburgunder).
+- *Notable wines*: Zind-Humbrecht Pinot Gris (Alsace), Livio Felluga
+  (Friuli).
+
+cite:[[https://www.coravin.com/blogs/community/21-essential-types-of-white-wine-to-know][Coravin: 22 Types of White Wine]]
+cite:[[https://www.jancisrobinson.com/learn/grape-varieties/white/pinot-grigio][Jancis Robinson: Pinot Grigio]]
+
+** 2.05 Gewurztraminer
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Traminer grape from Alto Adige (Tramin), Italy. /Gewurz/ =
+  "spiced" in German.
+- *Color*: Deep gold, sometimes with pink tinge.
+- *Acidity*: Low. Can feel flabby if not handled well.
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Lychee, rose petal, Turkish delight, ginger, citrus
+  peel, cinnamon, nutmeg, clove, pumpkin pie spice, passion fruit.
+  Extremely aromatic and perfumed.
+- *Where it thrives*: Alsace (France — its spiritual home), Germany
+  (Pfalz), Alto Adige, New Zealand, Oregon, Chile, British Columbia.
+- *Notable wines*: Hugel Gewurztraminer (Alsace), Trimbach.
+- *Style note*: Produced in dry, off-dry, and late-harvest styles.
+  Vendange Tardive and Selection de Grains Nobles in Alsace are
+  benchmark sweet styles.
+
+cite:[[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business: White Varieties]]
+cite:[[https://www.coravin.com/blogs/community/21-essential-types-of-white-wine-to-know][Coravin: White Wine Types]]
+
+** 2.06 Viognier
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Northern Rhone, France (Condrieu). Nearly extinct by the
+  1960s (~8 hectares remaining); revived from the 1980s.
+- *Color*: Medium to deep gold.
+- *Acidity*: Low to medium. Requires careful handling to avoid flabbiness.
+- *Body*: Medium to full-bodied.
+- *Aromas/flavors*: Peach, apricot, honeysuckle, orange blossom, vanilla,
+  musk, ginger, tangerine. Intensely aromatic.
+- *Where it thrives*: Condrieu, Chateau-Grillet (N. Rhone), Languedoc,
+  Virginia, California, South Australia, South Africa.
+- *Notable wines*: Condrieu (Georges Vernay, Guigal), Yalumba Virgilius.
+- *Style note*: Sometimes co-fermented with Syrah (up to 20% in
+  Cote-Rotie) — adds perfume and stabilizes color.
+
+cite:[[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business]]
+cite:[[https://www.coravin.com/blogs/community/21-essential-types-of-white-wine-to-know][Coravin]]
+
+** 2.07 Chenin Blanc
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Loire Valley, France (documented from the 9th century).
+- *Color*: Pale gold (dry) to deep amber (sweet aged).
+- *Acidity*: High. One of the highest-acid white grapes. Natural acidity
+  is the backbone for its remarkable versatility.
+- *Body*: Light (sparkling) to full-bodied (late-harvest).
+- *Aromas/flavors*: Green apple, pear, quince, honey, wet wool/lanolin
+  (tertiary), chamomile, beeswax, passionfruit. Age-worthy wines develop
+  extraordinary complexity.
+- *Where it thrives*: Loire Valley (Vouvray, Savennieres, Montlouis,
+  Anjou, Saumur), South Africa (most widely-planted white grape there,
+  historically called Steen), California.
+- *Notable wines*: Huet Vouvray Moelleux, Domaine des Baumard
+  Savennieres, Mullineux (Swartland).
+- *Style range*: Dry (sec), off-dry (demi-sec), sweet (moelleux),
+  sparkling (Cremant de Loire, Saumur), noble rot (Coteaux du Layon,
+  Bonnezeaux, Quarts de Chaume).
+
+cite:[[https://en.wikipedia.org/wiki/Chenin_blanc][Wikipedia: Chenin Blanc]]
+cite:[[https://winefolly.com/deep-dive/all-about-vouvray-wine/][Wine Folly: Vouvray]]
+cite:[[https://www.wineenthusiast.com/culture/wine/3-styles-of-loire-valley-chenin-blanc-everyone-can-appreciate/][Wine Enthusiast: Loire Chenin Blanc Styles]]
+
+** 2.08 Semillon
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Bordeaux, France.
+- *Color*: Light gold (young dry) to deep amber (aged/sweet).
+- *Acidity*: Low to medium. The low acidity means it is often blended
+  with higher-acid Sauvignon Blanc.
+- *Body*: Medium to full-bodied. Distinctive waxy, lanolin-like texture
+  from naturally occurring lactone compounds.
+- *Aromas/flavors*:
+  - *Young/dry*: Lemon, green apple, waxy, hay.
+  - *Aged (Hunter Valley)*: Toast, honey, lanolin, marmalade — develops
+    extraordinary complexity over decades without oak.
+  - *Botrytis-affected (Sauternes)*: Apricot, peach, honey, candied
+    orange, saffron.
+- *Where it thrives*: Bordeaux (dry white blends and Sauternes), Hunter
+  Valley (Australia — unique lean, low-alcohol style), Barossa Valley,
+  South Africa, Washington State.
+- *Notable wines*: Chateau d'Yquem (Sauternes, ~80% Semillon), Tyrrell's
+  Vat 1 (Hunter Valley), Haut-Brion Blanc.
+- *Botrytis affinity*: Thin skin and tight bunches make Semillon
+  particularly susceptible to Botrytis cinerea. In Sauternes, noble rot
+  concentrates sugars to produce unctuous, long-lived sweet wines.
+
+cite:[[https://en.wikipedia.org/wiki/S%C3%A9millon][Wikipedia: Semillon]]
+cite:[[https://winefolly.com/grapes/semillon/][Wine Folly: Semillon]]
+cite:[[https://winefolly.com/deep-dive/have-you-heard-of-semillon-the-3rd-most-important-french-white-wine/][Wine Folly: Semillon Deep Dive]]
+
+** 2.09 Muscat / Moscato
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Origin*: Ancient — possibly the oldest domesticated grape family.
+  Not a single variety but a family of grapes.
+- *Key members*: Muscat Blanc a Petits Grains (finest), Muscat of
+  Alexandria, Muscat Ottonel, Muscat Hamburg (red).
+- *Color*: Pale straw to amber (depends on style).
+- *Acidity*: Low to medium.
+- *Body*: Light (sparkling Moscato d'Asti) to full (fortified Muscat de
+  Beaumes-de-Venise).
+- *Aromas/flavors*: Orange blossom, grape, peach, apricot, rose, honey,
+  orange peel, musk. One of the few grapes whose wine actually smells
+  like grapes — due to high levels of terpene compounds (linalool,
+  geraniol).
+- *Where it thrives*: Asti (Piedmont — Moscato d'Asti, Asti Spumante),
+  Alsace (Muscat d'Alsace, dry), Beaumes-de-Venise (Rhone, fortified),
+  Rutherglen (Australia, luscious fortified), Greece (Samos), Spain
+  (Moscatel de Valencia).
+- *Notable wines*: Moscato d'Asti (low-alcohol, frizzante), Rutherglen
+  Muscat (classified: Rutherglen, Classic, Grand, Rare).
+
+cite:[[https://en.wikipedia.org/wiki/Muscat_(grape)][Wikipedia: Muscat]]
+cite:[[https://www.vinerra.com/education/grapes/muscat-in-depth-grape-varietal-profile][Vinerra: Muscat]]
+
+** 2.10 Gruner Veltliner
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Austria, where it is the most widely planted grape variety
+  (~30% of vineyard area).
+- *Color*: Pale straw with green highlights.
+- *Acidity*: High. Bracing, crisp.
+- *Body*: Light to medium-bodied (can be full in Smaragd category of
+  Wachau).
+- *Aromas/flavors*: Green apple, white pepper (a hallmark descriptor),
+  pea shoot, lentil, citrus, mineral, grapefruit. Top examples develop
+  honey and spice complexity with age.
+- *Where it thrives*: Austria (Wachau, Kamptal, Kremstal, Weinviertel),
+  Czech Republic, Slovakia, Hungary (small plantings).
+- *Notable wines*: F.X. Pichler, Nikolaihof, Hirtzberger (Wachau
+  Smaragd category).
+- *Austrian classifications*: Steinfeder (lightest), Federspiel
+  (medium), Smaragd (richest, highest alcohol) — Wachau system.
+
+cite:[[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business]]
+cite:[[https://www.coravin.com/blogs/community/21-essential-types-of-white-wine-to-know][Coravin: White Wines]]
+
+** 2.11 Albarino
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Rias Baixas, Galicia, northwestern Spain. Also grown across
+  the border in Portugal as Alvarinho (Vinho Verde).
+- *Color*: Pale straw.
+- *Acidity*: High. Bright, refreshing.
+- *Body*: Medium-bodied.
+- *Aromas/flavors*: Peach, apricot, citrus (lemon, grapefruit), saline/
+  mineral note, almond blossom. Textured, sometimes with slight phenolic
+  grip from thick skins.
+- *Where it thrives*: Rias Baixas (Spain), Minho/Vinho Verde (Portugal),
+  also planted in California, Uruguay, Australia.
+- *Notable wines*: Pazo de Senorans, Do Ferreiro, Martin Codax.
+- *Maritime influence*: The Atlantic proximity gives saline, mineral
+  character.
+
+cite:[[https://www.coravin.com/blogs/community/21-essential-types-of-white-wine-to-know][Coravin]]
+cite:[[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business]]
+
+** 2.12 Torrontes
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Argentina. A natural cross of Muscat of Alexandria and the
+  Mission grape (Criolla Chica/Listan Prieto).
+- *Color*: Pale straw.
+- *Acidity*: Medium to medium-high (crisp).
+- *Body*: Light to medium-bodied.
+- *Aromas/flavors*: Peach, apricot, citrus, rose, geranium, lychee.
+  Highly aromatic, Muscat-like perfume. Sometimes a slight bitter
+  phenolic finish.
+- *Where it thrives*: Salta (especially Cafayate at high altitude —
+  1,700+ m), La Rioja, Mendoza (Argentina).
+- *Notable wines*: Colomé, Etchart, Susana Balbo.
+- *Significance*: Argentina's signature white grape, as Malbec is its
+  signature red.
+
+cite:[[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business]]
+cite:[[https://www.coravin.com/blogs/community/21-essential-types-of-white-wine-to-know][Coravin]]
+
+** 2.13 Verdejo
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Origin*: Rueda, Castilla y Leon, Spain.
+- *Color*: Pale straw with green tinge.
+- *Acidity*: High. Crisp.
+- *Body*: Light to medium-bodied.
+- *Aromas/flavors*: Citrus, green apple, fennel, grass, stone fruit,
+  sometimes a distinctive bitter almond finish.
+- *Where it thrives*: Rueda DO (Spain — revived the region).
+  Limited plantings in La Mancha, Australia.
+- *Notable wines*: Marques de Riscal (Rueda), Jose Pariente, Naia.
+- *Significance*: Rueda's flagship grape. Was in decline until the
+  1970s--80s revival led by Marques de Riscal.
+
+cite:[[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business]]
+
+* 3 Vine Biology
+:PROPERTIES:
+:WSET_LEVEL: L2 (basics), L3 (detailed), L4 (advanced)
+:END:
+
+** 3.1 Vitis vinifera and Other Species
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Vitis vinifera*: The European grapevine species responsible for
+  virtually all quality wine production worldwide. Thousands of
+  cultivars exist. Susceptible to phylloxera on its own roots.
+- *American species*:
+  - *V. labrusca*: Native to eastern North America. "Foxy" aromas
+    (Concord grape). Used for juice, jelly, and some wines. Weak
+    phylloxera resistance.
+  - *V. riparia*: Highly phylloxera-resistant. Used extensively as
+    rootstock.
+  - *V. rupestris*: Phylloxera-resistant. Important rootstock parent.
+  - *V. berlandieri* (syn. V. cinerea var. helleri): Deep-rooted,
+    lime-tolerant. Key rootstock parent for calcareous soils.
+  - *V. aestivalis*: Strong phylloxera resistance. Norton grape is a
+    cultivar.
+- *Hybrids*: Crosses between V. vinifera and American species. Used for
+  rootstocks and, in some regions, for cold-hardy or disease-resistant
+  wine grapes (e.g., Seyval Blanc, Chambourcin, Marquette).
+  Generally prohibited in EU quality wine designations.
+
+cite:[[https://en.wikipedia.org/wiki/Phylloxera][Wikipedia: Phylloxera]]
+cite:[[https://biologyinsights.com/what-is-a-grapevine-anatomy-species-and-life-cycle/][Biology Insights: What Is a Grapevine?]]
+
+** 3.2 The Annual Vine Cycle
+:PROPERTIES:
+:WSET_LEVEL: L2--L3
+:END:
+
+The vine's annual cycle governs the rhythm of the vineyard year. In the
+Northern Hemisphere, timing is approximately:
+
+*** 3.2.1 Dormancy (November--March)
+
+From leaf fall to the beginning of growth in spring, the vine is
+dormant and consists entirely of woody tissue. Carbohydrate reserves
+are stored in the trunk and root system to fuel the following season's
+growth. Winter pruning is carried out during dormancy.
+
+*** 3.2.2 Bud Break (March--April)
+
+As soil temperatures reach ~10 C, stored starch is converted to sugar
+and sap begins to move. Buds swell and burst. This is a vulnerable
+period — late spring frosts can destroy new growth. Methods to combat
+frost include smudge pots, wind machines, aspersion (sprinklers that
+form a protective ice layer), and helicopters.
+
+*** 3.2.3 Shoot Growth and Flowering (May--June)
+
+Rapid shoot growth occurs. Flowering typically begins 6--9 weeks after
+bud break, requiring daily temperatures of 15--20 C. V. vinifera
+flowers are hermaphroditic (self-pollinating); no external pollinators
+are required. Poor weather during flowering causes /coulure/ (poor
+fruit set) and /millerandage/ (uneven berry size).
+
+*** 3.2.4 Fruit Set and Berry Development (June--July)
+
+Successfully pollinated flowers develop into green, hard berries.
+Berry size increases through cell division and expansion. Acids
+accumulate; sugars are still low.
+
+*** 3.2.5 Veraison (July--August)
+
+The onset of ripening. Red grapes change color from green to purple
+(anthocyanin accumulation). White grapes become translucent. Sugar
+levels rise rapidly, acidity drops, flavor compounds and tannins
+develop. Veraison to harvest is typically 30--70 days depending on
+variety and climate.
+
+*** 3.2.6 Harvest (August--October in N. Hemisphere)
+
+Timing is the most critical viticultural decision. The winemaker
+balances sugar (potential alcohol), acidity, tannin ripeness, and
+flavor development. Harvest can be by hand (selective, gentle, required
+for certain appellations) or machine (faster, cheaper, works at night
+in warm climates).
+
+*** 3.2.7 Post-Harvest (October--November)
+
+After harvest, leaves continue photosynthesis until frost, replenishing
+carbohydrate reserves for the following year. This period is important
+for vine health and longevity. Leaf fall marks the return to dormancy.
+
+cite:[[https://grapes.extension.org/annual-cycle-of-the-grapevine/][Extension.org: Annual Cycle of the Grapevine]]
+cite:[[https://en.wikipedia.org/wiki/Annual_growth_cycle_of_grapevines][Wikipedia: Annual Growth Cycle of Grapevines]]
+cite:[[https://zorvino.com/from-dormancy-to-harvest-a-year-in-the-life-of-a-grapevine/][Zorvino: Year in the Life of a Grapevine]]
+
+** 3.3 Rootstock and Phylloxera
+:PROPERTIES:
+:WSET_LEVEL: L2--L3
+:END:
+
+*** 3.3.1 The Phylloxera Crisis
+
+Phylloxera (Daktulosphaira vitifoliae) is a microscopic aphid-like
+insect native to eastern North America. It feeds on the roots of V.
+vinifera, causing galls, secondary infections, and vine death.
+
+The Great French Wine Blight of the 1860s--1890s devastated European
+vineyards. The insect was accidentally introduced on American vine
+specimens. At its peak, phylloxera destroyed approximately two-thirds
+of European vineyards.
+
+*** 3.3.2 The Solution: Grafting
+
+The solution, developed by Charles Valentine Riley with J.E. Planchon
+and promoted by T.V. Munson, was to graft V. vinifera scions onto
+American rootstock. Native American grapevines (particularly V.
+riparia, V. rupestris, and V. berlandieri) have natural resistance.
+
+Today, the vast majority of the world's V. vinifera vines are grafted
+onto American or hybrid rootstocks. Notable exceptions include:
+- Chile (protected by geographic isolation — Andes, Pacific, desert)
+- Parts of South Australia (sandy soils, which phylloxera cannot
+  traverse easily)
+- Some old pre-phylloxera vineyards (e.g., Bollinger Vieilles Vignes
+  Francaises, ungrafted Pinot Noir in Champagne)
+
+*** 3.3.3 Rootstock Selection
+
+Rootstocks are chosen for:
+- Phylloxera resistance
+- Nematode resistance
+- Adaptation to soil type (calcareous, acidic, saline)
+- Vigor control
+- Drought tolerance
+- Lime tolerance
+
+Common rootstocks: SO4, 3309C (Couderc), 101-14, 110R (Richter),
+Paulsen 1103, 41B. The rootstock influences vine vigor, yield, and
+indirectly grape composition.
+
+cite:[[https://www.wsetglobal.com/knowledge-centre/blog/2023/february/09/what-is-phylloxera-and-why-was-it-so-significant/][WSET: What Is Phylloxera?]]
+cite:[[https://en.wikipedia.org/wiki/Great_French_Wine_Blight][Wikipedia: Great French Wine Blight]]
+cite:[[https://vinitor.wine/en/phylloxera-europe-grafting-roots/][Vinitor: Phylloxera]]
+cite:[[https://www.bkwine.com/features/winemaking-viticulture/rootstocks-grafting-french-wine-texas/][BKWine: Rootstocks and Grafting]]
+
+** 3.4 Terroir
+:PROPERTIES:
+:WSET_LEVEL: L3--L4
+:END:
+
+Terroir is the French concept that a wine expresses the complete
+natural environment in which it is produced — the interaction of soil,
+climate, topography, and (in broader definitions) human practice.
+
+*** 3.4.1 Soil
+
+- *Drainage*: Well-drained soils (gravel, sand, limestone) stress the
+  vine moderately, concentrating flavors. Waterlogged soils produce
+  dilute, vigorous growth.
+- *Mineral composition*: Limestone/chalk (Burgundy, Champagne) — tends
+  to give wines finesse and acidity. Slate (Mosel) — retains heat,
+  gives mineral notes. Volcanic (Etna, Santorini) — smoky, earthy
+  character. Granite (Beaujolais Crus, N. Rhone) — elegant wines.
+  Clay (Pomerol) — water-retentive, suits Merlot.
+- *Fertility*: Paradoxically, poor soils often produce the best wine
+  grapes. Low fertility limits vigor and concentrates flavor.
+
+*** 3.4.2 Climate
+
+- *Macroclimate*: The broad regional climate (continental, maritime,
+  Mediterranean).
+- *Mesoclimate*: The climate of a specific vineyard site.
+- *Microclimate*: The climate within the vine canopy.
+- *Diurnal variation*: Large temperature difference between day and
+  night preserves acidity while allowing sugar accumulation (important
+  in Mendoza, Central Otago, Adelaide Hills).
+- *Growing degree days (GDD)*: Winkler scale classifies regions I--V
+  by accumulated heat.
+- *Key thresholds*: 10 C minimum for vine growth. The 10--20 C growing
+  season average defines suitable wine regions (roughly 30--50 degrees
+  latitude in both hemispheres).
+
+*** 3.4.3 Aspect and Altitude
+
+- *Aspect (slope orientation)*: South-facing slopes (N. Hemisphere)
+  receive more sunlight, are warmer. North-facing slopes (S. Hemisphere)
+  equivalent. In marginal climates (Mosel, Cote d'Or), aspect is
+  critical for ripening.
+- *Altitude*: Every 100 m rise in altitude drops temperature ~0.6 C.
+  Higher-altitude vineyards (Salta at 1700+ m, Etna at 900+ m) get
+  more UV, cooler nights, higher diurnal range — producing wines with
+  intense color, concentrated aromatics, and preserved acidity.
+- *Slope*: Steeper slopes improve drainage, increase sun exposure angle,
+  and reduce frost risk (cold air drains to valley floor).
+
+cite:[[https://en.wikipedia.org/wiki/Terroir][Wikipedia: Terroir]]
+cite:[[https://suhruliebvineyards.com/how-terroir-affects-wine-soil-climate-and-elevation-explained/][Suhru: Terroir Affects Wine]]
+cite:[[https://hopefamilywines.com/terroir-explained-how-soil-and-climate-affect-your-wine/][Hope Family Wines: Terroir Explained]]
+cite:[[https://winefolly.com/tips/terroir-definition-for-wine/][Wine Folly: Terroir Definition]]
+
+** 3.5 Viticulture Practices
+:PROPERTIES:
+:WSET_LEVEL: L2 (overview), L3 (detail), L4 (advanced)
+:END:
+
+*** 3.5.1 Pruning
+:PROPERTIES:
+:WSET_LEVEL: L2
+:END:
+
+- *Purpose*: Controls yield, directs vine energy, shapes the vine for
+  the coming season. Lower yield generally = higher concentration.
+- *Winter pruning*: Done during dormancy. Determines the number of buds
+  (and thus potential clusters) for the next season.
+- *Training systems*:
+  - *Spur pruning*: Short spurs (2--3 buds). Used in warm climates.
+    Systems: Gobelet (bush vine), Cordon de Royat.
+  - *Cane pruning*: Long canes (6--12 buds). Used in cooler climates
+    for more even bud break. Systems: Guyot (single or double).
+- *Green harvest (vendange verte)*: Summer pruning — removing excess
+  clusters to concentrate flavor in remaining fruit.
+
+*** 3.5.2 Canopy Management
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Objective*: Optimize the balance of sunlight exposure and shade within
+  the vine canopy.
+- *Techniques*:
+  - *Shoot positioning*: Directing shoot growth for even light
+    distribution.
+  - *Shoot thinning*: Removing excess shoots to improve airflow and light
+    penetration.
+  - *Leaf removal*: Exposing the fruit zone — reduces disease pressure,
+    improves ripeness, but can cause sunburn in hot climates.
+  - *Hedging*: Trimming shoot tips to redirect energy to fruit.
+  - *Cluster thinning*: Removing excess clusters (yield reduction).
+- *Trellising systems*: VSP (Vertical Shoot Positioning), Scott Henry,
+  Smart-Dyson, Geneva Double Curtain, Lyre. Choice depends on climate,
+  vigor, and variety.
+- *Principle*: Favorable ratio of fruit to foliage. Approximately 10--14
+  leaves per cluster for adequate photosynthesis.
+
+*** 3.5.3 Irrigation
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Dry farming (rainfed)*: Traditional in Europe. Many appellations
+  prohibit or restrict irrigation (e.g., much of France, traditional
+  European regions). Vines develop deep root systems.
+- *Drip irrigation*: Precise water delivery to root zone. Used in New
+  World (Australia, California, Chile, Argentina). Allows deficit
+  irrigation — controlled water stress to concentrate flavors.
+- *Regulated Deficit Irrigation (RDI)*: Water is withheld at specific
+  growth stages to control berry size and concentration. Common in
+  premium Australian and Californian vineyards.
+- *Flood irrigation*: Traditional but water-intensive. Still used in
+  some regions (e.g., Mendoza's historic /acequias/ channels).
+
+*** 3.5.4 Organic Viticulture
+:PROPERTIES:
+:WSET_LEVEL: L3
+:END:
+
+- *Principles*: No synthetic pesticides, herbicides, or fertilizers.
+  Certified by bodies such as Ecocert, USDA Organic, EU Organic.
+- *Permitted treatments*: Copper-based sprays (Bordeaux mixture) for
+  fungal diseases, sulfur, natural predators, cover crops for soil
+  health and biodiversity.
+- *Certification*: Typically requires 3 years of organic conversion.
+  Note: "organic wine" regulations differ between EU and US — in the
+  EU, a small amount of added SO2 is permitted; in the US, "organic
+  wine" means no added sulfites, while "made with organic grapes"
+  allows limited sulfites.
+
+*** 3.5.5 Biodynamic Viticulture
+:PROPERTIES:
+:WSET_LEVEL: L4
+:END:
+
+- *Origin*: Based on Rudolf Steiner's 1924 agricultural lectures.
+  Certified by Demeter International.
+- *Principles*: Treats the vineyard as a self-sustaining organism.
+  Activities are timed to lunar and cosmic cycles (the biodynamic
+  calendar divides days into root, flower, fruit, and leaf days).
+- *Preparations*:
+  - *500 (horn manure)*: Cow manure fermented in a cow horn buried
+    over winter. Applied to soil.
+  - *501 (horn silica)*: Ground quartz in a cow horn. Applied as
+    foliar spray.
+  - *Compost preparations 502--507*: Using yarrow, chamomile, stinging
+    nettle, oak bark, dandelion, valerian.
+- *Practices*: Cover crops, composting, no synthetic inputs. Biennial
+  composting, biweekly weed control.
+- *Notable practitioners*: Domaine de la Romanee-Conti, Domaine Leroy,
+  Nicolas Joly (Coulee de Serrant), Zind-Humbrecht, Nikolaihof.
+- *Debate*: Scientifically, the cosmic timing and preparation theory
+  lack empirical support. However, many biodynamic producers make
+  exceptional wines, which may reflect the overall care and attention
+  the method demands.
+
+** 3.6 Vineyard Pests and Diseases
+:PROPERTIES:
+:WSET_LEVEL: L3--L4
+:END:
+
+Beyond phylloxera (see [[*3.3 Rootstock and Phylloxera][Section 3.3]]),
+vineyards face a range of biological threats that influence viticultural
+practice and wine quality.
+
+*** 3.6.1 Fungal Diseases
+
+- *Powdery mildew (Oidium / Erysiphe necator)*: White powdery coating
+  on leaves, shoots, and berries. Thrives in warm, dry conditions with
+  moderate humidity. Reduces photosynthesis, causes off-flavours if
+  infected berries are vinified. Controlled by sulfur sprays, canopy
+  management (airflow), and resistant rootstocks.
+- *Downy mildew (Plasmopara viticola)*: Yellow oily spots on upper
+  leaf surface, white downy growth underneath. Favoured by warm, wet
+  conditions. Devastating in humid regions. Controlled by Bordeaux
+  mixture (copper sulfate + lime), developed in the 1880s — still the
+  mainstay of organic viticulture.
+- *Botrytis cinerea (grey rot)*: Destructive form of the same fungus
+  that produces noble rot (see Part B, Section 4.2). Grey rot occurs
+  when rain or humidity persists through harvest — splits berries,
+  causes sour rot and acetic bacteria. Bunch thinning, leaf removal,
+  and good airflow are key preventions.
+- *Eutypa dieback*: Fungal disease entering through pruning wounds.
+  Causes stunted shoots and eventual vine death. No cure once
+  established; prevention through wound protectants and delayed pruning.
+- *Esca / Black measles*: Complex of fungal pathogens affecting the
+  wood. Causes leaf discolouration ("tiger stripes") and sudden vine
+  collapse. Increasing incidence across Europe since the ban on
+  sodium arsenite treatment (2003).
+
+*** 3.6.2 Bacterial and Viral Diseases
+
+- *Pierce's disease (Xylella fastidiosa)*: Bacterial infection spread
+  by glassy-winged sharpshooter (leafhopper). Blocks xylem vessels,
+  killing the vine within 1--5 years. Devastating in southern
+  California; limits V. vinifera cultivation in the southeastern US.
+  No cure; management through insect vector control and resistant
+  rootstock research.
+- *Grapevine leafroll virus (GLRaV)*: Most economically significant
+  viral disease. Delays ripening, reduces colour (in reds), lowers
+  sugar. Spread by mealybugs. Managed through certified virus-free
+  planting material and roguing infected vines.
+- *Grapevine fanleaf virus (GFLV)*: Transmitted by soil nematodes.
+  Causes leaf deformation, poor fruit set, shortened vine lifespan.
+
+*** 3.6.3 Insect Pests (beyond phylloxera)
+
+- *Grape berry moth (Eupoecilia ambiguella, Lobesia botrana)*:
+  Larvae bore into berries, creating entry points for Botrytis.
+  Managed by pheromone traps (sexual confusion), targeted insecticides.
+- *Mealybugs*: Vectors for leafroll virus. Excrete honeydew promoting
+  sooty mould. Biological control (parasitoid wasps) increasingly used.
+- *Spider mites*: Cause leaf bronzing and reduced photosynthesis.
+  Favoured by hot, dry conditions. Predatory mites used as biological
+  control.
+
+cite:[[https://www.awri.com.au/industry_support/viticulture/pests-and-diseases/][AWRI: Vineyard Pests and Diseases]]
+cite:[[https://en.wikipedia.org/wiki/Powdery_mildew][Wikipedia: Powdery Mildew]]
+cite:[[https://en.wikipedia.org/wiki/Downy_mildew][Wikipedia: Downy Mildew]]
+cite:[[https://winefolly.com/deep-dive/grape-vine-diseases/][Wine Folly: Grape Vine Diseases]]
+cite:[[https://en.wikipedia.org/wiki/Pierce%27s_disease][Wikipedia: Pierce's Disease]]
+
+** 3.7 Soil Science for Viticulture
+:PROPERTIES:
+:WSET_LEVEL: L3--L4
+:END:
+
+*** 3.7.1 Soil pH
+
+- Most V. vinifera performs best in soils with pH 5.5--8.0.
+- *Acidic soils* (pH < 6): common in granite regions (Beaujolais,
+  parts of N. Rhone). May require liming. Aluminium toxicity risk
+  below pH 5.
+- *Alkaline/calcareous soils* (pH > 7): Champagne, Burgundy, Chablis,
+  Jerez. Chalk and limestone buffer pH. Iron chlorosis risk — requires
+  lime-tolerant rootstocks (41B, Fercal).
+
+*** 3.7.2 Soil Nutrients (NPK and CEC)
+
+- *Nitrogen (N)*: drives vegetative growth. Excess N → excessive
+  canopy, shading, disease pressure, diluted fruit. Deficit → stunted
+  growth, poor fermentation (insufficient yeast-assimilable nitrogen).
+- *Phosphorus (P)*: root development, energy transfer. Deficiency rare
+  in vineyards.
+- *Potassium (K)*: regulates water use, sugar transport. Excess K →
+  elevated must pH → flat, flabby wines. Common in clay-rich soils.
+- *Cation Exchange Capacity (CEC)*: measure of a soil's ability to hold
+  and release nutrient cations (Ca²⁺, Mg²⁺, K⁺, Na⁺). High CEC
+  (clay, organic matter) = good nutrient retention. Low CEC (sand) =
+  nutrients leach quickly, requiring more frequent but lighter
+  fertilisation.
+
+*** 3.7.3 Soil Types and Their Influence
+
+| Soil Type     | Properties                         | Wine Effect                      | Benchmark Region         |
+|---------------+------------------------------------+----------------------------------+--------------------------|
+| Limestone/chalk| Alkaline, well-drained, cool      | Finesse, acidity, minerality     | Champagne, Burgundy      |
+| Clay          | Water-retentive, high CEC          | Power, richness                  | Pomerol, parts of Barossa|
+| Gravel        | Excellent drainage, heat-retaining | Concentrated, tannic reds        | Medoc (Haut-Medoc)       |
+| Sand          | Low CEC, poor water retention      | Light, aromatic, phylloxera-proof| Colares (Portugal)       |
+| Slate         | Heat-retaining, mineral-rich       | Mineral, petrol notes            | Mosel                    |
+| Volcanic      | Mineral-rich, well-drained         | Smoky, earthy, saline            | Etna, Santorini          |
+| Granite       | Acidic, well-drained, low fertility| Elegant, perfumed                | N. Rhone, Beaujolais Crus|
+| Loess         | Wind-deposited silt, fertile       | Round, generous                  | Wachau, Burgenland       |
+
+cite:[[https://winefolly.com/deep-dive/wine-and-soil-types/][Wine Folly: Wine and Soil Types]]
+cite:[[https://www.guildsomm.com/public_content/features/articles/b/alex-russan/posts/how-soil-affects-wine][GuildSomm: How Soil Affects Wine]]
+cite:[[https://en.wikipedia.org/wiki/Cation-exchange_capacity][Wikipedia: Cation Exchange Capacity]]
+
+** 3.8 Climate Change and Viticulture
+:PROPERTIES:
+:WSET_LEVEL: L3--L4
+:END:
+
+Climate change is the single most consequential long-term challenge
+facing the wine industry. Its effects are already measurable.
+
+*** 3.8.1 Observable Trends
+
+- *Earlier harvests*: Average harvest dates across European regions
+  have advanced 2--3 weeks over the past 40 years. Burgundy and
+  Bordeaux document the shift clearly.
+- *Rising potential alcohol*: Warmer growing seasons produce higher
+  sugar at harvest. Many warm-climate regions now routinely produce
+  musts at 14--16% potential ABV.
+- *Declining natural acidity*: Higher temperatures accelerate malic
+  acid respiration, lowering total acidity at harvest.
+- *Shifting wine map*: England now has 1,000+ vineyards; Denmark,
+  Sweden, and southern Norway are producing wine. Traditional regions
+  at lower latitudes face heat stress.
+- *Extreme weather*: Increased frequency of late frosts (Burgundy
+  2016, 2017, 2021), hailstorms, drought, and wildfire smoke taint
+  (California 2020, Australia 2019--20).
+
+*** 3.8.2 Adaptation Strategies
+
+- Planting heat-tolerant and drought-resistant varieties (Touriga
+  Nacional, Assyrtiko trialled in traditionally cooler regions)
+- Seeking higher-altitude and cooler-aspect vineyard sites
+- Adjusting canopy management for more shade
+- Night harvesting to preserve acidity
+- Drought-resistant rootstocks (110R, 140Ru)
+- Acidification in the winery (permitted in some jurisdictions)
+- Research into new crosses and resistant varieties (PIWI cultivars)
+
+*** 3.8.3 Projections
+
+- Up to 70--90% of traditional lowland wine regions (Greece, southern
+  Spain, southern Italy, parts of California, southern Australia) may
+  become unsuitable for quality viticulture by 2100 under high-emission
+  scenarios.
+- Emerging regions (England, Patagonia, Tasmania, Hokkaido, British
+  Columbia) expected to become increasingly viable.
+
+cite:[[https://www.nature.com/articles/s43017-024-00521-5][Nature Reviews: Climate Change Impacts on Wine Production]]
+cite:[[https://eos.org/articles/climate-change-threatens-70-of-winemaking-regions][Eos: Climate Change Threatens 70% of Winemaking Regions]]
+cite:[[https://www.internationalwinechallenge.com/Canopy-Articles/weathering-the-storm-how-climate-change-is-reshaping-the-wine-industry-in-2025.html][IWC: Climate Change Reshaping Wine Industry 2025]]
+
+cite:[[https://fhafnb.com/glossary/viticulture/][FHA FnB: Viticulture Guide]]
+cite:[[https://www.clendenenvineyards.com/sonoma-county-vineyard-management/][Clendenen: Vineyard Management]]
+cite:[[https://www.wine-grape-growing.com/wine_grape_growing/vineyard_canopy_management/vineyard_canopy_management_techniques.htm][Wine Grape Growing: Canopy Management]]
+cite:[[https://winefolly.com/deep-dive/biodynamic-wine-guide/][Wine Folly: Biodynamic Wine Guide]]
+cite:[[https://fruitgrowers.com/4-tenets-of-biodynamic-viticulture/][Fruit Growers: Biodynamic Viticulture]]
+cite:[[https://www.thewinesociety.com/sustainability/sustainability-articles/environment/organic-biodynamic-or-regenerative-farming/][Wine Society: Organic, Biodynamic or Regenerative?]]
+
+* 4 WSET Level Summary
+:PROPERTIES:
+:WSET_LEVEL: all
+:END:
+
+| Level | Scope | Grape Coverage (Part A) |
+|-------+-------------------------------------------+----------------------------------------------|
+| L1 | Basics: what is wine, main types, service | Chardonnay, Sauvignon Blanc, Pinot Grigio, |
+| | | Merlot, Pinot Noir, Cabernet Sauvignon. |
+| | | Identify by style, not deep varietal study. |
+|-------+-------------------------------------------+----------------------------------------------|
+| L2 | Intermediate: principal varieties, regions | All 15 reds + 13 whites in this survey. |
+| | where they grow, styles they produce | Basic vine cycle, terroir concept. |
+| | | Pruning overview. |
+|-------+-------------------------------------------+----------------------------------------------|
+| L3 | Detailed: regional study, explanation of | Nebbiolo, Mourvedre, Pinotage, Touriga |
+| | why wines taste as they do | Nacional, Carmenere at regional depth. |
+| | | Detailed vine biology, canopy management, |
+| | | irrigation, organic/biodynamic overview. |
+| | | Terroir: soil, climate, aspect, altitude. |
+| | | Pests & diseases: powdery/downy mildew, |
+| | | grey rot, Pierce's disease, leafroll virus.|
+| | | Soil science: pH, NPK, CEC, soil types. |
+| | | Climate change: observable trends, |
+| | | adaptation strategies, shifting wine map. |
+|-------+-------------------------------------------+----------------------------------------------|
+| L4 | Diploma: production-level understanding, | All varieties at advanced depth. |
+| | critical evaluation, professional mastery | Rootstock selection, GDD/Winkler, |
+| | | biodynamic preparations, clonal selection, |
+| | | phylloxera science, advanced terroir. |
+| | | Esca/eutypa trunk diseases, PIWI cultivars,|
+| | | climate projections, soil chemistry. |
+
+cite:[[https://napavalleywineacademy.com/blogs/pouring-points/discovering-the-characteristics-of-common-grape-varieties-through-wset-levels][Napa Valley Wine Academy: WSET Grape Varieties]]
+cite:[[https://www.wsetglobal.com/knowledge-centre/blog/2026/why-should-i-take-the-wset-level-3-award-in-wines/][WSET: Why Take Level 3?]]
+cite:[[https://www.wsetglobal.com/wset-school-london/wset-courses/wset-level-2-award-in-wines/][WSET: Level 2 Award in Wines]]
+
+* Sources (consolidated)
+
+1. [[https://en.wikipedia.org/wiki/Cabernet_Sauvignon][Wikipedia: Cabernet Sauvignon]]
+2. [[https://winefolly.com/deep-dive/common-types-of-wine/][Wine Folly: Common Types of Wine]]
+3. [[https://bettertastingwine.com/red_wine_types.html][Better Tasting Wine: Red Wine Types]]
+4. [[https://halleckvineyard.com/pinot-noir-vs-cabernet-vs-merlot/][Halleck Vineyard: Pinot Noir vs Cabernet vs Merlot]]
+5. [[https://en.wikipedia.org/wiki/Syrah][Wikipedia: Syrah]]
+6. [[https://www.wine-searcher.com/grape-1112-shiraz-and-syrah][Wine-Searcher: Syrah/Shiraz]]
+7. [[https://en.wikipedia.org/wiki/Tempranillo][Wikipedia: Tempranillo]]
+8. [[https://en.wikipedia.org/wiki/Sangiovese][Wikipedia: Sangiovese]]
+9. [[https://winefolly.com/deep-dive/guide-to-sangiovese-wine/][Wine Folly: Sangiovese]]
+10. [[https://en.wikipedia.org/wiki/Nebbiolo][Wikipedia: Nebbiolo]]
+11. [[https://winefolly.com/deep-dive/guide-to-nebbiolo-wine/][Wine Folly: Nebbiolo]]
+12. [[https://en.wikipedia.org/wiki/Grenache][Wikipedia: Grenache]]
+13. [[https://www.vinerra.com/education/wines/grenache-an-in-depth-wine-profile][Vinerra: Grenache]]
+14. [[https://en.wikipedia.org/wiki/Malbec][Wikipedia: Malbec]]
+15. [[https://winefolly.com/tips/mendoza-malbec-vs-cahors-malbec/][Wine Folly: Mendoza vs Cahors Malbec]]
+16. [[https://en.wikipedia.org/wiki/Zinfandel][Wikipedia: Zinfandel]]
+17. [[https://winefolly.com/grapes/zinfandel/][Wine Folly: Zinfandel/Primitivo]]
+18. [[https://www.willakenzie.com/blog-gamay-wine-guide.html][WillaKenzie: Gamay Wine Guide]]
+19. [[https://en.wikipedia.org/wiki/Mourv%C3%A8dre][Wikipedia: Mourvedre]]
+20. [[https://en.wikipedia.org/wiki/Pinotage][Wikipedia: Pinotage]]
+21. [[https://en.wikipedia.org/wiki/Touriga_Nacional][Wikipedia: Touriga Nacional]]
+22. [[https://winefolly.com/deep-dive/exploring-touriga-nacional-wine/][Wine Folly: Touriga Nacional]]
+23. [[https://en.wikipedia.org/wiki/Carm%C3%A9n%C3%A8re][Wikipedia: Carmenere]]
+24. [[https://winefolly.com/deep-dive/carmenere-wine-guide/][Wine Folly: Carmenere]]
+25. [[https://sommelierbusiness.com/en/articles/wine-technical-84/summary-of-major-white-wine-varieties-192.htm][Sommelier Business: Major White Varieties]]
+26. [[https://www.coravin.com/blogs/community/21-essential-types-of-white-wine-to-know][Coravin: 22 Types of White Wine]]
+27. [[https://en.wikipedia.org/wiki/Riesling][Wikipedia: Riesling]]
+28. [[https://en.wikipedia.org/wiki/Chenin_blanc][Wikipedia: Chenin Blanc]]
+29. [[https://winefolly.com/deep-dive/all-about-vouvray-wine/][Wine Folly: Vouvray]]
+30. [[https://en.wikipedia.org/wiki/S%C3%A9millon][Wikipedia: Semillon]]
+31. [[https://winefolly.com/grapes/semillon/][Wine Folly: Semillon]]
+32. [[https://en.wikipedia.org/wiki/Muscat_(grape)][Wikipedia: Muscat]]
+33. [[https://grapes.extension.org/annual-cycle-of-the-grapevine/][Extension.org: Annual Cycle]]
+34. [[https://en.wikipedia.org/wiki/Annual_growth_cycle_of_grapevines][Wikipedia: Annual Growth Cycle]]
+35. [[https://en.wikipedia.org/wiki/Phylloxera][Wikipedia: Phylloxera]]
+36. [[https://www.wsetglobal.com/knowledge-centre/blog/2023/february/09/what-is-phylloxera-and-why-was-it-so-significant/][WSET: Phylloxera]]
+37. [[https://en.wikipedia.org/wiki/Terroir][Wikipedia: Terroir]]
+38. [[https://winefolly.com/tips/terroir-definition-for-wine/][Wine Folly: Terroir]]
+39. [[https://winefolly.com/deep-dive/biodynamic-wine-guide/][Wine Folly: Biodynamic Wine]]
+40. [[https://napavalleywineacademy.com/blogs/pouring-points/discovering-the-characteristics-of-common-grape-varieties-through-wset-levels][Napa Valley Wine Academy: WSET Levels]]
+41. [[https://www.wsetglobal.com/wset-school-london/wset-courses/wset-level-2-award-in-wines/][WSET: Level 2 Award]]
+42. [[https://www.wine-grape-growing.com/wine_grape_growing/vineyard_canopy_management/vineyard_canopy_management_techniques.htm][Wine Grape Growing: Canopy Management]]
+43. [[https://www.awri.com.au/industry_support/viticulture/pests-and-diseases/][AWRI: Vineyard Pests and Diseases]]
+44. [[https://en.wikipedia.org/wiki/Powdery_mildew][Wikipedia: Powdery Mildew]]
+45. [[https://en.wikipedia.org/wiki/Downy_mildew][Wikipedia: Downy Mildew]]
+46. [[https://winefolly.com/deep-dive/grape-vine-diseases/][Wine Folly: Grape Vine Diseases]]
+47. [[https://en.wikipedia.org/wiki/Pierce%27s_disease][Wikipedia: Pierce's Disease]]
+48. [[https://winefolly.com/deep-dive/wine-and-soil-types/][Wine Folly: Wine and Soil Types]]
+49. [[https://www.guildsomm.com/public_content/features/articles/b/alex-russan/posts/how-soil-affects-wine][GuildSomm: How Soil Affects Wine]]
+50. [[https://en.wikipedia.org/wiki/Cation-exchange_capacity][Wikipedia: Cation Exchange Capacity]]
+51. [[https://www.nature.com/articles/s43017-024-00521-5][Nature Reviews: Climate Change Impacts on Wine Production]]
+52. [[https://eos.org/articles/climate-change-threatens-70-of-winemaking-regions][Eos: Climate Change Threatens 70% of Winemaking Regions]]
+53. [[https://www.internationalwinechallenge.com/Canopy-Articles/weathering-the-storm-how-climate-change-is-reshaping-the-wine-industry-in-2025.html][IWC: Climate Change Reshaping Wine Industry 2025]]

@@ -1,0 +1,405 @@
+#+TITLE: WSET Survey Part D — Tasting, Food Pairing, and Wine Faults
+#+AUTHOR: mu2tau + mayadev
+#+DATE: 2026-03-08
+#+PROPERTY: header-args :eval no
+#+STARTUP: overview
+
+* Introduction
+
+This survey covers the sensory evaluation dimension of wine education as
+structured by the Wine & Spirit Education Trust (WSET): the Systematic
+Approach to Tasting, aroma classification, food pairing principles, wine
+faults, quality assessment, and service. Each section is tagged with the
+WSET level(s) at which the material is examined.
+
+* WSET Systematic Approach to Tasting (SAT)                     :L2:L3:L4:
+
+The SAT is a structured, progressive method for evaluating wine
+objectively — separating quality assessment from personal preference.
+The grid becomes more granular at higher levels. [cite/t:@wset-sat-official;
+@mysterytasting-sat; @napavalley-sat; @grapepursuit-l3]
+
+** Appearance
+
+| Parameter  | L2 Options                                                    | L3 Additions                      |
+|------------+---------------------------------------------------------------+-----------------------------------|
+| Clarity    | (not assessed)                                                | Clear, Hazy                       |
+| Intensity  | Pale, Medium, Deep                                            | same                              |
+| Colour (W) | Lemon, Gold, Amber                                            | Lemon-Green, Brown                |
+| Colour (R) | Purple, Ruby, Garnet, Tawny                                   | Brown                             |
+| Colour (Rosé)| Pink, Pink-Orange, Orange                                   | same                              |
+| Other      | —                                                             | Viscosity, Petillance, Deposit    |
+
+** Nose
+
+| Parameter           | L2 Options                        | L3 Options                                |
+|---------------------+-----------------------------------+-------------------------------------------|
+| Condition           | (not assessed)                    | Clean / Faulty                            |
+| Intensity           | Light, Medium, Pronounced         | Light, Medium-, Medium, Medium+, Pronounced|
+| Aroma characteristics| Primary, Secondary, Tertiary     | same (minimum 5 specific descriptors)     |
+| Development         | (not assessed)                    | Youthful, Developing, Fully Developed     |
+
+** Palate
+
+| Parameter           | L2 Options                        | L3 Options                                  |
+|---------------------+-----------------------------------+----------------------------------------------|
+| Sweetness           | Dry, Off-dry, Medium, Sweet       | Dry, Off-dry, Medium-dry, Medium-sweet, Sweet, Luscious |
+| Acidity             | Low, Medium, High                 | Low, Medium-, Medium, Medium+, High          |
+| Tannin (reds)       | Low, Medium, High                 | Low, Medium-, Medium, Medium+, High          |
+| Alcohol             | Low, Medium, High                 | Low (<11%), Medium (11-14%), High (>14%)     |
+| Body                | Light, Medium, Full               | Light, Medium-, Medium, Medium+, Full        |
+| Flavour intensity   | Light, Medium, Pronounced         | Light, Medium-, Medium, Medium+, Pronounced  |
+| Flavour characteristics | descriptors                   | descriptors aligned with nose                |
+| Finish              | Short, Medium, Long               | Short, Medium-, Medium, Medium+, Long        |
+| Other               | —                                 | Bitterness, Creaminess, Bubble quality       |
+
+** Conclusions
+
+| Parameter        | L2                                         | L3                                             |
+|------------------+--------------------------------------------+------------------------------------------------|
+| Quality          | Poor, Acceptable, Good, Very Good, Outstanding | same                                        |
+| Readiness        | (not assessed)                             | Drink now / Can drink now / Too young / Too old |
+
+** L4 Diploma Tasting
+
+At Diploma level the SAT is used for blind assessment with mark
+allocation: Appearance (3 marks), Nose (7 marks), Palate (12 marks),
+Conclusions (3 marks). Candidates must demonstrate precision,
+consistency, and the ability to identify wines from structural and
+aromatic evidence alone. [cite/t:@wset-l4-cag]
+
+* Wine Aromas and Flavours                                      :L2:L3:L4:
+
+** Three-Tier Classification
+
+Wine aromas are classified by origin into three tiers.
+[cite/t:@deborahparkerwong-aromas; @sommtv-aromas; @decanter-aromas; @winefolly-aroma-wheel]
+
+*** Primary Aromas — grape and terroir
+
+Derived from the grape variety itself and its growing environment.
+
+| Category   | Examples                                                              |
+|------------+-----------------------------------------------------------------------|
+| Floral     | Rose, violet, jasmine, elderflower, blossom, lilac, lavender, hibiscus|
+| Green fruit| Apple, gooseberry, pear, quince, grape                                |
+| Citrus     | Grapefruit, lemon, lime, orange zest                                  |
+| Stone fruit| Peach, apricot, nectarine                                             |
+| Tropical   | Mango, pineapple, passion fruit, lychee                               |
+| Red fruit  | Cherry, strawberry, raspberry, red plum, redcurrant                   |
+| Black fruit| Blackberry, blackcurrant, black plum, blueberry                       |
+| Herbal     | Grass, bell pepper, tomato leaf, eucalyptus, mint                     |
+| Spice      | Black pepper, liquorice (from grape, not oak)                         |
+| Earth      | Slate, wet gravel, volcanic rocks, petroleum                          |
+
+*Varietal markers*: Cabernet Sauvignon = blackcurrant + green bell pepper
+(pyrazines); Gewurztraminer = lychee + rose; Sauvignon Blanc = gooseberry +
+cut grass; Riesling = lime + petroleum (with age).
+
+*** Secondary Aromas — winemaking
+
+Derived from fermentation and early winemaking processes.
+
+| Source                        | Aromas                                          |
+|-------------------------------+-------------------------------------------------|
+| Alcoholic fermentation (yeast)| Bread, biscuit, brioche, sourdough, toast        |
+| Malolactic fermentation (MLF) | Butter, cream, cheese, yoghurt                   |
+| Lees contact (autolysis)      | Bread dough, pastry, biscuit, umami              |
+
+MLF converts sharp malic acid to softer lactic acid. Prominent in
+Chardonnay, Champagne (autolysis), and many reds.
+
+*** Tertiary Aromas — aging
+
+Develop through oxidative and reductive aging processes.
+
+| Source          | Aromas                                                        |
+|-----------------+---------------------------------------------------------------|
+| Oak aging       | Vanilla, coconut, cedar, smoke, clove, nutmeg, toast, cigar box |
+| Bottle aging (oxidative) | Nutty, caramel, honey, marmalade, coffee, toffee     |
+| Bottle aging (reductive) | Leather, earth, mushroom, truffle, forest floor, game, tobacco |
+| Dried fruit     | Fig, raisin, prune, dried apricot                             |
+
+** The Aroma Wheel
+
+The UC Davis Wine Aroma Wheel (Ann C. Noble, 1984) organises aromas
+hierarchically from general centre categories (fruity, floral, spicy,
+vegetative, earthy, chemical, etc.) outward to specific descriptors.
+Wine Folly's updated wheel catalogues 100+ flavours. The wheel is a
+training tool, not a prescriptive vocabulary. [cite/t:@ucdavis-aroma-wheel; @winefolly-aroma-wheel]
+
+* Food and Wine Pairing                                          :L2:L3:
+
+** Scientific Principles
+
+The five basic tastes (sweet, sour, salt, bitter, umami) interact with
+wine components to create harmony or clash.
+[cite/t:@wset-four-rules; @scienceofcooking-pairing; @sfwineschool-pairing; @winefolly-pairing; @winesnark-salt]
+
+| Food Component | Effect on Wine                                              |
+|----------------+-------------------------------------------------------------|
+| Salt           | Reduces perceived bitterness and tannin. Makes wine taste fruitier, smoother, less acidic. Softens body. |
+| Acid           | Balances fat and richness. Acid-in-food + acid-in-wine can cancel each other, making wine taste softer.  |
+| Fat            | Coats the palate, moderating tannin perception. Protein and fat soften tannic bitterness.                 |
+| Sugar (food)   | Makes dry wines taste more acidic, bitter, and thin. Sweet food needs wine at least as sweet.             |
+| Umami          | Amplifies bitterness, tannin, and acidity in wine. Challenging pairing — use fruity or off-dry wines.    |
+| Chili / heat   | Amplifies alcohol burn. Choose lower-alcohol, fruitier, off-dry styles.                                   |
+
+The "magic triangle": salt + acidity + fat in food tames even the most
+tannic wines. A salty, fatty rib eye with acidic Barolo is the canonical
+example.
+
+** WSET Four Rules of Pairing
+
+1. *Choose a wine you enjoy* — personal preference is the foundation.
+2. *Understand your palate* — taste-bud density varies between individuals.
+3. *Know how food changes wine* — salt, acid, fat alter perception.
+4. *Stay flexible* — the same flavour principles work across proteins and
+   vegetarian dishes alike.
+
+** Complementary vs Contrasting
+
+- *Complementary*: Matching flavour profiles — oaked Chardonnay with
+  butter sauce, Sauternes with foie gras.
+- *Contrasting*: Opposing elements that balance — high-acid Champagne
+  with salty fried chicken, sweet Riesling with spicy Thai.
+
+** Weight and Body Matching
+
+Match wine body to dish weight: light wine with delicate food, full-bodied
+wine with rich, heavy dishes. A Muscadet with oysters; a Barossa Shiraz
+with braised short ribs.
+
+** Classic Regional Pairings
+
+| Region          | Wine                | Dish                                  |
+|-----------------+---------------------+---------------------------------------|
+| Burgundy        | Pinot Noir          | Coq au vin, Epoisses                 |
+| Bordeaux        | Cabernet blend      | Lamb, duck confit                     |
+| Tuscany         | Sangiovese (Chianti)| Bistecca alla fiorentina, ragu        |
+| Piedmont        | Barolo/Barbaresco   | Truffle risotto, brasato              |
+| Rioja           | Tempranillo         | Chorizo, roast lamb                   |
+| Mosel           | Riesling            | Spicy Asian cuisine, pork            |
+| Champagne       | Sparkling blend     | Oysters, fried food, sushi            |
+| Jerez           | Fino Sherry         | Jamon, almonds, tapas                 |
+| Porto           | Tawny Port          | Blue cheese, crème brulée             |
+
+* Wine Faults                                                    :L2:L3:L4:
+
+[cite/t:@amsterdamwineacademy-faults; @winefolly-faults; @awri-faults; @bibendum-faults; @wineenthusiast-faults; @sommwine-lightstrike]
+
+** Cork Taint (TCA)
+
+- *Compound*: 2,4,6-trichloroanisole (TCA)
+- *Cause*: Micro-organisms + chlorine compounds in cork bark
+- *Aroma*: Wet cardboard, damp basement, musty newspaper, wet dog
+- *Effect*: Mutes fruit, flattens complexity
+- *Threshold*: Detectable at 2-4 ng/L (parts per trillion); some
+  individuals detect at 1 ng/L
+- *Prevalence*: 2-3% of wines sealed with natural cork
+- *Fixable*: No. Always a fault at any concentration.
+
+** Oxidation
+
+- *Cause*: Excessive oxygen exposure (poor seal, damaged cork, improper storage)
+- *Visual*: Whites turn deep gold/brown; reds lose colour, shift brown/brick
+- *Aroma*: Windfall apples, bruised fruit, flat cola, sherry-like (unintended), nuts
+- *Palate*: Flat, lifeless, vinegary in advanced cases
+- *Fixable*: No
+
+** Reduction
+
+- *Cause*: Insufficient oxygen during winemaking or post-bottling
+- *Aroma*: Struck match, rubber, rotten eggs, garlic, cooked cabbage
+- *Compounds*: Hydrogen sulphide (H2S), mercaptans, disulphides
+- *Fixable*: Mild cases dissipate with 15-20 minutes of decanting/swirling.
+  Mercaptans and disulphides are more persistent.
+
+** Volatile Acidity (VA)
+
+- *Compounds*: Acetic acid + ethyl acetate
+- *Cause*: Acetobacter/Gluconobacter bacteria, too much air + heat
+- *Aroma*: Vinegar (acetic acid), nail polish remover (ethyl acetate)
+- *Threshold*: Legal limits vary by jurisdiction; typically noticeable
+  at >0.7 g/L acetic acid in whites, >1.0 g/L in reds. Small amounts
+  can lift aromatics (some Italian reds).
+- *Fixable*: No
+
+** Brettanomyces
+
+- *Agent*: Wild yeast /Brettanomyces bruxellensis/
+- *Aroma*: Band-aid, barnyard, horse stable, leather, sweat, wet dog, medicinal
+- *Compounds*: 4-ethylphenol (4-EP), 4-ethylguaiacol (4-EG)
+- *Threshold*: Perception varies greatly between individuals. Low levels
+  are considered part of terroir character in some traditions (Rhone,
+  parts of Burgundy). High levels are universally a fault.
+- *Fixable*: No
+
+** Lightstrike
+
+- *Cause*: Exposure to UV or blue light
+- *Aroma*: Wet wool, cooked cabbage, rotten eggs, stinky cheese
+- *Compounds*: Volatile sulphur compounds formed photochemically
+- *Vulnerable wines*: Delicate whites — Champagne, Pinot Grigio,
+  Sauvignon Blanc. Clear glass bottles are most at risk.
+- *Prevention*: Dark glass, proper storage
+- *Fixable*: No
+
+** Heat Damage (Cooked Wine)
+
+- *Cause*: Exposure to temperatures above ~25-30°C during storage or transport
+- *Visual*: Cork may push out; seepage around closure
+- *Aroma*: Stewed/jammy fruit, cooked prunes, roasted nuts, caramel
+- *Palate*: Disjointed; alcohol protrudes; fruit structure collapses
+- *Ideal storage*: 10-15°C, constant
+- *Fixable*: No
+
+** Refermentation
+
+- *Cause*: Residual sugar referments in bottle (yeasts survive bottling
+  in non-sterile conditions)
+- *Markers*: Unexpected bubbles in still wine, yeasty/bready aroma,
+  slight spritz, possible haze
+- *Context*: Intentional in some styles (pétillant naturel, vinho verde).
+  Fault when unexpected.
+- *Fixable*: No
+
+* Wine Quality Assessment                                        :L2:L3:L4:
+
+** The BLIC Framework
+
+Quality is assessed through four structural pillars.
+[cite/t:@vitaminvino-quality; @mysterytasting-sat; @cardsofwine-blic]
+
+| Pillar      | Definition                                                      |
+|-------------+-----------------------------------------------------------------|
+| *Balance*   | Harmonious integration of alcohol, acidity, tannin, fruit concentration, and (where applicable) sweetness. No single component dominates. |
+| *Length*     | Duration and evolution of flavour after swallowing. ~15 seconds = long. Outstanding wines show evolving flavours on the finish. Single most important factor separating very good from outstanding. |
+| *Intensity*  | Concentration and depth of aromas and flavours. Note: finest wines may show elegant restraint rather than sheer power. |
+| *Complexity* | Range and interplay of distinct aromas/flavours across primary, secondary, and tertiary tiers. Outstanding wines show specificity beyond typical varietal expectation. |
+
+** Quality Levels
+
+| Level        | BLIC Criteria                    | Description                         |
+|--------------+----------------------------------+-------------------------------------|
+| Poor/Faulty  | 0 of 4                          | Faulty or fundamentally flawed      |
+| Acceptable   | 1 of 4                          | Correct but simple                  |
+| Good         | 2 of 4                          | Sound with some interest            |
+| Very Good    | 3 of 4                          | Pronounced quality, minor gaps      |
+| Outstanding  | 4 of 4                          | All pillars present, fully resolved |
+
+** Quality vs Preference
+
+WSET explicitly separates objective quality assessment from personal
+preference. A well-made Muscadet may be "good" on BLIC criteria even if
+you personally prefer big Napa Cabernet. Examiners want professional wine
+evaluation, not marketing copy. Identify what prevents a wine from
+reaching the next quality level.
+
+** Price-Quality Relationship                                        :L3:
+
+Not linear. Factors inflating price beyond quality: brand, scarcity,
+fashion, region prestige, critic scores. Factors depressing price below
+quality: unknown region, unfashionable variety, bulk logistics. The
+WSET framework trains the ability to assess intrinsic quality
+independent of label, price, or expectation.
+
+* Serving Wine                                                   :L1:L2:
+
+[cite/t:@wset-serving-temperatures; @wineenthusiast-serving; @wsetglobal-decanting]
+
+** Temperature Guidelines
+
+| Style                        | Temperature         | Notes                                    |
+|------------------------------+---------------------+------------------------------------------|
+| Sparkling                    | 6-10°C (43-50°F)    | Below 6°C masks flavour                  |
+| Light-bodied whites, rosé    | 7-10°C (45-50°F)    | Pinot Grigio, Vinho Verde, dry rosé      |
+| Full-bodied whites           | 10-13°C (50-55°F)   | Oaked Chardonnay, white Burgundy         |
+| Light-bodied reds            | 13-15°C (55-59°F)   | Beaujolais, Valpolicella                 |
+| Medium to full-bodied reds   | 15-18°C (59-64°F)   | Bordeaux, Barolo, Shiraz                 |
+| Sweet wines                  | 6-8°C (43-46°F)     | Sauternes, Tokaji                        |
+| Fortified (dry)              | 10-12°C (50-54°F)   | Fino, Manzanilla                         |
+| Fortified (sweet/aged)       | 14-18°C (57-64°F)   | Tawny Port, Oloroso                      |
+
+No wine should be served above 20°C. "Room temperature" is a pre-central-heating
+European concept (~15-18°C), not modern indoor temperature.
+
+** Decanting
+
+Two distinct purposes:
+
+1. *Separating sediment*: Old wines with deposit. Decant gently, stop
+   when sediment reaches the neck. Stand bottle upright 24h beforehand
+   if possible.
+2. *Aeration*: Young tannic wines benefit from oxygen contact — softens
+   tannins, opens aromatics. 30 minutes to 2 hours depending on wine.
+
+Counterargument: prolonged air exposure can make aromatics more diffuse.
+For many wines, swirling in the glass provides sufficient aeration.
+Fragile old wines risk falling apart with aggressive decanting.
+
+** Glassware
+
+Glass shape affects aroma concentration and delivery to different palate
+zones.
+
+| Glass Type        | Characteristic                    | Used For                      |
+|-------------------+-----------------------------------+-------------------------------|
+| Flute             | Tall, narrow — preserves bubbles  | Sparkling wines               |
+| Small bowl        | Directs aromas to nose            | Light whites, rosé            |
+| Large bowl (tulip)| Allows swirling, aroma development| Full whites, Pinot Noir       |
+| Bordeaux          | Tall, broad bowl, narrow rim      | Full reds (Cabernet, Merlot)  |
+| Burgundy          | Wide bowl, narrower rim           | Pinot Noir, Nebbiolo          |
+| Small tulip       | Concentrates aromas               | Fortified, sweet wines        |
+
+Key principle: the glass should be large enough to swirl without spilling,
+thin-rimmed for precise delivery, and tulip-shaped to concentrate aromas.
+Colour-distorting glass (coloured, cut crystal) hinders visual assessment.
+
+** Order of Service
+
+1. Sparkling before still
+2. White before red
+3. Dry before sweet
+4. Light-bodied before full-bodied
+5. Young before old
+6. Lesser before greater
+
+Purpose: prevent palate fatigue and allow each wine to show without being
+overshadowed by a more powerful predecessor.
+
+* Sources
+:PROPERTIES:
+:CUSTOM_ID: sources
+:END:
+
+#+NAME: citations
+| Key                           | URL                                                                                                 |
+|-------------------------------+-----------------------------------------------------------------------------------------------------|
+| @wset-sat-official            | https://www.wsetglobal.com/knowledge-centre/wset-systematic-approach-to-tasting-sat/                |
+| @mysterytasting-sat           | https://www.mysterytasting.com/wset-sat-explained                                                   |
+| @napavalley-sat               | https://napavalleywineacademy.com/blogs/pouring-points/elevating-your-wine-journey-with-the-wset-level-3-systematic-approach-to-tasting |
+| @grapepursuit-l3              | https://thegrapepursuit.com/wset-level-3-tasting-exam/                                              |
+| @wset-l4-cag                  | https://www.wsetglobal.com/media/6714/wset_l4diploma_cag_tasting_en_aug2018.pdf                     |
+| @wset-l2-sat-pdf              | https://www.wsetglobal.com/media/6916/wset_l2wines_sat_en_may2019.pdf                               |
+| @deborahparkerwong-aromas     | https://deborahparkerwong.com/2017/08/12/the-trilemma-of-primary-secondary-and-tertiary-aromas/     |
+| @sommtv-aromas                | https://mag.sommtv.com/2021/06/understanding-wine-aromas/                                           |
+| @decanter-aromas              | https://www.decanter.com/learn/understanding-wine-aromas-329940/                                    |
+| @winefolly-aroma-wheel        | https://winefolly.com/tips/wine-aroma-wheel-100-flavors/                                            |
+| @ucdavis-aroma-wheel          | https://www.thewinecellarinsider.com/wine-topics/wine-educational-questions/davis-aroma-wheel/       |
+| @wset-four-rules              | https://www.wsetglobal.com/knowledge-centre/blog/2023/july/13/four-rules-to-masterful-food-and-wine-pairing/ |
+| @scienceofcooking-pairing     | https://www.scienceofcooking.com/food-and-wine/science-of-food-and-wine-pairing.html                |
+| @sfwineschool-pairing         | https://sanfranciscowineschool.com/blogs/blog/the-art-and-science-of-food-and-wine-pairing          |
+| @winefolly-pairing            | https://winefolly.com/wine-pairing/getting-started-with-food-and-wine-pairing/                      |
+| @winesnark-salt               | https://winesnark.com/the-salt-conundrum-in-food-wine-pairing/                                      |
+| @amsterdamwineacademy-faults  | https://amsterdamwineacademy.com/en/recognizing-wine-faults/                                        |
+| @winefolly-faults             | https://winefolly.com/tips/wine-faults/                                                             |
+| @awri-faults                  | https://www.awri.com.au/industry_support/winemaking_resources/sensory_assessment/recognition-of-wine-faults-and-taints/wine_faults/ |
+| @bibendum-faults              | https://www.bibendum-wine.co.uk/wine-gym/wine-faults-and-how-to-identify-them/                      |
+| @wineenthusiast-faults        | https://www.wineenthusiast.com/basics/wine-faults/                                                  |
+| @sommwine-lightstrike         | https://www.sommwine.com/wine-faults-lightstrike/                                                   |
+| @vitaminvino-quality          | https://www.vitaminvinoconsulting.com/blog/wset-diploma-quality-assessment                          |
+| @cardsofwine-blic             | https://cardsofwine.com/course/wine-evaluation-the-blic-framework-for-quality-assessment/           |
+| @wset-serving-temperatures    | https://www.wsetglobal.com/knowledge-centre/blog/2022/april/26/ideal-serving-temperatures-and-top-tips-for-wine-storage/ |
+| @wineenthusiast-serving       | https://www.wineenthusiast.com/basics/how-to-serve/your-cheat-sheet-to-serving-wine/                |
+| @wsetglobal-decanting         | https://www.wsetglobal.com/knowledge-centre/blog/2024/july/21/frequently-asked-questions-about-serving-and-decanting-wine/ |

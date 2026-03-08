@@ -1,0 +1,914 @@
+#+TITLE: WSET Survey — Part B: Winemaking (From Grape to Glass)
+#+AUTHOR: mu2tau + mayadev
+#+DATE: 2026-03-08
+#+PROPERTY: header-args :eval never
+#+STARTUP: overview
+
+* Preamble
+:PROPERTIES:
+:CUSTOM_ID: preamble
+:END:
+
+This survey covers the winemaking process from harvest through bottling,
+organised by production category. Each section is tagged with the WSET level
+at which the topic becomes examinable:
+
+- *L1* — WSET Level 1 Award in Wines
+- *L2* — WSET Level 2 Award in Wines
+- *L3* — WSET Level 3 Award in Wines
+- *L4* — WSET Level 4 Diploma in Wines
+
+Sources are cited inline and collected in [[#sources][Sources]].
+
+* 1 Still Wine Production [L1/L2/L3]
+:PROPERTIES:
+:CUSTOM_ID: still-wine
+:END:
+
+** 1.1 Harvesting [L2/L3]
+
+Harvest timing is the first critical winemaking decision. Grapes must reach
+optimal sugar, acid, and phenolic ripeness — the balance between these
+determines the style of wine.[fn:1]
+
+*** Hand Harvesting
+
+- Selective picking possible (multiple passes, botrytis selection)
+- Essential for steep slopes (Mosel, Douro, Côte-Rôtie)
+- Gentler on fruit — less oxidation, fewer broken berries
+- Labour-intensive and expensive
+- Required by some appellations (Champagne, Beaujolais cru for whole-cluster)
+
+*** Machine Harvesting
+
+- Straddle harvesters shake berries off the vine using rubber rods
+- Rapid: can pick at night to preserve acidity (common in warm climates — Australia, Central Valley)
+- Cannot be used on steep slopes or for whole-cluster pressing
+- Lower cost per tonne; some MOG (material other than grapes) inclusion
+- Quality has improved significantly with modern destemming attachments
+
+** 1.2 Crushing and Destemming [L2]
+
+After harvest, grapes are typically destemmed and crushed. The crusher-stemmer
+separates berries from rachis (stem) and gently breaks skins to release juice.
+
+- *White wines*: usually pressed immediately after crushing (minimal skin contact)
+- *Red wines*: crushed then transferred to fermentation vessel with skins
+- *Whole-cluster fermentation* (L3): stems retained for some or all of the
+  must — adds tannin structure, spice character, lowers pH slightly.
+  Common in Burgundy Pinot Noir, some Syrah producers[fn:1][fn:2]
+
+** 1.3 Maceration [L2/L3]
+
+Maceration is the contact between juice and solid matter (skins, seeds, stems)
+to extract colour, tannin, and flavour compounds.
+
+*** Pre-fermentation maceration (cold soak)
+
+- Must held at 5–15°C for 2–5 days before fermentation begins
+- Extracts colour and fruit aromatics without harsh tannins
+- Common for Pinot Noir, some Grenache
+
+*** Extended maceration (post-fermentation)
+
+- Wine left on skins after fermentation completes
+- Polymerises tannins — initially harsh, but can produce softer mouthfeel
+  if managed well
+- Used for age-worthy reds (Barolo, Bordeaux blends)
+
+*** Carbonic maceration [L3]
+
+- Whole berries placed in a sealed vessel flooded with CO₂
+- Intracellular fermentation occurs within intact berries
+- Produces fruity, low-tannin wines — definitive for Beaujolais Nouveau
+- Semi-carbonic maceration: only bottom grapes crushed by weight above
+
+** 1.4 Fermentation [L1/L2/L3]
+
+*** Alcoholic fermentation
+
+The core reaction: yeast converts grape sugars (glucose + fructose) to ethanol
+and CO₂.
+
+C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂
+
+**** Yeast types [L3]
+
+- *Saccharomyces cerevisiae*: workhorse yeast. Cultured (inoculated) strains
+  give predictable, reliable fermentations
+- *Indigenous/wild/ambient yeast*: naturally present on grape skins and in
+  the winery. More complex flavour development but higher risk of stuck
+  fermentation or off-flavours. Includes non-Saccharomyces genera
+  (Kloeckera, Candida, Hanseniaspora) that dominate early fermentation
+  before being outcompeted by S. cerevisiae[fn:2][fn:3]
+
+**** Temperature control [L2/L3]
+
+- *White wines*: 12–22°C. Lower temperatures preserve primary fruit
+  aromas and volatile thiols
+- *Red wines*: 20–32°C. Higher temperatures aid colour and tannin
+  extraction. Risk of stuck fermentation above 35°C
+- Cooling achieved via jacketed stainless steel tanks, refrigeration
+  coils, or cold water drip over exterior
+- Some winemakers use warm-up techniques to initiate fermentation
+
+**** Fermentation vessels [L3]
+
+- Stainless steel: inert, temperature-controllable, easy to clean
+- Oak barrels: micro-oxygenation + oak flavour integration during ferment
+  (common for white Burgundy)
+- Concrete: thermal mass provides natural temperature stability; can be
+  egg-shaped (Nomblot) for natural lees suspension[fn:12]
+- Amphora/qvevri: see [[#orange-wine][Orange Wine]]
+
+*** Malolactic fermentation (MLF) [L2/L3]
+
+Not a true fermentation but a bacterial conversion:
+
+Malic acid → Lactic acid + CO₂
+
+Carried out by lactic acid bacteria, principally /Oenococcus oeni/.[fn:4]
+
+Effects on wine:
+- Reduces perceived acidity (converts diprotic malic to monoprotic lactic)
+- Adds body and mouthfeel
+- Produces diacetyl — responsible for "buttery" character
+  (especially in oaked Chardonnay)
+- Improves microbial stability
+
+MLF is standard for virtually all red wines. For whites, it is a stylistic
+choice: encouraged in Chardonnay (especially Burgundy, California),
+deliberately prevented in aromatic varieties (Riesling, Sauvignon Blanc)
+where freshness and primary fruit are desired.[fn:4][fn:5]
+
+** 1.5 Pressing [L2/L3]
+
+The point at which juice is separated from solid matter.
+
+- *White wines*: pressed before fermentation (whole-cluster pressing preferred
+  for delicate wines — Champagne, Alsace)
+- *Red wines*: pressed after fermentation. Free-run wine (vin de goutte) is
+  drained first, then the remaining must is pressed to produce press wine
+  (vin de presse), which is more tannic and deeply coloured
+
+Press types:
+- *Basket press*: traditional, gentle. Used in Champagne (Coquard)
+- *Pneumatic/bladder press*: inflatable bladder applies even, gentle pressure.
+  Now standard for quality wine
+- *Continuous screw press*: high volume, lower quality — extracts harsh tannins
+
+** 1.6 Aging Vessels [L2/L3/L4]
+
+*** Oak [L2/L3]
+
+Oak barrels contribute flavour, tannin, and controlled micro-oxygenation.
+
+**** French oak (Quercus robur, Q. petraea) [L3]
+
+- Tighter grain than American oak
+- Subtle flavours: baking spice, clove, cedar, hazelnut, light smoke
+- Major forests: Allier, Tronçais, Vosges, Nevers, Limousin
+- More expensive (€800–1200 per barrel)
+- Preferred for Pinot Noir, Chardonnay, Nebbiolo, Bordeaux blends[fn:6]
+
+**** American oak (Quercus alba) [L3]
+
+- Wider grain, more porous
+- Bolder flavours: vanilla, coconut, dill, sweet spice
+- 2–4× more lactones than French oak
+- Less expensive (€300–500 per barrel)
+- Sawn rather than split — more efficient yield
+- Classic for Rioja, some Australian Shiraz, Bourbon-barrel Zinfandel[fn:6]
+
+**** New vs old oak [L2/L3]
+
+- New oak: maximum flavour extraction. 100% new oak is a strong statement
+  (First Growth Bordeaux, premium Napa Cabernet)
+- 1-year-old (second-fill): softer oak influence, textural benefit
+- 2–3 years: largely "neutral" — provides micro-oxygenation without
+  significant flavour contribution
+- After 4–5 uses: fully neutral; no flavour transfer remaining[fn:6]
+
+**** Oak alternatives [L3]
+
+- Oak chips, staves, spirals, powder — inserted into stainless steel tanks
+- Much cheaper; can replicate some flavour effects
+- Cannot replicate micro-oxygenation of a barrel
+- Prohibited in some appellations (e.g., classified Bordeaux)
+
+*** Stainless steel [L2]
+
+- Inert: no flavour contribution
+- Excellent temperature control
+- Preserves primary fruit character and freshness
+- Standard for aromatic whites (Sauvignon Blanc, Riesling, Albariño)
+
+*** Concrete [L3/L4]
+
+- Traditional in Bordeaux (cuves); modern egg-shaped vessels (Nomblot, from
+  2001) create natural lees convection
+- Semi-porous: some oxygen exchange, but neutral flavour
+- Excellent thermal mass — stable fermentation temperatures
+- Gaining popularity in quality-focused estates globally[fn:12]
+
+*** Amphora/clay [L3/L4]
+
+- Qvevri tradition (Georgia): 8,000 years of use
+- Modern amphorae used by Italian, Spanish, and New World producers
+- Porous: allows oxygen exchange similar to oak, but neutral flavour
+- Adds textural complexity without oak character
+- See [[#orange-wine][Orange Wine]] for extended treatment[fn:12]
+
+** 1.7 Fining and Filtration [L3]
+
+*** Fining [L3]
+
+Fining agents bond with unwanted particles (proteins, tannins, colour
+molecules) and precipitate them out of solution.
+
+Common fining agents:[fn:7]
+| Agent          | Target               | Source        | Vegan? |
+|----------------+----------------------+---------------+--------|
+| Bentonite      | Proteins (whites)    | Clay mineral  | Yes    |
+| Egg white      | Harsh tannins (reds) | Animal        | No     |
+| Isinglass      | Haze (whites)        | Fish bladder  | No     |
+| Casein         | Colour, oxidation    | Milk protein  | No     |
+| Gelatine       | Tannins, colour      | Animal        | No     |
+| PVPP           | Browning phenolics   | Synthetic     | Yes    |
+| Pea protein    | Tannins              | Plant         | Yes    |
+| Activated carbon| Off-colours, taints | Mineral       | Yes    |
+
+Vegan wines use bentonite, pea protein, activated carbon, or silica gel
+instead of animal-derived agents.[fn:7]
+
+*** Filtration [L3]
+
+- *Pad/sheet filtration*: wine passes through cellulose pads
+- *Membrane filtration*: precise pore size (0.45 μm for sterile filtration)
+- *Cross-flow filtration*: continuous; wine flows across membrane surface
+- *Unfiltered wines*: some producers eschew filtration to preserve body
+  and mouthfeel, accepting slight haze risk
+
+** 1.8 Red vs White vs Rosé: Key Differences [L1/L2]
+
+| Step              | White                     | Red                        | Rosé                          |
+|-------------------+---------------------------+----------------------------+-------------------------------|
+| Skin contact      | Minimal (press before     | Extended (ferment on       | Limited (2–24 hrs) or         |
+|                   | fermentation)             | skins)                     | saignée (bleeding off juice)  |
+| Fermentation temp | 12–22°C                   | 20–32°C                    | 12–22°C (like white)          |
+| MLF               | Optional (style choice)   | Standard                   | Rarely                        |
+| Oak aging         | Optional                  | Common                     | Rare                          |
+| Colour source     | N/A                       | Anthocyanins from skins    | Brief skin contact            |
+
+Rosé methods:
+- *Direct press*: black grapes pressed immediately — very pale colour
+  (Provence style)
+- *Saignée*: juice "bled off" red fermentation after short maceration —
+  by-product that also concentrates the remaining red wine
+- *Blending*: red + white wine mixed (only permitted in Champagne rosé
+  within the EU)[fn:1][fn:2]
+
+** 1.9 Bottling [L2]
+
+- Sterile bottling: wine passes through membrane filter (0.45 μm)
+  immediately before filling
+- Inert gas (N₂, CO₂) used to purge bottles and headspace
+- SO₂ adjusted to target free SO₂ level for protection
+- Bottling date increasingly declared on labels
+
+* 2 Sparkling Wine [L2/L3/L4]
+:PROPERTIES:
+:CUSTOM_ID: sparkling-wine
+:END:
+
+All sparkling wine methods require CO₂ dissolved in wine at pressure
+(typically 5–6 atmospheres in fully sparkling; 1–2.5 in frizzante/pétillant).
+
+** 2.1 Traditional Method (Méthode Traditionnelle) [L2/L3]
+
+The defining characteristic: second fermentation occurs *in the bottle* from
+which the wine will be served.[fn:8][fn:9]
+
+Steps:
+1. *Base wine*: still wine produced (often blended — assemblage)
+2. *Tirage*: base wine + liqueur de tirage (yeast + sugar + adjuvant)
+   bottled under crown cap
+3. *Second fermentation*: ~1.2 atm CO₂ generated per 4 g/L sugar added;
+   typically 24 g/L added → ~6 atm
+4. *Lees aging (autolysis)*: dead yeast cells break down, releasing
+   mannoproteins — gives biscuit, brioche, toasty complexity. Minimum
+   aging on lees varies by appellation:
+   - Champagne NV: 15 months (12 on lees)
+   - Champagne vintage: 36 months
+   - Cava: 9 months (Reserva 18, Gran Reserva 30)
+   - Crémant: 9 months
+   - Franciacorta: 18 months (Riserva 60)
+5. *Riddling (remuage)*: bottles gradually tilted neck-down to collect
+   lees in the neck. Traditionally by hand (pupitres), now mostly
+   by gyropalette (automated)
+6. *Disgorgement (dégorgement)*: neck frozen, crown cap removed, lees
+   plug ejected by internal pressure
+7. *Dosage*: liqueur d'expédition (wine + sugar) added to adjust sweetness:
+   - Brut Nature / Zero Dosage: 0–3 g/L
+   - Extra Brut: 0–6 g/L
+   - Brut: 0–12 g/L
+   - Extra Dry: 12–17 g/L
+   - Sec/Dry: 17–32 g/L
+   - Demi-Sec: 32–50 g/L
+   - Doux: >50 g/L
+8. *Cork and cage (muselet)*: final closure
+
+*** Key traditional-method wines [L2/L3]
+
+| Wine           | Region/Country    | Key grapes                          |
+|----------------+-------------------+-------------------------------------|
+| Champagne      | Champagne, France | Chardonnay, Pinot Noir, Pinot Meunier |
+| Crémant        | Various (Alsace,  | Varies by region                    |
+|                | Loire, Burgundy…) |                                     |
+| Cava           | Spain (Penedès)   | Macabeo, Xarel·lo, Parellada        |
+| Franciacorta   | Lombardy, Italy   | Chardonnay, Pinot Noir              |
+| Cap Classique  | South Africa      | Chardonnay, Pinot Noir              |
+| English sparkling | England        | Chardonnay, Pinot Noir, Pinot Meunier |
+
+** 2.2 Charmat / Tank Method [L2/L3]
+
+Second fermentation occurs in a pressurised stainless steel tank (autoclave),
+not in the bottle.[fn:8][fn:9]
+
+- Patented by Federico Martinotti (1895), improved by Eugène Charmat (1907)
+- Shorter lees contact: preserves primary fruit and floral aromatics
+- Faster and cheaper than traditional method
+- Ideal for aromatic varieties: Muscat, Glera (Prosecco)
+- Prosecco: the definitive Charmat-method wine. Glera grapes,
+  Veneto/Friuli. Frizzante (spumante at higher pressure)
+- German Sekt: most produced by Charmat; Winzersekt may use traditional
+  method
+
+** 2.3 Transfer Method [L3]
+
+Hybrid approach:[fn:8]
+1. Second fermentation in bottle (as traditional method)
+2. Bottles emptied into pressurised tank
+3. Wine filtered, dosage added
+4. Re-bottled under pressure
+
+- Benefits: autolytic complexity without individual riddling/disgorgement
+- Used for odd-sized bottles (half-bottles, magnums) and some
+  Australian sparkling wines
+
+** 2.4 Ancestral Method (Méthode Ancestrale / Pét-Nat) [L3/L4]
+
+The oldest sparkling winemaking method:[fn:8][fn:9]
+
+- Wine bottled *before primary fermentation is complete*
+- Residual sugar ferments in bottle → natural CO₂
+- No second fermentation, no dosage, no disgorgement (usually)
+- Often cloudy, with residual lees
+- Lower pressure than traditional method (2–4 atm)
+- Modern pét-nat revival: natural wine movement; often sealed with
+  crown cap; intentionally rustic
+- Historical: Blanquette de Limoux (claimed as first sparkling wine, pre-Champagne)
+
+** 2.5 Carbonation [L2]
+
+- CO₂ injected into still wine under pressure (like soft drinks)
+- Large, aggressive bubbles; poor mousse persistence
+- Lowest quality method; only for cheapest sparkling wines
+- Easily identified by coarse bead and rapid dissipation
+
+* 3 Fortified Wine [L2/L3/L4]
+:PROPERTIES:
+:CUSTOM_ID: fortified-wine
+:END:
+
+Fortified wines have a distilled grape spirit (typically 77% ABV neutral
+brandy) added during or after fermentation to raise the final alcohol to
+15–22% ABV.[fn:10]
+
+The timing of fortification is the key stylistic lever:
+- *During fermentation* → residual sugar retained → sweet wine (Port, sweet Madeira)
+- *After fermentation* → dry base wine → dry wine (Fino Sherry, Sercial Madeira)
+
+** 3.1 Port [L2/L3]
+
+Produced in the Douro Valley, Portugal. Grapes (Touriga Nacional, Touriga
+Franca, Tinta Roriz, Tinta Barroca, Tinto Cão) are fermented for 2–3 days,
+then fortified with aguardente (77% ABV grape spirit) at ~6–9% ABV to arrest
+fermentation, leaving ~70–100 g/L residual sugar.[fn:10][fn:11]
+
+*** Port styles [L2/L3/L4]
+
+| Style              | Aging regime           | Character                           |
+|--------------------+------------------------+-------------------------------------|
+| Ruby               | Tank (concrete/steel)  | Fresh, fruity, deep red             |
+| Reserve Ruby        | 3–6 yrs wood          | More complex ruby                   |
+| Late Bottled Vintage| Single vintage,       | Ready-to-drink vintage character.   |
+| (LBV)              | 4–6 yrs wood          | Filtered or unfiltered              |
+| Vintage Port        | Single exceptional    | Bottled after 2–3 yrs; requires     |
+|                    | vintage, declared      | 10–40 yrs bottle aging. Unfiltered  |
+| Crusted            | Multi-vintage blend    | Unfiltered; throws sediment         |
+| Tawny              | Extended wood aging    | Oxidative: amber, nutty, caramel    |
+| Tawny (10/20/30/40)| Indicated age blend   | Increasing complexity and cost      |
+| Colheita           | Single vintage tawny,  | Min 7 yrs wood. Oxidative           |
+|                    | dated                  |                                     |
+| White               | White grapes           | Dry to sweet; aperitif style        |
+
+Key distinction: Ruby-style ports preserve fruit through reductive aging
+(tank/bottle); Tawny-style ports develop oxidative character through
+extended barrel aging.[fn:11]
+
+** 3.2 Sherry [L3/L4]
+
+Produced from Palomino Fino grapes in the "Sherry Triangle" (Jerez de la
+Frontera, El Puerto de Santa María, Sanlúcar de Barrameda), Andalucía,
+Spain.[fn:13]
+
+*** The two aging regimes [L3]
+
+**** Biological aging (under flor)
+
+- Wine fortified to ~15–15.5% ABV after fermentation (dry base wine)
+- /Flor/: a film of Saccharomyces yeast that forms on the wine surface
+  inside partially-filled barrels (butts)
+- Flor protects wine from oxidation, consumes glycerol, produces
+  acetaldehyde → distinctive tangy, yeasty, almond character
+- Requires humid conditions and specific temperature range (15–20°C)
+
+**** Oxidative aging (without flor)
+
+- Wine fortified to 17–18% ABV → flor cannot survive at this alcohol level
+- Wine ages in contact with air through partially-filled barrels
+- Develops mahogany colour, walnut, dried fruit, toffee character
+
+*** Sherry styles [L3/L4]
+
+| Style        | Aging            | ABV       | Character                          |
+|--------------+------------------+-----------+------------------------------------|
+| Fino         | Biological       | 15–15.5%  | Pale, dry, almond, yeasty          |
+| Manzanilla   | Biological       | 15–15.5%  | Like Fino but from Sanlúcar only;  |
+|              | (Sanlúcar)       |           | maritime influence, lighter, saline |
+| Amontillado  | Bio → Oxidative  | 16–22%    | Amber, hazelnut, complex. Starts   |
+|              |                  |           | under flor, then loses flor        |
+| Palo Cortado | Bio → Oxidative  | 17–22%    | Rare (~1–2%). Nose of Amontillado, |
+|              |                  |           | palate of Oloroso. Anomalous       |
+| Oloroso      | Oxidative only   | 17–22%    | Dark, rich, walnut, dried fruit    |
+| PX (Pedro    | Sun-dried grapes,| 15–22%    | Intensely sweet, raisined,         |
+| Ximénez)     | oxidative        |           | viscous, dark brown/black          |
+| Cream        | Oloroso +        | 15.5–22%  | Sweetened blend; commercial style  |
+|              | sweetening wine  |           |                                    |
+
+*** The solera system [L3]
+
+A fractional blending system that ensures consistency across vintages:[fn:10][fn:13]
+
+- Barrels (butts) arranged in tiers called /criaderas/ ("nurseries")
+- Bottom tier (/solera/): oldest wine, from which wine is drawn for
+  bottling (max 1/3 per year)
+- Each criadera is replenished from the tier above it
+- Top criadera receives the youngest wine (/sobretabla/ or /añada/)
+- Result: no vintage date; perpetual blend that maintains house style
+- A solera is never fully emptied — the average age of wine in the
+  solera increases over time
+
+** 3.3 Madeira [L3/L4]
+
+Produced on the island of Madeira, Portugal. Unique among wines for being
+deliberately heated and oxidised during aging.[fn:14]
+
+*** Heating methods [L3]
+
+| Method    | Description                                     | Quality   |
+|-----------+-------------------------------------------------+-----------|
+| Estufagem | Wine heated in steel tanks (estufas) to 45–50°C | Standard  |
+|           | for 3 months, then rested 90 days               |           |
+| Canteiro  | Wine aged in barrels on wooden beams (canteiros) | Premium   |
+|           | in naturally warm attics; slow, gentle heating   |           |
+|           | over years to decades                            |           |
+
+*** Madeira styles (driest to sweetest) [L3]
+
+| Style    | Grape       | Sweetness    | Character                       |
+|----------+-------------+--------------+---------------------------------|
+| Sercial  | Sercial     | Dry          | Crisp apple, almond, high acid  |
+| Verdelho | Verdelho    | Medium dry   | Smoke, spice, light caramel     |
+| Bual     | Bual        | Medium sweet | Coffee, salted caramel, dates   |
+| Malmsey  | Malvasia    | Sweet        | Dried fruit, toffee, very rich  |
+
+Madeira is virtually indestructible once opened due to its pre-oxidised
+nature — a bottle can remain drinkable for months or years after opening.
+
+** 3.4 Marsala [L3/L4]
+
+Produced in western Sicily from Grillo, Catarratto, and Inzolia (white) or
+Nero d'Avola and Perricone (red) grapes. Classified by:
+- *Colour*: Oro (gold), Ambra (amber), Rubino (ruby)
+- *Sweetness*: Secco (<40 g/L), Semisecco (40–100 g/L), Dolce (>100 g/L)
+- *Aging*: Fine (1 yr), Superiore (2 yrs), Superiore Riserva (4 yrs),
+  Vergine/Soleras (5 yrs), Vergine Riserva/Stravecchio (10 yrs)
+
+** 3.5 Vin Doux Naturel (VDN) [L3/L4]
+
+French fortified wines from southern France (primarily Roussillon and
+Rhône).[fn:15]
+
+- Fortified during fermentation at ~6% ABV with 96% grape spirit
+- Final ABV: 15–16% (lower than Port/Sherry)
+- Two grape families:
+  - *Muscat* (Muscat à Petits Grains): floral, grapey, fresh.
+    Muscat de Beaumes-de-Venise (Rhône), Muscat de Rivesaltes,
+    Muscat de Frontignan
+  - *Grenache*: dark fruit, oxidative potential.
+    Banyuls, Maury, Rivesaltes
+- Grenache-based VDN can be aged oxidatively (rancio style) for decades,
+  developing toffee, coffee, dried fruit — conceptually similar to Tawny Port
+
+* 4 Sweet Wine [L2/L3/L4]
+:PROPERTIES:
+:CUSTOM_ID: sweet-wine
+:END:
+
+Sweet wines retain residual sugar (RS) through one or more concentration
+mechanisms. The challenge: achieving extreme sugar concentration while
+preserving balancing acidity.[fn:16]
+
+** 4.1 Late Harvest (Vendange Tardive / Spätlese) [L2/L3]
+
+- Grapes left on vine beyond normal harvest to dehydrate and concentrate sugars
+- Risk of rot (grey rot, not noble rot), bird damage, weather loss
+- German Prädikat system (ascending ripeness):[fn:16]
+  - Spätlese ("late harvest"): 76–90 °Oechsle
+  - Auslese ("selected harvest"): 83–105 °Oechsle
+  - Beerenauslese (BA, "selected berries"): 110–128 °Oechsle (botrytis usual)
+  - Trockenbeerenauslese (TBA, "dried berries"): 150–154 °Oechsle (botrytis required)
+- Alsace: Vendange Tardive and Sélection de Grains Nobles (SGN)
+
+** 4.2 Botrytis / Noble Rot [L3/L4]
+
+/Botrytis cinerea/, when it infects ripe, thin-skinned grapes under specific
+conditions (morning mist followed by warm, dry afternoons), produces noble rot
+rather than destructive grey rot.[fn:16][fn:17]
+
+Effects on the grape:
+- Fungal hyphae penetrate skin → water evaporates → sugars, acids, glycerol
+  concentrate
+- Produces unique flavour compounds: sotolon (honey, curry), phenylacetaldehyde
+  (honey)
+- Berry shrivels to a raisined state ("botrytised")
+
+Key botrytis wines:
+| Wine                 | Region            | Grape(s)                    |
+|----------------------+-------------------+-----------------------------|
+| Sauternes/Barsac     | Bordeaux          | Sémillon, Sauvignon Blanc   |
+| Tokaji Aszú          | Tokaj, Hungary    | Furmint, Hárslevelű         |
+| Beerenauslese (BA)   | Germany/Austria   | Riesling and others         |
+| Trockenbeerenauslese | Germany/Austria   | Riesling and others         |
+| SGN Alsace           | Alsace            | Gewürztraminer, Riesling    |
+| Quarts de Chaume     | Loire             | Chenin Blanc                |
+| Bonnezeaux           | Loire             | Chenin Blanc                |
+
+*** Tokaji Aszú [L3/L4]
+
+- Botrytised berries (aszú) hand-selected and collected into hod baskets
+  (puttonyos — historically 3–6 puttonyos indicating sweetness)
+- Aszú berries mashed into a paste, soaked in base must or wine for 24–48 hrs
+- Since 2013: minimum 120 g/L RS (effectively the old 5 puttonyos)
+- Aged minimum 18 months in oak (often Zempléni oak) + 6 months in bottle
+- Tokaji Eszencia: free-run juice from aszú berries, 450–900 g/L sugar;
+  ferments for years to just 1–5% ABV[fn:17]
+
+** 4.3 Ice Wine / Eiswein [L3]
+
+- Grapes left on vine until winter freeze (typically -7°C to -13°C)
+- Pressed while frozen: water remains as ice crystals, concentrated juice
+  flows out
+- Very low yields, extreme risk (crop may be lost entirely)
+- Not botrytised (unlike BA/TBA)
+- Major producers: Canada (Niagara, Okanagan), Germany (Mosel, Rheingau),
+  Austria
+- Canadian icewine: must reach minimum 35° Brix at pressing
+- Typical grapes: Riesling, Vidal (Canada), Grüner Veltliner (Austria)[fn:16]
+
+** 4.4 Passito / Dried Grape Wines [L3/L4]
+
+Grapes dried after harvest to concentrate sugars — the /appassimento/ process.
+
+| Wine         | Region          | Grapes                | Method                     |
+|--------------+-----------------+-----------------------+----------------------------|
+| Recioto della| Veneto, Italy   | Corvina, Corvinone,   | Grapes dried on straw mats |
+| Valpolicella |                 | Rondinella             | (fruttai) for 3–4 months   |
+| Amarone della| Veneto, Italy   | Same as Recioto       | Same drying; fermented dry |
+| Valpolicella |                 |                        | (14–16% ABV naturally)     |
+| Vin Santo    | Tuscany, Italy  | Trebbiano, Malvasia   | Dried in warm attics       |
+|              |                 |                        | (vinsantaia); aged in small|
+|              |                 |                        | barrels (caratelli)        |
+| Commandaria  | Cyprus          | Xynisteri, Mavro      | Sun-dried on mats          |
+| Strohwein    | Austria         | Various               | Dried on straw/reed mats   |
+
+Note: Amarone is technically a dry wine despite its dried-grape origins —
+all sugar is fermented out.
+
+* 5 Orange / Skin-Contact Wine [L3/L4]
+:PROPERTIES:
+:CUSTOM_ID: orange-wine
+:END:
+
+** 5.1 Definition [L3]
+
+Orange wine is white wine made like a red wine — white grapes fermented in
+extended contact with their skins, seeds, and sometimes stems. The skin
+contact extracts phenolics (tannins, anthoxanthins) that give the wine its
+amber/orange colour, tannic structure, and textural grip.[fn:18]
+
+Not to be confused with wine made from oranges or wine flavoured with orange.
+
+** 5.2 History: Georgia and the Qvevri [L3/L4]
+
+- Georgia: 8,000 years of continuous winemaking tradition — the oldest
+  known wine-producing region on Earth
+- Archaeological evidence: grape pips and qvevri fragments from the 6th
+  millennium BCE in Kvemo Kartli[fn:18][fn:19]
+- UNESCO recognition: traditional Georgian qvevri winemaking inscribed on
+  the Intangible Cultural Heritage list (2013)
+- Qvevri: large, egg-shaped clay vessels (200–2,000 litres) lined with
+  beeswax, buried up to the neck in the ground
+- Traditional process:
+  1. Grapes crushed (often with stems — /chacha/)
+  2. Must and solids poured into qvevri
+  3. Natural fermentation (ambient yeast) — stirred daily
+  4. Maceration for weeks to months (amber/red wines)
+  5. Qvevri sealed with stone or wooden lid, topped with earth
+  6. Wine rests on skins and lees through winter
+  7. Racked to a second, clean qvevri for aging
+- Currently ~10% of Georgian wine production uses qvevri[fn:18][fn:19]
+
+** 5.3 Modern Renaissance [L3/L4]
+
+- 1990s: Josko Gravner (Friuli, Italy) visits Georgia, begins making
+  skin-contact wines in imported qvevri
+- Stanko Radikon (Friuli): parallel experiments with extended maceration
+  of white grapes in wooden vats
+- Term "orange wine" coined by British wine importer David A. Harvey (2004)
+- Now produced globally: Slovenia, Croatia, Austria, France, Spain,
+  Australia, California, South Africa
+- Associated with (but not exclusive to) the natural wine movement[fn:18]
+
+** 5.4 Production Method [L3]
+
+1. White grapes harvested (often by hand for quality)
+2. Crushed/destemmed (or whole-cluster)
+3. Must fermented *on skins* — maceration from days to months
+4. Vessel: qvevri, amphora, oak barrel, concrete, stainless steel
+5. Often spontaneous fermentation (indigenous yeast)
+6. Minimal intervention: little or no SO₂, no fining, no filtration
+7. Extended lees contact common
+8. Result: amber to deep orange colour, tannic structure, dried fruit
+   and nut character, oxidative notes, significant textural weight
+
+* 6 Post-Fermentation Processes [L2/L3/L4]
+:PROPERTIES:
+:CUSTOM_ID: post-fermentation
+:END:
+
+** 6.1 Lees Aging [L3]
+
+Lees are the sediment remaining after fermentation — primarily dead yeast
+cells (with some grape solids, tartrate crystals, bacteria).[fn:20]
+
+*** Gross lees vs fine lees [L3]
+
+- *Gross lees*: heavy sediment that settles within hours. Racked off
+  promptly to avoid off-flavours (H₂S, mercaptans)
+- *Fine lees*: lighter particles that remain suspended. Source of
+  beneficial autolytic compounds
+
+*** Sur lie aging [L3]
+
+Wine aged on its fine lees ("on the lees" = /sur lie/).
+
+Effects:[fn:20][fn:21]
+- Yeast autolysis releases mannoproteins and polysaccharides
+- Increased body, creaminess, and mouthfeel
+- Improved integration of oak and fruit
+- Enhanced complexity — bready, biscuity, yeasty notes
+- Natural antioxidant protection (lees consume dissolved oxygen)
+
+Key wines aged sur lie:
+- Muscadet Sur Lie (Loire): minimum until 1 March following vintage
+- White Burgundy (Chardonnay): typically 6–18 months in barrel
+- Champagne: on lees after second fermentation (see [[#sparkling-wine][Sparkling Wine]])
+
+*** Bâtonnage (lees stirring) [L3/L4]
+
+- Stainless steel rod ("bâton") inserted through barrel bung hole
+  to resuspend settled lees (~8–10 seconds per barrel)
+- Frequency varies: weekly during early aging, tapering to monthly
+- Enhances extraction of autolytic compounds
+- Increases wine richness and textural weight
+- Risk: excessive bâtonnage can produce overly heavy, reductive wines
+- Must be done carefully — if lees are unhealthy (bacterial
+  contamination), stirring amplifies faults[fn:20][fn:21]
+
+** 6.2 Sulphur Dioxide (SO₂) Management [L3/L4]
+
+Sulphur dioxide is the most important additive in winemaking — a
+preservative used since Roman times.[fn:23]
+
+*** Functions
+
+- *Antioxidant*: prevents oxidation by scavenging oxygen and inhibiting
+  oxidative enzymes (polyphenol oxidase, laccase)
+- *Antimicrobial*: inhibits spoilage bacteria (Acetobacter,
+  Lactobacillus) and wild yeasts (Brettanomyces) at appropriate levels
+- *Colour stabilisation*: binds with anthocyanins to protect red wine
+  colour
+
+*** Forms in Wine
+
+- *Free SO₂*: the active, protective fraction. Only molecular SO₂
+  (a pH-dependent equilibrium) is antimicrobially active. At wine pH
+  3.0--3.5, roughly 3--6% of free SO₂ exists in molecular form —
+  lower pH = more effective protection per unit of free SO₂.
+- *Bound SO₂*: fraction bound to carbonyl compounds (acetaldehyde,
+  sugars) — no longer protective.
+- *Total SO₂*: free + bound.
+
+*** When SO₂ Is Added
+
+| Stage                   | Purpose                                     |
+|-------------------------+---------------------------------------------|
+| At crush (must)         | Inhibit wild yeast, prevent oxidation        |
+| Post-fermentation       | Stabilise, prevent MLF if desired            |
+| During aging            | Top-up protection after racking              |
+| At bottling             | Final adjustment to target free SO₂          |
+
+*** Legal Limits (mg/L total SO₂)
+
+| Region/Style             | Max Total SO₂ |
+|--------------------------+---------------|
+| EU dry red (<5 g/L RS)   | 150           |
+| EU dry white (<5 g/L RS) | 200           |
+| EU sweet (>5 g/L RS)     | 200--400      |
+| US (conventional)        | 350           |
+| EU organic               | 100 (red), 150 (white) |
+| Natural wine (informal)  | Minimal or zero |
+
+*** The "No Added Sulphites" Debate
+
+- All fermentation produces some SO₂ naturally (10--30 mg/L)
+- "Contains sulphites" labelling required above 10 mg/L in EU, US
+- Natural wine movement advocates minimal or zero SO₂ addition
+- Risk without SO₂: premature oxidation, microbial instability,
+  volatile acidity — requires impeccable fruit quality and winemaking
+  hygiene
+- Some argue low-SO₂ wines show more terroir expression; others
+  argue they are simply less stable
+
+cite: [[https://winefolly.com/deep-dive/sulfites-in-wine/][Wine Folly: Sulfites in Wine]]
+cite: [[https://www.awri.com.au/industry_support/winemaking_resources/frequently_asked_questions/sulphur_dioxide/][AWRI: Sulphur Dioxide in Wine]]
+cite: [[https://en.wikipedia.org/wiki/Sulfites_in_wine][Wikipedia: Sulfites in Wine]]
+
+** 6.3 Blending [L2/L3]
+
+Blending occurs at multiple levels:[fn:1]
+
+- *Varietal blending*: combining different grape varieties
+  (Bordeaux: Cabernet Sauvignon + Merlot + Cabernet Franc…)
+- *Lot blending*: combining different vineyard parcels, press fractions,
+  or barrel selections of the same variety
+- *Vintage blending*: combining wines from different years
+  (standard in Champagne NV, Sherry solera, some Port)
+
+Purpose: achieve balance, complexity, consistency, and house style.
+
+** 6.4 Aging Potential [L3/L4]
+
+Factors that contribute to a wine's ability to age:
+
+| Factor          | Effect                                           |
+|-----------------+--------------------------------------------------|
+| Tannin          | Polymerises over time → softer mouthfeel          |
+| Acidity         | Preservative; maintains freshness                 |
+| Sugar           | Preservative (sweet wines age exceptionally well) |
+| Alcohol         | Preservative at higher levels (fortified wines)   |
+| Phenolics       | Undergo oxidative and reductive transformations    |
+| SO₂             | Antioxidant and antimicrobial protection           |
+| Bottle closure  | Controls oxygen ingress rate                      |
+| Storage conditions | Cool (10–15°C), dark, humid, vibration-free    |
+
+Most wines (>90%) are designed for consumption within 1–3 years of release.
+Fine wine aging (5–50+ years) requires specific structural components and
+appropriate storage.
+
+** 6.5 Closure Types [L3]
+
+| Closure         | Material        | O₂ transmission | TCA risk | Best for              |
+|-----------------+-----------------+-----------------+----------+-----------------------|
+| Natural cork    | Bark of Quercus | Low, variable   | ~3–5%    | Age-worthy wines      |
+|                 | suber           |                 |          |                       |
+| Agglomerated    | Ground cork +   | Moderate        | Lower    | Early-drinking wines  |
+| cork            | binder          |                 |          |                       |
+| Technical cork  | Cork disc +     | Low, consistent | Very low | Mid-range wines       |
+| (1+1, Diam)     | agglomerate     |                 |          |                       |
+| Screw cap       | Aluminium +     | Very low        | ~0%      | Aromatic whites,      |
+| (Stelvin)       | plastic liner   | (controllable)  |          | early-drinking reds   |
+| Synthetic cork  | Plastic polymer | Variable        | ~0%      | Entry-level wines     |
+| Glass stopper   | Glass           | None (hermetic) | ~0%      | Premium whites (rare) |
+| Crown cap       | Metal           | None            | ~0%      | Sparkling (tirage),   |
+|                 |                 |                 |          | pét-nat               |
+
+*** Cork taint (TCA) [L3]
+
+2,4,6-trichloroanisole (TCA): produced when chlorine compounds interact with
+fungi in cork. Imparts musty, wet-cardboard aromas at very low thresholds
+(~2 ng/L). Estimated to affect 3–5% of wines under natural cork (down from
+historical ~8–10% due to improved cork processing).[fn:22]
+
+*** The closure debate [L3/L4]
+
+- Natural cork advocates: micro-oxygenation essential for fine wine evolution;
+  tradition; sustainability (cork forests are carbon sinks)
+- Screw cap advocates: consistency, no TCA risk, preservation of fruit
+  freshness, proven 20+ year aging capability
+- The industry is trending toward segmentation: screw cap for everyday and
+  aromatic wines, cork for premium reds intended for long aging
+- Australia and New Zealand: >90% screw cap adoption
+- Burgundy: ~5% screw cap; strong cork tradition
+- The debate remains unresolved and regionally determined[fn:22]
+
+* Sources
+:PROPERTIES:
+:CUSTOM_ID: sources
+:END:
+
+[fn:1] Wine Spectator, "How Is Wine Made? Basic Winemaking Steps,"
+https://www.winespectator.com/articles/how-is-wine-made-basic-winemaking-steps-explainer
+
+[fn:2] Wikipedia, "Winemaking,"
+https://en.wikipedia.org/wiki/Winemaking
+
+[fn:3] Britannica, "Wine — The Wine-Making Process,"
+https://www.britannica.com/topic/wine/The-wine-making-process
+
+[fn:4] Wine Folly, "What Is Malolactic Fermentation? The Buttery Taste in Wine,"
+https://winefolly.com/deep-dive/what-is-malolactic-fermentation-the-buttery-taste-in-wine/
+
+[fn:5] Wikipedia, "Malolactic Fermentation,"
+https://en.wikipedia.org/wiki/Malolactic_fermentation
+
+[fn:6] Kendall-Jackson, "French Oak vs. American: How Barrels Affect Wine,"
+https://www.kj.com/blog-french-oak-versus-american-oak-how-do-barrels-affect-wines.html
+
+[fn:7] Australian Wine Research Institute, "Fining Agents,"
+https://www.awri.com.au/industry_support/winemaking_resources/frequently_asked_questions/fining_agents/
+
+[fn:8] Wikipedia, "Sparkling Wine Production,"
+https://en.wikipedia.org/wiki/Sparkling_wine_production
+
+[fn:9] Wine Folly, "How Sparkling Wine Is Made,"
+https://winefolly.com/deep-dive/how-sparkling-wine-is-made/
+
+[fn:10] Wikipedia, "Fortified Wine,"
+https://en.wikipedia.org/wiki/Fortified_wine
+
+[fn:11] Wikipedia, "Port Wine,"
+https://en.wikipedia.org/wiki/Port_wine
+
+[fn:12] Wine Folly, "Concrete Egg Fermenters: Classic or Cracked Fad?"
+https://winefolly.com/deep-dive/concrete-egg-fermenters-classic-or-cracked-fad/
+
+[fn:13] SherryNotes, "Sherry Types: Dry and Sweet Styles,"
+https://www.sherrynotes.com/sherry-wine-types/
+
+[fn:14] Wine Folly, "What Is Madeira Wine? The Rare Island Wine,"
+https://winefolly.com/deep-dive/what-is-madeira-wine/
+
+[fn:15] Every Glass Matters, "Vin Doux Naturels,"
+https://www.everyglassmatters.com/fortified/vdn
+
+[fn:16] Wine Enthusiast, "Everything You Need to Know About Late-Harvest Wine,"
+https://www.wineenthusiast.com/basics/drinks-terms-defined/late-harvest-wine/
+
+[fn:17] Taste Hungary, "Tokaji Aszú: The Story of the World's Oldest Sweet Wine,"
+https://tastehungary.com/journal/tokaji-aszu-the-story-of-the-worlds-oldest-sweet-wine/
+
+[fn:18] Decanter, "From Qvevri to Glass: The Fascinating Journey of Georgian Orange Wine,"
+https://www.decanter.com/wine/from-qvevri-to-glass-the-fascinating-journey-of-georgian-orange-wine-570301/
+
+[fn:19] Nova Vino, "Orange Wine: The Ancient Art of Amber Winemaking,"
+https://novavino.com.au/blogs/news/orange-amber-wine-history-process-georgian-tradition
+
+[fn:20] Frank Family Vineyards, "Sur Lie Aging and Batonnage Explained,"
+https://www.frankfamilyvineyards.com/blog/sur-lie-aging-and-batonnage-explained/
+
+[fn:21] WineMakerMag, "Sur Lie Aging & Batonnage,"
+https://winemakermag.com/article/sur-lie-battonage
+
+[fn:22] Wine Enthusiast, "The Pros & Cons of Different Wine Closures,"
+https://www.wineenthusiast.com/basics/wine-closures-pros-cons/
+
+[fn:23] Wine Folly, "Sulfites in Wine,"
+https://winefolly.com/deep-dive/sulfites-in-wine/
+See also: AWRI, "Sulphur Dioxide in Wine,"
+https://www.awri.com.au/industry_support/winemaking_resources/frequently_asked_questions/sulphur_dioxide/
+Wikipedia, "Sulfites in Wine,"
+https://en.wikipedia.org/wiki/Sulfites_in_wine

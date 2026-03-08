@@ -1,0 +1,999 @@
+#+TITLE: WSET Survey -- Part C: Wine Regions of the World
+#+AUTHOR: mu2tau + mayadev
+#+DATE: 2026-03-08
+#+PROPERTY: header-args :eval no
+#+STARTUP: overview
+
+* Preamble
+:PROPERTIES:
+:CUSTOM_ID: preamble
+:END:
+
+A structured survey of the world's principal wine regions, organised for
+WSET Levels 1--4 study. Each section covers: classification system, key
+appellations, principal grape varieties, climate, soil, notable producers,
+and style of wines. WSET level tags indicate depth of coverage expected:
+
+- *L1* -- awareness level (region exists, flagship grape)
+- *L2* -- intermediate (key sub-regions, principal varieties, basic style)
+- *L3* -- advanced (terroir, classification detail, producer knowledge)
+- *L4* -- diploma (micro-climate, soil geology, winemaking philosophy, market position)
+
+Sources are cited inline as footnote-style references and collected at the end.
+
+* France                                                             :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: france
+:END:
+
+** Classification System -- AOC/AOP
+
+France's quality wine system rests on the /Appellation d'Origine Controlee/
+(AOC), aligned since 2008 with the EU's /Appellation d'Origine Protegee/
+(AOP). The hierarchy ascends through three tiers [fn:winefolly-aoc] [fn:cellartours-fr]:
+
+| Level | Description | Example |
+|-------+------------------------------------------+-------------------------|
+| Vin de France | Table wine, no geographic restriction | Vin de France |
+| IGP | Regional indication (prev. Vin de Pays) | Pays d'Oc |
+| AOP/AOC | Controlled origin -- grape, yield, method | Pauillac, Chablis |
+
+As of 2025 there are 363 AOCs and 75 wine IGPs in France [fn:winefolly-aoc].
+
+** Bordeaux                                                        :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: bordeaux
+:END:
+
+*** Left Bank vs Right Bank
+
+The Gironde estuary and its tributaries (Garonne, Dordogne) divide Bordeaux
+into two fundamentally different terroirs [fn:decanter-bordeaux] [fn:winespectator-1855]:
+
+| Attribute | Left Bank | Right Bank |
+|-------------------+------------------------------+------------------------------|
+| Dominant grape | Cabernet Sauvignon | Merlot |
+| Key communes | Pauillac, Margaux, St-Julien | Saint-Emilion, Pomerol |
+| Soil | Alluvial gravel over limestone | Clay, limestone |
+| Wine style | Structured, tannic, long-lived | Softer, rounder, earlier drinking |
+| Classification | 1855 Classification | Saint-Emilion (1955, revised) |
+
+*** The 1855 Classification
+
+Commissioned by Napoleon III for the Exposition Universelle de Paris.
+Brokers ranked chateaux by reputation and trading price into five /crus/
+(growths). All five First Growths are Left Bank [fn:winespectator-1855]:
+
+1. Chateau Lafite Rothschild (Pauillac)
+2. Chateau Latour (Pauillac)
+3. Chateau Margaux (Margaux)
+4. Chateau Haut-Brion (Pessac-Leognan/Graves)
+5. Chateau Mouton Rothschild (Pauillac) -- promoted from 2nd Growth in 1973
+
+The Left Bank also uses the /Cru Bourgeois/ system (Medoc). The Right Bank's
+Saint-Emilion classification (1955, periodically revised) and Pomerol (no
+official classification) operate independently.
+
+*** Climate and Soil
+
+Maritime climate moderated by the Atlantic and Gironde estuary. Left Bank
+gravels capture and radiate heat, favouring late-ripening Cabernet Sauvignon.
+Right Bank clays retain moisture, suiting earlier-ripening Merlot
+[fn:decanter-bordeaux].
+
+*** Notable Producers
+
+Petrus, Le Pin (Pomerol); Cheval Blanc, Ausone (Saint-Emilion); Lafite,
+Latour, Margaux, Haut-Brion, Mouton (Medoc/Graves); Lynch-Bages, Pichon-Baron.
+
+** Burgundy (Bourgogne)                                           :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: burgundy
+:END:
+
+*** Terroir-Based Classification
+
+Unlike Bordeaux (estate-based), Burgundy classifies by vineyard site
+(/climat/). The hierarchy [fn:winefolly-burgundy] [fn:sommtv-burgundy]:
+
+| Level | Count | Character |
+|-------------------+-------+---------------------------------------------|
+| Regional | 7 | Bourgogne Rouge/Blanc |
+| Village | 44 | e.g. Gevrey-Chambertin, Meursault |
+| Premier Cru | 640 | Named vineyard plots on village label |
+| Grand Cru | 33 | Own appellation (e.g. Romanee-Conti, Corton) |
+
+*** Cote d'Or
+
+Two sub-regions: *Cote de Nuits* (24 of 25 red Grand Crus -- Pinot Noir) and
+*Cote de Beaune* (white Grand Crus -- Chardonnay; exception: Corton).
+Best vineyards occupy mid-slope positions with optimal drainage and sun
+exposure. Soils are marly limestone [fn:winefolly-burgundy].
+
+*** Chablis
+
+Northernmost Burgundy, cooler climate similar to Champagne. *Kimmeridgian
+limestone* -- chalky, fossil-rich -- gives trademark minerality. 100%
+Chardonnay. Grand Cru Chablis (7 vineyards) and Premier Cru sites produce
+age-worthy, steely whites [fn:winesearcher-chablis].
+
+*** Grape Varieties
+
+- *Pinot Noir*: ~60% of Cote d'Or production (red)
+- *Chardonnay*: Chablis, Cote de Beaune, Maconnais (white)
+- Minor: Gamay (Beaujolais), Aligote
+
+*** Notable Producers
+
+Domaine de la Romanee-Conti, Domaine Leroy, Domaine Leflaive, Coche-Dury,
+Raveneau (Chablis), Comtes Lafon, Roulot.
+
+** Champagne                                                      :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: champagne
+:END:
+
+*** Region and Climate
+
+Northernmost major French wine region (~90 miles east of Paris). Cool
+continental climate at the limit of vine viability. Chalky /Kimmeridgian/
+and /Belemnite/ soils provide drainage, heat retention, and mineral character
+[fn:champagne-wiki] [fn:winesociety-champagne].
+
+*** Five Districts
+
+| District | Dominant Grape | Character |
+|--------------------+----------------+------------------------------|
+| Montagne de Reims | Pinot Noir | Structure, power |
+| Vallee de la Marne | Pinot Meunier | Fruity, approachable |
+| Cote des Blancs | Chardonnay | Finesse, elegance |
+| Cote de Sezanne | Chardonnay | Riper, broader style |
+| Aube (Bar-sur-Aube) | Pinot Noir | Fuller, earthier |
+
+*** Method and Style
+
+/Methode traditionnelle/: primary fermentation, blending (/assemblage/),
+secondary fermentation in bottle, ageing on lees (minimum 15 months NV,
+36 months vintage), riddling, disgorgement, dosage.
+
+Non-vintage (NV) blends assembled from multiple vineyards and vintages.
+Vintage Champagne in exceptional years. Blanc de Blancs (100% Chardonnay),
+Blanc de Noirs (Pinot Noir/Meunier), Rose (blending or saignee).
+
+*** Growers vs Houses
+
+~5,000 growers make their own wine; ~14,000 sell grapes to houses. Major
+houses: Moet et Chandon, Veuve Clicquot, Krug, Bollinger, Pol Roger, Louis
+Roederer, Taittinger, Gosset (oldest, founded 1584), Ruinart (1729).
+Notable grower-producers (/recoltant-manipulant/): Egly-Ouriet, Pierre
+Peters, Jacques Selosse [fn:champagne-wiki] [fn:winesociety-champagne].
+
+** Rhone Valley                                                    :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: rhone
+:END:
+
+*** Northern Rhone                                                       :L3:
+
+Continental climate, granite slopes. Syrah as sole red grape. Only ~5% of
+Rhone production but the most prestigious appellations [fn:rhone-wiki]:
+
+| Appellation | Style |
+|------------------+-----------------------------------------------|
+| Cote-Rotie | Elegant Syrah, up to 20% Viognier co-ferment |
+| Hermitage | Powerful, tannic, long-lived Syrah |
+| Cornas | Dense, dark, 100% Syrah |
+| Saint-Joseph | Medium-bodied Syrah |
+| Condrieu | Aromatic Viognier (white) |
+| Chateau-Grillet | Single-estate Viognier |
+
+Notable producers: E. Guigal, Jean-Louis Chave, Chapoutier, Paul Jaboulet Aine.
+
+*** Southern Rhone                                                       :L2:
+
+Mediterranean climate, rocky/sandy/alluvial soils. Blending culture --
+Grenache, Syrah, Mourvedre (GSM) plus Cinsault and others [fn:rhone-wiki]:
+
+| Appellation | Notes |
+|------------------------+----------------------------------------------|
+| Chateauneuf-du-Pape | Up to 13 permitted varieties; Grenache ~72% |
+| Gigondas | Grenache-dominant, structured |
+| Vacqueyras | Similar to Gigondas, value |
+| Cotes du Rhone | Regional; vast volume, reliable quality |
+| Tavel | Rose only (Grenache, Cinsault) |
+
+Notable: Chateau Rayas, Beaucastel, Vieux Telegraphe, Clos des Papes.
+
+** Loire Valley                                                    :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: loire
+:END:
+
+France's longest river; diverse climate from maritime (west) to continental
+(east). Three principal grapes dominate by sub-region [fn:loire-wiki]:
+
+| Sub-region | Key AOC | Grape | Style |
+|------------------+-----------------------+-----------------------+---------------------------------|
+| Pays Nantais | Muscadet | Melon de Bourgogne | Light, mineral, sur lie |
+| Anjou-Saumur | Savennieres, Bonnezeaux | Chenin Blanc | Dry to lusciously sweet |
+| Touraine | Vouvray, Chinon | Chenin Blanc / Cab Franc | Sparkling, still; elegant reds |
+| Central Vineyards | Sancerre, Pouilly-Fume | Sauvignon Blanc | Crisp, flinty, herbaceous |
+
+Notable producers: Domaine Huet (Vouvray), Didier Dagueneau (Pouilly-Fume),
+Nicolas Joly (Savennieres), Charles Joguet (Chinon).
+
+** Alsace                                                          :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: alsace
+:END:
+
+Sheltered by the Vosges mountains -- one of France's driest, sunniest
+regions. ~90% white wine. Varietal labelling (unusual for France)
+[fn:alsace-wiki] [fn:winesociety-alsace]:
+
+*** Noble Varieties (permitted in Grand Cru)
+
+- Riesling -- steely, mineral, age-worthy
+- Gewurztraminer -- aromatic, lychee, rose, often off-dry
+- Pinot Gris -- rich, honeyed
+- Muscat -- dry, grapey, aromatic
+
+*** Special Designations
+
+- *Grand Cru*: 51 named vineyard sites; noble varieties only
+- *Vendange Tardive* (VT): late-harvest, elevated sugar; semi-sweet to sweet
+- *Selection de Grains Nobles* (SGN): botrytis-affected berries; dessert wine
+- *Cremant d'Alsace*: traditional-method sparkling
+
+Notable producers: Trimbach, Hugel, Zind-Humbrecht, Weinbach, Marcel Deiss.
+
+** Languedoc-Roussillon                                            :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: languedoc
+:END:
+
+France's largest wine-producing region (>700,000 acres). Mediterranean
+climate. Historically bulk production, now undergoing quality revolution.
+Largest producer of IGP, organic, and rose wines in France [fn:languedoc-wiki].
+
+Key appellations: Corbieres, Minervois, Faugeres, Saint-Chinian, Fitou,
+Pic Saint-Loup, La Clape. Principal grapes: Grenache, Syrah, Mourvedre,
+Carignan, Cinsault (red); Picpoul, Marsanne, Roussanne, Grenache Blanc (white).
+
+Roussillon: Maury, Banyuls, Rivesaltes (/Vins Doux Naturels/ -- fortified sweet).
+
+** Provence                                                        :L1:L2:
+:PROPERTIES:
+:CUSTOM_ID: provence
+:END:
+
+World's leading source of premium dry rose (~88% of production). Mediterranean
+climate, mistral wind. Appellations: Cotes de Provence, Bandol (serious reds
+from Mourvedre), Cassis, Palette. Grapes: Grenache, Cinsault, Mourvedre,
+Syrah, Rolle (Vermentino).
+
+* Italy                                                              :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: italy
+:END:
+
+** Classification System -- DOCG/DOC/IGT
+
+Italy's quality pyramid mirrors but differs from France's
+[fn:masterclass-italy] [fn:decanter-italy]:
+
+| Level | Count | Description |
+|------+-------+-------------------------------------------------|
+| VdT | -- | Vino da Tavola (table wine, minimal regulation) |
+| IGT | 118 | Indicazione Geografica Tipica (regional, flexible) |
+| DOC | 329 | Denominazione di Origine Controllata |
+| DOCG | 77 | ...Controllata e Garantita (highest; govt tasting panel) |
+
+The IGT category (est. 1992) is significant: many prestigious wines
+(Super Tuscans) chose IGT for creative freedom outside DOC grape restrictions.
+
+** Piedmont                                                        :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: piedmont
+:END:
+
+Northwest Italy; 16 DOCGs (most of any region). Continental climate with
+autumn fog in the Langhe hills [fn:decanter-barolo]:
+
+*** Barolo DOCG
+
+- Grape: 100% Nebbiolo
+- Ageing: minimum 38 months (18 in oak); Riserva 62 months
+- Soil: calcareous marl (Tortonian in La Morra/Barolo; Helvetian in
+  Serralunga/Castiglione Falletto)
+- Style: powerful, tannic, complex; tar, roses, dried cherry, truffle
+- Notable: Giacomo Conterno, Bruno Giacosa, Bartolo Mascarello, G.D. Vajra,
+  Vietti, Aldo Conterno
+
+*** Barbaresco DOCG
+
+- Grape: 100% Nebbiolo
+- Ageing: minimum 26 months (9 in oak)
+- Style: more perfumed, softer tannins, earlier approachability than Barolo
+- Notable: Gaja, Produttori del Barbaresco, Bruno Giacosa, Roagna
+
+*** Other Piedmont DOCG
+
+Gavi (Cortese), Asti/Moscato d'Asti (Moscato Bianco), Barbera d'Asti,
+Roero (Nebbiolo/Arneis).
+
+** Tuscany                                                         :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: tuscany
+:END:
+
+*** Chianti Classico DOCG
+
+- Grape: minimum 80% Sangiovese (up to 100%)
+- Sub-zone between Florence and Siena; /Gran Selezione/ tier since 2014
+- Style: cherry, herbs, firm acidity, moderate tannin
+- Notable: Fontodi, Isole e Olena, Castello di Ama, Felsina
+
+*** Brunello di Montalcino DOCG
+
+- Grape: 100% Sangiovese Grosso (clone of Sangiovese)
+- Ageing: 5 years minimum (2 in oak); Riserva 6 years
+- Style: powerful, structured, long-lived; dried cherry, leather, earth
+- Notable: Biondi-Santi, Soldera, Il Poggione, Casanova di Neri
+
+*** Super Tuscans
+
+Born in the 1970s--80s when producers used Cabernet Sauvignon, Merlot, or
+non-traditional Sangiovese blends outside DOC rules -- classified as IGT
+(then VdT). Pioneering wines: Sassicaia (Bolgheri), Tignanello, Ornellaia,
+Solaia. Bolgheri DOC was later created partly to accommodate these wines.
+
+** Veneto                                                          :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: veneto
+:END:
+
+*** Valpolicella and Amarone
+
+- *Valpolicella DOC*: light, cherry-fruited red from Corvina, Corvinone,
+  Rondinella
+- *Amarone della Valpolicella DOCG*: dried-grape (/appassimento/) wine;
+  rich, powerful, 15--16% ABV; dried fruit, chocolate, spice
+- *Ripasso*: Valpolicella re-fermented on Amarone pomace; richer mid-weight
+- Notable: Allegrini, Dal Forno Romano, Giuseppe Quintarelli, Masi
+
+*** Prosecco
+
+- *Prosecco DOC*: large zone (Veneto + Friuli Venezia Giulia); Glera grape;
+  Charmat/tank method; fruity, floral, light
+- *Conegliano Valdobbiadene DOCG*: superior hill-grown Prosecco; /Rive/
+  single-vineyard and /Cartizze/ sub-zone
+
+** Sicily and Alto Adige                                           :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: sicily-altoadige
+:END:
+
+*** Sicily
+
+Mediterranean island; volcanic soils (Etna). Rising quality. Key grapes:
+Nero d'Avola, Nerello Mascalese (Etna Rosso), Carricante (Etna Bianco),
+Grillo, Catarratto. Etna DOC is the prestige appellation.
+
+*** Alto Adige (Sudtirol)
+
+Alpine, cool-climate region at Italy's northern border with Austria.
+Exceptional whites: Pinot Grigio, Gewurztraminer, Sauvignon Blanc.
+Reds: Schiava, Lagrein, Pinot Nero. German-speaking culture; dual labelling.
+
+* Spain                                                              :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: spain
+:END:
+
+** Classification System -- DO/DOCa
+
+Spain's /Denominacion de Origen/ (DO) system parallels France's AOC
+[fn:winescholarguild-spain] [fn:winetraveler-spain]:
+
+| Level | Description |
+|---------------------+-----------------------------------------------------|
+| Vino de Mesa | Table wine |
+| Vino de la Tierra | Regional wine (~IGP) |
+| DO | Denominacion de Origen (majority of quality wines) |
+| DOCa / DOQ | Denominacion de Origen Calificada (highest) |
+| Vino de Pago | Single-estate classification |
+
+Only two DOCa/DOQ exist: *Rioja* (1991) and *Priorat* (2003).
+
+** Rioja DOCa                                                      :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: rioja
+:END:
+
+Along the Ebro River, northeast Spain. Three sub-zones: Rioja Alta (higher,
+cooler, clay-limestone), Rioja Alavesa (similar, Basque side), Rioja Oriental
+(warmer, alluvial, Garnacha) [fn:rioja-wiki].
+
+*** Grapes
+Tempranillo (dominant), Garnacha, Graciano, Mazuelo (Carignan); whites:
+Viura (Macabeo), Malvasia, Garnacha Blanca.
+
+*** Ageing Classification
+
+| Category | Total ageing | Oak minimum |
+|---------------------+--------------+-------------|
+| Joven | <1 year | None/minimal |
+| Crianza | 2 years | 1 year oak |
+| Reserva | 3 years | 1 year oak |
+| Gran Reserva | 5 years | 2 years oak |
+
+Notable: Lopez de Heredia, La Rioja Alta, CVNE, Muga, Roda, Artadi,
+Marques de Murrieta.
+
+** Ribera del Duero DO                                             :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: ribera
+:END:
+
+High plateau (~800m), extreme continental climate (hot days, cold nights).
+Tinto Fino (Tempranillo) dominant. Powerful, concentrated, dark-fruited reds.
+Notable: Vega Sicilia (Unico), Pingus, Pesquera, Emilio Moro.
+
+** Priorat DOCa/DOQ                                                    :L3:
+:PROPERTIES:
+:CUSTOM_ID: priorat
+:END:
+
+Catalonia; steep terraced vineyards on /llicorella/ (slate/schist) soil.
+Very low yields produce intensely concentrated wines. Garnacha and Carinena
+(Carignan) dominant, often blended with Syrah and Cabernet Sauvignon.
+Notable: Alvaro Palacios (L'Ermita), Clos Mogador, Clos Erasmus
+[fn:priorat-classification].
+
+** Jerez (Sherry)                                                 :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: sherry
+:END:
+
+Andalusia, southwest Spain. /Marco de Jerez/ triangle: Jerez de la Frontera,
+El Puerto de Santa Maria, Sanlucar de Barrameda. Hot, dry climate; /albariza/
+(chalk) soils.
+
+*** Styles (via /Solera/ fractional blending system)
+
+| Style | Character |
+|-------------------+---------------------------------------------------|
+| Fino | Pale, dry, yeasty, aged under /flor/ |
+| Manzanilla | Fino from Sanlucar; lighter, saltier |
+| Amontillado | Begins as Fino, then oxidative ageing |
+| Oloroso | No flor; oxidative, rich, nutty, dry |
+| Palo Cortado | Rare; finesse of Amontillado + body of Oloroso |
+| Pedro Ximenez (PX) | Sweet, from sun-dried PX grapes |
+
+Grapes: Palomino (primary), Pedro Ximenez, Moscatel.
+Notable: Gonzalez Byass (Tio Pepe), Lustau, Valdespino, Equipo Navazos.
+
+** Rias Baixas DO                                                  :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: rias-baixas
+:END:
+
+Galicia, northwest Spain. Cool, rainy, maritime. Albarino grape: crisp,
+aromatic, stone-fruit, saline whites. Granite soils. Pergola (/parral/)
+trellising. Notable: Pazo de Senorans, Do Ferreiro, Zarate.
+
+** Cava                                                            :L1:L2:
+:PROPERTIES:
+:CUSTOM_ID: cava
+:END:
+
+Traditional-method sparkling wine, primarily from Penedes (Catalonia).
+Grapes: Macabeo, Parellada, Xarel-lo. New /Cava de Paraje Calificado/ tier
+for single-vineyard, long-aged wines. Notable: Gramona, Raventos i Blanc,
+Recaredo.
+
+* Portugal                                                           :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: portugal
+:END:
+
+** Classification System
+
+| Level | Description |
+|----------------------------+--------------------------------------|
+| Vinho | Table wine |
+| Vinho Regional (IGP) | Regional indication |
+| DOC | Denominacao de Origem Controlada |
+
+250+ indigenous grape varieties; strong tradition of field blends
+[fn:winefolly-portugal].
+
+** Douro and Port                                                  :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: douro-port
+:END:
+
+Steep terraced vineyards along the Douro River; schist soils; extreme
+continental climate. Table wines (Douro DOC) increasingly prestigious
+alongside fortified Port [fn:winefolly-portugal].
+
+*** Port Styles
+
+| Style | Character |
+|-------------------+-----------------------------------------------------|
+| Ruby | Young, fruity, blended |
+| Reserve/LBV | Richer, 4--6 years in cask |
+| Vintage/Vintage Port | Single vintage, bottle-aged |
+| Tawny (10/20/30/40yr) | Oxidative, nutty, caramel, blended ages |
+| Colheita | Single-vintage tawny, long cask ageing |
+| Vintage (Vintage) | Flagship; declared ~3 times/decade; bottle-aged 20yr+ |
+
+Key grapes: Touriga Nacional, Touriga Franca, Tinta Roriz (Tempranillo),
+Tinta Barroca, Tinto Cao.
+
+Notable: Taylor's, Fonseca, Graham's, Dow's, Niepoort, Quinta do Noval.
+
+** Dao DOC                                                              :L3:
+
+Granite soils, high altitude, continental climate ("Burgundy of the South").
+Touriga Nacional dominant; elegant, balanced reds with ageing potential.
+Notable: Alvaro Castro, Antonio Madeira.
+
+** Alentejo DOC                                                    :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: alentejo
+:END:
+
+Hot, flat, southern plains -- Portugal's "California." Modern, fruit-forward
+reds with generous oak. Aragonez (Tempranillo), Trincadeira, Alicante
+Bouschet. Notable: Herdade do Esporao, Cortes de Cima, Mouchao.
+
+** Vinho Verde DOC                                                 :L1:L2:
+
+Northwest; cool, maritime, granite soils. Light, crisp, often slightly
+spritzante whites. Alvarinho (Albarino) in Moncao e Melgaco sub-region
+produces the most serious expressions. Also Loureiro, Trajadura.
+
+** Madeira DOC                                                          :L3:
+
+Atlantic island; volcanic soils. Fortified wines aged via /estufagem/ (heating)
+or /canteiro/ (natural warmth). Four noble varieties define styles: Sercial
+(dry), Verdelho (medium-dry), Bual (medium-sweet), Malmsey/Malvasia (sweet).
+Virtually indestructible wines -- can age for centuries.
+Notable: Blandy's, Henriques & Henriques, Barbeito.
+
+* Germany                                                            :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: germany
+:END:
+
+** Classification Systems
+
+Germany operates two parallel quality frameworks [fn:vdp-classification] [fn:wset-riesling]:
+
+*** Official Pradikat System
+
+Based on grape ripeness at harvest (must weight in degrees Oechsle):
+
+| Pradikat | Oechsle | Character |
+|---------------------------+---------+-----------------------------------------|
+| Kabinett | 67--82 | Light, delicate, low alcohol |
+| Spatlese | 76--90 | Late harvest, riper, more body |
+| Auslese | 83--100 | Selected bunches, often botrytis-touched |
+| Beerenauslese (BA) | 110--128 | Botrytis, sweet, concentrated |
+| Trockenbeerenauslese (TBA) | 150--154 | Shrivelled botrytis berries, nectar-like |
+| Eiswein | 110--128 | Frozen grapes, intense acidity + sweetness |
+
+Wines may be dry (/trocken/), off-dry (/halbtrocken/feinherb/), or sweet.
+
+*** VDP Classification (Private, ~200 Members)
+
+Modelled on 19th-century Prussian vineyard tax maps; Burgundian hierarchy
+[fn:vdp-classification]:
+
+| VDP Level | Analogy |
+|-------------------+---------------------|
+| VDP.Gutswein | Regional |
+| VDP.Ortswein | Village |
+| VDP.Erste Lage | Premier Cru |
+| VDP.Grosse Lage | Grand Cru |
+
+/VDP.Grosse Lage/ dry wines labelled *Grosses Gewachs* (GG).
+
+** Mosel                                                           :L2:L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: mosel
+:END:
+
+Steep slate slopes along the Mosel, Saar, and Ruwer rivers. Cool climate;
+Riesling ~60% of plantings. Wines characterised by lightness (often 7--9%
+ABV), laser acidity, and slate minerality. Sweet and dry styles.
+Notable: Joh. Jos. Prum, Egon Muller, Markus Molitor, Willi Schaefer,
+Fritz Haag, Clemens Busch.
+
+** Rheingau                                                        :L2:L3:
+
+South-facing slopes along the Rhine; warmer than Mosel. Riesling dominant.
+Fuller body, riper fruit than Mosel. The /Charta/ association promoted dry
+Riesling styles from the 1980s. Schloss Johannisberg, Robert Weil, Kunstler,
+Leitz.
+
+** Pfalz (Palatinate)                                              :L2:L3:
+
+Germany's warmest major region; diverse soils (limestone, sandstone, basalt).
+Riesling plus substantial Pinot Noir (/Spatburgunder/) production.
+Notable: Muller-Catoir, Burklin-Wolf, Reichsrat von Buhl, Philipp Kuhn.
+
+* Austria                                                            :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: austria
+:END:
+
+** Wachau                                                          :L3:L4:
+:PROPERTIES:
+:CUSTOM_ID: wachau
+:END:
+
+35 km stretch of the Danube; steep terraced vineyards on gneiss and
+granite. Continental climate with Pannonian warmth from the east and
+Atlantic coolness from the west [fn:vineawachau] [fn:winesearcher-austria]:
+
+*** Vinea Wachau Classification (Independent of National Law)
+
+| Category | ABV | Style |
+|---------------+----------+----------------------------------------------|
+| Steinfeder | <= 11.5% | Lightest; named after feathery steppe grass |
+| Federspiel | 11.5--12.5% | Mid-weight; falconry reference |
+| Smaragd | >= 12.5% | Richest; named after emerald lizard |
+
+Primary grapes: Gruner Veltliner, Riesling.
+Notable: F.X. Pichler, Emmerich Knoll, Prager, Hirtzberger, Domane Wachau.
+
+** Kamptal                                                              :L3:
+
+Valley of the river Kamp, north of Krems. Loess and volcanic soils.
+Gruner Veltliner and Riesling. DAC system (Districtus Austriae Controllatus)
+ensures origin-based labelling. Notable: Brundlmayer, Schloss Gobelsburg,
+Jurtschitsch.
+
+** Burgenland                                                      :L2:L3:
+
+Hot Pannonian climate around Lake Neusiedl. Red wine focus: Blaufrankisch
+(Lemberger), Zweigelt, St. Laurent. Also renowned for Beerenauslese and
+Trockenbeerenauslese dessert wines, including the historic /Ruster Ausbruch/.
+Notable: Heinrich, Moric (Blaufrankisch specialist), Kracher (sweet wines).
+
+* New World                                                          :L1:L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: new-world
+:END:
+
+** United States                                                   :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: usa
+:END:
+
+*** Napa Valley, California                                        :L2:L3:
+
+Warm Mediterranean climate; diverse soils (volcanic, alluvial, clay).
+Cabernet Sauvignon is king (~50% of plantings). Sub-AVAs: Oakville,
+Rutherford, Stags Leap District, Howell Mountain, Mt. Veeder.
+Style: opulent, ripe, structured, often 14--15% ABV.
+Notable: Opus One, Screaming Eagle, Harlan Estate, Stag's Leap Wine Cellars,
+Ridge (Monte Bello), Robert Mondavi [fn:winefolly-newworld].
+
+*** Sonoma County, California                                      :L2:L3:
+
+Cooler and more diverse than Napa. Key sub-AVAs: Russian River Valley
+(Pinot Noir, Chardonnay), Dry Creek Valley (Zinfandel), Alexander Valley
+(Cabernet Sauvignon), Sonoma Coast (cool-climate Pinot Noir, Chardonnay).
+Notable: Williams Selyem, Kistler, Ridge, Littorai.
+
+*** Oregon -- Willamette Valley                                    :L2:L3:
+
+Cool maritime climate (Burgundy parallel). 70% Pinot Noir. Sub-AVAs:
+Dundee Hills, Eola-Amity Hills, Chehalem Mountains. Volcanic (Jory) and
+sedimentary soils [fn:oregon-wiki].
+Notable: Domaine Drouhin Oregon, Eyrie Vineyards, Bergstrom, Evening Land.
+
+*** Washington State -- Columbia Valley                            :L2:L3:
+
+Continental climate; 99% of WA wine. Rain shadow east of Cascades;
+irrigated vineyards on basalt and loess. Cabernet Sauvignon, Merlot,
+Syrah, Riesling. Sub-AVAs: Yakima Valley, Walla Walla, Red Mountain,
+Horse Heaven Hills.
+Notable: Quilceda Creek, Leonetti, L'Ecole No 41, Charles Smith.
+
+** Australia                                                       :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: australia
+:END:
+
+*** Barossa Valley, South Australia                                :L2:L3:
+
+Warm continental; deep alluvial soils. Australia's most celebrated region
+for Shiraz -- bold, powerful, ripe fruit, often from old vines (some 150+
+years). Also Grenache, Mourvedre, Cabernet Sauvignon, Riesling (Eden Valley).
+Notable: Penfolds (Grange), Henschke (Hill of Grace), Torbreck, John Duval.
+
+*** McLaren Vale, South Australia                                       :L3:
+
+Mediterranean maritime; sandy loam over limestone. Shiraz, Grenache,
+Cabernet Sauvignon. Fuller, darker wines than Barossa with coastal influence.
+Notable: d'Arenberg, Wirra Wirra, Clarendon Hills, Yangarra.
+
+*** Margaret River, Western Australia                              :L2:L3:
+
+Maritime (Indian Ocean influence); gravelly loam over granite/gneiss.
+Only 3% of Australian production but ~20% of premium wine. Bordeaux-style
+Cabernet/Merlot blends and Chardonnay excel.
+Notable: Leeuwin Estate, Cullen, Vasse Felix, Moss Wood.
+
+*** Hunter Valley, NSW                                                  :L3:
+
+Subtropical; humid. Famous for age-worthy Semillon (picked early, low
+alcohol, develops toast and honey with 10--20 years) and Shiraz.
+Notable: Tyrrell's, Brokenwood, Mount Pleasant.
+
+** New Zealand                                                     :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: nz
+:END:
+
+*** Marlborough                                                    :L1:L2:
+
+Cool maritime; stony, alluvial soils. World benchmark for Sauvignon Blanc --
+pungent, herbaceous, tropical, high acidity. Also Pinot Noir, Chardonnay.
+Notable: Cloudy Bay, Dog Point, Greywacke, Craggy Range.
+
+*** Central Otago                                                  :L2:L3:
+
+World's southernmost commercial wine region. Continental, semi-arid;
+schist soils. ~70% Pinot Noir -- intense colour, dark fruit, spice.
+Notable: Felton Road, Rippon, Mt Difficulty, Burn Cottage
+[fn:centralotago-wiki].
+
+** Chile                                                           :L1:L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: chile
+:END:
+
+Long, thin strip between Pacific and Andes. Mediterranean climate;
+phylloxera-free. Key regions [fn:winesofchile]:
+
+| Region | Climate | Signature |
+|--------------------+--------------------+-------------------------------------|
+| Maipo Valley | Warm, continental | Cabernet Sauvignon (Alto Maipo) |
+| Colchagua Valley | Warm | Carmenere, Cabernet, Syrah |
+| Casablanca Valley | Cool, coastal | Sauvignon Blanc, Chardonnay, Pinot |
+| Leyda Valley | Cool, coastal | Sauvignon Blanc, Pinot Noir |
+| Aconcagua | Warm to cool | Cabernet Sauvignon, Syrah |
+
+Carmenere is Chile's signature grape (originally from Bordeaux, thought
+extinct until rediscovered in Chilean vineyards in 1994).
+Notable: Concha y Toro (Don Melchor), Errazuriz, Montes, Almaviva, Clos
+Apalta (Lapostolle).
+
+** Argentina                                                       :L1:L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: argentina
+:END:
+
+*** Mendoza                                                        :L2:L3:
+
+75% of Argentine wine. High altitude (600--1,500m); semi-arid desert
+irrigated by Andean snowmelt. Alluvial soils. Extreme diurnal temperature
+variation preserves acidity [fn:winefolly-argentina]:
+
+- *Lujan de Cuyo*: traditional Malbec heartland
+- *Uco Valley*: newer, higher (900--1,200m); intense colour, fresh acidity,
+  mineral Malbec. Sub-regions: Tupungato, Tunuyan, San Carlos
+- *Maipu*: warmer, reliable Malbec and Bonarda
+
+Notable: Catena Zapata (Adrianna Vineyard), Achaval-Ferrer, Zuccardi,
+Terrazas de los Andes.
+
+*** Salta (Cafayate)                                                    :L3:
+
+Extreme altitude (up to 3,000m) -- among world's highest vineyards. Torrontes
+(aromatic white): floral, grapey, refreshing. Also Malbec at altitude.
+
+** South Africa                                                    :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: south-africa
+:END:
+
+Wine Regions concentrated in Western Cape. Classification uses
+/Wine of Origin/ (WO) system [fn:winefolly-sa]:
+
+*** Stellenbosch                                                   :L2:L3:
+
+Birthplace of Pinotage. Diverse soils (granite, sandstone, shale).
+Mediterranean climate. Cabernet Sauvignon, Bordeaux blends, Chenin Blanc.
+Notable: Kanonkop, Meerlust, Rustenberg, Thelema, Rust en Vrede.
+
+*** Swartland                                                           :L3:
+
+Revolution region -- old-vine, dry-farmed Chenin Blanc, Rhone-style reds
+(Syrah, Grenache, Mourvedre). Minimal intervention philosophy.
+Notable: Eben Sadie (Columella, Palladius), Mullineux, AA Badenhorst,
+Porseleinberg.
+
+*** Walker Bay                                                          :L3:
+
+Cool maritime (Hemel-en-Aarde Valley). Cool-climate Pinot Noir and
+Chardonnay. South Africa's answer to Burgundy.
+Notable: Hamilton Russell, Bouchard Finlayson, Crystallum, Storm.
+
+*** Pinotage
+
+South Africa's unique cross of Pinot Noir x Cinsault (created 1925).
+Ranges from smoky/earthy to plummy/chocolatey. Best examples from
+Stellenbosch and Swartland.
+
+* Emerging Regions                                                   :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: emerging
+:END:
+
+** Greece                                                          :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: greece
+:END:
+
+3,000+ years of winemaking; renaissance underway with modern techniques
+applied to indigenous varieties [fn:winefolly-greece]:
+
+| Region | Grape | Style |
+|-------------------+------------------+-------------------------------------------|
+| Santorini | Assyrtiko | Volcanic, high acidity, mineral, saline |
+| Naoussa | Xinomavro | Structured, tannic ("black acid"); ages well |
+| Nemea | Agiorgitiko | Medium-bodied, soft, dark-fruited |
+| Mantinia | Moschofilero | Aromatic, pale pink, floral |
+
+Santorini vines trained in /kouloura/ (basket) to protect from wind.
+Notable: Domaine Sigalas, Gaia Wines, Kir-Yianni, Alpha Estate.
+
+** Georgia                                                         :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: georgia
+:END:
+
+Oldest continuous wine culture (~8,000 years). UNESCO-protected /qvevri/
+tradition (clay vessels buried in ground for fermentation and ageing)
+[fn:wset-georgia]:
+
+- *Kakheti*: largest region (~70% of production); qvevri heartland
+- *Saperavi*: principal red grape -- deep-coloured, tannic, winter-hardy
+- *Rkatsiteli*: principal white -- most ancient; versatile (dry to sweet)
+- *Amber/Orange wine*: white grapes fermented on skins in qvevri for weeks
+  to months; tannin structure, oxidative complexity, amber colour
+
+Notable: Pheasant's Tears, Iago's Wine, Lapati Wines.
+
+** Lebanon                                                         :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: lebanon
+:END:
+
+Ancient wine culture; modern industry from 19th century. *Bekaa Valley*:
+high altitude (900--1,100m), Mediterranean continental climate, limestone
+soils. French and Rhone varieties dominate: Cabernet Sauvignon, Cinsault,
+Carignan, Syrah, Mourvedre [fn:sevenfifty-lebanon].
+
+Chateau Musar (est. 1930): iconic; Cabernet Sauvignon, Carignan, Cinsault
+blend aged 7+ years before release. Other: Chateau Kefraya, Chateau Ksara,
+Domaine des Tourelles.
+
+** England                                                         :L2:L3:
+:PROPERTIES:
+:CUSTOM_ID: england
+:END:
+
+Cool-climate sparkling wine revolution. Chalk soils in *Sussex* and
+*Hampshire* share geology with Champagne. Traditional method from
+Chardonnay, Pinot Noir, Pinot Meunier [fn:english-sparkling-wiki]:
+
+- *Sussex PDO*: first English regional PDO (sparkling and still)
+- Still wines from Bacchus (Sauvignon Blanc-like aromatic white)
+
+Notable: Nyetimber (pioneered 1988), Ridgeview, Gusbourne, Wiston,
+Chapel Down (Kent), Hambledon (Hampshire).
+
+** Canada                                                               :L2:
+
+*** Ontario (Niagara Peninsula)
+
+Cool continental; lake-moderated. Riesling, Chardonnay, Pinot Noir,
+Cabernet Franc. World's largest producer of *Icewine* (/Eiswein/).
+VQA (Vintners Quality Alliance) classification.
+Notable: Inniskillin, Tawse, Hidden Bench.
+
+*** British Columbia (Okanagan Valley)
+
+Semi-arid, lake-moderated; diverse microclimates. Pinot Noir, Merlot,
+Syrah, Riesling. Emerging quality.
+
+** China                                                                :L2:
+
+Rapidly expanding; now an OIV member. Key regions: Ningxia (arid, continental;
+Bordeaux varieties); Xinjiang; Yunnan (high altitude). Quality improving
+significantly. Notable: Ao Yun (LVMH), Silver Heights, Grace Vineyard.
+
+* Source Citations
+:PROPERTIES:
+:CUSTOM_ID: sources
+:END:
+
+[fn:winefolly-aoc] Wine Folly. "AOC Wine: Decoding French Wine Classifications." https://winefolly.com/deep-dive/what-is-aoc-wine/
+
+[fn:cellartours-fr] Cellar Tours. "A Journey Through France's Prestigious Wine Designations." https://www.cellartours.com/blog/france/french-wine-classifications
+
+[fn:decanter-bordeaux] Decanter. "Left and Right Bank Bordeaux: What is the difference?" https://www.decanter.com/learn/left-right-bank-bordeaux-difference-436548/
+
+[fn:winespectator-1855] Wine Spectator. "The 1855 Bordeaux Classification: The Grands Crus Classes." https://www.winespectator.com/articles/the-1855-bordeaux-classification-3491
+
+[fn:winefolly-burgundy] Wine Folly. "A Simple Guide to Burgundy Wine (with Maps)." https://winefolly.com/deep-dive/guide-to-burgundy-wine-with-maps/
+
+[fn:sommtv-burgundy] SOMM TV Magazine. "Ultimate Guide to the Burgundy Wine Classification System." https://mag.sommtv.com/2022/01/burgundy-wine-classification-system/
+
+[fn:winesearcher-chablis] Wine-Searcher. "Chablis Wine Region." https://www.wine-searcher.com/regions-chablis
+
+[fn:champagne-wiki] Wikipedia. "Champagne wine region." https://en.wikipedia.org/wiki/Champagne_wine_region
+
+[fn:winesociety-champagne] The Wine Society. "The Ultimate Guide To Champagne." https://www.thewinesociety.com/discover/explore/regional-guides/champagne-ultimate-guide
+
+[fn:rhone-wiki] Wikipedia. "Rhone wine." https://en.wikipedia.org/wiki/Rh%C3%B4ne_wine
+
+[fn:loire-wiki] Wikipedia. "Loire Valley (wine)." https://en.wikipedia.org/wiki/Loire_Valley_(wine)
+
+[fn:alsace-wiki] Wikipedia. "Alsace wine." https://en.wikipedia.org/wiki/Alsace_wine
+
+[fn:winesociety-alsace] The Wine Society. "The Ultimate Guide To Alsace Wine." https://www.thewinesociety.com/discover/explore/regional-guides/alsace-ultimate-guide/
+
+[fn:languedoc-wiki] Wikipedia. "Languedoc-Roussillon wine." https://en.wikipedia.org/wiki/Languedoc-Roussillon_wine
+
+[fn:masterclass-italy] MasterClass. "What Is DOC and DOCG Wine?" https://www.masterclass.com/articles/what-is-doc-and-docg-wine-differences-between-doc-docg-igt-and-vdt-on-italian-wine-labels
+
+[fn:decanter-italy] Decanter. "Italian wine labels explained: Understanding DOCG, DOC & IGT." https://www.decanter.com/learn/italian-wine-labels-understanding-docg-doc-igt-439719/
+
+[fn:decanter-barolo] Decanter. "Barolo vs Barbaresco vs Brunello: What's the difference?" https://www.decanter.com/learn/barolo-vs-brunello-vs-barbaresco-whats-the-difference-436528/
+
+[fn:winescholarguild-spain] Wine Scholar Guild. "The Wine Quality System of Spain." https://www.winescholarguild.com/blog/the-quality-wine-system-of-spain
+
+[fn:winetraveler-spain] Winetraveler. "Spanish Wine Labels: DO vs. DOCa & DOQ Classifications." https://www.winetraveler.com/spain/spanish-wine-do-doca-doq-labels-classifications/
+
+[fn:priorat-classification] Priorat Wines. "The new Priorat classification." https://prioratwines.nl/en/stories/the-new-priorat-classification
+
+[fn:rioja-wiki] Wikipedia. "Rioja DOCa." https://en.wikipedia.org/wiki/Rioja_DOCa
+
+[fn:winefolly-portugal] Wine Folly. "The Wines of Portugal (Organized by Region)." https://winefolly.com/deep-dive/what-wines-to-drink-from-portugal-by-region/
+
+[fn:vdp-classification] VDP. "VDP Classification." https://www.vdp.de/en/the-wines/classification
+
+[fn:wset-riesling] WSET Global. "Decoding German Riesling: a guide to quality and styles." https://www.wsetglobal.com/knowledge-centre/blog/2025/decoding-german-riesling-a-guide-to-quality-and-styles/
+
+[fn:vineawachau] Vinea Wachau. "The three wine styles Steinfeder, Federspiel and Smaragd." https://www.vinea-wachau.at/en/translate-to-englisch-vinea-wachau/vinea-wine-styles
+
+[fn:winesearcher-austria] Wine-Searcher. "Austrian Wine Classifications & Label Terminology." https://www.wine-searcher.com/wine-label-austria
+
+[fn:winefolly-newworld] Wine Folly. "Old World vs New World Wines." (Regional pages.) https://winefolly.com/wine-regions/
+
+[fn:oregon-wiki] Wikipedia. "Willamette Valley (wine)." https://www.wine-searcher.com/regions-willamette+valley
+
+[fn:centralotago-wiki] Wikipedia. "Central Otago wine region." https://en.wikipedia.org/wiki/Central_Otago_wine_region
+
+[fn:winesofchile] Wines of Chile. "Wine Regions Map." https://www.winesofchile.org/wine-regions-map/
+
+[fn:winefolly-argentina] Wine Folly. "Argentina Wine Region." https://winefolly.com/wine-regions/argentina/
+
+[fn:winefolly-sa] Wine Folly. "South African Wine (with Maps)." https://winefolly.com/deep-dive/south-african-wine-map/
+
+[fn:winefolly-greece] Wine Folly. "The Wine Regions of Greece (Maps)." https://winefolly.com/deep-dive/the-wine-regions-of-greece-map/
+
+[fn:wset-georgia] WSET Global. "Exploring Georgian wine: history, grape varieties, styles and amber wine." https://www.wsetglobal.com/knowledge-centre/blog/2023/july/05/exploring-georgian-wine-history-grape-varieties-styles-and-amber-wine/
+
+[fn:sevenfifty-lebanon] SevenFifty Daily. "Exploring the World of Lebanese Wine -- Beyond Chateau Musar." https://daily.sevenfifty.com/exploring-the-world-of-lebanese-wine-beyond-chateau-musar/
+
+[fn:english-sparkling-wiki] Wikipedia. "English sparkling wine." https://en.wikipedia.org/wiki/English_sparkling_wine

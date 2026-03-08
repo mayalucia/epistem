@@ -1,0 +1,858 @@
+#+title: WSET Wine Education Survey -- Part E
+#+subtitle: Business, Classification, Contemporary Issues, and History
+#+author: mu2tau + mayadev (epistem-guardian)
+#+date: 2026-03-08
+#+property: status research-draft
+#+startup: overview
+#+options: toc:3 num:t
+
+#+begin_quote
+Epistemic notice: This document was composed from web research
+(March 2026) drawing on OIV reports, trade council data, EU regulatory
+sources, peer-reviewed climate studies, and established wine education
+references. Each section is tagged with the WSET level at which the
+material becomes examinable. URLs are provided inline. Claims are
+current as of early 2026; market figures shift annually.
+#+end_quote
+
+* 1 Wine Business [L3/L4]
+:PROPERTIES:
+:WSET_LEVEL: L3, L4
+:END:
+
+** 1.1 Global Wine Production
+
+Global wine production in 2024 was estimated at 225.8 million hectolitres
+(mhl), a 4.8% decline from 2023 and the *lowest level since 1961*.
+The OIV forecast for 2025 is 228--235 mhl, a modest recovery.
+
+Top producers (2024, mhl):
+
+| Country       | 2024 (mhl) | YoY change |
+|---------------+------------+------------|
+| Italy         |       44.1 | +15%       |
+| France        |       ~37  | -23%       |
+| Spain         |       ~33  | +9.3%      |
+| United States |       23.6 | -3%        |
+
+- Italy maintained global leadership; France recorded its lowest
+  output since 1957.
+- The EU collectively recorded 138.3 mhl, its lowest volume since the
+  early 2000s.
+- Southern Hemisphere: 45.8 mhl, down 3.6%.
+
+Sources:
+- [[https://www.oiv.int/sites/default/files/2025-04/OIV-State_of_the_World_Vine-and-Wine-Sector-in-2024.pdf][OIV State of the World Vine and Wine Sector 2024]]
+- [[https://www.hillebrandgori.com/media/publication/global-wine-production-in-2024][Hillebrand Gori: Global Wine Production 2024]]
+- [[https://www.visualcapitalist.com/ranked-wine-production-by-country/][Visual Capitalist: Wine Production by Country]]
+
+** 1.2 Global Wine Consumption [L3/L4]
+
+Wine consumption has been declining globally, driven by health
+consciousness, demographic shifts (younger consumers drinking less),
+and economic pressures. Consumer preferences continue shifting toward:
+
+- White and sparkling wines
+- Low- and no-alcohol wines
+- Premium segments ("trading up" while buying fewer bottles)
+
+The US, UK, and Germany remain the three largest import markets,
+collectively accounting for 38.3% of global imported volume and
+37.2% of value.
+
+Source: [[https://wine-intelligence.com/blogs/wine-analytics-pricing-report-data/global-wine-trade-in-2024-low-volumes-high-prices-and-shifting-dynamics-vinovistara-wine-intelligence-oiv][Wine Intelligence: Global Wine Trade 2024]]
+
+** 1.3 Wine Trade: Imports and Exports [L3/L4]
+
+Total global wine export value in 2024: ~35.9 billion EUR (down 0.3%
+from 2023). Volume rose 0.8%; value fell 0.5% -- trade remained
+remarkably stable despite declining production and consumption.
+
+*** Top Exporters (2024)
+
+- *Italy*: largest exporter by volume (21.7 mhl, +3.2%); export value
+  8.1 billion EUR (+5.6%).
+- *France*: largest exporter by value (11.7 billion EUR, -2.4% YoY).
+- *Spain*: third by volume.
+- Fastest-growing exporters: Australia (+29.6%), Chile (+6.2%), Italy
+  (+4.8%), South Africa (+4.5%).
+- France, Italy, Spain, Australia, and Chile collectively account for
+  72% of global exports by dollar value.
+
+*** Top Import Markets
+
+Germany, UK, and USA remain dominant. The US showed tentative recovery
+in 2024, partly driven by anticipatory stockpiling ahead of feared
+tariff renewals.
+
+Bulk wine exports rose 3.3% in volume and 9.8% in value -- a notable
+bright spot.
+
+Sources:
+- [[https://tradecouncil.org/2024-2025-wine-import-report/][International Trade Council: 2024-2025 Wine Import Report]]
+- [[https://www.worldstopexports.com/wine-exports-country/][World's Top Exports: Wine Exports by Country 2024]]
+- [[https://oaj.fupress.net/index.php/wep/article/view/17914][Wine Economics and Policy: State of International Wine Markets 2024]]
+
+** 1.4 Retail Channels: On-Trade vs Off-Trade [L3/L4]
+
+- *Off-trade* (retail, supermarkets, online): 76.6% of wine revenue
+  in 2024. Post-pandemic home consumption trends persist.
+- *On-trade* (restaurants, bars, hotels): higher margins per bottle
+  but lower total volume share.
+
+*** Pricing Tiers (On-Trade)
+
+The widely-taught tiered approach:
+
+| Tier          | Typical Markup |
+|---------------+----------------|
+| Entry wines   | ~3x cost       |
+| Mid-tier      | 2.2--2.5x      |
+| Prestige      | ~1.8x          |
+
+Approximately 10--12% of on-trade selling price is allocated to
+service labour, glass breakage, and cellar holding costs.
+
+*** Pricing Factors
+
+A bottle price is additive: vineyard costs + winery production +
+packaging + overhead + compliance + freight + channel margins.
+
+Key influences:
+- Internal: production costs, taxes, rent, salaries, shipping
+- External: location, global events (tariffs, pandemics), demand
+- The sub-$10 category is shrinking sharply; many US retailers report
+  double-digit declines under $8
+
+Sources:
+- [[https://www.winedeals.com/blog/post/wine-pricing-explained][Wine Deals: How Wine Pricing Works]]
+- [[https://www.grandviewresearch.com/industry-analysis/us-wine-market][Grand View Research: US Wine Market]]
+
+** 1.5 Wine Investment and En Primeur [L4]
+
+*** En Primeur System
+
+En primeur ("wine futures") is Bordeaux's annual campaign where
+buyers purchase grand cru classe wines while still in barrel,
+typically 18--24 months before bottling and delivery.
+
+Mechanics:
+1. Harvest occurs (e.g. autumn 2024)
+2. Spring campaign (April-June 2025): critics taste barrel samples
+3. Chateaux release tranches at set prices
+4. Buyers pay upfront (wine cost only; tax, shipping, storage added later)
+5. Delivery 18--24 months after purchase
+
+*** 2024 Bordeaux Campaign
+
+- Launched against a cautious market backdrop
+- 20--30% price cuts across leading properties to stimulate demand
+- Chateau Lafite Rothschild released at ~30% below prior vintage price
+- 2024 was the wettest Bordeaux year since 1992, one of the lowest
+  yields in a decade
+- Quality: comfortably above 2013, not a blockbuster like 2010 or 2016
+- Context: US tariff fears, Chinese economic slowdown, two-year fine
+  wine price correction
+
+Sources:
+- [[https://www.wineinvestment.com/learn/magazine/2025/04/bordeaux-en-primeur-2024-vintage-a-detailed-analysis/][Cult Wines: Bordeaux En Primeur 2024 Analysis]]
+- [[https://theluxuryplaybook.com/how-to-invest-in-wine-futures-en-primeur/][The Luxury Playbook: How to Invest in Wine Futures]]
+- [[https://www.decanter.com/premium/wine-investment-taking-the-pulse-of-bordeaux-2024-en-primeur-559897/][Decanter: Wine Investment and Bordeaux 2024]]
+
+* 2 Classification Systems Compared [L2/L3/L4]
+:PROPERTIES:
+:WSET_LEVEL: L2, L3, L4
+:END:
+
+** 2.1 EU Overarching Framework: PDO and PGI [L2/L3]
+
+The EU geographical indications system provides the umbrella under
+which all member-state classifications operate.
+
+| Designation | Meaning                           | Grape Origin Requirement |
+|-------------+-----------------------------------+--------------------------|
+| PDO         | Protected Designation of Origin   | 100% from the area       |
+| PGI         | Protected Geographical Indication | >= 85% from the area     |
+
+*** 2024 Labelling Regulations
+
+New EU labelling rules apply to all wines from the 2024 harvest onward:
+- Mandatory nutritional information (energy value, ingredients list)
+- Ingredient list can be provided via electronic means (e.g. QR code)
+- Wines produced before 8 December 2023 are exempt until stocks
+  are exhausted
+
+The unified regulation (approved February 2024) covers wines, spirits,
+and agricultural products with geographical indications in a single text.
+
+Sources:
+- [[https://agriculture.ec.europa.eu/media/news/new-rules-wine-labelling-enter-application-2023-12-07_en][EU: New Rules for Wine Labelling]]
+- [[https://grapely.io/complete-guide-eu-wine-labeling-rules-compliance-2024/][Grapely: Complete Guide to EU Wine Labeling 2024]]
+- [[https://www.wine-searcher.com/wine-label-eu][Wine Searcher: EU Wine Classifications]]
+
+** 2.2 France: AOC/AOP [L2/L3]
+
+The Appellation d'Origine Controlee (AOC) system, created in the
+1930s-1950s, is the archetype for quality wine classification worldwide.
+
+French wine hierarchy (ascending quality):
+
+| Level                  | EU Equivalent | Notes                                      |
+|------------------------+---------------+---------------------------------------------|
+| Vin de France          | --            | Table wine, no geographic restriction       |
+| IGP (Indication        | PGI           | Larger regional areas (e.g. Pays d'Oc)      |
+| Geographique Protegee) |               |                                             |
+| AOC / AOP              | PDO           | Strict rules: varieties, yields, methods,   |
+|                        |               | geographic boundaries                       |
+
+AOC wines must use authorised grape varieties grown in designated
+areas; must be vinified, packaged, and marketed per appellation rules.
+
+Source: [[https://winefolly.com/deep-dive/what-is-aoc-wine/][Wine Folly: AOC Wine Explained]]
+
+** 2.3 Italy: DOCG/DOC/IGT [L2/L3]
+
+Italian classification, created in the 1960s modelled on the French
+system, with a four-tier hierarchy:
+
+| Level | Full Name                              | Notes                                    |
+|-------+----------------------------------------+------------------------------------------|
+| DOCG  | Denominazione di Origine Controllata   | Highest tier (since 1980); tasting panel  |
+|       | e Garantita                            | required; numbered government seal        |
+| DOC   | Denominazione di Origine Controllata   | 329 DOCs; variety, yield, aging rules     |
+| IGT   | Indicazione Geografica Tipica          | Broader regions; more flexibility         |
+| VdT   | Vino da Tavola                         | Basic table wine                          |
+
+The DOCG category was created in 1980 to address criticism that too
+many DOCs existed with variable quality. Each DOCG wine must pass a
+quality tasting panel.
+
+Note: the "Super Tuscan" phenomenon emerged because innovative
+producers used non-traditional varieties (Cabernet Sauvignon, Merlot)
+that did not qualify for DOC/DOCG, so wines were classified as IGT or
+even VdT despite commanding premium prices.
+
+Sources:
+- [[https://www.masterclass.com/articles/what-is-doc-and-docg-wine-differences-between-doc-docg-igt-and-vdt-on-italian-wine-labels][MasterClass: DOC and DOCG Wine Explained]]
+- [[https://bonnerprivatewines.com/the-wine-explorers-letter/doc-docg-igt-vdt/][Bonner Private Wines: Italian Wine Classification Guide]]
+
+** 2.4 Spain: DO/DOCa [L3]
+
+| Level          | Notes                                              |
+|----------------+----------------------------------------------------|
+| DOCa / DOQ     | Highest (only Rioja and Priorat currently qualify)  |
+| DO             | Denominacion de Origen; equivalent to French AOC    |
+| Vino de Pago   | Single-estate wines with recognised terroir         |
+| VT             | Vino de la Tierra (country wine; = PGI)             |
+| Vino de Mesa   | Table wine                                          |
+
+Spain also uses aging classifications within DO wines:
+- *Joven*: young, little or no oak
+- *Crianza*: min 2 years aging (6+ months oak for reds)
+- *Reserva*: min 3 years (12+ months oak for reds)
+- *Gran Reserva*: min 5 years (18+ months oak for reds)
+
+Source: [[https://winefolly.com/deep-dive/looking-for-good-wine-start-with-the-appellation/][Wine Folly: Wine Appellations of the US, France, Italy, and Spain]]
+
+** 2.5 Germany: Pradikat System [L3/L4]
+
+Germany's classification is uniquely based on *grape ripeness at
+harvest* rather than vineyard hierarchy.
+
+Two main categories:
+- *Qualitatswein* (quality wine): from a specified region (Anbaugebiet)
+- *Pradikatswein* (quality wine with distinction): six ascending levels
+
+*** The Six Pradikat Levels (ascending ripeness)
+
+| Level                | Description                                             |
+|----------------------+---------------------------------------------------------|
+| Kabinett             | Fully ripe grapes, normal harvest; light, often low-alc |
+| Spatlese             | Late harvest; riper, more concentrated                  |
+| Auslese              | Selectively harvested; medium-sweet to sweet            |
+| Beerenauslese (BA)   | Individually selected overripe berries; often botrytis  |
+| Eiswein              | Grapes frozen on vine, pressed frozen; intensely sweet  |
+| Trockenbeerenauslese | Individually selected dried botrytised grapes; rarest,  |
+| (TBA)                | most concentrated, extraordinary longevity              |
+
+Note: "trocken" (dry) and "halbtrocken" (off-dry) on the label
+indicate residual sugar level independent of the Pradikat.
+
+The VDP (Verband Deutscher Pradikatsweinguter) overlays a Burgundian
+vineyard-based hierarchy: Gutswein, Ortswein, Erste Lage, Grosse Lage
+-- but this is a private classification, not legally mandated.
+
+Sources:
+- [[https://bestofwines.com/blog/classification-of-german-wine-pradikatsweine/][Best of Wines: Classification of German Wine]]
+- [[https://mag.sommtv.com/2023/03/vdp-wine-classification-system/][SOMM TV: Understanding the VDP Classification]]
+- [[https://germanwineusa.com/basics/classifications/][German Wines USA: Classifications]]
+
+** 2.6 New World Labelling [L2/L3]
+
+New World countries (US, Australia, Chile, Argentina, South Africa,
+New Zealand) favour *varietal labelling* over geographic/appellation
+naming.
+
+*** Key Rules
+
+| Country    | Varietal minimum | Vintage minimum | Region/GI source |
+|------------+------------------+-----------------+------------------|
+| USA (TTB)  | 75%              | 95%             | AVA system       |
+| Oregon     | 90% (except Cab) | 95%             | AVA system       |
+| Australia  | 85%              | 85%             | GI system        |
+| EU (export)| 85%              | 85%             | PDO/PGI          |
+
+- AVA (American Viticultural Area): designates geographic boundaries
+  but does *not* regulate varieties, yields, or winemaking practices
+  (unlike European appellations)
+- Australian GI: similar to AVA -- boundary-only, no production rules
+
+The fundamental Old World / New World divide:
+- *Old World* labels emphasise place (Burgundy, Barolo, Rioja)
+- *New World* labels emphasise grape (Cabernet Sauvignon, Shiraz)
+
+Source: [[https://en.wikipedia.org/wiki/Wine_law][Wikipedia: Wine Law]]
+
+* 3 Contemporary Issues [L3/L4]
+:PROPERTIES:
+:WSET_LEVEL: L3, L4
+:END:
+
+** 3.1 Climate Change and Viticulture [L3/L4]
+
+Climate change is the single largest challenge facing the wine
+industry. Its effects are measurable, accelerating, and region-specific.
+
+*** Observable Impacts
+
+- *Earlier harvests*: most vineyards harvest 2--3 weeks earlier than
+  40 years ago. Bordeaux and Burgundy document harvests occurring up
+  to two weeks earlier than a few decades ago.
+- *Rising alcohol*: accelerated ripening raises sugar content, lowers
+  acidity. Languedoc data show a clear trend toward increased potential
+  alcohol in grapes.
+- *Shifting wine map*: England now has 800+ vineyards producing
+  quality sparkling and still wines. Denmark, Canada's British
+  Columbia, and Patagonia are emerging regions.
+- *Regional extinction risk*: up to 90% of traditional wine regions
+  in lowland coastal areas of Greece, Italy, Southern California, and
+  Spain could disappear by end of century if warming exceeds 2C.
+
+*** Adaptation Strategies
+
+- Planting heat-tolerant varieties (e.g. Touriga Nacional in Bordeaux)
+- Higher-altitude and cooler-facing vineyard sites
+- Canopy management to reduce sun exposure
+- Night harvesting to preserve acidity
+- Drought-resistant rootstocks
+
+Sources:
+- [[https://www.nature.com/articles/s43017-024-00521-5][Nature Reviews Earth & Environment: Climate Change Impacts on Wine Production]]
+- [[https://eos.org/articles/climate-change-threatens-70-of-winemaking-regions][Eos: Climate Change Threatens 70% of Winemaking Regions]]
+- [[https://www.internationalwinechallenge.com/Canopy-Articles/weathering-the-storm-how-climate-change-is-reshaping-the-wine-industry-in-2025.html][IWC: Climate Change Reshaping Wine Industry 2025]]
+
+** 3.2 Water Scarcity [L3/L4]
+
+Water is becoming the critical constraint for viticulture in many
+traditional regions.
+
+- Spain experienced one of its smallest harvests in decades due to
+  multi-year drought; water scarcity is an existential threat to
+  Spanish viticulture
+- France recorded lowest harvest since 1957 (heatwaves + drought +
+  storms)
+- Moldova: grape harvests declined ~35% in 2024 vs prior years
+- California: ongoing investment in irrigation infrastructure,
+  drought-resistant varieties, and water recycling
+
+Modern responses: soil moisture sensors, underground drip irrigation,
+precision weather stations, regulated deficit irrigation (RDI) to
+deliberately stress vines for quality concentration.
+
+Sources:
+- [[https://smartwatermagazine.com/blogs/graham-mann/wine-industry-water-crisis][Smart Water Magazine: Wine Industry and the Water Crisis]]
+- [[https://grapeandwinemag.com/2025/05/23/vineyards-confront-drought-and-rising-heat-with-smarter-farming-solutions/][Grape and Wine Magazine: Vineyards Confront Drought]]
+
+** 3.3 Sustainability: Organic, Biodynamic, Natural [L3/L4]
+
+*** Market Scale
+
+The global organic wine market: USD 11.87 billion in 2024, projected
+to reach USD 21.48 billion by 2030 (CAGR 10.4%).
+
+*** Definitions
+
+- *Organic*: no synthetic pesticides or fertilisers in the vineyard;
+  limited additives in the cellar (EU organic wine regulation since 2012)
+- *Biodynamic*: organic + following Rudolf Steiner's agricultural
+  calendar and preparations (horn manure, quartz, compost preps);
+  certified by Demeter
+- *Natural wine*: no official legal definition; broadly means organic
+  or biodynamic grapes, wild/indigenous yeasts, minimal or no
+  sulphur additions, no fining or filtration
+- *Regenerative viticulture*: focus on rebuilding soil health,
+  increasing biodiversity, carbon sequestration
+
+*** Trends
+
+- ~22% of French vineyards are certified organic or in conversion
+  (up from 6% in 2010)
+- ~60% of millennial and Gen Z consumers willing to pay more for
+  eco-friendly wine
+- Asia-Pacific organic wine market growing at 12.5% CAGR
+- Sustainable packaging (canned wine, lighter bottles, bag-in-box)
+  gaining traction
+
+Sources:
+- [[https://www.grandviewresearch.com/industry-analysis/organic-wine-market-report][Grand View Research: Organic Wine Market]]
+- [[https://tastewise.io/blog/organic-wine-trends][Tastewise: Organic Wine Trends 2025]]
+- [[https://www.vinerra.com/blog/wine-business-management-natural-and-organic-wines-an-overview-of-consumer-trends][Vinerra: Natural and Organic Wines Consumer Trends]]
+
+** 3.4 Technology in Winemaking [L4]
+
+*** Precision Viticulture
+
+The global precision viticulture market: $3.24 billion in 2024,
+projected $9.51 billion by 2032 (CAGR 14.4%).
+
+Key technologies:
+- *Drones and satellite imaging*: NDVI (normalised difference
+  vegetation index) canopy mapping; vine detection via YOLO deep
+  learning algorithms achieving ~90% accuracy
+- *GPS-guided steering systems*: 39% market share in 2024
+- *Soil and weather sensors*: real-time moisture, temperature,
+  humidity monitoring
+- *AI-driven analytics*: predictive models for disease, harvest
+  timing, irrigation scheduling
+
+*** Industry Adoption (2025-2026)
+
+- E. & J. Gallo Winery: AI-driven robotics-assisted monitoring
+  (January 2026)
+- Deere & Company: $35M investment in automated vineyard management
+  (November 2025)
+- Japan: pilot projects using drones and AI weather prediction for
+  harvest timing
+
+Sources:
+- [[https://www.wsetglobal.com/knowledge-centre/blog/2025/drones-robots-and-how-vineyard-technology-is-getting-smarter/][WSET: Drones, Robots, and Vineyard Technology]]
+- [[https://www.mdpi.com/2076-3417/14/22/10277][MDPI: Smart Viniculture -- AI for Winemaking]]
+- [[https://www.vinetur.com/en/amp/2026011694951/us-precision-viticulture-market-set-to-hit-$285-billion-by-2032-amid-surge-in-smart-farming.html][Vinetur: US Precision Viticulture Market]]
+
+** 3.5 Diversity and Inclusion [L4]
+
+The wine industry has historically lacked diversity at leadership levels.
+
+Key data points:
+- Black Americans: 12% of alcohol consumers but 7.8% of industry
+  workforce and only 2% of executive leadership
+- Post-2020 initiatives: BIPOC-led wine clubs, mentorship programmes,
+  scholarship funds
+- Grassroots efforts are increasingly effective, though top-down
+  corporate DEI programmes have lost momentum in some markets
+- Companies with greater diversity report higher revenue on average
+  vs industry peers
+
+Challenges remain around inclusivity messaging, attracting younger
+and more diverse consumer demographics, and representation in
+winemaking, ownership, and criticism.
+
+Sources:
+- [[https://vinepair.com/articles/diversity-inclusion-american-winemaking/][VinePair: Diversity and Inclusion in American Winemaking]]
+- [[https://www.washingtonpost.com/food/2024/02/15/wine-diversity-black-wineries-dei/][Washington Post: Wine Industry's Diversity Efforts]]
+- [[https://www.wineenthusiast.com/culture/industry-news/diversity-equity-inclusivity-wine/][Wine Enthusiast: DEI in Wine]]
+
+** 3.6 Tariffs, Trade Policy, and Geopolitics [L3/L4]
+
+Trade policy has become a major determinant of wine market dynamics.
+
+*** US-EU Tariff History
+
+- *2019--2021*: US imposed 25% tariffs on still wines from France,
+  Germany, Spain, and the UK (under Section 301, Airbus-Boeing
+  dispute). Sparkling wines and wines from Italy, Portugal exempted.
+  Impact: French wine exports to the US fell 50%+ in value over the
+  tariff period.
+- *March 2021*: Tariffs suspended for five years under Biden
+  administration.
+- *2025--2026*: Tariff uncertainty renewed under second Trump
+  administration. Reciprocal tariff proposals of 10--20% on EU goods
+  announced, with wine specifically named. European producers
+  stockpiling in US warehouses in anticipation.
+
+*** China Tariffs
+
+- *2020--2024*: China imposed 175--218% combined anti-dumping and
+  countervailing duties on Australian wine (political retaliation
+  linked to COVID-19 inquiry). Australian wine exports to China
+  collapsed from ~AUD 1.3 billion (2019) to near zero.
+- *March 2024*: Duties lifted. Australian exports recovering but the
+  supply chain disruption forced permanent market diversification.
+- Broader China context: Chinese wine consumption declining (~5% CAGR
+  negative since 2017); domestic production shrinking; young Chinese
+  consumers shifting toward spirits and beer.
+
+*** Impact on Industry Structure
+
+- Tariff uncertainty drives short-term behaviour: stockpiling,
+  price adjustments, market diversion
+- Long-term: producers diversify export markets to reduce single-
+  market dependence
+- Bulk wine trade partially sheltered (tariffs often applied to
+  bottled wine, not bulk)
+- Small producers disproportionately affected — cannot absorb tariff
+  costs or pivot markets quickly
+
+Sources:
+- [[https://www.decanter.com/wine-news/us-wine-tariffs-what-you-need-to-know-527382/][Decanter: US Wine Tariffs Explained]]
+- [[https://www.wine-searcher.com/m/2024/03/china-lifts-tariffs-on-australian-wine][Wine-Searcher: China Lifts Australian Wine Tariffs]]
+- [[https://vinepair.com/articles/wine-tariffs-explained/][VinePair: Wine Tariffs Explained]]
+
+** 3.7 Direct-to-Consumer (DTC) Sales [L3/L4]
+
+DTC channels bypass the traditional three-tier distribution system
+(producer -> distributor -> retailer). DTC bypasses intermediary
+markups but requires wineries to invest in marketing, compliance,
+and fulfilment infrastructure.
+
+Trends:
+- Wine club memberships remain important for small/medium producers
+- E-commerce growth accelerated post-pandemic but has plateaued
+- Regulatory complexity: US interstate shipping laws vary by state
+- Emphasis on authenticity, sustainability, and wellness messaging
+  to drive loyalty
+
+Source: [[https://www.deloittedigital.com/us/en/insights/research/wine-industry-accelerator.html][Deloitte Digital: DTC Wine Industry Insights]]
+
+** 3.8 Wine and Health [L3/L4]
+
+A contested and evolving area with significant commercial and
+regulatory implications.
+
+*** The "French Paradox" and Resveratrol
+
+- Coined by Serge Renaud (1991): French people have lower
+  cardiovascular disease rates despite high saturated fat consumption.
+  Red wine was proposed as the protective factor.
+- Resveratrol (a polyphenol in grape skins) shown to have
+  anti-inflammatory and antioxidant properties in laboratory studies.
+- However: the doses required for therapeutic effect far exceed what
+  can be consumed through wine. The French Paradox is now attributed
+  more broadly to Mediterranean diet, healthcare system, and lifestyle
+  factors.
+
+*** Current Medical Consensus (2024--2026)
+
+- WHO (2023): "No safe level of alcohol consumption for health."
+- Global Burden of Disease Study (Lancet, 2018, updated 2022):
+  alcohol is the seventh leading risk factor for death and disability
+  worldwide. The risk curve starts at zero consumption.
+- Canadian guidance (2023): revised to recommend maximum 2 standard
+  drinks per week (down from 15 for men, 10 for women previously).
+- Ireland (2025): first country to mandate cancer warning labels on
+  all alcohol products.
+- Nuance: some epidemiological studies still show a J-curve
+  (moderate consumption slightly lower risk than abstention for
+  certain cardiovascular outcomes), but this is increasingly
+  attributed to confounding factors.
+
+*** Low- and No-Alcohol Wine
+
+- Global low/no-alcohol wine market growing at ~7% CAGR
+- Production methods: vacuum distillation, reverse osmosis, spinning
+  cone column to remove alcohol post-fermentation
+- Dealcoholised wines (< 0.5% ABV) are the fastest-growing segment
+- Quality improving rapidly but remains variable; aroma and body
+  are the main challenges
+- EU: "dealcoholised wine" labelling permitted from 2021
+
+*** Regulatory Trends
+
+- Health warning labels expanding: Ireland (cancer warning), South
+  Korea, Russia mandated warnings; EU considering harmonised labels
+- Calorie/ingredient labelling now mandatory in EU (2024 rules)
+- Some US states and Canadian provinces restricting alcohol marketing
+- "Neo-prohibitionist" sentiment in Scandinavian and Anglophone
+  markets; industry responding with premiumisation and moderation
+  messaging
+
+Sources:
+- [[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31310-2/fulltext][Lancet: Alcohol and Global Health 2018]]
+- [[https://www.who.int/news-room/fact-sheets/detail/alcohol][WHO: Alcohol Fact Sheet]]
+- [[https://www.decanter.com/wine-news/ireland-cancer-warning-labels-alcohol-504271/][Decanter: Ireland Cancer Warning Labels]]
+- [[https://www.thedrinksbusiness.com/2024/01/low-and-no-alcohol-wine-market-trends/][The Drinks Business: Low and No-Alcohol Wine Trends]]
+
+* 4 Brief History of Wine [L1/L2/L3]
+:PROPERTIES:
+:WSET_LEVEL: L1, L2, L3
+:END:
+
+** 4.1 Ancient Origins (8000 BCE -- 500 CE) [L1/L2]
+
+| Period         | Region           | Key Development                              |
+|----------------+------------------+----------------------------------------------|
+| ~8000-6000 BCE | South Caucasus   | Earliest evidence of winemaking (Georgia,     |
+|                | (Georgia, Armenia)| qvevri / clay vessel fermentation)           |
+| ~6000-5000 BCE | Mesopotamia      | Wine as cultural component of earliest         |
+|                |                  | farming communities in Tigris-Euphrates valley |
+| ~4100 BCE      | Armenia          | Areni-1: earliest known winery                |
+| ~3000-1000 BCE | Egypt            | Wine as sacred/funerary beverage; hieroglyphic |
+|                |                  | depictions; wine imported from Levant          |
+| ~1000 BCE      | Phoenicia        | Maritime trade spreads viticulture around      |
+|                |                  | Mediterranean                                 |
+| ~600 BCE       | Greece           | Cult of Dionysus; amphora trade; planting in   |
+|                |                  | southern France and Sicily                     |
+| ~200 BCE-400 CE| Rome             | Industrial-scale production and trade; spread  |
+|                |                  | to Gaul, Iberia, Rhine; Pliny documents grape  |
+|                |                  | varieties; barrel replaces amphora             |
+
+Sources:
+- [[https://en.wikipedia.org/wiki/History_of_wine][Wikipedia: History of Wine]]
+- [[https://winecellarage.com/the-history-of-winemaking-from-ancient-times-to-modern-day/][Wine Cellarage: History of Winemaking]]
+- [[https://www.winedeals.com/blog/post/ancient-wine-history][Wine Deals: Wine in Ancient Egypt, Greece, and Rome]]
+
+** 4.2 Monastic Tradition (500-1500 CE) [L2/L3]
+
+With the fall of the Roman Empire, Christian monasteries became the
+guardians of viticulture.
+
+- *Benedictines* (founded 529 CE): preserved winemaking knowledge;
+  expanded vineyards across Europe; Dom Perignon was a Benedictine monk
+  at Hautvillers (Champagne)
+- *Cistercians* (founded 1098 CE): systematically mapped terroir in
+  Burgundy; created the concept of clos (walled vineyards); identified
+  quality differences between vineyard plots that became the basis for
+  the modern cru system
+- Monasteries developed: cellars for aging, barrel technology,
+  preservation methods, detailed viticultural records
+
+The monastic contribution was not merely preservation -- it was the
+first systematic, empirical approach to understanding how site affects
+wine quality. This is the intellectual ancestor of modern terroir theory.
+
+Source: [[https://www.carneroswinecompany.com/blogs/news/where-does-wine-come-from-historically][Carneros Wine Company: Origins of Wine]]
+
+** 4.3 Phylloxera Crisis (1860s-1900s) [L2/L3]
+
+The Great French Wine Blight -- phylloxera vastatrix, a root-feeding
+aphid native to eastern North America -- was accidentally introduced
+to Europe around 1858-1862 via imported American vine specimens.
+
+Timeline:
+- *1863*: First documented attack at Pujaut (Gard, Languedoc)
+- *1878*: 915,000 acres killed, 620,000 acres dying (>25% of French
+  vineyard acreage)
+- *By 1895*: French wine production had halved
+- *The French government offered 300,000 francs* reward for a solution
+- *Solution*: grafting Vitis vinifera onto phylloxera-resistant
+  American rootstock (Vitis rupestris, V. riparia, V. berlandieri)
+
+The crisis:
+- Devastated virtually all European wine regions
+- Drove thousands of vignerons to emigrate (many to Algeria, Argentina,
+  Chile)
+- Permanently changed global viticulture: nearly all commercial
+  vinifera vines today grow on American rootstock
+- A few regions remain ungrafted (parts of Chile, some sandy soils in
+  southern France, old vines in Australia)
+
+Sources:
+- [[https://www.wsetglobal.com/knowledge-centre/blog/2023/february/09/what-is-phylloxera-and-why-was-it-so-significant/][WSET: What is Phylloxera?]]
+- [[https://en.wikipedia.org/wiki/Great_French_Wine_Blight][Wikipedia: Great French Wine Blight]]
+- [[https://daily.sevenfifty.com/measuring-phylloxeras-impact-on-the-world-of-wine/][SevenFifty Daily: Measuring Phylloxera's Impact]]
+
+** 4.4 The Judgment of Paris (1976) [L2/L3]
+
+On 24 May 1976, English wine merchant Steven Spurrier organised a
+blind tasting in Paris comparing top California wines against
+prestigious French counterparts, intended to celebrate the American
+Bicentennial.
+
+*** Results
+
+- *White*: 1973 Chateau Montelena Chardonnay (Napa) topped the
+  white Burgundies
+- *Red*: 1973 Stag's Leap Wine Cellars S.L.V. Cabernet Sauvignon
+  (Napa) topped the Bordeaux reds
+
+The judges were among the most respected French tasters. The result
+shattered the assumption that fine wine could only come from Europe
+and catalysed the global expansion of quality winemaking.
+
+French response: "The California wines won't age." Subsequent
+re-tastings over 30 years largely confirmed the California wines'
+quality.
+
+Source: [[https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)][Wikipedia: Judgment of Paris (Wine)]]
+
+** 4.5 Globalisation of Wine (1980s-present) [L3]
+
+Post-Judgment of Paris, wine production globalised rapidly:
+
+- *1980s-1990s*: "flying winemakers" (Australian, French oenologists
+  consulting worldwide); New World production surges
+- *Chile, Argentina, South Africa, New Zealand* establish export
+  industries
+- *China* emerges as both producer and consumer (now ~5th largest
+  vineyard area globally)
+- *Technology transfer*: temperature-controlled fermentation,
+  stainless steel, modern oak programs spread globally
+- *Terroir debate*: New World initially emphasised fruit and
+  winemaker style; increasing adoption of terroir-driven approaches
+
+** 4.6 Rise of Wine Criticism [L3/L4]
+
+*** Robert Parker and the 100-Point System
+
+Robert Parker launched /The Wine Advocate/ in 1978. His 100-point
+scoring system (modelled on US high school grades, range 50-100) was
+designed to counter what he saw as conflicted, obscure wine criticism.
+
+Impact:
+- Democratised wine evaluation -- any consumer could understand a
+  numerical score
+- Accused of homogenising wine style ("Parkerisation"): rewarding
+  big, ripe, oaky wines
+- Centralised unprecedented power in a single critic
+- The scale was widely imitated (Wine Spectator, Wine Enthusiast, etc.)
+
+*** Other Major Critics and Publications
+
+- *Jancis Robinson MW*: British critic; uses a 20-point scale;
+  emphasises that numerical scores are inherently problematic given
+  tasting subjectivity; author of /The Oxford Companion to Wine/
+- *James Suckling*: formerly Wine Spectator; now independent;
+  100-point scale; strong Italian wine focus
+- *Wine Spectator*: major US publication; 100-point scale; panel tasting
+- *Decanter*: UK-based; Decanter World Wine Awards
+- *Neal Martin, Antonio Galloni, Lisa Perrotti-Brown MW*: subsequent
+  generation of critics via Vinous and The Wine Advocate
+
+The era of single-critic dominance is fading. Crowdsourced platforms
+(Vivino, CellarTracker), sommelier influence, and diverse media
+voices are fragmenting critical authority.
+
+Sources:
+- [[https://winehistorytours.com/the-robert-parker-wine-rating-system/][Wine History Tours: Robert Parker Wine Rating System]]
+- [[https://en.wikipedia.org/wiki/Robert_Parker_(wine_critic)][Wikipedia: Robert Parker (Wine Critic)]]
+- [[https://vinepair.com/articles/wine-101-points-system/][VinePair: Wine 101 -- The Points System]]
+
+* 5 Wine Education and Qualifications [L1/L2/L3/L4]
+:PROPERTIES:
+:WSET_LEVEL: L1, L2, L3, L4
+:END:
+
+** 5.1 WSET (Wine & Spirit Education Trust) [L1/L2/L3/L4]
+
+Founded in 1969, London-based. The world's largest provider of wine
+and spirits education.
+
+| Level | Name                        | Focus                                       | Duration       |
+|-------+-----------------------------+---------------------------------------------+----------------|
+| 1     | Award in Wines              | Introduction: main types and styles          | 1 day          |
+| 2     | Award in Wines              | Grape varieties, regions, tasting technique  | 3-5 days       |
+| 3     | Award in Wines              | Detailed: factors of quality, style, price;  | ~5 days + study|
+|       |                             | major world regions in depth                 |                |
+| 4     | Diploma in Wines            | Near-professional: 6 units covering wines,   | 18 months to   |
+|       |                             | spirits, fortified, sparkling, business      | 3 years        |
+
+Level 4 Diploma is the stepping stone to the Master of Wine programme.
+It consists of six units including a research assignment.
+
+WSET also offers separate qualifications in spirits and sake.
+
+** 5.2 Court of Master Sommeliers (CMS) [L3/L4]
+
+Founded in 1977, UK-based (now with Americas and European chapters).
+Oriented toward restaurant service and hospitality.
+
+| Level        | Exam Components                        | Pass Rate     |
+|--------------+----------------------------------------+---------------|
+| Introductory | Theory only                            | ~85%          |
+| Certified    | Theory, tasting, service               | ~50-60%       |
+| Advanced     | Theory, tasting (6 wines), service     | ~30%          |
+| Master       | Theory, tasting (6 wines), service     | ~5-8%         |
+| Sommelier    |                                        |               |
+
+Fewer than 300 people have ever earned the Master Sommelier title.
+
+The CMS includes a *practical service component* at every level above
+introductory -- candidates must demonstrate tableside manner, bottle
+service, decanting, and wine list management.
+
+** 5.3 Master of Wine (MW) [L4]
+
+The Institute of Masters of Wine was founded in 1955 in London.
+
+- Requires WSET Diploma (or equivalent) as a prerequisite
+- Programme typically takes 3-5 years
+- Three stages: Stage 1 (theory + tasting), Stage 2 (dissertation)
+- As of 2025, approximately 420 MWs exist worldwide
+- MW is considered the most prestigious academic wine qualification
+- MWs tend toward careers in writing, consulting, education, trade,
+  and production -- not typically restaurant service
+
+** 5.4 CMS vs WSET: Key Comparison [L3/L4]
+
+| Dimension          | WSET                            | CMS                            |
+|--------------------+---------------------------------+--------------------------------|
+| Orientation        | Academic / trade / education    | Restaurant service / hospitality|
+| Study mode         | Extensive class time            | Largely independent study       |
+| Service component  | None                            | Central (from Certified onward) |
+| Tasting method     | WSET Systematic Approach (SAT)  | CMS deductive method            |
+| Career path        | Trade, education, buying, MW    | Sommelier, restaurant, hotels   |
+| Global reach       | 75+ countries, 700+ providers   | Primarily US, UK, Europe        |
+| Highest credential | Leads to MW programme           | Master Sommelier                |
+
+*** Which to Choose?
+
+- Restaurant / hospitality career: CMS
+- Trade, buying, education, journalism: WSET -> MW
+- General wine knowledge: WSET (more structured curriculum)
+- Both are respected; they are complementary, not competing
+
+** 5.5 Other Wine Education Programmes [L3/L4]
+
+- *Wine Scholar Guild*: deep-dive programmes by country (French Wine
+  Scholar, Italian Wine Scholar, Spanish Wine Scholar)
+- *Society of Wine Educators (SWE)*: Certified Specialist of Wine (CSW),
+  Certified Specialist of Spirits (CSS) -- US-focused
+- *University programmes*: UC Davis (viticulture and enology), University
+  of Adelaide, Universite de Bordeaux, Geisenheim University
+- *National programmes*: Weinakademiker (Austria/Germany), Cape Wine
+  Academy (South Africa)
+
+Sources:
+- [[https://www.hudin.com/cms-wset-master-sommelier-master-of-wine/][Hudin: Differences of CMS, WSET, Master Sommelier, and MW]]
+- [[https://workinwine.com/resources/cms-vs-wset][Work in Wine: CMS vs WSET]]
+- [[https://www.brainscape.com/academy/wset-vs-cms/][Brainscape: WSET vs CMS Sommelier Levels]]
+- [[https://www.cellarmuse.com/post/wine-certifications-comparisons-how-do-they-stack-up-and-which-path-is-right-for-you][Cellar Muse: Wine Certification Comparisons]]
+
+* Source Index
+
+Full list of web sources consulted (March 2026):
+
+1. [[https://www.oiv.int/sites/default/files/2025-04/OIV-State_of_the_World_Vine-and-Wine-Sector-in-2024.pdf][OIV: State of the World Vine and Wine Sector 2024]]
+2. [[https://www.hillebrandgori.com/media/publication/global-wine-production-in-2024][Hillebrand Gori: Global Wine Production 2024]]
+3. [[https://tradecouncil.org/2024-2025-wine-import-report/][International Trade Council: 2024-2025 Wine Import Report]]
+4. [[https://wine-intelligence.com/blogs/wine-analytics-pricing-report-data/global-wine-trade-in-2024-low-volumes-high-prices-and-shifting-dynamics-vinovistara-wine-intelligence-oiv][Wine Intelligence: Global Wine Trade 2024]]
+5. [[https://www.nature.com/articles/s43017-024-00521-5][Nature Reviews: Climate Change Impacts on Wine Production]]
+6. [[https://eos.org/articles/climate-change-threatens-70-of-winemaking-regions][Eos: Climate Change Threatens 70% of Winemaking Regions]]
+7. [[https://agriculture.ec.europa.eu/media/news/new-rules-wine-labelling-enter-application-2023-12-07_en][EU: New Wine Labelling Rules]]
+8. [[https://www.grandviewresearch.com/industry-analysis/organic-wine-market-report][Grand View Research: Organic Wine Market]]
+9. [[https://www.wsetglobal.com/knowledge-centre/blog/2025/drones-robots-and-how-vineyard-technology-is-getting-smarter/][WSET: Drones, Robots, and Vineyard Technology]]
+10. [[https://www.wsetglobal.com/knowledge-centre/blog/2023/february/09/what-is-phylloxera-and-why-was-it-so-significant/][WSET: What is Phylloxera?]]
+11. [[https://en.wikipedia.org/wiki/Judgment_of_Paris_(wine)][Wikipedia: Judgment of Paris]]
+12. [[https://winehistorytours.com/the-robert-parker-wine-rating-system/][Wine History Tours: Robert Parker Wine Rating System]]
+13. [[https://www.hudin.com/cms-wset-master-sommelier-master-of-wine/][Hudin: CMS, WSET, Master Sommelier, and MW Compared]]
+14. [[https://www.wineinvestment.com/learn/magazine/2025/04/bordeaux-en-primeur-2024-vintage-a-detailed-analysis/][Cult Wines: Bordeaux En Primeur 2024]]
+15. [[https://www.visualcapitalist.com/ranked-wine-production-by-country/][Visual Capitalist: Wine Production by Country]]
+16. [[https://vinepair.com/articles/diversity-inclusion-american-winemaking/][VinePair: Diversity and Inclusion in Wine]]
+17. [[https://smartwatermagazine.com/blogs/graham-mann/wine-industry-water-crisis][Smart Water Magazine: Wine and Water Crisis]]
+18. [[https://www.decanter.com/wine-news/us-wine-tariffs-what-you-need-to-know-527382/][Decanter: US Wine Tariffs Explained]]
+19. [[https://www.wine-searcher.com/m/2024/03/china-lifts-tariffs-on-australian-wine][Wine-Searcher: China Lifts Australian Wine Tariffs]]
+20. [[https://vinepair.com/articles/wine-tariffs-explained/][VinePair: Wine Tariffs Explained]]
+21. [[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31310-2/fulltext][Lancet: Alcohol and Global Health 2018]]
+22. [[https://www.who.int/news-room/fact-sheets/detail/alcohol][WHO: Alcohol Fact Sheet]]
+23. [[https://www.decanter.com/wine-news/ireland-cancer-warning-labels-alcohol-504271/][Decanter: Ireland Cancer Warning Labels]]
+24. [[https://www.thedrinksbusiness.com/2024/01/low-and-no-alcohol-wine-market-trends/][The Drinks Business: Low and No-Alcohol Wine Trends]]

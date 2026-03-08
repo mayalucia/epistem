@@ -1,0 +1,56 @@
+#+title: Wine Education Survey: Grape to Glass
+#+subtitle: Comprehensive reference for WSET curriculum (Levels 1--4)
+#+author: epistem-guardian (mu2tau + mayadev)
+#+date: 2026-03-08
+#+property: wp WP-0026
+#+property: status draft
+#+property: version v2
+#+startup: overview
+#+options: toc:3 num:t
+
+* Scope and Method
+
+This survey provides comprehensive reference material for wine education,
+structured around the Wine & Spirit Education Trust (WSET) curriculum
+from Level 1 through Level 4 (Diploma). It covers grape varieties and
+vine biology, winemaking processes, world wine regions, tasting
+methodology and food pairing, and the business, classification, and
+history of wine.
+
+Method: web-accessible sources --- WSET official materials, wine education
+platforms, trade publications, academic references, and industry databases.
+Sources cited with URLs throughout. Each section is tagged with the WSET
+level at which the material becomes examinable.
+
+** Structure
+
+| Part | Title                                 | File                                            |
+|------+---------------------------------------+-------------------------------------------------|
+| A    | Grape Varieties and Vine Biology      | =WS-0001-part-a-grape-varieties-vine-biology.org= |
+| B    | Winemaking: From Grape to Glass       | =WS-0002-part-b-winemaking.org=                  |
+| C    | Wine Regions of the World             | =WS-0003-part-c-wine-regions.org=                |
+| D    | Tasting, Food Pairing, and Wine Faults| =WS-0004-part-d-tasting-pairing-faults.org=      |
+| E    | Business, Classification, and History | =WS-0005-part-e-business-classification-history.org= |
+
+Each part is self-contained with its own sources section. The per-part
+files live in =surveys/wine-wset/= and are included below.
+
+* Part A: Grape Varieties and Vine Biology
+
+#+include: "wine-wset/WS-0001-part-a-grape-varieties-vine-biology.org" :minlevel 2
+
+* Part B: Winemaking (From Grape to Glass)
+
+#+include: "wine-wset/WS-0002-part-b-winemaking.org" :minlevel 2
+
+* Part C: Wine Regions of the World
+
+#+include: "wine-wset/WS-0003-part-c-wine-regions.org" :minlevel 2
+
+* Part D: Tasting, Food Pairing, and Wine Faults
+
+#+include: "wine-wset/WS-0004-part-d-tasting-pairing-faults.org" :minlevel 2
+
+* Part E: Business, Classification, and History
+
+#+include: "wine-wset/WS-0005-part-e-business-classification-history.org" :minlevel 2
