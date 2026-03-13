@@ -1,0 +1,95 @@
+#+TITLE: Survey: Gemini Diamer Interactive (MayaPortal)
+#+AUTHOR: epistem-guardian (via gemini-cli)
+#+DATE: [2026-03-08]
+#+DESCRIPTION: A multimodal, grounded survey of the Nanga Parbat / Diamer region for generative use in a WebGPU-rendered interactive portal.
+
+* 1. Tectonic & Geological Mechanics: The Nanga Parbat Aneurysm
+  :PROPERTIES:
+  :SURVEY_METHOD: Grounded Verification (google_web_search)
+  :END:
+
+The Nanga Parbat massif is not merely a mountain rising; it is a geological "aneurysm"—an open wound in the Earth's crust where deep, hot rock surges upward at astonishing rates (up to 13 mm/year). This process is driven by a powerful positive feedback loop, making it ideal for simulation in a dynamic game engine.
+
+*** Simulatable Geodynamics
+    :PROPERTIES:
+    :SIMULATION_HINT: Model as a vertex displacement system driven by a persistent erosion modifier.
+    :END:
+    
+    - *Active Agent: The Indus River.* The river is the primary driver. It's not a passive feature but an active erosional tool.
+      - /Game Logic:/ A persistent "cutting beam" or "corrosion effect" that targets the crustal plate along the river's path, reducing its =structural_integrity= parameter over time.
+    
+    - *Reaction: Viscous Upwelling.* As the crust thins and weakens, the immense pressure from the Indian plate forces hot, low-viscosity metamorphic rock upward.
+      - /Game Logic:/ A "terrain uplift" function. The magnitude of the uplift vector at any point is inversely proportional to the =structural_integrity= of the crust above it. This creates a focused, violent upwelling rather than a slow, broad dome.
+    
+    - *State Change: Exhumation & Phase Transition.* The rapidly rising rock undergoes a phase change as it depressurizes, revealing some of the youngest granites on Earth.
+      - /Game Logic:/ When terrain vertices reach a certain altitude threshold, their material properties change. The "rock" texture could be replaced with a "glowing_metamorphic_rock" texture, emitting a low light, signifying its heat and youth. This represents the mountain's core being exposed.
+
+* 2. Topographical Level Design: A Vertical World
+  :PROPERTIES:
+  :SURVEY_METHOD: Latent Earth Engine / Spatial Intuition
+  :END:
+
+The Diamer region is a study in verticality, defined by the extreme relief between the Indus River and the summit of Nanga Parbat. This creates a natural, multi-layered "game level" with distinct biomes, choke points, and sightlines.
+
+*** Structural Constraints & Biomes
+    :PROPERTIES:
+    :RENDER_HINT: Use multi-layered texture maps based on altitude. Emphasize vertical fog and atmospheric scattering.
+    :END:
+
+    1. *The Indus Gorge (Choke Point):* Below 1500m. A deep, narrow canyon with sheer rock walls.
+       - /Environment:/ Arid, scorching hot. The river is a brown, sediment-heavy torrent. The rock texture is sharp, fractured, and predominantly grey/brown.
+       - /Gameplay:/ A natural barrier. Crossing is impossible except at specific bridge points. The steep walls create natural "corridors" that channel movement.
+
+    2. *The Ablation Zone (Transition Biome):* Between 3000m and 5000m. A chaotic landscape of glacial moraines, alpine meadows, and scrubland.
+       - /Environment:/ A mix of life and decay. Bare rock is interspersed with vibrant green meadows and low, hardy birch trees. The sound of melting ice and rockfall is constant. Glacial tongues of dirty, debris-covered ice are a key feature.
+       - /Gameplay:/ Difficult terrain. Movement is slowed by scree slopes. Offers cover and ambush opportunities. This is the last zone with significant vegetation.
+
+    3. *The Rupal Face (The Great Wall):* Above 4500m on the south side. A single, monolithic wall of rock and ice, the largest mountain face on Earth.
+       - /Environment:/ Pure verticality. A near-90-degree plane of dark rock, hanging glaciers, and cascading icefalls. The sky is a deep, dark blue-black. The dominant texture is rime-ice over dark, gneissic rock.
+       - /Gameplay:/ An impassable barrier for most forms of travel. It's a "skybox" feature that dominates the view from anywhere in the southern valleys. Traversal would require specialized "climbing" mechanics.
+
+*** Points of Interest (POI)
+    :PROPERTIES:
+    :POI_TYPE: Interactive, Lore
+    :END:
+
+    - *Name:* Thalpan Petroglyphs
+    - *Coordinates (Approx):* 35.39° N, 74.58° E (West bank of the Indus)
+    - /Visuals:/ Hundreds of boulders covered in carvings. The rock is dark, coated in desert varnish, and the carvings are a lighter, exposed tan color. They depict ibex, hunters, Buddhist stupas, and Bactrian scripts.
+    - /Interaction:/ A player approaching these rocks could trigger a "lore" or "memory" event. The carvings could glow faintly, and whispers in an ancient language could be heard, telling stories of past migrations, hunts, and religious passages along the Silk Road.
+
+* 3. Acoustic Signatures: The Sound of Trance and Ice
+  :PROPERTIES:
+  :SURVEY_METHOD: Latent Audio Synthesis
+  :END:
+
+The soundscape is as extreme as the landscape, ranging from the intense, driving rhythms of shamanic ritual to the deep, ambient groans of the mountain itself.
+
+*** Shina Shamanic Music (Dadang, Daamal, Surnai)
+    :PROPERTIES:
+    :AUDIO_HINT: Use layered tracks. A deep, resonant drum for the base, a reedy, hypnotic melody, and metallic, percussive accents.
+    :END:
+
+    - *Dadang (Drum):*
+      - /Rhythm:/ A deep, powerful, and relentless heartbeat. It's a driving 4/4 rhythm, but with a heavy, resonant boom that feels like it's coming from the chest cavity. The sound is not sharp, but a deep, vibrating "thump" from a large-headed frame drum.
+      - /Timbre:/ Low-frequency, organic. Made of stretched animal hide. It provides the foundational trance state.
+    
+    - *Daamal (Kettledrum/Cymbals):*
+      - /Rhythm:/ Sharp, metallic, and syncopated accents over the Dadang's beat. Often played with small sticks on a brass bowl or with small finger cymbals. It's a "clanging" or "ringing" sound that cuts through the low drum frequency.
+      - /Timbre:/ High-frequency, piercing, metallic. It's the sound of excitement and spirit-calling.
+
+    - *Surnai (Oboe/Reed Pipe):*
+      - /Melody:/ A hypnotic, reedy, and often dissonant melody that circles around a few core notes. The sound is nasal and piercing, with a continuous, droning quality achieved through circular breathing.
+      - /Timbre:/ Mid-to-high frequency, reedy, woodwind. The melody is what guides the shaman's journey. It's a "wailing" or "keening" sound that is both mournful and ecstatic.
+
+*** Ambient Environmental Audio
+    :PROPERTIES:
+    :AUDIO_HINT: Use procedural audio based on player altitude and proximity to glaciers.
+    :END:
+    
+    - *Glacial Calving:*
+      - /Signature:/ Not a single crack, but a complex series of sounds. It begins with a high-frequency, sharp "crack" like a rifle shot, followed by a deep, resonant "groan" as a massive piece of ice shifts. The event culminates in a thunderous "crash" and "rumble" as the ice falls and shatters, echoing for miles.
+    
+    - *High-Altitude Wind:*
+      - /Signature:/ Above the tree line, the wind is a constant, high-pitched, and "thin" sound. It's not a gusty "whoosh" but a steady, high-frequency "hiss" or "whistle" as it blows over bare rock and ice. It conveys a sense of desolation and extreme cold.
+
