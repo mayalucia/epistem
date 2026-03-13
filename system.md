@@ -66,7 +66,7 @@ The companion module is `modules/aikosh` — the toolsmith's workshop that
 builds and validates the collections housed here.
 
 **Sūtra relay**: The organisational relay is `github.com/mayalucia/sutra`.
-Clone locally to `.sutra/` (gitignored) if absent. Use the relay-read
+Clone locally to `.sutra/` (gitignored) if absent. Use the relay-protocol
 skill to fetch and filter messages. The local HEAD in `.sutra/` is your
 read cursor.
 
