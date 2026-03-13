@@ -11,3 +11,6 @@ __pycache__/
 *.swp
 *~
 .agent-shell/
+
+# Lab — local computational artefacts (regenerable from code)
+.lab/
